@@ -52522,6 +52522,2608 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 129",
+                        "name": "Elements Of Art",
+                        "credits": "",
+                        "desc": "The language of visual expression, including composition, color, and their practical application. Not open to seniors; open to juniors only by permission of the instructor.",
+                        "department": "Art And Art History",
+                        "catalog": "Bucknell University 2005-2006"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 212",
+                        "name": "Basic Photography",
+                        "credits": "",
+                        "desc": "An introduction to the theory, practice, and criticism of fine art photography.",
+                        "department": "Art",
+                        "catalog": "Bucknell University 2003-2004"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FOUN 098",
+                        "name": "Foundation Seminar",
+                        "credits": "1",
+                        "desc": "A small writing-intensive first-year seminar. Also see RESC 098.",
+                        "department": "Foundation Seminar",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 201",
+                        "name": "Calculus I",
+                        "credits": "1",
+                        "desc": "An introduction to the calculus of algebraic, trigonometric and transcendental functions. Interpretation, significance and calculations of derivatives. Applications to geometry, biology, physics, economics, and other subjects. Introduction to the integral, including the Fundamental Theorem of Calculus and substitution. Not open to students who have MATH 192 credit.",
+                        "department": "Mathematics",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 202",
+                        "name": "Calculus II",
+                        "credits": "1",
+                        "desc": "Methods of integration including integration by parts, numerical approximations, and improper integrals. Sequences and series, including Taylor series. Polar coordinates, parametric functions, differential equations, and applications.",
+                        "department": "Mathematics",
+                        "catalog": "Bucknell University 2022-2023"
+                    },
+                    {
+                        "id": "MATH 211",
+                        "name": "Calculus III",
+                        "credits": "1",
+                        "desc": "Calculus of vector-valued functions and functions of several variables. Multiple, line, and surface integrals; applications, and extrema. Green's, Stokes' and Divergence Theorems.",
+                        "department": "Mathematics",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 212",
+                        "name": "Differential Equations",
+                        "credits": "1",
+                        "desc": "Basic methods of solving ordinary differential equations. Systems of linear differential equations, Laplace transform, applications and selected topics. Not open to students who have taken MATH 222.",
+                        "department": "Mathematics",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUSC 260",
+                        "name": "Ensemble",
+                        "credits": ".25",
+                        "desc": "Non music majors may receive 1/4 credit per ensemble (maximum of 1/2 credit per semester, limit of two full-course credits in all). Music majors audit ensembles. Audition or permission of the instructor required for first-time members. 01-Symphonic Band, 02-Orchestra, 03-University Choir, 04-Camerata, 05-Voice Lab, 06-Handbells, 07-Jazz Band, 08-Gamelan. Repeatable.",
+                        "department": "Music",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2300",
+                        "name": "Rensselaer Orchestra",
+                        "note": "--",
+                        "desc": "Readings, rehearsals, and performances of works from the standard repertoire for orchestra from the Baroque through the 20th century. Credit Hours: 1 (course can be repeated multiple times for credit)",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 100",
+                        "name": "Introduction To Philosophy",
+                        "credits": "1",
+                        "desc": "An introduction to the main topics, fields and figures of philosophy. Multiple sections of this course are offered every semester, under a variety of titles. Repeatable.",
+                        "department": "Philosophy",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 103",
+                        "name": "Logic",
+                        "credits": "1",
+                        "desc": "Logic is the study of good reasoning. This course introduces methods for identifying and evaluating arguments and considers social/psychological barriers to good reasoning. Students will also be introduced to formal (symbolic) approaches to logic.",
+                        "department": "Philosophy",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2140",
+                        "name": "Introduction To Logic",
+                        "note": "--",
+                        "desc": "Introduction to first-order logic as a tool to be used in engineering, computer science, philosophy, etc., and as procedural knowledge helpful in puzzlesolving environments (e.g., standardized tests). A hands-on laboratory component is included.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 221",
+                        "name": "Classical Mechanics",
+                        "credits": "1",
+                        "desc": "Newtonian mechanics including conservation laws, rotational dynamics, forced damped harmonic motion, and coupled oscillations.",
+                        "department": "Physics",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 100",
+                        "name": "Introduction To Psychology",
+                        "credits": "1",
+                        "desc": "A survey of concepts, principles, and theories of an empirical science of cognition, affect, and behavior and its application.",
+                        "department": "Psychology",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bucks County Community College": {
+        "city": "Newtown",
+        "state": "PA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 101",
+                        "name": "Biological Science I",
+                        "credits": "4",
+                        "desc": "This course is an introduction to processes common to all living organisms. Science and the scientific method are described. Topics include: cell structure, energy transfer in plants and animals, classical genetics, molecular genetics, genetic engineering, and evolution. This course does not meet the curriculum requirements for biology majors. Department Name: Department of Science, Technology, Engineering & Mathematics: Biology. Course Category: BIOL. Additional Information: Additional Fee \u2013 see www.bucks.edu/fees.",
+                        "department": "Biology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 121",
+                        "name": "Chemistry I",
+                        "credits": "4",
+                        "desc": "Science and engineering majors take this lecture and laboratory course to study fundamental theories and principles of chemistry. Topics include stoichiometry, atomic/ molecular structure, bonding, states of matter, changes of state, and solutions. A quantitative study of each area is stressed; a strong background in chemistry and mathematics is required. Additional Information: Additional Fee - see www.bucks.edu/fees. Department Name: Department of Science, Technology, Engineering & Mathematics: Chemistry. Course Category: CHEM.",
+                        "department": "Chemistry",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 122",
+                        "name": "Chemistry II",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course is a continuation of CHEM121. Topics include molecular shape, chemical reactions, properties of liquids and solids and changes of state, solutions, reaction kinetics, chemical equilibrium, thermodynamics, and electrochemistry. Equilibrium topics include gaseous reactions, the ionization of weak acids and bases, hydrolysis of salts, and buffers. Additional Information: Additional Fee - see www.bucks.edu/fees. Department Name: Department of Science, Technology, Engineering & Mathematics: Chemistry. Course Category: CHEM.",
+                        "department": "Chemistry",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 115",
+                        "name": "Computer Science I",
+                        "credits": "4",
+                        "desc": "This is a first course for computer science students providing an introduction to the use and impact of computers, numbering systems, data representations, the fundamentals of structured programming, and problem solving through the use of logic design tools. Students develop programs using an object-oriented programming language. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    },
+                    {
+                        "id": "CISC 122",
+                        "name": "Computer Science II",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Computer Science I and emphasis is placed on structured and object-oriented programming techniques. Topics include file I/O, lists, stacks, recursion, sorting, searching, strings, and their application in problem solving. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 135",
+                        "name": "Programming For Mobile Devices",
+                        "credits": "3",
+                        "desc": "This course is an overview of developing mobile apps for a variety of platforms. Students utilize an SDK and development tools and build applications for distribution via an app store. Students choose one platform for more in-depth study culminating in a final project. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 213",
+                        "name": "Computer Science III (java)",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Computer Science II. This course will apply objectoriented and software engineering techniques to the design and implementation of programs that manipulate complex data structures. Topics include recursion, stacks, queues, linked lists, hash tables, and trees. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 215",
+                        "name": "Database Design And Application Development",
+                        "credits": "3",
+                        "desc": "This course provides students with a foundation of knowledge needed to work with database management systems and to create applications utilizing current development strategies. Students examine various types of database techniques with emphasis on relational designs. Students design and implement solutions to business-related problems. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMG110",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "This course is designed to help students build confidence in preparing and delivering informative and persuasive speeches. Topics include subject selection, audience analysis, research, organization, and the use of voice and body in speech delivery. It is strongly recommended that incoming students registering for this course have a Writing Placement Test score of 6 and a Reading Placement Test score of no less than 3.",
+                        "department": "Communication: General",
+                        "catalog": "Bucks County Community College 2006-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 110",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "This course helps students build confidence in preparing and delivering informative and persuasive speeches. Topics include subject selection, audience analysis, research, organization, and use of voice and body in speech delivery. Department Name: Department of Arts and Communication: Communication Studies. Course Category: COMM.",
+                        "department": "Communication Studies",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 111",
+                        "name": "Media & Society",
+                        "credits": "3",
+                        "desc": "Students examine the relationships between technology, industries, content, and users active in modern media. All students, particularly those who specialize in communication, multimedia, and journalism, build skills in media analysis, research, and writing through this collegel evel course. Department Name: Department of Arts and Communication: Communication Studies. Course Category: COMM.",
+                        "department": "Communication Studies",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1560",
+                        "name": "Media And Society",
+                        "note": "--",
+                        "desc": "A survey of the historical origins and cultural impact of several mass media, including television, film, radio, the Internet, and print media. The course aims to increase media literacy through analysis of specific media products as well as discussion of broad topics such as: advertising and commercialization; politics and censorship; gender, race, and social identity.",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP 110",
+                        "name": "English Composition I",
+                        "credits": "3",
+                        "desc": "English Composition I emphasizes the systematic study of writing effective expository prose and argumentation, stressing development and support of a clear thesis. The focus of the course is to lay the foundation for future academic writing requirements, including the ability to analyze, synthesize, evaluate, summarize, paraphrase, and cite textual sources from required course readings. Department Name: Department of Language & Literature: Composition. Course Category: COMP.",
+                        "department": "Composition",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP 111",
+                        "name": "English Composition II",
+                        "credits": "3",
+                        "desc": "In this continuation of English Composition I, students write several analytical essays assigned in conjunction with classroom study of a range of readings, including literature and critical analysis, that may center around a course theme. After sequenced instruction in research techniques, students write an argumentative and scholarly research paper. Department Name: Department of Language & Literature: Composition. Course Category: COMP.",
+                        "department": "Composition",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 111",
+                        "name": "Principles Of Economics: Macro",
+                        "credits": "3",
+                        "desc": "An introduction to the basic principles of economics, with emphasis upon macroeconomic theory and analysis. Among topics considered are the scope and nature of economics, ideology and structure of the American economy, national income and employment theory, business fluctuations, money and banking, fiscal and monetary policies, and economic growth. Department Name: Department of Social & Behavioral Science: Economics. Course Category: ECON.",
+                        "department": "Economics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 151",
+                        "name": "U.s. History: Young America",
+                        "credits": "3",
+                        "desc": "This course explores U.S. history from European colonization until the end of the Civil War. Students critically examine the social, cultural, economic, and political dynamics of America's agrarian age. Department Name: Department of Social & Behavioral Science: History. Course Category: HIST.",
+                        "department": "History",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INTG285",
+                        "name": "Integration Of Knowledge",
+                        "credits": "3",
+                        "desc": "This writing-intensive, team-taught course examines themes from the perspectives of multiple disciplines (scientific, cultural and societal). Students analyze the past, assess the present, and plan for the future with regard to a theme. Through individual and collaborative activities students analyze perspectives and synthesize positions informed by the different disciplines.These courses share the following characteristics: \u00bb\u00bbThey are theme based. (A theme is a topic that provides an organizing framework for the course). \u00bb\u00bbThey include, but are not limited to, cultural, societal, and scientific perspectives. \u00bb\u00bbThey are writing intensive. \u00bb\u00bbThey require students to work together and study in groups. \u00bb\u00bbThey examine the implications of the theme by analyzing the past, assessing the present, and planning for the future. Prerequisites include successful completion of 30 credits and a writing level II course (C or better). Note: Hybrid classes are credit classes that replace some on-campus classroom sessions with online components. All INTG courses (face-to-face, hybrid, and eLearning) use Canvas.Summer I 12-week (May 23 to August 11, 2016); Summer/Fall 2016.",
+                        "department": "Integration Of Knowledge",
+                        "catalog": "Bucks County Community College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-115",
+                        "name": "Elementary Statistics",
+                        "credits": "3",
+                        "desc": "This course is primarily for business, science, liberal arts, and education majors. Topics studied include descriptive measures for empirical data, theory of probability, probability distributions, sampling distributions of statistics from large and small samples, estimation theory, hypothesis testing, correlation, and regression. Department Name: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "MGMT 2100 (3cr)",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 115H",
+                        "name": "Elementary Statistics \u2013 Honors Section",
+                        "credits": "3",
+                        "desc": "This course is primarily for business, science, liberal arts, and education majors. Topics studied include descriptive measures for empirical data, theory of probability, probability distributions, sampling distributions of statistics from large and small samples, estimation theory, hypothesis testing, correlation, and regression. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "MGMT 2100 (3cr)",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 140",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "This is the first course in the calculus sequence for physical science, business, computer science, mathematics and engineering students. Topics include: limits, the rate of change of a function, derivatives of algebraic and trigonometric functions, applications of derivatives, integration, and applications of the definite integral. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 141",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Math 140. Topics include differentiation and integration of transcendental functions, indeterminate forms, methods of integration, improper integrals, infinite series, parametric equations, and polar coordinates. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 242",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Math 141. Topics for this course include: vectors and solid analytic geometry, surfaces, partial and directional derivatives, Lagrange multipliers, multiple integrals, cylindrical and spherical coordinates, line and surface integrals, Green's Theorem, Stokes' Theorem, and the Divergence Theorem. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2940",
+                        "name": "Readings In Mathematics",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 260",
+                        "name": "Linear Algebra",
+                        "credits": "3",
+                        "desc": "Topics for this course include: vector spaces, linear transformations, matrix algebra, change of bases, similarity, diagonalization, eigenvalues and vectors; with application to solutions of systems of linear equations, linear programming, Leontief models, Markov chains, codes, and quadratic forms. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2940",
+                        "name": "Readings In Mathematics",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 111",
+                        "name": "Ethics",
+                        "credits": "3",
+                        "desc": "A critical examination of the foundations of ethical theory; contributions of eminent philosophers of ethics are evaluated. The source material used consists of analytic studies from great religious thinkers and philosophers. Students learn to begin to formulate an intellectual basis for their own ethical behavior. Department Name: Department of Social & Behavioral Science: Philosophy. Course Category: PHIL.",
+                        "department": "Philosophy",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 125",
+                        "name": "Introduction To Philosophy",
+                        "credits": "3",
+                        "desc": "An investigation of the basic themes in philosophy from around the world. Topics include the nature of existence, knowledge, and values. Readings are drawn from both ancient and contemporary sources. Students develop the ability to apply philosophical theories to their lives. Department Name: Department of Social & Behavioral Science: Philosophy. Course Category: PHIL.",
+                        "department": "Philosophy",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1110",
+                        "name": "Introduction To Philosophy",
+                        "note": "--",
+                        "desc": "An introduction to the major areas of philosophy (ethics, theory of knowledge, philosophy of religion, etc.) and to some of the main problems treated within these fields. Selections from contemporary as well as classical authors are studied and discussed. Students are encouraged to develop a disciplined approach to intellectual problems. Emphasis varies with the instructor.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 121",
+                        "name": "Physics I",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course provides a rigorous introduction to classical physics designed specifically for engineering and science majors. Topics include: SI units, vector mathematics, kinematics, dynamics, work and energy, momentum, gravitation, rigid body dynamics, angular momentum, elastic properties of solids, fluid dynamics, vibrational dynamics, and mechanical waves. Department Name: Department of Science, Technology, Engineering & Mathematics: Physics. Course Category: PHYS. Additional Information: Additional Fee - see www.bucks.edu/fees.",
+                        "department": "Physics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 122",
+                        "name": "Physics II",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course continues a rigorous introduction to classical physics designed specifically for engineering and science majors. Topics include: electric forces and fields, potential and potential energy, capacitors, direct current and transient circuits, magnetic forces and fields, electromagnetic induction, inductors, photons, geometric and physical optics. Department Name: Department of Science, Technology, Engineering & Mathematics: Physics. Course Category: PHYS. Additional Information: Additional Fee - see www.bucks.edu/fees.",
+                        "department": "Physics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "PHYS 1200 (4cr)",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 110",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Introduction to Psychology is the scientific study of the psychological factors which influence the behavior of individual organisms, both animal and human. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 120",
+                        "name": "Human Sexuality",
+                        "credits": "3",
+                        "desc": "This course seeks to foster healthy attitudes toward sexuality by providing knowledge and having discussions about the formation of sexual attitudes and myths, the physiology of human sexual systems, psychological aspects of sex roles, love and human sexuality, sexual minorities, and the legal aspects of sexuality. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 200",
+                        "name": "Social Psychology",
+                        "credits": "3",
+                        "desc": "This course emphasizes those findings and theories of psychology, which aid in the understanding of socially significant behavior. Areas of psychology are emphasized to the extent that they contribute to an understanding of human behavior on a social level. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2730",
+                        "name": "Motivation And Performance",
+                        "note": "--",
+                        "desc": "This course encompasses a broad spectrum of theories concerned with the biological, psychological, and social components of motivation. Throughout the course, students relate theoretical issues to both recent research evidence and potential practical applications to enhance performance. Group projects, focus group discussions, and interactive guest speakers are used to establish links between theory and performance.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 215",
+                        "name": "Introductory Psychological Statistics",
+                        "credits": "4",
+                        "desc": "This course includes exercises within the following areas: scales, graphic representations, central tendency and variability, probability, the normal distribution, standard scores, correlation, hypothesis testing, basic nonparametric techniques, analysis of variance, and basic experimental design. This course includes a two-hour weekly computer lab. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2310",
+                        "name": "Research Methods And Statistics I",
+                        "note": "--",
+                        "desc": "This course, the first in a two-course sequence, provides an introduction to basic methods of behavioral and social science research, including experimental, quasi-experimental, and non-experimental research designs, psychometric considerations (e.g., reliability, validity, control, importance, levels of measurement), approaches to data collection and analysis, and communication of results. Students will demonstrate their understanding of the topics covered by writing a detailed research proposal formatted according to American Psychological Association (APA) guidelines. Students will also gain experience in using a selection of parametric (e.g., correlation, simple and multiple regression, ANOVA) and non-parametric (e.g., Chi-square, Mann- Whitney U, Wilcoxon T, Kruskal-Wallis, Friedman\u2019s ANOVA) statistical procedures. Data analysis will be carried out using R, an open-source programming language for statistical calculation and graphics, and R-Studio, an open-source integrated development environment for R.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 230",
+                        "name": "Neuroscience Of Psychology",
+                        "credits": "3",
+                        "desc": "This course focuses on biological contributions to behavior. Instruction encompasses teachings regarding introduction to the structure and function of the nervous systems, as well as psychological topics, including, but not limited to, emotions, stress, sleep, substance use and abuse, learning, memory, and psychological disorders. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 270",
+                        "name": "Experimental Psychology",
+                        "credits": "4",
+                        "desc": "This course introduces the student to the basic principles of experimental design through a description of experimental investigations in various subject areas such as perception, learning, memory, and social psychology. It also focuses on the skill of scientific report writing and includes scheduled laboratory experiences. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 280",
+                        "name": "Psych Of Abnormal Behavior",
+                        "credits": "3",
+                        "desc": "This course presents a summary of the field of abnormal behavior. It analyzes current theories which attempt to explain the development of personality and the cause of mental illness. Also discussed are diagnostic and therapeutic procedures and the techniques currently used. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "VAFA 192",
+                        "name": "Art History After 1450 A.d",
+                        "credits": "3",
+                        "desc": "This survey course covers painting, sculpture, and/or architecture from the Renaissance through Impressionism. Students gain a formal understanding of Western art by major artists of the fifteenth through nineteenth centuries. They interpret selected examples of art using a variety of analytic methodologies, including cultural, religious, social, political, and/or economic context. Department Name: Department of Arts and Communication: Art History. Course Category: VAFA.",
+                        "department": "Visual Arts",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (3cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "VAFA 193",
+                        "name": "History Of Modern Art",
+                        "credits": "3",
+                        "desc": "This survey course covers painting, sculpture, and/or architecture from the late-nineteenth century up to the present. Students gain a formal understanding of major twentieth-century stylistic movements. They interpret selected examples of Modern art using a variety of analytic methodologies, including cultural, religious, social, political, and/or economic context. Department Name: Department of Arts and Communication: Art History. Course Category: VAFA.",
+                        "department": "Visual Arts",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (3cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Bucks County Community College-Lower Bucks Campus": {
+        "city": "Bristol",
+        "state": "PA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 101",
+                        "name": "Biological Science I",
+                        "credits": "4",
+                        "desc": "This course is an introduction to processes common to all living organisms. Science and the scientific method are described. Topics include: cell structure, energy transfer in plants and animals, classical genetics, molecular genetics, genetic engineering, and evolution. This course does not meet the curriculum requirements for biology majors. Department Name: Department of Science, Technology, Engineering & Mathematics: Biology. Course Category: BIOL. Additional Information: Additional Fee \u2013 see www.bucks.edu/fees.",
+                        "department": "Biology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 121",
+                        "name": "Chemistry I",
+                        "credits": "4",
+                        "desc": "Science and engineering majors take this lecture and laboratory course to study fundamental theories and principles of chemistry. Topics include stoichiometry, atomic/ molecular structure, bonding, states of matter, changes of state, and solutions. A quantitative study of each area is stressed; a strong background in chemistry and mathematics is required. Additional Information: Additional Fee - see www.bucks.edu/fees. Department Name: Department of Science, Technology, Engineering & Mathematics: Chemistry. Course Category: CHEM.",
+                        "department": "Chemistry",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 122",
+                        "name": "Chemistry II",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course is a continuation of CHEM121. Topics include molecular shape, chemical reactions, properties of liquids and solids and changes of state, solutions, reaction kinetics, chemical equilibrium, thermodynamics, and electrochemistry. Equilibrium topics include gaseous reactions, the ionization of weak acids and bases, hydrolysis of salts, and buffers. Additional Information: Additional Fee - see www.bucks.edu/fees. Department Name: Department of Science, Technology, Engineering & Mathematics: Chemistry. Course Category: CHEM.",
+                        "department": "Chemistry",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 115",
+                        "name": "Computer Science I",
+                        "credits": "4",
+                        "desc": "This is a first course for computer science students providing an introduction to the use and impact of computers, numbering systems, data representations, the fundamentals of structured programming, and problem solving through the use of logic design tools. Students develop programs using an object-oriented programming language. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    },
+                    {
+                        "id": "CISC 122",
+                        "name": "Computer Science II",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Computer Science I and emphasis is placed on structured and object-oriented programming techniques. Topics include file I/O, lists, stacks, recursion, sorting, searching, strings, and their application in problem solving. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 135",
+                        "name": "Programming For Mobile Devices",
+                        "credits": "3",
+                        "desc": "This course is an overview of developing mobile apps for a variety of platforms. Students utilize an SDK and development tools and build applications for distribution via an app store. Students choose one platform for more in-depth study culminating in a final project. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 213",
+                        "name": "Computer Science III (java)",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Computer Science II. This course will apply objectoriented and software engineering techniques to the design and implementation of programs that manipulate complex data structures. Topics include recursion, stacks, queues, linked lists, hash tables, and trees. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 215",
+                        "name": "Database Design And Application Development",
+                        "credits": "3",
+                        "desc": "This course provides students with a foundation of knowledge needed to work with database management systems and to create applications utilizing current development strategies. Students examine various types of database techniques with emphasis on relational designs. Students design and implement solutions to business-related problems. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMG110",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "This course is designed to help students build confidence in preparing and delivering informative and persuasive speeches. Topics include subject selection, audience analysis, research, organization, and the use of voice and body in speech delivery. It is strongly recommended that incoming students registering for this course have a Writing Placement Test score of 6 and a Reading Placement Test score of no less than 3.",
+                        "department": "Communication: General",
+                        "catalog": "Bucks County Community College 2006-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 110",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "This course helps students build confidence in preparing and delivering informative and persuasive speeches. Topics include subject selection, audience analysis, research, organization, and use of voice and body in speech delivery. Department Name: Department of Arts and Communication: Communication Studies. Course Category: COMM.",
+                        "department": "Communication Studies",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 111",
+                        "name": "Media & Society",
+                        "credits": "3",
+                        "desc": "Students examine the relationships between technology, industries, content, and users active in modern media. All students, particularly those who specialize in communication, multimedia, and journalism, build skills in media analysis, research, and writing through this collegel evel course. Department Name: Department of Arts and Communication: Communication Studies. Course Category: COMM.",
+                        "department": "Communication Studies",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1560",
+                        "name": "Media And Society",
+                        "note": "--",
+                        "desc": "A survey of the historical origins and cultural impact of several mass media, including television, film, radio, the Internet, and print media. The course aims to increase media literacy through analysis of specific media products as well as discussion of broad topics such as: advertising and commercialization; politics and censorship; gender, race, and social identity.",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP 110",
+                        "name": "English Composition I",
+                        "credits": "3",
+                        "desc": "English Composition I emphasizes the systematic study of writing effective expository prose and argumentation, stressing development and support of a clear thesis. The focus of the course is to lay the foundation for future academic writing requirements, including the ability to analyze, synthesize, evaluate, summarize, paraphrase, and cite textual sources from required course readings. Department Name: Department of Language & Literature: Composition. Course Category: COMP.",
+                        "department": "Composition",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP 111",
+                        "name": "English Composition II",
+                        "credits": "3",
+                        "desc": "In this continuation of English Composition I, students write several analytical essays assigned in conjunction with classroom study of a range of readings, including literature and critical analysis, that may center around a course theme. After sequenced instruction in research techniques, students write an argumentative and scholarly research paper. Department Name: Department of Language & Literature: Composition. Course Category: COMP.",
+                        "department": "Composition",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 111",
+                        "name": "Principles Of Economics: Macro",
+                        "credits": "3",
+                        "desc": "An introduction to the basic principles of economics, with emphasis upon macroeconomic theory and analysis. Among topics considered are the scope and nature of economics, ideology and structure of the American economy, national income and employment theory, business fluctuations, money and banking, fiscal and monetary policies, and economic growth. Department Name: Department of Social & Behavioral Science: Economics. Course Category: ECON.",
+                        "department": "Economics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 151",
+                        "name": "U.s. History: Young America",
+                        "credits": "3",
+                        "desc": "This course explores U.S. history from European colonization until the end of the Civil War. Students critically examine the social, cultural, economic, and political dynamics of America's agrarian age. Department Name: Department of Social & Behavioral Science: History. Course Category: HIST.",
+                        "department": "History",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INTG285",
+                        "name": "Integration Of Knowledge",
+                        "credits": "3",
+                        "desc": "This writing-intensive, team-taught course examines themes from the perspectives of multiple disciplines (scientific, cultural and societal). Students analyze the past, assess the present, and plan for the future with regard to a theme. Through individual and collaborative activities students analyze perspectives and synthesize positions informed by the different disciplines.These courses share the following characteristics: \u00bb\u00bbThey are theme based. (A theme is a topic that provides an organizing framework for the course). \u00bb\u00bbThey include, but are not limited to, cultural, societal, and scientific perspectives. \u00bb\u00bbThey are writing intensive. \u00bb\u00bbThey require students to work together and study in groups. \u00bb\u00bbThey examine the implications of the theme by analyzing the past, assessing the present, and planning for the future. Prerequisites include successful completion of 30 credits and a writing level II course (C or better). Note: Hybrid classes are credit classes that replace some on-campus classroom sessions with online components. All INTG courses (face-to-face, hybrid, and eLearning) use Canvas.Summer I 12-week (May 23 to August 11, 2016); Summer/Fall 2016.",
+                        "department": "Integration Of Knowledge",
+                        "catalog": "Bucks County Community College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-115",
+                        "name": "Elementary Statistics",
+                        "credits": "3",
+                        "desc": "This course is primarily for business, science, liberal arts, and education majors. Topics studied include descriptive measures for empirical data, theory of probability, probability distributions, sampling distributions of statistics from large and small samples, estimation theory, hypothesis testing, correlation, and regression. Department Name: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "MGMT 2100 (3cr)",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 115H",
+                        "name": "Elementary Statistics \u2013 Honors Section",
+                        "credits": "3",
+                        "desc": "This course is primarily for business, science, liberal arts, and education majors. Topics studied include descriptive measures for empirical data, theory of probability, probability distributions, sampling distributions of statistics from large and small samples, estimation theory, hypothesis testing, correlation, and regression. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "MGMT 2100 (3cr)",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 140",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "This is the first course in the calculus sequence for physical science, business, computer science, mathematics and engineering students. Topics include: limits, the rate of change of a function, derivatives of algebraic and trigonometric functions, applications of derivatives, integration, and applications of the definite integral. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 141",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Math 140. Topics include differentiation and integration of transcendental functions, indeterminate forms, methods of integration, improper integrals, infinite series, parametric equations, and polar coordinates. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 242",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Math 141. Topics for this course include: vectors and solid analytic geometry, surfaces, partial and directional derivatives, Lagrange multipliers, multiple integrals, cylindrical and spherical coordinates, line and surface integrals, Green's Theorem, Stokes' Theorem, and the Divergence Theorem. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2940",
+                        "name": "Readings In Mathematics",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 260",
+                        "name": "Linear Algebra",
+                        "credits": "3",
+                        "desc": "Topics for this course include: vector spaces, linear transformations, matrix algebra, change of bases, similarity, diagonalization, eigenvalues and vectors; with application to solutions of systems of linear equations, linear programming, Leontief models, Markov chains, codes, and quadratic forms. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2940",
+                        "name": "Readings In Mathematics",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 111",
+                        "name": "Ethics",
+                        "credits": "3",
+                        "desc": "A critical examination of the foundations of ethical theory; contributions of eminent philosophers of ethics are evaluated. The source material used consists of analytic studies from great religious thinkers and philosophers. Students learn to begin to formulate an intellectual basis for their own ethical behavior. Department Name: Department of Social & Behavioral Science: Philosophy. Course Category: PHIL.",
+                        "department": "Philosophy",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 125",
+                        "name": "Introduction To Philosophy",
+                        "credits": "3",
+                        "desc": "An investigation of the basic themes in philosophy from around the world. Topics include the nature of existence, knowledge, and values. Readings are drawn from both ancient and contemporary sources. Students develop the ability to apply philosophical theories to their lives. Department Name: Department of Social & Behavioral Science: Philosophy. Course Category: PHIL.",
+                        "department": "Philosophy",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1110",
+                        "name": "Introduction To Philosophy",
+                        "note": "--",
+                        "desc": "An introduction to the major areas of philosophy (ethics, theory of knowledge, philosophy of religion, etc.) and to some of the main problems treated within these fields. Selections from contemporary as well as classical authors are studied and discussed. Students are encouraged to develop a disciplined approach to intellectual problems. Emphasis varies with the instructor.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 121",
+                        "name": "Physics I",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course provides a rigorous introduction to classical physics designed specifically for engineering and science majors. Topics include: SI units, vector mathematics, kinematics, dynamics, work and energy, momentum, gravitation, rigid body dynamics, angular momentum, elastic properties of solids, fluid dynamics, vibrational dynamics, and mechanical waves. Department Name: Department of Science, Technology, Engineering & Mathematics: Physics. Course Category: PHYS. Additional Information: Additional Fee - see www.bucks.edu/fees.",
+                        "department": "Physics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 122",
+                        "name": "Physics II",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course continues a rigorous introduction to classical physics designed specifically for engineering and science majors. Topics include: electric forces and fields, potential and potential energy, capacitors, direct current and transient circuits, magnetic forces and fields, electromagnetic induction, inductors, photons, geometric and physical optics. Department Name: Department of Science, Technology, Engineering & Mathematics: Physics. Course Category: PHYS. Additional Information: Additional Fee - see www.bucks.edu/fees.",
+                        "department": "Physics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "PHYS 1200 (4cr)",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 110",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Introduction to Psychology is the scientific study of the psychological factors which influence the behavior of individual organisms, both animal and human. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 120",
+                        "name": "Human Sexuality",
+                        "credits": "3",
+                        "desc": "This course seeks to foster healthy attitudes toward sexuality by providing knowledge and having discussions about the formation of sexual attitudes and myths, the physiology of human sexual systems, psychological aspects of sex roles, love and human sexuality, sexual minorities, and the legal aspects of sexuality. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 200",
+                        "name": "Social Psychology",
+                        "credits": "3",
+                        "desc": "This course emphasizes those findings and theories of psychology, which aid in the understanding of socially significant behavior. Areas of psychology are emphasized to the extent that they contribute to an understanding of human behavior on a social level. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2730",
+                        "name": "Motivation And Performance",
+                        "note": "--",
+                        "desc": "This course encompasses a broad spectrum of theories concerned with the biological, psychological, and social components of motivation. Throughout the course, students relate theoretical issues to both recent research evidence and potential practical applications to enhance performance. Group projects, focus group discussions, and interactive guest speakers are used to establish links between theory and performance.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 215",
+                        "name": "Introductory Psychological Statistics",
+                        "credits": "4",
+                        "desc": "This course includes exercises within the following areas: scales, graphic representations, central tendency and variability, probability, the normal distribution, standard scores, correlation, hypothesis testing, basic nonparametric techniques, analysis of variance, and basic experimental design. This course includes a two-hour weekly computer lab. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2310",
+                        "name": "Research Methods And Statistics I",
+                        "note": "--",
+                        "desc": "This course, the first in a two-course sequence, provides an introduction to basic methods of behavioral and social science research, including experimental, quasi-experimental, and non-experimental research designs, psychometric considerations (e.g., reliability, validity, control, importance, levels of measurement), approaches to data collection and analysis, and communication of results. Students will demonstrate their understanding of the topics covered by writing a detailed research proposal formatted according to American Psychological Association (APA) guidelines. Students will also gain experience in using a selection of parametric (e.g., correlation, simple and multiple regression, ANOVA) and non-parametric (e.g., Chi-square, Mann- Whitney U, Wilcoxon T, Kruskal-Wallis, Friedman\u2019s ANOVA) statistical procedures. Data analysis will be carried out using R, an open-source programming language for statistical calculation and graphics, and R-Studio, an open-source integrated development environment for R.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 230",
+                        "name": "Neuroscience Of Psychology",
+                        "credits": "3",
+                        "desc": "This course focuses on biological contributions to behavior. Instruction encompasses teachings regarding introduction to the structure and function of the nervous systems, as well as psychological topics, including, but not limited to, emotions, stress, sleep, substance use and abuse, learning, memory, and psychological disorders. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 270",
+                        "name": "Experimental Psychology",
+                        "credits": "4",
+                        "desc": "This course introduces the student to the basic principles of experimental design through a description of experimental investigations in various subject areas such as perception, learning, memory, and social psychology. It also focuses on the skill of scientific report writing and includes scheduled laboratory experiences. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 280",
+                        "name": "Psych Of Abnormal Behavior",
+                        "credits": "3",
+                        "desc": "This course presents a summary of the field of abnormal behavior. It analyzes current theories which attempt to explain the development of personality and the cause of mental illness. Also discussed are diagnostic and therapeutic procedures and the techniques currently used. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "VAFA 192",
+                        "name": "Art History After 1450 A.d",
+                        "credits": "3",
+                        "desc": "This survey course covers painting, sculpture, and/or architecture from the Renaissance through Impressionism. Students gain a formal understanding of Western art by major artists of the fifteenth through nineteenth centuries. They interpret selected examples of art using a variety of analytic methodologies, including cultural, religious, social, political, and/or economic context. Department Name: Department of Arts and Communication: Art History. Course Category: VAFA.",
+                        "department": "Visual Arts",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (3cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "VAFA 193",
+                        "name": "History Of Modern Art",
+                        "credits": "3",
+                        "desc": "This survey course covers painting, sculpture, and/or architecture from the late-nineteenth century up to the present. Students gain a formal understanding of major twentieth-century stylistic movements. They interpret selected examples of Modern art using a variety of analytic methodologies, including cultural, religious, social, political, and/or economic context. Department Name: Department of Arts and Communication: Art History. Course Category: VAFA.",
+                        "department": "Visual Arts",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (3cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Bucks County Community College-Upper Bucks Campus": {
+        "city": "Perkasie",
+        "state": "PA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 101",
+                        "name": "Biological Science I",
+                        "credits": "4",
+                        "desc": "This course is an introduction to processes common to all living organisms. Science and the scientific method are described. Topics include: cell structure, energy transfer in plants and animals, classical genetics, molecular genetics, genetic engineering, and evolution. This course does not meet the curriculum requirements for biology majors. Department Name: Department of Science, Technology, Engineering & Mathematics: Biology. Course Category: BIOL. Additional Information: Additional Fee \u2013 see www.bucks.edu/fees.",
+                        "department": "Biology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 121",
+                        "name": "Chemistry I",
+                        "credits": "4",
+                        "desc": "Science and engineering majors take this lecture and laboratory course to study fundamental theories and principles of chemistry. Topics include stoichiometry, atomic/ molecular structure, bonding, states of matter, changes of state, and solutions. A quantitative study of each area is stressed; a strong background in chemistry and mathematics is required. Additional Information: Additional Fee - see www.bucks.edu/fees. Department Name: Department of Science, Technology, Engineering & Mathematics: Chemistry. Course Category: CHEM.",
+                        "department": "Chemistry",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 122",
+                        "name": "Chemistry II",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course is a continuation of CHEM121. Topics include molecular shape, chemical reactions, properties of liquids and solids and changes of state, solutions, reaction kinetics, chemical equilibrium, thermodynamics, and electrochemistry. Equilibrium topics include gaseous reactions, the ionization of weak acids and bases, hydrolysis of salts, and buffers. Additional Information: Additional Fee - see www.bucks.edu/fees. Department Name: Department of Science, Technology, Engineering & Mathematics: Chemistry. Course Category: CHEM.",
+                        "department": "Chemistry",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 115",
+                        "name": "Computer Science I",
+                        "credits": "4",
+                        "desc": "This is a first course for computer science students providing an introduction to the use and impact of computers, numbering systems, data representations, the fundamentals of structured programming, and problem solving through the use of logic design tools. Students develop programs using an object-oriented programming language. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    },
+                    {
+                        "id": "CISC 122",
+                        "name": "Computer Science II",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Computer Science I and emphasis is placed on structured and object-oriented programming techniques. Topics include file I/O, lists, stacks, recursion, sorting, searching, strings, and their application in problem solving. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 135",
+                        "name": "Programming For Mobile Devices",
+                        "credits": "3",
+                        "desc": "This course is an overview of developing mobile apps for a variety of platforms. Students utilize an SDK and development tools and build applications for distribution via an app store. Students choose one platform for more in-depth study culminating in a final project. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 213",
+                        "name": "Computer Science III (java)",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Computer Science II. This course will apply objectoriented and software engineering techniques to the design and implementation of programs that manipulate complex data structures. Topics include recursion, stacks, queues, linked lists, hash tables, and trees. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CISC 215",
+                        "name": "Database Design And Application Development",
+                        "credits": "3",
+                        "desc": "This course provides students with a foundation of knowledge needed to work with database management systems and to create applications utilizing current development strategies. Students examine various types of database techniques with emphasis on relational designs. Students design and implement solutions to business-related problems. Department Name: Department of Science, Technology, Engineering & Mathematics: Computer/Infor mation Science. Course Category: CISC.",
+                        "department": "Computer/Information Science",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMG110",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "This course is designed to help students build confidence in preparing and delivering informative and persuasive speeches. Topics include subject selection, audience analysis, research, organization, and the use of voice and body in speech delivery. It is strongly recommended that incoming students registering for this course have a Writing Placement Test score of 6 and a Reading Placement Test score of no less than 3.",
+                        "department": "Communication: General",
+                        "catalog": "Bucks County Community College 2006-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 110",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "This course helps students build confidence in preparing and delivering informative and persuasive speeches. Topics include subject selection, audience analysis, research, organization, and use of voice and body in speech delivery. Department Name: Department of Arts and Communication: Communication Studies. Course Category: COMM.",
+                        "department": "Communication Studies",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 111",
+                        "name": "Media & Society",
+                        "credits": "3",
+                        "desc": "Students examine the relationships between technology, industries, content, and users active in modern media. All students, particularly those who specialize in communication, multimedia, and journalism, build skills in media analysis, research, and writing through this collegel evel course. Department Name: Department of Arts and Communication: Communication Studies. Course Category: COMM.",
+                        "department": "Communication Studies",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1560",
+                        "name": "Media And Society",
+                        "note": "--",
+                        "desc": "A survey of the historical origins and cultural impact of several mass media, including television, film, radio, the Internet, and print media. The course aims to increase media literacy through analysis of specific media products as well as discussion of broad topics such as: advertising and commercialization; politics and censorship; gender, race, and social identity.",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP 110",
+                        "name": "English Composition I",
+                        "credits": "3",
+                        "desc": "English Composition I emphasizes the systematic study of writing effective expository prose and argumentation, stressing development and support of a clear thesis. The focus of the course is to lay the foundation for future academic writing requirements, including the ability to analyze, synthesize, evaluate, summarize, paraphrase, and cite textual sources from required course readings. Department Name: Department of Language & Literature: Composition. Course Category: COMP.",
+                        "department": "Composition",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP 111",
+                        "name": "English Composition II",
+                        "credits": "3",
+                        "desc": "In this continuation of English Composition I, students write several analytical essays assigned in conjunction with classroom study of a range of readings, including literature and critical analysis, that may center around a course theme. After sequenced instruction in research techniques, students write an argumentative and scholarly research paper. Department Name: Department of Language & Literature: Composition. Course Category: COMP.",
+                        "department": "Composition",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 111",
+                        "name": "Principles Of Economics: Macro",
+                        "credits": "3",
+                        "desc": "An introduction to the basic principles of economics, with emphasis upon macroeconomic theory and analysis. Among topics considered are the scope and nature of economics, ideology and structure of the American economy, national income and employment theory, business fluctuations, money and banking, fiscal and monetary policies, and economic growth. Department Name: Department of Social & Behavioral Science: Economics. Course Category: ECON.",
+                        "department": "Economics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 151",
+                        "name": "U.s. History: Young America",
+                        "credits": "3",
+                        "desc": "This course explores U.S. history from European colonization until the end of the Civil War. Students critically examine the social, cultural, economic, and political dynamics of America's agrarian age. Department Name: Department of Social & Behavioral Science: History. Course Category: HIST.",
+                        "department": "History",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INTG285",
+                        "name": "Integration Of Knowledge",
+                        "credits": "3",
+                        "desc": "This writing-intensive, team-taught course examines themes from the perspectives of multiple disciplines (scientific, cultural and societal). Students analyze the past, assess the present, and plan for the future with regard to a theme. Through individual and collaborative activities students analyze perspectives and synthesize positions informed by the different disciplines.These courses share the following characteristics: \u00bb\u00bbThey are theme based. (A theme is a topic that provides an organizing framework for the course). \u00bb\u00bbThey include, but are not limited to, cultural, societal, and scientific perspectives. \u00bb\u00bbThey are writing intensive. \u00bb\u00bbThey require students to work together and study in groups. \u00bb\u00bbThey examine the implications of the theme by analyzing the past, assessing the present, and planning for the future. Prerequisites include successful completion of 30 credits and a writing level II course (C or better). Note: Hybrid classes are credit classes that replace some on-campus classroom sessions with online components. All INTG courses (face-to-face, hybrid, and eLearning) use Canvas.Summer I 12-week (May 23 to August 11, 2016); Summer/Fall 2016.",
+                        "department": "Integration Of Knowledge",
+                        "catalog": "Bucks County Community College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-115",
+                        "name": "Elementary Statistics",
+                        "credits": "3",
+                        "desc": "This course is primarily for business, science, liberal arts, and education majors. Topics studied include descriptive measures for empirical data, theory of probability, probability distributions, sampling distributions of statistics from large and small samples, estimation theory, hypothesis testing, correlation, and regression. Department Name: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "MGMT 2100 (3cr)",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 115H",
+                        "name": "Elementary Statistics \u2013 Honors Section",
+                        "credits": "3",
+                        "desc": "This course is primarily for business, science, liberal arts, and education majors. Topics studied include descriptive measures for empirical data, theory of probability, probability distributions, sampling distributions of statistics from large and small samples, estimation theory, hypothesis testing, correlation, and regression. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "MGMT 2100 (3cr)",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 140",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "This is the first course in the calculus sequence for physical science, business, computer science, mathematics and engineering students. Topics include: limits, the rate of change of a function, derivatives of algebraic and trigonometric functions, applications of derivatives, integration, and applications of the definite integral. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 141",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Math 140. Topics include differentiation and integration of transcendental functions, indeterminate forms, methods of integration, improper integrals, infinite series, parametric equations, and polar coordinates. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 242",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Math 141. Topics for this course include: vectors and solid analytic geometry, surfaces, partial and directional derivatives, Lagrange multipliers, multiple integrals, cylindrical and spherical coordinates, line and surface integrals, Green's Theorem, Stokes' Theorem, and the Divergence Theorem. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2940",
+                        "name": "Readings In Mathematics",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 260",
+                        "name": "Linear Algebra",
+                        "credits": "3",
+                        "desc": "Topics for this course include: vector spaces, linear transformations, matrix algebra, change of bases, similarity, diagonalization, eigenvalues and vectors; with application to solutions of systems of linear equations, linear programming, Leontief models, Markov chains, codes, and quadratic forms. Department Name: Department of Science, Technology, Engineering & Mathematics: Mathematics. Course Category: MATH.",
+                        "department": "Mathematics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2940",
+                        "name": "Readings In Mathematics",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 111",
+                        "name": "Ethics",
+                        "credits": "3",
+                        "desc": "A critical examination of the foundations of ethical theory; contributions of eminent philosophers of ethics are evaluated. The source material used consists of analytic studies from great religious thinkers and philosophers. Students learn to begin to formulate an intellectual basis for their own ethical behavior. Department Name: Department of Social & Behavioral Science: Philosophy. Course Category: PHIL.",
+                        "department": "Philosophy",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 125",
+                        "name": "Introduction To Philosophy",
+                        "credits": "3",
+                        "desc": "An investigation of the basic themes in philosophy from around the world. Topics include the nature of existence, knowledge, and values. Readings are drawn from both ancient and contemporary sources. Students develop the ability to apply philosophical theories to their lives. Department Name: Department of Social & Behavioral Science: Philosophy. Course Category: PHIL.",
+                        "department": "Philosophy",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1110",
+                        "name": "Introduction To Philosophy",
+                        "note": "--",
+                        "desc": "An introduction to the major areas of philosophy (ethics, theory of knowledge, philosophy of religion, etc.) and to some of the main problems treated within these fields. Selections from contemporary as well as classical authors are studied and discussed. Students are encouraged to develop a disciplined approach to intellectual problems. Emphasis varies with the instructor.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 121",
+                        "name": "Physics I",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course provides a rigorous introduction to classical physics designed specifically for engineering and science majors. Topics include: SI units, vector mathematics, kinematics, dynamics, work and energy, momentum, gravitation, rigid body dynamics, angular momentum, elastic properties of solids, fluid dynamics, vibrational dynamics, and mechanical waves. Department Name: Department of Science, Technology, Engineering & Mathematics: Physics. Course Category: PHYS. Additional Information: Additional Fee - see www.bucks.edu/fees.",
+                        "department": "Physics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 122",
+                        "name": "Physics II",
+                        "credits": "4",
+                        "desc": "This lecture and laboratory course continues a rigorous introduction to classical physics designed specifically for engineering and science majors. Topics include: electric forces and fields, potential and potential energy, capacitors, direct current and transient circuits, magnetic forces and fields, electromagnetic induction, inductors, photons, geometric and physical optics. Department Name: Department of Science, Technology, Engineering & Mathematics: Physics. Course Category: PHYS. Additional Information: Additional Fee - see www.bucks.edu/fees.",
+                        "department": "Physics",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "PHYS 1200 (4cr)",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 110",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Introduction to Psychology is the scientific study of the psychological factors which influence the behavior of individual organisms, both animal and human. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
             }
         ]
     }
