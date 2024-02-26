@@ -1,0 +1,34 @@
+name: Scrape new data
+on:
+  repository_dispatch:
+    types: scrape
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-transfer:
+    name: Scrapes transfer guide
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v3
+
+      - name: Set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install pip requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Scrape transfer
+        run: python3 transfer_scraper/main.py
+
+      - name: Commit data
+        run: |
+          git add *.json
+          git commit -m "$(date)"
+          git push
