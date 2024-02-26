@@ -15516,5 +15516,2297 @@
                 "end": "--"
             }
         ]
+    },
+    "Arkansas Tech University": {
+        "city": "Russellville",
+        "state": "AR",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 2120",
+                        "name": "General Chemistry I Lab",
+                        "credits": "0",
+                        "desc": "Co-requisite for CHEM 2124 General Chemistry I General Chemistry I.",
+                        "department": "Chemistry",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 2124",
+                        "name": "General Chemistry I",
+                        "credits": "4",
+                        "desc": "The first of a two semester sequence designed for science and engineering majors. Topics include qualitative and quantitative, applied and theoretical analyses of the interactions of matter; atoms, molecules, ions, the mole concept, chemical equations, gases, solutions, intermolecular forces, thermochemistry, quantum theory, periodic law, ionic and covalent bonding, molecular geometry. Lecture three hours, laboratory three hours. $40 laboratory fee. Arkansas Course Transfer System Common Course - CHEM 1414.",
+                        "department": "Chemistry",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 2914",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "This is the first course in the calculus sequence that includes topics on functions, limits, continuity, differentiation and its applications, antiderivatives, inverse functions, and introduction to integration. Note: A grade of C of better must be earned in this course if being used to satisfy the general education mathematics requirement. Arkansas Course Transfer System Common Course - MATH 2405.",
+                        "department": "Mathematics",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2924",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "A continuation of MATH 2914 Calculus I. Includes methods of integration and its applications, sequences, and series. Note: A grade of C of better must be earned in this course if being used to satisfy the general education mathematics requirement. Arkansas Course Transfer System Common Course - MATH 2505.",
+                        "department": "Mathematics",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2934",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "Continuation of MATH 2924 Calculus II. The study of multi-dimensional calculus, including vector functions, partial differentiation, multiple integration and applications. Note: A grade of C of better must be earned in this course if being used to satisfy the general education mathematics requirement. Arkansas Course Transfer System Common Course - MATH 2603.",
+                        "department": "Mathematics",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 3243",
+                        "name": "Differential Equations I",
+                        "credits": "3",
+                        "desc": "A study of differential equations of the first order; linear equations of higher order including the methods of undetermined coefficients and variation of parameters; linear equations with constant coefficients; special equations of order two and systems of linear first-order differential equations using matrices. Note: A grade of C or better must be earned in the course used to satisfy the general education mathematics requirement.",
+                        "department": "Mathematics",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Laboratory I",
+                        "credits": "0",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 2114",
+                        "name": "Calculus-based Physics I",
+                        "credits": "4",
+                        "desc": "This course is designed for physics and engineering majors and focuses on introductory mechanics including kinematics, force, energy, work, and conservation of linear and angular momentum. Heat and fluids are also introduced. Lecture and laboratory. $40 laboratory fee. Arkansas Course Transfer System Common Course - PHYS 2034.",
+                        "department": "Physics",
+                        "catalog": "Arkansas Tech University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Asheville-Buncombe Technical Community College": {
+        "city": "Asheville",
+        "state": "NC",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART-114",
+                        "name": "Art History Survey I",
+                        "credits": "3",
+                        "desc": "This course covers the development of art forms from ancient times to the Renaissance. Emphasis is placed on content, terminology, design, and style. Upon completion, students should be able to demonstrate an historical understanding of art as a product reflective of human social development. This is a Universal General Education Transfer Component (UGETC) course that satisfies Humanities/Fine Arts.",
+                        "department": "Art",
+                        "catalog": "Asheville-Buncombe Technical Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART-115",
+                        "name": "Art History Survey II",
+                        "credits": "3",
+                        "desc": "This course covers the development of art forms from the Renaissance to the present. Emphasis is placed on content, terminology, design, and style. Upon completion, students should be able to demonstrate an historical understanding of art as a product reflective of human social development. This is a Universal General Education Transfer Component (UGETC) course that satisfies Humanities/Fine Arts.",
+                        "department": "Art",
+                        "catalog": "Asheville-Buncombe Technical Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART-171",
+                        "name": "Digital Design I",
+                        "credits": "3",
+                        "desc": "This course is designed to introduce students to the elements and principles of design through the use of digital software. Emphasis is placed on developing composition and design skills using vector, raster, and time-based media. Upon completion, students should be able to identify and use tools in digital software, understand and utilize digital and artistic vocabulary, and employ the principles and elements of design to create artwork using digital means. This course has been approved for the transfer under the CAA as a premajor and/or elective course requirement.",
+                        "department": "Art",
+                        "catalog": "Asheville-Buncombe Technical Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART-264",
+                        "name": "Digital Photography I",
+                        "credits": "3",
+                        "desc": "This course introduces digital photographic equipment, theory and processes. Emphasis is placed on camera operation, composition, computer photo manipulation and creative expression. Upon completion, students should be able to successfully expose, digitally manipulate, and print a well-conceived composition. This course has been approved for the transfer under the CAA as a premajor and/or elective course requirement.",
+                        "department": "Art",
+                        "catalog": "Asheville-Buncombe Technical Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART-266",
+                        "name": "Videography I",
+                        "credits": "3",
+                        "desc": "This course introduces various aspects of basic video production including concept development, scripting, camera operation, and post-production. Emphasis is placed on creative expression, camera handling, story boarding and editing. Upon completion, students should be able to demonstrate a basic understanding of video camera operation and production techniques. This course has been approved for the transfer under the CAA as a premajor and/or elective course requirement.",
+                        "department": "Art",
+                        "catalog": "Asheville-Buncombe Technical Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2000",
+                        "name": "Architecture Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 271",
+                        "name": "Computer Art II",
+                        "credits": "3",
+                        "desc": "This course includes advanced computer imaging techniques. Emphasis is placed on creative applications of digital technology. Upon completion, students should be able to demonstrate command of computer systems and applications to express their personal vision.",
+                        "department": "Art",
+                        "catalog": "Asheville-Buncombe Technical Community College 2015-2016"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART-283",
+                        "name": "Ceramics I",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to three-dimensional design principles using the medium of clay. Emphasis is placed on fundamentals of forming, surface design, glaze application, and firing. Upon completion, students should be able to demonstrate skills in slab and coil construction, simple wheel forms, glaze technique, and creative expression. This course has been approved for the transfer under the CAA as a premajor and/or elective course requirement.",
+                        "department": "Art",
+                        "catalog": "Asheville-Buncombe Technical Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-110",
+                        "name": "Principles Of Biology",
+                        "credits": "4",
+                        "desc": "This course provides a survey of fundamental biological principles for non-science majors. Emphasis is placed on basic chemistry, cell biology, metabolism, genetics, taxonomy, evolution, ecology, diversity, and other related topics. Upon completion, students should be able to demonstrate increased knowledge and better understanding of biology as it applies to everyday life. This is a Universal General Education Transfer Component (UGETC) course that satisfies Natural Sciences.",
+                        "department": "Biology",
+                        "catalog": "Asheville-Buncombe Technical Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS-110",
+                        "name": "Introduction To Business",
+                        "credits": "3",
+                        "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects. This course has been approved for transfer under the CAA as a premajor and/or elective course requirement.",
+                        "department": "Business",
+                        "catalog": "Asheville-Buncombe Technical Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "MGMT 1100 (3cr)",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            }
+        ]
+    },
+    "Ashland Community & Technical College": {
+        "city": "Ashland",
+        "state": "KY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "Writing I",
+                        "credits": "3",
+                        "desc": "Focuses on academic writing. Provides instruction in drafting and revising essays that express ideas in Standard English, including reading critically, thinking logically, responding to texts, addressing specific audiences, researching and documenting sources. Includes review of grammar, mechanics and usage, Notes: (a) credit not available by special examination; (b) English 101 and 102 may not be taken concurrently; (c) AP credit in the English Language and Composition category for ENG 101 awarded as indicated by AP scoring chart in current KCTCS catalog. Lecture: 3 credits (45 contact hours) Attributes: WC - Written Communication, Credit not permitted via STEP exam, Course Also Offered in Modules. Components: LEC: Lecture.",
+                        "department": "English",
+                        "catalog": "Kentucky Community and Technical College System 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Assumption University": {
+        "city": "Worcester",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 101",
+                        "name": "Drawing I",
+                        "credits": "3",
+                        "desc": "This introductory course focuses on learning to see and learning to translate what is seen into two dimensions. Learning to see often requires overriding what the brain knows and learning to trust one\u2019s growing skill at visual response. Translating visual information to the page involves developing skill with line, shape, space, form, and composition. The intent is to develop a broad visual vocabulary which allows communication of the subject matter with sensitivity in charcoal, pencil, ink, and collage. This involves working from life, including the figure, and using images to clarify and enrich what we do through references to art history. Students will be responsible for purchasing a supply kit and for a Studio Fee of $40.00. This course fulfills the Core requirement for a Fine Art class in Culture and Expression. Staff.",
+                        "department": "Art",
+                        "catalog": "Assumption University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "ARTS 1200 (3 cr)",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 110",
+                        "name": "Principles Of Microeconomics",
+                        "credits": "3",
+                        "desc": "An examination of the basic theory and performance of the household, business, and government in determining the nature of the output of the economy and its distribution among the members of the society. Policy issues considered may include public control of business, labor unions, agriculture, the environment, income distribution and poverty, and international trade. ECO 110 may be taken to satisfy the Core requirement for either a second scientific or quantitative option or a social science. Staff.",
+                        "department": "Economics",
+                        "catalog": "Assumption University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "ECON 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 130",
+                        "name": "English Composition",
+                        "credits": "3",
+                        "desc": "This writing course emphasizes planning, composing, and revising. Specifically, the course deals with strategies for generating ideas, recognizing audience, clarifying purpose, focusing on a perspective, and choosing effective arrangements of ideas. Techniques of revision, which are central to the course, focus on appropriateness of language and effectiveness of development, as well as on editing. Counts in the Core Curriculum as a Core Seminar, to be taken in the same year as LTE 140, in either order. Staff.",
+                        "department": "English",
+                        "catalog": "Assumption University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "WRIT 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS 180",
+                        "name": "United States To 1877",
+                        "credits": "3",
+                        "desc": "The first semester of this two-semester survey of American history begins with a study of indigenous peoples. It then examines the colonial encounters among European settlers, aboriginal inhabitants, and Africans; the growth of the English colonies in the context of the Atlantic World; tensions between the colonies and England culminating in the Revolution; the emergence of the first American republic, 1783\u20131844; sectional rivalries and westward expansion; the collapse of the \u201csecond party system\u201d (Democrats v. Whigs); Civil War and Reconstruction. The course emphasizes written analysis of primary and secondary sources. This course fulfills the Core requirement in Person and Society as a first or second history course. Staff.",
+                        "department": "History",
+                        "catalog": "Assumption University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHI 100",
+                        "name": "Socrates And The Search For Truth",
+                        "credits": "3",
+                        "desc": "This course introduces students to the activity of philosophy, understood in the Socratic sense of living an examined life. Philosophy begins by questioning ordinary experience and the opinions one already holds, and it becomes a comprehensive, fundamental, and self-reflective search for the truth about the nature of human beings and the good life, the world, and God. Readings include Plato\u2019s Apology of Socrates and the Allegory of the Cave, as well as at least one medieval and one modern text. This course also introduces elementary principles of logical reasoning and basic distinctions of philosophic importance. It serves as the first half of a core seminar, and each section includes some direct link with the content pursued in each of the intermediate core courses in philosophy. Staff.",
+                        "department": "Philosophy",
+                        "catalog": "Assumption University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "PHIL 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHI 154",
+                        "name": "God And The Philosophers",
+                        "credits": "3",
+                        "desc": "Is there a God? What could God be? What does God have to do with us? What is the role of reason in relation to faith? This course examines several ways that philosophers have thought about the divine: its existence and its relation to the world and to human beings. It considers classic arguments for the existence of God and various challenges to theism, such as those made in the name of science and the problem of evil. Included among the readings are the \u201cFive Ways\u201d of Thomas Aquinas, Anselm\u2019s \u201contological argument,\u201d and Nietzsche\u2019s \u201cMadman\u201d parable. Staff.",
+                        "department": "Philosophy",
+                        "catalog": "Assumption University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "PHIL 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 201",
+                        "name": "Spanish III",
+                        "credits": "3",
+                        "desc": "Continued development of communicative competency in Spanish language and Hispanic culture including a variety of media. Media fee $15. Staff.",
+                        "department": "Spanish",
+                        "catalog": "Assumption University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 2000",
+                        "name": "Foreign Languages Elective",
+                        "note": "LANG 2000 (3 cr)",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Athabasca University": {
+        "city": "Athabasca",
+        "state": "AB",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ACCT 250",
+                        "name": "Accounting For Managers",
+                        "credits": "3",
+                        "desc": "Accounting 250: Accounting for Managers focuses primarily on how to provide managers with the management information they need for making informed decisions and introduces the role accounting plays in providing reports to external bodies such as the federal government, banks, and other lenders of money. The course emphasizes the importance of using advanced information systems such as the use of accounting software for small businesses and enterprise resource planning (ERP) systems for large companies in managerial accounting and decision making. Managerial accounting uses both financial and non-financial information; the financial accounting topics included in this course include basic financial accounting concepts and analysis of financial reports using online, interactive tools to facilitate learning. A distinction is made between external and internal reports. External reports are for information users who are external to the organization. Large corporations must prepare and file such reports for governmental and other organizations such as stock markets. An important feature of external reports is that they have a similar format, and those who prepare these reports must follow specific rules when compiling them. Internal reports, on the other hand, help managers make informed decisions in areas such as planning and controlling the organization\u2019s resources. These reports are prepared according to the managers\u2019 needs, and there are no set rules concerning their preparation. However, there is a set of principles that should be followed to ensure that these reports provide meaningful information. Delivery Mode: Individualized study online or grouped study** (check locations) - both options with eTextbook How does distance education work? Area of Study: Applied Studies (Business and Administrative Studies) Precluded Course: ACCT 245. (ACCT 250 may not be taken for credit if credit has already been granted for ACCT 245.)",
+                        "department": "Accounting",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CLST 201",
+                        "name": "Cultural Studies And Everyday Life",
+                        "credits": "3",
+                        "desc": "Cultural Studies 201: Cultural Studies and Everyday Life is a junior-level, three- credit course that takes as its organizing metaphor, Raymond Williams\u2019s remark that \u201cculture is ordinary.\u201d This course will provide an introduction to cultural studies by exploring, reflecting on, and evaluating how, on a daily basis, we are immersed in culture. Area of Study: Social Science.",
+                        "department": "Cultural Studies",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMIS 245",
+                        "name": "Microcomputer Applications In Business (windows)",
+                        "credits": "3",
+                        "desc": "This course will help you develop the skills required to use microcomputer applications effectively in a business environment. Using a hands-on approach of \"learning by doing,\" you will learn to use the Microsoft Office 2013 suite of products and develop skills in using software designed to meet today's business needs. After completing this course, you will have achieved the following course objectives: You will be familiar with concepts and terminology common to the following desktop business applications: word processing, spreadsheets, presentation managers, and database management systems. You will be knowledgeable about and proficient in using Microsoft Word, Excel, Access, and PowerPoint software. You will have good knowledge of how the software may be used in common business situations. The textbook is a comprehensive MS Office tutorial and reference, and it goes somewhat beyond the learning expectations of an introductory course; therefore, not all the chapters in the textbook are covered in the lessons. After you have gained some experience and proficiency in using the software through the lessons in this course, however, you will be able to continue learning and developing new skills independently. Area of Study: Applied Studies (Business and Administrative Studies).",
+                        "department": "Computers And Management Information Systems",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 255",
+                        "name": "Introductory Composition",
+                        "credits": "3",
+                        "desc": "ENGL 255 focuses on essay writing at the university level. In order to improve the necessary skills, students study examples of good writing, do a brief introductory assignment, write two short summaries, participate in online discussion forums, and complete three essays covering a spectrum of styles and purposes. The course is designed to recognize students\u2019 personal interests, objectives, and learning styles and to provide flexible scheduling options. ENGL 255 provides some grammar review but assumes at least a senior high school level of competency in both grammar and composition. Area of Study: Humanities. Students who feel uncertain which course to choose may consult the course coordinator or do a self assessment test, English Language Assessment.",
+                        "department": "English Language And Writing Studies",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENTP 212",
+                        "name": "Entrepreneurship",
+                        "credits": "3",
+                        "desc": "This course is primarily intended for individuals who may wish to start a business of their own. have already started a small firm and may want to improve their entrepreneurial skills. want to assess their own potential for such an option. have an interest in entrepreneurship and the start-up and growth of a new enterprise. The principal purpose of ENTP 212 is to provide you with a practical opportunity to realistically assess the potential of a new venture idea of your own and to assess the feasibility for a small business based on that idea. The course covers a range of topics that will increase your understanding of what it takes to succeed in an entrepreneurial career. Area of Study: Applied Studies (Business and Administrative Studies).",
+                        "department": "Entrepreneurship",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FNCE 249",
+                        "name": "Personal Investing",
+                        "credits": "3",
+                        "desc": "FNCE 249 addresses topics in budgeting and investing, and is aimed at familiarizing you with key investment math and terminology. Both technical and applied approaches are adopted in this course. The overall objective of this course is to help you understand the investment process and investment jargon, and to provide you with the opportunity to learn an approach to creating and managing an investment portfolio. Early lessons cover technical topics that are essential for managing an investment portfolio, such as basic investment concepts and terminology and the time value of money. In later lessons and assignments, you apply these investing concepts using Internet applications and by doing research and analysis to arrive at conclusions. Area of Study: Applied Studies (Business and Administrative Studies).",
+                        "department": "Finance",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FREN 100",
+                        "name": "French For Beginners I",
+                        "credits": "3",
+                        "desc": "French for Beginners I is designed for students who wish to begin learning French. French 100 will help become familiar with the foundation of the French language and will help you develop the four basic language skills of reading, writing, aural comprehension, and speaking. By the end of the course you will be able to make simple statements, and ask and answer a variety of questions. You will learn how to write simple sentences that are grammatically correct and to express yourself in simple French. Area of Study: Humanities. This course may be taken for credit towards most degree programs. It cannot, however, be applied to the BA major in French.",
+                        "department": "French",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 265",
+                        "name": "Introduction To Calculus I",
+                        "credits": "3",
+                        "desc": "MATH 265 is an introductory calculus course covering real numbers, functions, continuity and limits, derivatives, curve sketching, optimization areas between curves, applications of the derivative, anti-derivatives, integrals, and areas. Area of Study: Science.",
+                        "department": "Mathematics",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MKTG 396",
+                        "name": "Introduction To Marketing",
+                        "credits": "3",
+                        "desc": "MKTG 396 introduces marketing concepts, functions, and institutions. It also examines the influence of marketing on the Canadian economy and on the management of individual organizations. The course includes case studies in marketing\u2014real-life examples of marketing problems\u2014to give students practice in decision making and to improve their communication skills. Area of Study: Applied Studies (Business and Administrative Studies).",
+                        "department": "Marketing",
+                        "catalog": "Athabasca University Undergraduate 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Atlantic Cape Community College": {
+        "city": "Mays Landing",
+        "state": "NJ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL101",
+                        "name": "Composition I",
+                        "credits": "3",
+                        "desc": "Instruction and guided experience in reading and writing, with application of invention and revision techniques, including peer feedback, collaboration and dialogue. Emphasis is on establishing dialectic relationships with the ideas of others and on writing essays in response to readings. Meets General Education requirement for Communication.",
+                        "department": "English",
+                        "catalog": "Atlantic Cape Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC101",
+                        "name": "General Psychology",
+                        "credits": "3",
+                        "desc": "Survey of selected major topics within the field of psychology. Topics include stress, psychotherapy, testing, emotions, drives and motives, and memory and learning. Emphasis will be placed on the psychobiological processes that influence behavior. Meets General Education requirement for Social Science.",
+                        "department": "Psychology",
+                        "catalog": "Atlantic Cape Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Auburn University": {
+        "city": "Auburn University",
+        "state": "AL",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "COMP 1200",
+                        "name": "Introduction To Computing For Engineers And Scientists",
+                        "credits": "2",
+                        "desc": "Computer programming in a highlevel language, with emphasis on use of the computer as a tool for engineering or science.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1190",
+                        "name": "Beginning Programming For Engineers",
+                        "note": "--",
+                        "desc": "This course teaches elementary programming concepts using the MATLAB environment for engineering students with little or no prior programming experience. Concepts include variables, looping, and function calls. Students cannot get credit for CSCI 1190 after earning credit for CSCI 1100 or any higher-level CSCI course.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GEOG 1010",
+                        "name": "Global Geography",
+                        "credits": "3",
+                        "desc": "Social Science I Core. Spatial and locational context for analyzing change in the contemporary world, including elements of both physical and cultural environments.",
+                        "department": "Geography",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 1010",
+                        "name": "World History I",
+                        "credits": "3",
+                        "desc": "History Core. Survey of world history from early humanity to the 1500s. Examines the record of human political, social, cultural, religious, and economic activities across time, regions, civilizations, and cultures. May count either HIST 1010 or HIST 1013.",
+                        "department": "History",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 1020",
+                        "name": "World History II",
+                        "credits": "3",
+                        "desc": "History Core. Survey of world history from the 1500s to the present. Examines the record of human political, social, cultural, religious, and economic activities across time, regions, civilizations, and cultures.",
+                        "department": "History",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 2630",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "Multivariate calculus: vector-valued functions, partial derivatives, multiple integration, vector calculus. Credit will be given for only MATH 2630 or MATH 2637.",
+                        "department": "Mathematics",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MDIA 2350",
+                        "name": "Introduction To Film Studies",
+                        "credits": "3",
+                        "desc": "Introduction to film analysis, modes of film practice and critical approaches to the study of cinema. May count either MDIA 2350/MDIA 2353.",
+                        "department": "Media Studies",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUSI 2730",
+                        "name": "Appreciation Of Music",
+                        "credits": "3",
+                        "desc": "Orientation in the art of listening. Outstanding composers and musical composition. No previous music training required. Fine Arts Core.",
+                        "department": "Music",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 1600",
+                        "name": "Engineering Physics I",
+                        "credits": "4",
+                        "desc": "Introduction to Newton's Laws, gravitation, cosmology, conservation of energy, momentum and angular momentum, special relativity, and fluids using introductory calculus. Credit will not be given for both PHYS 1500 and PHYS 1600 or PHYS 1607. Science Core.",
+                        "department": "Physics",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 1610",
+                        "name": "Engineering Physics II",
+                        "credits": "4",
+                        "desc": "Thermodynamics, electricity and magnetism, simple AC circuits, waves, and geometric optics. Physics at the level of PHYS 1600 or higher is expected. Credit will not be given for both PHYS 1510 and PHYS 1610 or PHYS 1617. Science Core.",
+                        "department": "Physics",
+                        "catalog": "Auburn University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Augustana University": {
+        "city": "Sioux Falls",
+        "state": "SD",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 100PL",
+                        "name": "Introduction And Principles Of Engineering",
+                        "credits": "4",
+                        "desc": "This course is a combination of two Project Lead The Way courses. This course will satisfy the lab science general education requirement. Intro to Engineering Design: Students use the design process and industry standard 3D modeling software to design solutions to solve proposed problems. Principles of Engineering: Students are exposed to major concepts like mechanisms, energy, statics, materials and kinematics.",
+                        "department": "Physics",
+                        "catalog": "Augustana University Undergraduate 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "ENGR 1000 (4cr)",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 101PL",
+                        "name": "Specialized Engineering",
+                        "credits": "4",
+                        "desc": "Students may take one or more of the following specializations: Aerospace Engineering: Students explore the evolution of flight, flight fundamentals, navigation and control, aerospace materials, propulsion, space travel and orbital mechanics. Biotechnical Engineering: Hands-on projects engage students in engineering design problems related to biomechanics, cardiovascular engineering, genetic engineering, tissue engineering, biomedical devices, forensics and bioethics. Civil Engineering and Architecture: Students design and develop residential and commercial properties using 3D architectural design software. Computer Integrated Manufacturing: Students explore manufacturing history, individual processes, systems and careers. The course also incorporates finance, ethics and engineering design. Digital Electronics: Students are introduced to the process of combinational and sequential logic design, engineering standards and technical documentation. They are also exposed to programming integrated circuit kits and microcontrollers.",
+                        "department": "Physics",
+                        "catalog": "Augustana University Undergraduate 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "ENGR 1000 (4cr)",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 102PL",
+                        "name": "Engineering, Design And Development",
+                        "credits": "4",
+                        "desc": "Students work in teams to design and develop an original solution to a valid open-ended technical problem by applying the engineering design process.",
+                        "department": "Physics",
+                        "catalog": "Augustana University Undergraduate 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "ENGR 1000 (4cr)",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            }
+        ]
+    },
+    "Austin Community College": {
+        "city": "Austin",
+        "state": "TX",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 1408",
+                        "name": "Biology For Non-science Majors I",
+                        "credits": "4",
+                        "desc": "Introductory biology course designed for nonscience majors who desire a conceptual approach to biological topics. An introduction to the nature of science, the characteristics of life, the molecular and cellular basis of life, genetics, reproduction, and development. An emphasis will be placed on how these topics are related to current issues such as genetic engineering, biotechnology, and problems facing modern society. BIOL 1406 and BIOL 1408 may not both be counted toward graduation. BIOL 1408 is not a prerequisite for BIOL 1409; they may be taken in any order. Course Fee: $50.00 Student Accident Insurance Fee: $1.00 Skills: Reading, Writing, and Math. Course Type: Transfer/Academic Course.",
+                        "department": "Biology",
+                        "catalog": "Austin Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 2425",
+                        "name": "Engineering Physics I",
+                        "credits": "4",
+                        "desc": "Fundamental principles of physics, using calculus, for science, computer science, and engineering majors; the principles and applications of classical mechanics, including harmonic motion, physical systems and thermodynamics; and emphasis on problem solving. Intended for majors in engineering, physics, chemistry, and mathematics. Honors Engineering Physics I- Please contact the Honors Program at www.austincc.edu/honors for additional information. Course Fee: $50.00. Student Accident Insurance Fee: $1.00. Skills: Reading, Writing, and Math. Course Type: Transfer/Academic Course.",
+                        "department": "Physics",
+                        "catalog": "Austin Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "PHYS 1100 (4cr)",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 2426",
+                        "name": "Engineering Physics II",
+                        "credits": "4",
+                        "desc": "Principles of physics for science, computer science, and engineering majors, using calculus, involving the principles of electricity and magnetism, including circuits, electromagnetism, waves, sound, light, and optics. Laboratory experiments supporting theoretical principles involving the principles of electricity and magnetism, including circuits, electromagnetism, waves, sound, light, and optics; experimental design, data collection and analysis, and preparation of laboratory reports. This is the second half of the calculus-based PHYS 2425/2426 sequence. Honors Engineering Physics II- Please contact the Honors Program at www.austincc.edu/honors for additional information. Course Fee: $50.00. Student Accident Insurance Fee: $1.00. Skills: Reading, Writing, and Math. Course Type: Transfer/Academic Course.",
+                        "department": "Physics",
+                        "catalog": "Austin Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "PHYS 1200 (4cr)",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Austin Peay State University": {
+        "city": "Clarksville",
+        "state": "TN",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 1030",
+                        "name": "Art Appreciation",
+                        "credits": "3",
+                        "desc": "A study of the principles and elements of design, media and artistic processes; and the relationship and influences of the visual arts on the individual and culture.",
+                        "department": "Art",
+                        "catalog": "Austin Peay State University Undergraduate Course Descriptions 2016-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "credits": "3",
+                        "desc": "A course for non-science majors. Topics covered include scientific methodology, the nature of living organisms, cell structure and function, cell chemistry and division, nature of heredity and gene action, the theory of evolution and principles of ecology. BIOL 1010 will not serve as a prerequisite of upper level biology courses.",
+                        "department": "Biology",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1011",
+                        "name": "Introduction To Biology Lab",
+                        "credits": "1",
+                        "desc": "Laboratory course for non-science majors. Topics covered include scientific methodology, the nature of living organisms, cell structure and function, cell chemistry and division, nature of heredity and gene action, the theory of evolution and principles of ecology. BIOL 1010 will not serve as a prerequisite of upper level biology courses.",
+                        "department": "Biology",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 1010",
+                        "name": "Fundamentals Of Public Speaking",
+                        "credits": "3",
+                        "desc": "Public speaking principles with emphasis on preparation and presentation of informative and persuasive speeches.",
+                        "department": "Communication Arts",
+                        "catalog": "Austin Peay State University Undergraduate 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCI 1010",
+                        "name": "Introduction To Programming I",
+                        "credits": "3",
+                        "desc": "A first course in computer programming. Students will use a high-level object-oriented programming language to design, implement, debug, and test interactive software.",
+                        "department": "Computer Science",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "CSCI 2010",
+                        "name": "Introduction To Programming II",
+                        "credits": "3",
+                        "desc": "Continuation of CSCI 1010. Students will learn to use object-oriented design, exception handling, recursive programming, and standard data structures to design, implement, test and debug software.",
+                        "department": "Computer Science",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 1010",
+                        "name": "English Composition I",
+                        "credits": "3",
+                        "desc": "Development of the student\u2019s writing skills through a process of thinking, researching, planning, writing, reviewing, revising, and editing expository essays.",
+                        "department": "English",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 1910",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "Elements of plane analytic geometry, functions, limits, derivatives of algebraic and trigonometric functions, integration, and applications.",
+                        "department": "Mathematics",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 1920",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "Polar coordinates, numerical integration, infinite series, techniques of integration, improper integral, conic sections, and transcendental functions.",
+                        "department": "Mathematics",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2110",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "Three dimensional vectors, partial derivatives, multiple integration, and vector calculus.",
+                        "department": "Mathematics",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 2110",
+                        "name": "University Physics I",
+                        "credits": "3",
+                        "desc": "The elements of mechanics, including measurement, motion, conservation laws, gravitation, oscillations, fluids and thermodynamics. Algebra, trigonometry and vectors are used freely and extensively. Differential calculus is used extensively; the concepts and techniques of integral calculus are developed and used as needed. Prior completion of or concurrent enrollment in MATH 1910 is required.",
+                        "department": "Physics",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 2111",
+                        "name": "University Physics I Lab",
+                        "credits": "1",
+                        "desc": "Laboratory component for the elements of mechanics, including measurement, motion, conservation laws, gravitation, oscillations, fluids and thermodynamics. Algebra, trigonometry and vectors are used freely and extensively. Differential calculus is used extensively; the concepts and techniques of integral calculus are developed and used as needed. Prior completion of or concurrent enrollment inMATH 1910 is required.",
+                        "department": "Physics",
+                        "catalog": "Austin Peay State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Babson College": {
+        "city": "Wellesley",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ACC1000",
+                        "name": "Wellesley Intro To Financial Accounting",
+                        "credits": "4.00",
+                        "desc": "ACC1000 will provide you with an introduction to the Construction, Analysis and Forecasting of Financial Statements. These financial statements consist of the income statement, the balance sheet and the statement of cash flows as well as the associated explanatory statement footnotes. Using actual entrepreneurial companies as well as publically traded companies you will learn how to prepare, analyze, interpret and forecast financial statements. By the conclusion of the course, you will be able to forecast and analyze financial statements for investment decisions as well as to model and analyze the financial effects of different strategic directions as an owner of the company. These skills will benefit you in whatever career path you choose. ACC1000: Introduction to Financial Accounting. Foundation Management.",
+                        "department": "Accounting",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2300",
+                        "name": "Financial Accounting In The Digital Age",
+                        "note": "--",
+                        "desc": "An introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, long term liabilities, and equity. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ACC3500",
+                        "name": "Intermediate Accounting I",
+                        "credits": "4.00",
+                        "desc": "Broadens the base of financial accounting concepts introduced in ACC1300 and delves more deeply into accounting concepts, techniques and procedures. Topics include inventory, tangible and intangible assets, statement of cash flows, accounting changes, revenue recognition and current and long-term debt. This course is essential for those who plan a career in accounting and recommended for anyone whose career will involve the extensive use of financial statements. ACC3500: Intermediate Accounting I. (General Credit).",
+                        "department": "Accounting",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4270",
+                        "name": "Intermediate Accounting I",
+                        "note": "--",
+                        "desc": "This is the first intermediate course on the theory and practice of accounting and financial reporting. Designed for both accounting and finance majors, this course combines a study of the theory, rationale, and objectives of corporate financial reporting with an examination of current reporting principles. The aim is to develop a realistic understanding of the strengths and weaknesses of corporate financial reporting, particularly from the viewpoint of the consumer of such financial information.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ACC3501",
+                        "name": "Intermediate Accounting II",
+                        "credits": "4.00",
+                        "desc": "This course extends the in-depth study of accounting concepts and techniques which began in Intermediate Accounting I. Topics include earnings per share, leases, pensions and investments. ACC3501: Intermediate Accounting II. (General Credit).",
+                        "department": "Accounting",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4280",
+                        "name": "Intermediate Accounting II",
+                        "note": "--",
+                        "desc": "As the second course in the Intermediate Accounting sequence, this course is designed for both accounting and finance majors. This course combines a study of the theory, rationale, and objectives of corporate financial reporting with an examination of current reporting principles. The aim is to develop a realistic understanding of the strengths and weaknesses of corporate financial reporting, particularly from the viewpoint of the consumer of such financial information.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ACC3510",
+                        "name": "Financial Planning & Cost Control",
+                        "credits": "4.00",
+                        "desc": "Explore cost systems and control for operations in profit and nonprofit organizations, and budgetary considerations and variance analysis, including their relation to fiscal planning and administration. ACC3510: Financial Planning and Cost Control. (General Credit).",
+                        "department": "Accounting",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4230",
+                        "name": "Cost Accounting",
+                        "note": "--",
+                        "desc": "This course is the upper level of managerial accounting course. Cost accounting provides information for both managerial accounting and financial accounting. It is useful for managers for planning and controlling, as well as costing products, services, and customers.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ACC4510",
+                        "name": "Management Plan & Control",
+                        "credits": "",
+                        "desc": "ACC4510 is not a technical accounting course! It is a management-oriented examination of the development and use of strategic planning and control systems. Thus, classroom discussions incorporate knowledge of strategy, marketing, finance, operations, and organizational behavior as well as accounting. This course is especially relevant for students who expect to pursue careers as entrepreneurs, as consultants, or in general management. Also, students interested in management positions in functional areas like corporate finance, management accounting, operations, and human resources are likely to face issues related to strategic control and performance measurement systems throughout their careers. (General Credit).",
+                        "department": "Accounting",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2015-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4520",
+                        "name": "Introduction To Technological Entrepreneurship",
+                        "note": "--",
+                        "desc": "An introductory course for initiating a new business venture and developing it into a self-sustaining and profitable enterprise. Provides understanding of the process whereby a person decides to become an entrepreneur, screens opportunities, selects an appropriate product/market target, and obtains the necessary resources. Also, provides the theoretical and practical knowledge for the preparation of formal business plans for the development of new products, processes, and services and for the financing of new enterprises. A student cannot receive credit for both the graduate and undergraduate versions of this course. Cross Listed: MGMT 6620. Students cannot receive credit for both MGMT 4520 and MGMT 6620.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AHF1300",
+                        "name": "Between The Gods And Demons: Possibilities And Limits Of Human Action",
+                        "credits": "3",
+                        "desc": "(Arts and Humanities Foundation) This course focuses on three major periods of Western culture during which there was great debate about the conception of human nature: about the meaning and purpose of human life, about the vision of human community we should be working for, and about the barriers to achieving it. In each of these periods \u2014 Classical Athens, the Age of the Enlightenment, and the Romantic Movement \u2014 there emerged a new vision of human beings\u2019 capacity to reach a higher good beyond their own self-interests, and also an awareness of powerful forces that had to be overcome in order to achieve that higher good, in other words, new \u201cgods\u201d and new \u201cdemons.\u201d By examining works of literature, philosophy, and art, students will be able to define and compare the dominant values of these three periods, values that continue to play a central role in contemporary culture.",
+                        "department": "Ahf",
+                        "catalog": "Babson College Undergraduate Catalog 1999-2000"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AHS1000",
+                        "name": "Ahs Justice And Inequality",
+                        "credits": "4.00",
+                        "desc": "The Arts and Humanities / History and Society Foundation (AHS) engages a combination of perspectives, including aesthetic, ethical, historical and societal, to explore a particular topic or theme. Exploring a topic such as nature, justice, or memory, for example, through a rich array of perspectives aims to develop the ability to see that all interpretations are impacted by the context, values, and attitudes of the interpreter - including, of course, our own. We use course materials from a range of media and genres to explore the topic and learn to use complexity and ambiguity to enrich and deepen our inquiry. This theme-based course aims to establish a foundation of skills that anticipate the more disciplinary and interdisciplinary analytical skills that are introduced at the Intermediate Level of the Liberal Arts Curriculum. AHS1000: AHS Foundation - Justice and Inequality. 4 credits.",
+                        "department": "Arts And Humanities",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECN2000",
+                        "name": "Principles Of Macroeconomics",
+                        "credits": "4.00",
+                        "desc": "Macroeconomics is concerned with developments in the national economy such as the level of output, prices and employment, and with the behavior of the national economy and the business cycle. Students will study national account aggregates such as GDP, GNP, exports, imports and balance of trade, and will learn about the US banking system, money creation and the use of monetary and fiscal policy to combat inflation and unemployment and manage stable growth. ECN2000: Principles of Macroeconomics. (Intermediate Liberal Arts Elective).",
+                        "department": "Economics",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FME1000",
+                        "name": "Foundations Of Mgmt & Entrepreneurs",
+                        "credits": "3.00",
+                        "desc": "This full-year, introductory course exposes students to key entrepreneurship, marketing, business management and organizational behavior concepts. Central to the course is a \"learn by doing\" approach in which students teams develop and implement an actual business that the College funds. Profits generated by the business activity are used to support a charitable project that the students also coordinate. Through these activities students will have a personal opportunity to explore the challenges and complexities of creating social as well as economic value. In the organizational behavior stream of this section of FME, students will explore their personal entrepreneurial leadership capabilities and how to work with and through others and effectively participate in their business organizations. This section of FME will meet Babson's undergraduate requirements for a semester long course in organizational behavior. FME1000: Foundation of Management & Entrepreneurship, Revised (2 semesters). (Foundation Mgmt).",
+                        "department": "Fme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FME1001",
+                        "name": "Foundations Of Mgmt & Entrepreneurs",
+                        "credits": "4.00",
+                        "desc": "This full-year, introductory course exposes students to key management and information systems principles, vocabulary, and techniques. Central to the course is a \"learn by doing\" approach and sensitivity toward social responsibility and ethical behavior. Students organize into groups of 30 and are responsible for developing and implementing an actual business that the College funds. Profits generated by the business activity are used to support a charitable project that the students must coordinate as well. Students are introduced to the central concepts of finance, accounting, management, operations, and human resource management. In addition, they learn how information systems are used to manage and control business organizations and how to use productivity tools such as spreadsheet and database programs to manage business organizations more effectively. FME1001: Foundation Management & Entrepreneurship (2 semesters)",
+                        "department": "Fme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HSF1300",
+                        "name": "Peoples And Nations: The Making And Breaking Of Identities In The 20th Century",
+                        "credits": "3",
+                        "desc": "(History and Society Foundation) This course focuses on the social construction, destruction, and reconstruction of identity set in the contexts of major 20th century wars: WWI, WWI, and the Vietnam War. What is identity? What is self? What does it mean to say that personal and national identities are cultural and historical constructions? Through a wide range of texts, this course introduces \u201chistory\u201d and \u201csociety\u201d as interrelated concepts to show how human beings create meaningful worlds personally and culturally.",
+                        "department": "Hsf",
+                        "catalog": "Babson College Undergraduate Catalog 1999-2000"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HSS2013",
+                        "name": "China Today",
+                        "credits": "4",
+                        "desc": "The Dragon Rises intermediate liberal arts This intermediate history course will introduce you to China\u2019s dynamic present within the context of the complex legacy of the Chinese past. We will examine the historical, cultural, political, and economic development of post 1949 China, with brief introductions to relevant aspects of the imperial past. You will gain a nuanced appreciation for the incredible economic growth of China from 1990 to the present, and the concomitant problems of state-society relations, human rights, minority relations, the environment, and the gaps between the rich and the poor and the urban and rural citizens. We will take advantage of Boston\u2019s resources through site visits to view Chinese art, undertake a scavenger hunt in Chinatown, and enjoy Chinese food. We will explore China through the use of scholarship, fiction, maps, memoir, art, film, and music.",
+                        "department": "Hss",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2015-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LAW1003",
+                        "name": "Foundation Of Business Law",
+                        "credits": "4",
+                        "desc": "(Foundation Requirement) This course is an introduction to the legal system. Survey of agency employment, torts, crimes, and contracts; formation, management, and financing of corporations and partnerships; sales; consumer protection; and securities law.",
+                        "department": "Law",
+                        "catalog": "Babson College Undergraduate Catalog 1999-2000"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1260",
+                        "name": "Business Law And Ethics",
+                        "note": "--",
+                        "desc": "This course focuses on legal and ethical considerations in management. Topics include torts, contracts, criminal and property law, constitutional and administrative law, dispute resolution, business formation, and equal opportunity. Students will also develop an awareness of ethics in managerial decision making, including recognizing and analyzing ethical issues in the workplace, promoting ethical behavior in corporations, and recognizing social responsibilities of business.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LVA2005",
+                        "name": "Art As A Visual Language (vsa)",
+                        "credits": "4.00",
+                        "desc": "This course is designed to introduce you to the realm of visual communication - how it's done, how it works and how cultural and personal experiences shape your reactions to it. Fine arts (painting, sculpture, architecture), industrial arts (graphic and product design) and everyday objects will be presented as the workings of visual communication, the role of art and artists in a variety of times and places, the nature of good and bad art and design are explored. LVA2005: Art as a Visual Language. (Intermediate Liberal Arts).",
+                        "department": "Lva",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MKT4560",
+                        "name": "Global Marketing Management",
+                        "credits": "4.00",
+                        "desc": "The purpose of this course is to understand the nature and functions of marketing in a global context, specifically marketing to multiple countries simultaneously. The course will expose students to many different cultures and environments by exploring the materials in diverse national and geographical settings. Students will analyze global market opportunities and develop global marketing strategies which leverage experience, knowledge and investments across multiple countries. The course puts particular emphasis on developing a global mindset among the students. Second-semester junior or senior status is recommended. MKT4560: Global Marketing Management. (General Credit).",
+                        "department": "Marketing",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MOB3515",
+                        "name": "Human Resource Management",
+                        "credits": "4.00",
+                        "desc": "Provides an in-depth exploration of the challenges of managing through people. This course is appropriate for any student interested in serving in a management role, and particularly for those interested in careers in human resource management. Topics covered include human resource planning, personnel selection, interviewing, r\u201asum\u201a construction, and performance management. Uses text, lectures, case studies, films, and experiential exercises. MOB3515: Human Resource Management. (General Credit).",
+                        "department": "Mob",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4860",
+                        "name": "Human Resources In High Performance Organizations",
+                        "note": "--",
+                        "desc": "This course provides an overview of human resources principles and practices in business organizations. Students are given tools for understanding how people are managed on a day-to-day basis. Topics include: the recruiting and hiring process; self, peer, and managerial evaluations; training and development; and legal issues related to the work setting and the job-search process. Students come away with an understanding of the difficulties and challenges associated with workforce management. This course utilizes a combination of lecture, discussion, and experiential exercises.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NST1030",
+                        "name": "Electronics",
+                        "credits": "4.00",
+                        "desc": "Electronic devices transform the way people work and communicate. This course will focus on understanding the inner workings of those devices to provide a background on what they can and cannot do. We will also explore the impact of resource limitations on electronics, and how electronics can contribute to solving some resource issues. NST1030: Electronics. 4 credit Foundation Liberal Arts.",
+                        "department": "Nst",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "QTM1000",
+                        "name": "Qm For Business Analytics I",
+                        "credits": "4.00",
+                        "desc": "The course introduces the necessary core quantitative methods that are prerequisites to follow-on courses in QTM and in Babson's integrated core business offerings. Statistical software and the use of spreadsheets are integrated throughout so that students better comprehend the importance of using modern technological tools for effective model building and decision-making. About two thirds of the course is data-oriented, exposing students to basic statistical methods, their conceptual underpinning, such as variability and uncertainty, and their use in the real world. Topics include data collection, descriptive statistics, elementary probability rules and distributions, sampling distributions, and basic inference. The last third of the course is dedicated to selected non-statistical quantitative techniques applied to business models. Topics include curve fitting, differential calculus applications to non-linear optimization, and introduction to the time value of money. QTM1000: Quantitative Methods for Business Analytics I. 4 credits.",
+                        "department": "Qtm",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "QTM1010",
+                        "name": "Qm For Business Analytics II",
+                        "credits": "4.00",
+                        "desc": "This course explores decision-making problems in a managerial context using algebraic, spreadsheet, graphical, and statistical models. The focus is on understanding basic mathematical and modeling principles through the analysis of real data. The course emphasizes communicating in-context interpretations of the results of analysis in written, visual, and oral form. A foundation in introductory statistics and use of spreadsheets is essential because these concepts are extended and reinforced throughout the course. Topics include introductions to linear regression, time series analysis, linear programming, decision analysis and simulation. It emphasizes the use of appropriate software and the latest technological methods for accessing and analyzing data. QTM1010: Quantitative Methods for Business Analytics II. 4 credits.",
+                        "department": "Qtm",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "RHT1000",
+                        "name": "Rhetoric I",
+                        "credits": "4.00",
+                        "desc": "Develops students' abilities in reading, writing, speaking, and critical thinking, and promotes understanding of the dynamic relations among these processes. Students will learn approaches to understanding, analyzing, and responding to texts, both in writing and speech, and will learn to assess the nature and conventions of academic discourse. RHT1300: Rhetoric I. 4 credit foundation course.",
+                        "department": "Rhetoric",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "RHT1001",
+                        "name": "Rhetoric II",
+                        "credits": "4.00",
+                        "desc": "Rhetoric II will continue to develop the same rhetorical abilities as Rhetoric I, but assignments will require more complex and sophisticated analysis, research, and argument. RHT1001: Rhetoric II. (Foundation Liberal Arts).",
+                        "department": "Rhetoric",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "--",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SME2001",
+                        "name": "Managerial Accounting",
+                        "credits": "3.00",
+                        "desc": "The Managerial Accounting stream in SME builds on knowledge acquired in Financial Accounting but shifts the focus to providing entrepreneurs and managers with relevant information that supports decision making and performance measurement. The stream introduces the language of managerial accounting and teaches students to perform basic management accounting analyses (e.g., costing of cost objects, cost behavior, differential analysis, and performance measurement). The stream requires students to use the results of their analysis to evaluate the design of operations, to make strategic decisions, and to propose action. Issues covered include selecting a profitable mix of products and services, analyzing profits and costs during product development, budgeting for operations, analyzing whether to outsource or insource activities, and managing performance through measurement systems. Throughout the semester we will explore interconnections between management accounting analyses and operational actions. The sophomore management experience MAC and TOM module (SME) integrates two subject streams: Technology and Operations Management (3 credits) and Managerial Accounting (3 credits). This module focuses on the internal organization and processes required for entrepreneurial leaders and managers to successfully test and execute business strategies. To be effective, entrepreneurs and managers must design operations, model the expected performance of operational designs, make decisions that strategically manage costs, and take actions that achieve desired results in an ethical manner. The two streams in this module will help build the skills you need to become ethical entrepreneurial leaders and managers. You will experience how the design of operations impacts measured performance, and how modeling expected results before action is taken leads to improved operational decisions. SME will also provide learning experiences that demonstrate the interconnections between the streams. SME2001: Managerial Accounting. 3 credit intermediate management.",
+                        "department": "Sme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SME2002",
+                        "name": "Operations Management",
+                        "credits": "3.00",
+                        "desc": "Managing operations is vital to every type of organization, for it is only through effective and efficient utilization of resources that an organization can be successful in the long run. This is especially true today, when we see that significant competitive advantages accrue to those firms that manage their operations effectively. We define operations in the broadest sense, not confining the focus within a set of walls but defining the scope to the thoughts and activities necessary to supply goods and services from their conception to their consumption. This course introduces you to the operational challenges that entrepreneurs and managers face and provides a set of tools to aid you in designing, evaluating and managing business processes to meet your organization's objectives. Throughout the semester we will explore interconnections between operational actions and management accounting analyses. The sophomore management experience MAC and TOM module (SME) integrates two subject streams: Technology and Operations Management (3 credits) and Managerial Accounting (3 credits). This module focuses on the internal organization and processes required for entrepreneurial leaders and managers to successfully test and execute business strategies. To be effective, entrepreneurs and managers must design operations, model the expected performance of operational designs, make decisions that strategically manage costs, and take actions that achieve desired results in an ethical manner. The two streams in this module will help build the skills you need to become ethical entrepreneurial leaders and managers. You will experience how the design of operations impacts measured performance, and how modeling expected results before action is taken leads to improved operational decisions. SME will also provide learning experiences that demonstrate the interconnections between the streams. SME2002: Managing Operations. 3 credit intermediate management.",
+                        "department": "Sme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SME2011",
+                        "name": "Principles Of Marketing",
+                        "credits": "3.00",
+                        "desc": "Marketing is involved with the task of ethically marketing products and services in a global environment. In order to survive in the contemporary business world, organizations have to continually bring new ideas and products/services to the market - think creatively, act entrepreneurially and utilize analytical rigor. The Marketing stream of SME will examine how marketers can recognize and utilize changes in the political, economic, social, and technological environments to identify and target opportunities; how to develop and communicate value propositions; and how to develop successful marketing strategies. These strategies will emphasize market analysis and the Four Ps (product, pricing, place, and promotion). Students will also be introduced to the analytical tools and methods crucial to understanding the role of these variables in achieving marketing goals and reaching performance metrics. This stream will also explore issues associated with: social media, marketing research and marketing analytics, buying behavior, market segmentation, branding, retailing, value-based pricing, advertising, sales, and other marketing topics as they are applied to the management of marketing goods and services. Methods of instruction will include lecture, discussion, experiential (involvement) learning, integrative teaching, simulations, and case analysis. Methods of assessment will include: quizzes, presentations, exams and participation. The material and the various methods of instructions are guided by Babson's learning goals. The marketing stream of SME will primarily integrate with Managing Technology and Information Systems. There will be a joint social media related project and presentation SME2011: Marketing. 3 credit intermediate management.",
+                        "department": "Sme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SME2012",
+                        "name": "Managing Information Tech And Systems",
+                        "credits": "3.00",
+                        "desc": "Managing Information Technology and Systems (MITS), part of the second year management curriculum, is designed to introduce students to the foundational concepts in Information Technology and Systems (ITS) and their application in managing innovation, ITS infrastructure, and organizational partners (suppliers/customers) in the context of a medium/large business. The course will integrate primarily with Marketing and Operations using common/linked cases and joint exercises. The pre-requisites for the course is FME (Foundation of Management and Entrepreneurship). SME2013: Managing Information Technology and Systems. 3 credit intermediate management.",
+                        "department": "Sme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SME2021",
+                        "name": "Principles Of Finance",
+                        "credits": "3.00",
+                        "desc": "SME finance is designed to develop student understanding of the role of finance in the management of a business venture. Effective financial management, whether performed by the general manager in a small business, or by the finance organization in a large corporation, is necessary if a venture is to succeed and grow. A successful financial manager must have skills, abilities, tools, and a theoretical understanding in many areas, including valuation, financial forecasting, capital budgeting, investor expectations regarding risk and return, the cost of investor supplied capital, and financial strategy. Student skills will be developed in all of these areas in the SME finance stream through readings, lectures, class discussions, exercises, and an analytical project. A successful financial manager must also understand the venture's economic environment, its products, services, and market position, its operational capabilities, and its organizational behavior characteristics. The SME finance stream will link financial management analysis and decisions to these other critical functional areas, so the student will understand its part in achieving overall success for the venture. SME2012: SME: Finance. 3 credit intermediate management.",
+                        "department": "Sme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2320",
+                        "name": "Managerial Finance",
+                        "note": "--",
+                        "desc": "An introduction to corporate financial analysis and decision making. This course covers the following topics: financial statement analysis, valuation principles, risk and return analysis, working capital management, capital budgeting, cost of capital, capital structure, and dividend policy.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SME2031",
+                        "name": "Principles Of Microeconomics",
+                        "credits": "3.00",
+                        "desc": "Microeconomics examines the decisions made by consumers, firms and governments in allocating scarce resources. Raw materials are not available in infinite quantities; neither are human labor and productive capital. Managers must deal with real-world constraints in making decisions about production and pricing, while consumers are subject to the constraints of income and prices in satisfying their needs and wants. Governments must set basic rules for an economy, provide certain goods and services, and deal with issues of taxation, income distribution and inequality when determining how a country's resources will be used and who benefits from those resources. The Microeconomics curriculum introduces us to the rules and principles that help guide allocation decisions, and focuses particularly on the role of markets. Topics include the interaction of supply and demand in the determination of prices, demand and supply elasticities, rational choice theory, costs and efficient methods of production, market structure, wage determination, game theory for understanding firm interdependence, pricing strategy, and the role of government in correcting externalities and addressing other market failures. SME2031: Microeconomics. Intermediate Core (3 credits).",
+                        "department": "Sme",
+                        "catalog": "Babson College Undergraduate Course Descriptions 2017-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Baker College": {
+        "city": "Owosso",
+        "state": "MI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "GEO 1110",
+                        "name": "Physical Geography",
+                        "credits": "3",
+                        "desc": "Studies the natural environment, which is important to people and their activities, and how the physical elements of geography affect people. Presents maps and physical features, earth-sun-moon relationships, earth materials, land forms, drainage, and major natural resources. Introduces the character, causes, significance, and distribution of weather, climate, soils, and vegetation.",
+                        "department": "Geography",
+                        "catalog": "Baker College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SOC 2010",
+                        "name": "Sociology",
+                        "credits": "3",
+                        "desc": "Examines social organization, culture, and the relationship between society and the individual. The areas studied are social groups, roles and statuses, institutions, social stratification, socialization, social change, and social policy.",
+                        "department": "Social Sciences",
+                        "catalog": "Baker College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2520",
+                        "name": "Sociology",
+                        "note": "--",
+                        "desc": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Baker College - Flint": {
+        "city": "Flint",
+        "state": "MI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "GEO 1110",
+                        "name": "Physical Geography",
+                        "credits": "3",
+                        "desc": "Studies the natural environment, which is important to people and their activities, and how the physical elements of geography affect people. Presents maps and physical features, earth-sun-moon relationships, earth materials, land forms, drainage, and major natural resources. Introduces the character, causes, significance, and distribution of weather, climate, soils, and vegetation.",
+                        "department": "Geography",
+                        "catalog": "Baker College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SOC 2010",
+                        "name": "Sociology",
+                        "credits": "3",
+                        "desc": "Examines social organization, culture, and the relationship between society and the individual. The areas studied are social groups, roles and statuses, institutions, social stratification, socialization, social change, and social policy.",
+                        "department": "Social Sciences",
+                        "catalog": "Baker College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2520",
+                        "name": "Sociology",
+                        "note": "--",
+                        "desc": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Baker College Center For Graduate Studies": {
+        "city": "Flint",
+        "state": "MI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "GEO 1110",
+                        "name": "Physical Geography",
+                        "credits": "3",
+                        "desc": "Studies the natural environment, which is important to people and their activities, and how the physical elements of geography affect people. Presents maps and physical features, earth-sun-moon relationships, earth materials, land forms, drainage, and major natural resources. Introduces the character, causes, significance, and distribution of weather, climate, soils, and vegetation.",
+                        "department": "Geography",
+                        "catalog": "Baker College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SOC 2010",
+                        "name": "Sociology",
+                        "credits": "3",
+                        "desc": "Examines social organization, culture, and the relationship between society and the individual. The areas studied are social groups, roles and statuses, institutions, social stratification, socialization, social change, and social policy.",
+                        "department": "Social Sciences",
+                        "catalog": "Baker College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2520",
+                        "name": "Sociology",
+                        "note": "--",
+                        "desc": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
     }
 }
