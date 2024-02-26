@@ -3,7 +3,7 @@ on:
   repository_dispatch:
     types: scrape
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
