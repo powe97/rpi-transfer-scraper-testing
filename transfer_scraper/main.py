@@ -128,6 +128,7 @@ try:
             ).click()
             wait(EC.staleness_of(page))
             sleep(random.uniform(16, 25))
+            page = driver.find_element("id", f"gdvInstWithEQ")
 
         print(driver.find_element("id", "lblInstWithEQPaginationInfo").text)
 
