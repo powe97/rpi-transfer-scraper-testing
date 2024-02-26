@@ -1,0 +1,2416 @@
+{
+    "Adams State University": {
+        "city": "Alamosa",
+        "state": "CO",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 179",
+                        "name": "Special Topics",
+                        "credits": "1.000 TO 6.000",
+                        "desc": "Offered periodically to meet student special interests in the field.",
+                        "department": "History",
+                        "catalog": "Adams State University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Adelphi University": {
+        "city": "Garden City",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO521",
+                        "name": "Endocrinology Lecture",
+                        "credits": "3.00",
+                        "desc": "Explore the physiological roles of the hormones, biosynthesis and its release, storage, factors and mechanisms controlling the hormonal secretions and its mode of action. Learn the pathophysiology of the endocrine system dysfunction and how hormones maintain the homeostasis of the body.",
+                        "department": "Biology",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO540",
+                        "name": "Principles Of Disease",
+                        "credits": "3.00",
+                        "desc": "Explore the major categories of diseases and the cellular and molecular mechanisms of disease pathogenesis, as well as the pathobiology of major organ systems and the mechanisms of drug treatment and therapy for these diseases.",
+                        "department": "Biology",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE111",
+                        "name": "General Chemistry I",
+                        "credits": "4.00",
+                        "desc": "This is the first half of a one-year course that emphasizes the fundamental principles and laws of chemistry. There are three hours of class and one laboratory period per week. A required recitation meets one hour per week.",
+                        "department": "Chemistry",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE112",
+                        "name": "General Chemistry II",
+                        "credits": "4.00",
+                        "desc": "This is the second half of a one-year course that emphasizes the fundamental principles and laws of chemistry. There are three hours of class and one laboratory period per week.",
+                        "department": "Chemistry",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE251",
+                        "name": "Organic Chemistry I",
+                        "credits": "3.00",
+                        "desc": "This is the first half of a one-year course that explores the chemistry of carbon compounds. Class discussions include nomenclature, methods of preparation, and properties of the principal groups of compounds. Functional group chemistry, synthetic transformations, as well as the mechanisms of organic reactions are covered. There are three class periods a week.",
+                        "department": "Chemistry",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2250",
+                        "name": "Organic Chemistry I",
+                        "note": "--",
+                        "desc": "Structure and chemical behavior of organic molecules with particular emphasis on reaction mechanisms as pathways for understanding their reactions. Stereochemistry, synthesis, and spectroscopic methods for the identification of organic functional groups are among the topics included.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE253",
+                        "name": "Organic Chemistry I Lab",
+                        "credits": "2.00",
+                        "desc": "Students carry out reactions that demonstrate techniques and the synthesis and conversion of the more important principal groups of organic compounds. There is one five hour laboratory.",
+                        "department": "Chemistry",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2230",
+                        "name": "Organic Chemistry Laboratory I",
+                        "note": "--",
+                        "desc": "Laboratory experiments dealing with basic techniques used in the synthesis and characterization of organic compounds.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECA112",
+                        "name": "The National Economy",
+                        "credits": "3.00",
+                        "desc": "Learn the theory of national income determination; the goals of full employment, price stability, and economic growth. Examine alternative uses of fiscal and monetary policy, how the national economy operates, and with what consequences.",
+                        "department": "Economics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG107",
+                        "name": "Art & Craft Of Writing",
+                        "credits": "3.00",
+                        "desc": "This introductory course in academic writing focuses on writing as a deliberative process. Students will learn to read critically, think analytically, imagine an audience, draft an argument using appropriate language and structure, and edit for clarity and correctness.",
+                        "department": "English",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG109",
+                        "name": "Intro To Creative Writing",
+                        "credits": "3.00",
+                        "desc": "Students will explore the making of stories, poems, and drama, with exercises and readings. They will learn essentials of craft and revision in each genre. By the end of the semester, each student will have generated a portfolio of their own creative and critical work.",
+                        "department": "English",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG250",
+                        "name": "The Study Of Literature",
+                        "credits": "3.00",
+                        "desc": "This gateway course for majors and minors covers the essentials of critical writing and literary interpretation. Students will refine their close reading skills across genres while engaging with various theories and methodologies of literary scholarship. The class also introduces students to the practices of effective and properly documented research.",
+                        "department": "English",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GEN110",
+                        "name": "First Year Seminar",
+                        "credits": "4.00",
+                        "desc": "A seminar designed to convey the excitement of intellectual endeavor to new college students. Many subject areas are offered, each by Professors in their specific area of interest. Seminar titles and course descriptions are available on the University's Web site (www.adelphi.edu) under General Education.",
+                        "department": "First-Year Experience",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS102",
+                        "name": "Western Civilization II",
+                        "credits": "3.00",
+                        "desc": "This course examines the Whys and Wherefores of History: its nature and functions; why historians are critics as well as recounters of the past. It surveys religion, culture, politics, and society, and selected \u201cheroes\u201d and crises in Western culture from Galileo to Iraq War II.",
+                        "department": "History",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS103",
+                        "name": "American Civilization To 1865",
+                        "credits": "3.00",
+                        "desc": "Study North American history from the colonial period through the American Civil War. Explore social and cultural interactions between diverse peoples, economic trends, and political developments including the formation of the United States.",
+                        "department": "History",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS104",
+                        "name": "American Civ Since 1865",
+                        "credits": "3.00",
+                        "desc": "Study the United States history from the Civil War through the present. Examine race relations from Reconstruction to today, industrialization, the Great Depression, the rise of the United States to world power, and social and cultural trends such as the rise of feminism, the new right and mass culture.",
+                        "department": "History",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ITA111",
+                        "name": "Level I Italian",
+                        "credits": "3.00",
+                        "desc": "Students learn through a communicative / participatory approach to the basic elements of the language, including listening, speaking, reading, writing and culture. (Learning Goals:G)",
+                        "department": "Italian",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ITA112",
+                        "name": "Level II Italian",
+                        "credits": "3.00",
+                        "desc": "Students continue work begun in Level I with an emphasis on the more advanced functions of the Language through a communicative/participatory approach and further development of cultural awareness.",
+                        "department": "Italian",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH114",
+                        "name": "Statistics For Natural Sci",
+                        "credits": "3.00",
+                        "desc": "Develops tools for making decisions when faced with data. Learn techniques for analyzing and displaying data, and performing statistical tests, using illustrative examples drawn from the sciences. Make extensive use of statistical software in integrated labs and lectures as an aid to reason.",
+                        "department": "Mathematics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH141",
+                        "name": "Calculus I",
+                        "credits": "4.00",
+                        "desc": "Master the techniques of differential calculus for single-variable functions: limits, continuity, derivatives, and antiderivatives. Refine the study of functions and trigonometry. Solve problems involving optimization and related rates. Investigate applications to science and economics.",
+                        "department": "Mathematics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH244",
+                        "name": "Intro To Ordinary Differential Equations",
+                        "credits": "3.00",
+                        "desc": "Make an in-depth study of first-order differential equations, systems of differential equations, and higher-order equations. Use numerical techniques, slope fields, phase planes, and nullclines to extract information about models. Learn techniques for solving equations: integrating factors, methods of undetermined coefficients, variation of parameters, eigenvalues, and Laplace transforms.",
+                        "department": "Mathematics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PFA108",
+                        "name": "Beginning Acting",
+                        "credits": "3.00",
+                        "desc": "Students, including non-majors, explore acting as a theatrical process seen from the actor's perspective. Through personal experience applied to reading plays and other potentially dramatic material, through improvisational exercises, character exploration and the performance of short pieces, the student begins a serious exploration of the actor's craft.",
+                        "department": "Theatre-Acting",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHI212",
+                        "name": "Ethics And Morality",
+                        "credits": "3.00",
+                        "desc": "Students examine fundamental questions of Ethics and Morality: How should I live? What makes an action right? Is there a good life? Is a moral life an illusion? Students encounter a variety of ethical and moral theories and are asked to evaluate their relevance in light of specific applied contexts.",
+                        "department": "Philosophy",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHI380",
+                        "name": "Bioethics",
+                        "credits": "3.00",
+                        "desc": "Students engage in an intensive critical inquiry of a variety of moral problems and disagreements raised by the profound advances of knowledge and technology in the area of the life sciences. Particular topics of discussion range form the ethics of health care practice to ethical concerns of psychobiology and bioengineering.",
+                        "department": "Philosophy",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 4500",
+                        "name": "Bioethics",
+                        "note": "--",
+                        "desc": "This course involves a philosophical analysis of some of the basic moral issues raised by recent and anticipated developments in the areas of biology and medicine. The general question \u201cWhat are moral problems, and how does one resolve them?\u201d is examined in the context of concrete cases involving issues such as abortion, euthanasia, organ transplants, experimentation on human patients, cloning, genetic engineering, and behavior control and modification. Cross Listed: STSO 4250. Students cannot obtain credit for both this course and STSO 4250.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY211",
+                        "name": "Math Meth In Phys I",
+                        "credits": "4.00",
+                        "desc": "An applied mathematics course covering topics relevant to the study of physics and engineering, including complex numbers; vectors and vector calculus; Fourier series and transforms; Laplace transforms; ordinary and partial differential equations; and linear algebra. Students will also be introduced to mathematical computer packages such as Mathcad.",
+                        "department": "Physics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY216",
+                        "name": "Modern Physics",
+                        "credits": "4.00",
+                        "desc": "Special theory of relativity, wave and particle features of photons and electrons. Foundations of quantum mechanics, Heisenberg's uncertainty principle, atomic structure, structure of nuclei and studies on condensed matter.",
+                        "department": "Physics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY231",
+                        "name": "Dynamics",
+                        "credits": "3.00",
+                        "desc": "Kinematics of particles, systems of particles, kinematics of rigid bodies, plane motion of rigid bodies, mechanical vibrations.",
+                        "department": "Physics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 4330",
+                        "name": "Theoretical Mechanics",
+                        "note": "--",
+                        "desc": "Particle and rigid body dynamics using Newtonian, Lagrangian, and Hamiltonian methods. Motion of particle systems. Central force motion. Rotating coordinate systems. Rigid body motion using the inertia tensor and Euler angles. Coupled systems and normal coordinates. Introduction to continuum mechanics and the mechanics of deformable media. Introduction to Hamiltonian Mechanics, including proof and applications of Liouville\u2019s Theorem. Formalism of Special Relativity. Introduction to nonlinear dynamics and chaotic behavior.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY264",
+                        "name": "Optics",
+                        "credits": "3.00",
+                        "desc": "A survey of physical optics. The electromagnetic spectrum, wave theory, lenses, mirrors, image formation, optical cavities, the superposition of waves, Fourier methods, polarization, interference, and diffraction. Ideas important to contemporary ideas in optics and lasers are stressed. A number of computer problems simulating the optical paths will be worked out in geometrical optics.",
+                        "department": "Physics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY322",
+                        "name": "Advanced Physics",
+                        "credits": "4.00",
+                        "desc": "The course is designed to provide students with advanced modern laboratory experience. A number of experiments covering atomic, nuclear, solid state and optical physics will be performed. The students will get hands-on experience in modern experimental techniques and data acquisition and analysis procedures using computers.",
+                        "department": "Physics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2350",
+                        "name": "Experimental Physics",
+                        "note": "--",
+                        "desc": "Experiments in mechanics, optics, electricity and electromagnetics, oscillations and waves, atomic, nuclear, and solid-state physics. Experimental methods, quantitative observations, and interpretation of data. This is a communicationintensive course. Contact, Lecture or Lab Hours: 9 contact hours.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY380",
+                        "name": "Electromagnetic Theory",
+                        "credits": "4.00",
+                        "desc": "A study of electric and magnetic fields: electrostatics, Gauss' law, LaPlace's and Poissons' equations, multipoles, dielectrics, magnetic induction, Bio-Savart and Ampere's law, magnetic properties of matter, Faraday's law, Maxwell's equations, energy and momentum, electromagnetic waves, and guided waves.",
+                        "department": "Physics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 4210",
+                        "name": "Electromagnetic Theory",
+                        "note": "--",
+                        "desc": "Field theory of electricity and magnetism with emphasis on solving boundary value problems. Dielectric and magnetic materials. Maxwell\u2019s equations and wave propagation with applications to optics. Relativistic electrodynamics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY428",
+                        "name": "Quantum Mechanics",
+                        "credits": "4.00",
+                        "desc": "Ideas leading to quantum mechanics; Schrodinger's equation in time-independent and time-dependent forms. One- and three-dimensional solutions of bound-state eigen value problems; scattering states; barrier penetration; the hydrogen atom; perturbation theory. Quantum mechanical description of identical particles, symmetry principles, multi-electron systems.",
+                        "department": "Physics",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 4100",
+                        "name": "Introductory Quantum Mechanics",
+                        "note": "--",
+                        "desc": "Quantum mechanics beyond Schrodinger wave mechanics. The postulates of quantum mechanics. Second quantization, Dirac notation, Hilbert spaces, perturbation theory, and applications to simple systems.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SOC100",
+                        "name": "Introduction To Sociology",
+                        "credits": "3.00",
+                        "desc": "This course focuses upon the basic principles, concepts, terminology, themes, and issues that are the building blocks of sociological analysis.",
+                        "department": "Sociology",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2520",
+                        "name": "Sociology",
+                        "note": "--",
+                        "desc": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA111",
+                        "name": "Level I Spanish",
+                        "credits": "3.00",
+                        "desc": "Students learn through a communicative / participatory approach to the basic elements of the language, including listening, speaking, reading, writing and culture. (Learning Goals:G)",
+                        "department": "Spanish",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "LANG 1000 (3cr)",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA112",
+                        "name": "Level II Spanish",
+                        "credits": "3.00",
+                        "desc": "Students continue work begun in Level I with an emphasis on the more advanced functions of the Language through a communicative/participatory approach and further development of cultural awareness.",
+                        "department": "Spanish",
+                        "catalog": "Adelphi University Undergraduate and Graduate Courses 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "LANG 1000 (3cr)",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Adirondack Community College": {
+        "city": "Queensbury",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ANT 103",
+                        "name": "Physical Anthropology",
+                        "credits": "3.000",
+                        "desc": "A survey of human variation and evolution defined in biological, behavioral, and ecological terms. Topics include human genetics, evolutionary processes, primate evolution, and human osteology. A survey of hominid fossil forms will include an examination of the interaction of biology and culture in the human species and the implications for future human change. This course satisfies the non-laboratory science requirement. Course Attributes: Gen Ed Natural Sciences, Gen Ed Social Science, Liberal Arts and Sciences, Non Lab Science, Social Science, Social Science Non-History. Fall 2022 (Term 202210) there are currently 2 Sections. Click here to Show Sections Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 2 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Anthropology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANT 105",
+                        "name": "Introduction To Archaeology",
+                        "credits": "3.000",
+                        "desc": "An introduction to archaeologists and their principal excavations. Principal features include a survey of the history of methodology and ethno-archaeology and major questions about world civilizations. Course Attributes: Gen Ed Other World, Gen Ed Social Science, Liberal Arts and Sciences, Social Science, Social Science Non-History Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Anthropology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANT 201",
+                        "name": "Native American Prehistory/culture",
+                        "credits": "3.000",
+                        "desc": "A survey of Native American Indian cultures from North America and Mesoamerica from the pre-Columbian period to the present. Includes an introduction to current theoretical issues in these culture areas. Course Attributes: Gen Ed Other World, Liberal Arts and Sciences, Social Science, Social Science Non-History Section Info: There are no sections in any term covered in the Catalog term you selected",
+                        "department": "Anthropology",
+                        "catalog": "SUNY Adirondack Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANT 204",
+                        "name": "Archaeology Field School",
+                        "credits": "1.000 TO 3.000",
+                        "desc": "Practical fieldwork experience at archaeological sites. Includes an introduction to the techniques used by archaeologists to survey, map, and excavate sites. Students will participate in identification, classification, and the initial analysis of artifacts. Additional topics will include preservation of material remains, recording archaeological data and curation. Course Attributes: Liberal Arts and Sciences, Social Science, Social Science Non-History. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Anthropology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANT 205",
+                        "name": "Archaeology Of Ancient Civilizations",
+                        "credits": "3.000",
+                        "desc": "An examination of the archaeological remains of early urban civilizations from the late prehistoric through early historic periods in the Old World. Emphasis on the development of urban cultures and the forces that led to their rise and fall, as reflected in the archaeological records. Topics will include civilizations of Europe, the Mediterranean, Mesopotamia, India, and China. Course Attributes: Gen Ed Other World, Liberal Arts and Sciences, Social Science, Social Science Non-History Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Anthropology",
+                        "catalog": "SUNY Adirondack Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANT 220",
+                        "name": "Magic, Religion And Witchcraft",
+                        "credits": "3.000",
+                        "desc": "A comparative study of supernatural beliefs and practices such as religion, magic, and witchcraft in cross-cultural settings. Topics of study include the evolution of religious practices, myth, shamanism, the religious use of drugs, Paganism, witchcraft, religious syncretism, and the role of religion in culture change. Special attention will be directed to the integration of supernatural practices into the distinctive features of the history, institutions, economy, and culture of non-Western societies. Recommended for second-year students. Course Attributes: Gen Ed Other World, Liberal Arts and Sciences, Social Science, Social Science Non-History Fall 2022 (Term 202210) there are currently 1 Sections. Click here to Show Sections Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 0 Sections. Sorry, there are currently no sections in the Spring 2023 term. Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Anthropology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANT 225",
+                        "name": "Race, Class, Gender And Ethnicity",
+                        "credits": "3.000",
+                        "desc": "An examination of how factors such as race, gender, and ethnicity are articulated in complex societies. A comparative framework is developed while investigating the historical and contemporary situations of the following groups within American society: 1) African American; 2) Native American; 3) Latino American; 4) Jewish American; and, 5) Women. Course Attributes: Liberal Arts and Sciences, Social Science, Social Science Non-History Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Anthropology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Art 101",
+                        "name": "Exploring The Visual Arts",
+                        "credits": "3",
+                        "desc": "A foundation course that gives a fundamental knowledge of the visual arts. Studio work and lectures to acquaint students with art concepts and media. Analysis of contemporary and historical works of art through field trips, discussions and demonstrations.Lecture and Studio: 4 hrs.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2004-2006"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 102",
+                        "name": "2-dimensional Design",
+                        "credits": "3.000",
+                        "desc": "A foundation course exploring problems in two dimensional design. Basic design elements of line, form, color, texture, and space used in a variety of studio exercises that give students an understanding of the fundamentals of design in visual arts. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences, Media Arts Elective Fall 2022 (Term 202210) there are currently 3 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 2 Sections. Click here to Show Sections. Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 103",
+                        "name": "Introduction To Printmaking",
+                        "credits": "3.000",
+                        "desc": "An introduction to printmaking processes using relief and intaglio. Relief processes include mono print, stencil, lino-type, and woodcut. Problems of imagery related to the medium are explored; color mixing, registration, and printing an edition are emphasized. Critiques, demonstrations and historical significance of printmaking are discussed. Students will research and write or present on a historical or contemporary artist who has worked with 3 dimensional forms. Students who earn a grade of C or above may reregister for 3 free elective credits. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences, Media Arts Elective Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 104",
+                        "name": "Photography I",
+                        "credits": "3.000",
+                        "desc": "An introductory course designed to give students proficiency in the creative, technical and aesthetic possibilities of photography. The course covers the fundamentals of digital camera operation, post-processing software, elements of design and composition, history, genres and theories of photography. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences Fall 2022 (Term 202210) there are currently 11 Sections. Click here to Show Sections Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 8 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 1 Sections. The Summer 2023 schedule will be available soon.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 105",
+                        "name": "Photography II",
+                        "credits": "3.000",
+                        "desc": "An intermediate course designed to give students proficiency in studio photography with emphasis on the study and control of light in a studio setting. The course covers the theory of portraiture including the history of portrait photography and its diverse styles in culture and society. Students learn more advanced camera techniques, theory and digital editing to create effective commercial and artistic photographs. Topics include still life, product and food photography, and group portraits. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences, Media Arts Elective Fall 2022 (Term 202210) there are currently 1 Sections. Click here to Show Sections Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 2 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 106",
+                        "name": "Drawing I",
+                        "credits": "3.000",
+                        "desc": "An introductory course in drawing. Line, form, texture, and composition are stressed through the use of various black and white media. Additional supplies required. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences Fall 2022 (Term 202210) there are currently 5 Sections. Click here to Show Sections Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 5 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 107",
+                        "name": "Drawing II",
+                        "credits": "3.000",
+                        "desc": "A course in which emphasis is on improvement of individual drawing skills, interests and knowledge of art historical precedents. The figure, still life, landscape and process are used as subjects to help students understand the creative possibilities of drawing.Continued study of art history, materials and critical theories relevant to drawing. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 108",
+                        "name": "Advertising Photography",
+                        "credits": "3.000",
+                        "desc": "An intermediate course in advertising photography. Students learn advanced camera techniques, studio lighting, digital editing and advertising theory and design to create persuasive images that sell products, lifestyles, concepts or ideas. Students will develop an in-depth understanding of conceptual ideas, history and theories in advertising and consumer behavior of individuals and cultures as it relates to commercial marketing techniques. Topics include photo illustration, editorial, fashion photography, and promotional photography. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences, Media Arts Elective Fall 2022 (Term 202210) there are currently 1 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 0 Sections. Sorry, there are currently no sections in the Spring 2023 term. Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 109",
+                        "name": "Photojournalism",
+                        "credits": "3.000",
+                        "desc": "An intermediate course designed to provide students opportunities in photojournalism. Students learn more advanced camera and post-processing techniques to create photographs that document society and diverse cultures through news, sports, travel, arts and entertainment, environmental portraits, and photo stories. The course covers the history and theory of visual communication and the ethical and legal issues in photojournalism. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences, Media Arts Elective Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 111",
+                        "name": "Western Art History I",
+                        "credits": "3.000",
+                        "desc": "A survey of western art from antiquity to 14th century, including lectures in art appreciation. Significant contributions to western art in architecture, sculpture, and painting are emphasized. Course Attributes: Gen Ed Humanities, Gen Ed The Arts, Humanities Other Than English, Humanities, Liberal Arts and Sciences Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 112",
+                        "name": "Western Art History II",
+                        "credits": "3.000",
+                        "desc": "An investigation of the role of the visual arts in the historical and cultural developments of the Western World. The survey will include major movements in European art from the Renaissance leading into the 20th century. Course Attributes: Gen Ed Humanities, Gen Ed The Arts, Humanities Other Than English, Humanities, Liberal Arts and Sciences Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 113",
+                        "name": "Introduction To Twentieth Century Art",
+                        "credits": "3.000",
+                        "desc": "A survey of architecture, painting, and sculpture in Western Europe and the United States from the late 19th century to present. Emphasis on understanding changing concepts in the visual arts as they relate to the politics and social changes in the 20th century. Course Attributes: Gen Ed Humanities, Gen Ed The Arts, Humanities Other Than English, Humanities, Liberal Arts and Sciences Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2018-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 121",
+                        "name": "3-dimensional Design",
+                        "credits": "3.000",
+                        "desc": "An introductory level course covering the practice, history and theory of three dimensional design. Design concepts of volume, line, color, and space are emphasized. Experiments with wood, cardboard, paper, and other found materials. Group and individual critiques, field trips, lectures and demonstrations. Student will study the Elements of Art and Principles of Design, and their use throughout the history of visual art and in contemporary object making. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 205",
+                        "name": "Introduction To Watercolor Painting",
+                        "credits": "3.000",
+                        "desc": "A course in techniques of painting and expressive possibilities of watercolor as an artistic medium. Problems involving color, space, form, composition. The figure, still life, and landscape as subjects used to help students understand creative possibilities of watercolor. Lectures, critiques, and demonstrations. Course may be taken twice for credit. Course Attributes: Humanities Other Than English Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 206",
+                        "name": "Introduction To American Art",
+                        "credits": "3.000",
+                        "desc": "A survey of architecture, painting, sculpture, and decorative arts in the United States from 17th century to present. Emphasis is on artistic developments which reveal distinctive and outstanding characteristics in American art. Texts, slides, lectures, and museum tours. Course Attributes: Gen Ed Humanities, Gen Ed The Arts, Humanities Other Than English, Humanities, Liberal Arts and Sciences Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2018-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 207",
+                        "name": "Painting 1",
+                        "credits": "3.000",
+                        "desc": "This is a beginning level studio art course covering the practice, history and theory of painting. Students will inquire into the purposes and roles of painting and analyze the historical and contemporary uses of the media. Emphasis will be placed on the creative application of the media. Students will explore oil painting techniques and study subjects that may include still-life, landscape and the human form. Course Attributes: Humanities Other Than English Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 208",
+                        "name": "Life Drawing",
+                        "credits": "3.000",
+                        "desc": "A course depicting the human figure through use of line, color, and form in order to develop a personal style in various graphic media; developing compositional skills using the human figure as subject. Open to artists who want to work with instruction, as needed, from the model. Course may be taken twice for credit. Course Attributes: Humanities Other Than English, Media Arts Elective Fall 2022 (Term 202210) there are currently 1 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 0 Sections. Sorry, there are currently no sections in the Spring 2023 term. Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 210",
+                        "name": "Oriental Art",
+                        "credits": "3",
+                        "desc": "An introduction to the visual arts in the historical and cultural developments of the Far East. Special emphasis is given to the arts of China, India, and Japan. The survey includes significant contributions in painting, sculpture, and architecture from prehistory to the nineteenth century.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 211",
+                        "name": "Perspective Drawing",
+                        "credits": "3.000",
+                        "desc": "The concepts of perspective apply to drawing many types of forms and spaces. Construction of perspective drawings from observation as well as from plans and elevations will be explored with freehand sketching as well as more mechanical drawing processes. Subject matter will include interior and exterior spaces as well as single objects and the study of methods for constructing cast shadows from interior and exterior light sources. While students interested in pursuing degrees in Interior Design or Architecture may build a portfolio of work through this course, this is an introductory level class that is open to anyone wishing to learn more about perspective. Course Attributes: Humanities Other Than English. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 215",
+                        "name": "Introduction To Museum Studies",
+                        "credits": "3.000",
+                        "desc": "This course is an examination of many aspects of the museum world. Class visits to local and regional museums and discussions with museum professionals lay the foundation for understanding the purpose of the museum in today's society. Attention is given to the art historical context for specific objects within museums. Course Attributes: Gen Ed Humanities, Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences . Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2018-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 220",
+                        "name": "Photographic Project Development",
+                        "credits": "3.000",
+                        "desc": "An intermediate course that builds upon the technical, aesthetic, and visual language of digital photography with emphasis on fine art photography. The course covers the history and theories of art photography from its beginnings in the mid-19th century through postmodernism. The works of photographers across cultures are examined and students are encouraged to experiment with different modes of photographic expression in pursuit of a personal theme. Class final is in the form of a public exhibit. This course offers the opportunity to develop a portfolio and may be repeated once for free elective credit. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences, Media Arts Elective Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 222",
+                        "name": "Graphic Arts I",
+                        "credits": "3.000",
+                        "desc": "An introductory level course covering the practice, history, and theory of graphic artwork and design. Exercises related to line, shape, color theory, space, communication, and critique will be explored. Students will develop a strong understanding of design theory and acquire the tools and techniques used in both historical and contemporary graphic artwork while developing portfolio items. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences. Fall 2022 (Term 202210) there are currently 11 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 4 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 1 Sections. The Summer 2023 schedule will be available soon.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2660",
+                        "name": "Introduction To Graphic Design",
+                        "note": "COMM 2660 (3 cr)",
+                        "desc": "This course introduces students to the practice of graphic design with a variety of hands-on projects. Studies include the principles and theories of 2D design and the integration of form, color, type, image, and content. Students will develop a heightened visual awareness and an understanding of how design influences meaning. The course emphasizes strategic and critical thinking in the solving of graphic design problems for the purposes of professional communication across a range of media platforms.",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2024",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 250",
+                        "name": "Multimedia Design",
+                        "credits": "3.000",
+                        "desc": "This course explores the theory and development of multimedia messages using a variety of media. Emphasis is placed on the creative use of electronic presentation systems in planning, design, and production. Includes the study of how different forms of media relate to one another, animation & storyboarding, interactivity, and audio production. Course Attributes: Humanities Other Than English, Media Arts Elective. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 251",
+                        "name": "Web Design I",
+                        "credits": "3.000",
+                        "desc": "An introductory course that focuses strongly on immersing students in the broadening web environment. Students will design projects with an emphasis on web standards in aesthetics and interface design with a supplemental investigation into the development of web pages. Industry standards will be employed in the creation of web based projects. Course Attributes: Humanities Other Than English, Media Arts Elective Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 252",
+                        "name": "Graphic Arts II",
+                        "credits": "3.000",
+                        "desc": "An intermediate level course covering the practice, history, and theory of graphic artwork and design. Instruction, demonstrations, and exercises related to the Elements of Art and Principles of Design will be explored. Students are encouraged to explore conceptual topics related to both historical and modern design themes. Creativity is fostered by producing work based on original imagery and ideas. Students will regularly participate in group discussion and critiques to analyze their own and peer\u2019s portfolio items. Course Attributes: Gen Ed The Arts, Humanities Other Than English, Liberal Arts and Sciences, Media Arts Elective. Fall 2022 (Term 202210) there are currently 2 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 6 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 253",
+                        "name": "Digital Prepress",
+                        "credits": "3.000",
+                        "desc": "A survey of digital prepress, layout, and composition as related to the use of type and placement of graphics. Through class instruction, demonstrations and lab exercises, students will learn the tools, menus and layout functions of software currently used in the field. Assignments will incorporate all information given during class, reflecting 'real world' deadlines as well as a working knowledge of leading pagination applications. This can include the placement of text, illustration, and photos in identity systems, ads, flyers, newsletters, booklets, brochures, and packaging. Course Attributes: Humanities Other Than English, Media Arts Elective Fall 2022 (Term 202210) there are currently 3 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 0 Sections. Sorry, there are currently no sections in the Spring 2023 term. Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 254",
+                        "name": "Web Design II",
+                        "credits": "3.000",
+                        "desc": "An intermediate course in web design that places emphasis on development and independently driven learning and investigation. Students will design intricate websites using industry standard methods. Course Attributes: Humanities Other Than English Section Info: There are no sections in any term covered in the Catalog term you selected..",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 255",
+                        "name": "Topics In Media Arts",
+                        "credits": "3.000",
+                        "desc": "A capstone course for students in the Media Arts program designed to give students an opportunity to pursue individual projects in the media arts. The course covers topics in media arts through a variety of approaches that may include digital media, graphic publications, exhibitions, advertising campaigns, the Internet, and audio and video production. Emphasis is on the relationship between graphic design, photography, and video and the media industries, professional oractices, freelance work, copyright law, and contracts. Students will plan, organize, and create workable projects for specific media outlets. Class projects will be on display in a public exhibit. Course Attributes: Humanities Other Than English Fall 2022 (Term 202210) there are currently 1 Sections. Click here to Show Sections Winter 2023. (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 2 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 290B",
+                        "name": "Portfolio Development: Graphic Design",
+                        "credits": "1.000",
+                        "desc": "A capstone course focusing on portfolio and presentation techniques for graphic design. Students critique and refurbish course work and develop a selection for portfolio presentation to an outside expert. Students also create the content and design for a resume and self promotion piece. Course Attributes: Humanities, Liberal Arts. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 291",
+                        "name": "Advanced Arts Workshop",
+                        "credits": "1.000 TO 3.000",
+                        "desc": "Seminar offered in various points of interest related to both the Media Arts and Fine Arts. Workshop-styled coursework will offer an in-depth technical approach to special areas of interest for students for students enrolled in the Media Arts or Fine Arts program. Course may be taken multiple times for a maximum of 4 credits toward a Degree or Certificate. Course Attributes: Humanities Other Than English, Media Arts Elective. Fall 2022 (Term 202210) there are currently 1 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 1 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term. (ACC Credit level ART 102 Minimum Grade of D- or ACC Credit level ART 103 Minimum Grade of D- or ACC Credit level ART 104 Minimum Grade of D- or ACC Credit level ART 105 Minimum Grade of D- or ACC Credit level ART 106 Minimum Grade of D- or ACC Credit level ART 107 Minimum Grade of D- or ACC Credit level ART 108 Minimum Grade of D- or ACC Credit level ART 109 Minimum Grade of D- or ACC Credit level ART 110 Minimum Grade of Dor ACC Credit level ART 121 Minimum Grade of D- or ACC Credit level ART 202 Minimum Grade of D- or ACC Credit level ART 205 Minimum Grade of D- or ACC Credit level ART 207 Minimum Grade of D- or ACC Credit level ART 208 Minimum Grade of D- or ACC Credit level ART 209 Minimum Grade of D- or ACC Credit level ART 220 Minimum Grade of D- or ACC Credit level ART 222 Minimum Grade of D- or ACC Credit level ART 223 Minimum Grade of Dor ACC Credit level ART 224 Minimum Grade of D- or ACC Credit level ART 225 Minimum Grade of D- or ACC Credit level ART 250 Minimum Grade of D- or ACC Credit level ART 251 Minimum Grade of D- or ACC Credit level ART 252 Minimum Grade of D- or ACC Credit level ART 253 Minimum Grade of D- or ACC Credit level ART 254 Minimum Grade of D- or ACC Credit level ART 255 Minimum Grade of D- or ACC Credit level COM 175 Minimum Grade of Dor ACC Credit level COM 181 Minimum Grade of D-) and (ACC Credit level ART 102 Minimum Grade of D- or ACC Credit level ART 103 Minimum Grade of D- or ACC Credit level ART 104 Minimum Grade of D- or ACC Credit level ART 105 Minimum Grade of D- or ACC Credit level ART 106 Minimum Grade of D- or ACC Credit level ART 107 Minimum Grade of D- or ACC Credit level ART 108 Minimum Grade of D- or ACC Credit level ART 109 Minimum Grade of Dor ACC Credit level ART 110 Minimum Grade of D- or ACC Credit level ART 121 Minimum Grade of D- or ACC Credit level ART 202 Minimum Grade of D- or ACC Credit level ART 205 Minimum Grade of D- or ACC Credit level ART 207 Minimum Grade of D- or ACC Credit level ART 208 Minimum Grade of D- or ACC Credit level ART 209 Minimum Grade of D- or ACC Credit level ART 220 Minimum Grade of D- or ACC Credit level ART 222 Minimum Grade of Dor ACC Credit level ART 223 Minimum Grade of D- or ACC Credit level ART 224 Minimum Grade of D- or ACC Credit level ART 225 Minimum Grade of D- or ACC Credit level ART 250 Minimum Grade of D- or ACC Credit level ART 251 Minimum Grade of D- or ACC Credit level ART 252 Minimum Grade of D- or ACC Credit level ART 253 Minimum Grade of D- or ACC Credit level ART 254 Minimum Grade of D- or ACC Credit level ART 255 Minimum Grade of Dor ACC Credit level COM 175 Minimum Grade of D- or ACC Credit level COM 181 Minimum Grade of D-)",
+                        "department": "Art",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AST 113",
+                        "name": "Introduction To Astronomy",
+                        "credits": "4.000",
+                        "desc": "A survey of the nature and evolution of the solar system, the life cycles of stars, the nature of galaxies, clusters of galaxies, and the structure and origin of the universe. The physics of light, gravity, and planetary motion are considered in a historical framework. Labs involve computer simulation of the use of research grade telescopes and the use of basic mathematics, including algebra and trigonometry, to reach conclusions about observed celestial objects. Outdoor observing using amateur telescopes occurs as weather permits. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science, Math/Science Core Req Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Astronomy",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ASTR 1000",
+                        "name": "Astronomy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Astronomy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 105",
+                        "name": "Human Anatomy",
+                        "credits": "4.000",
+                        "desc": "A survey course with attention given to cells, tissues, organs and systems of the human organism. Medical terminology and clinical considerations are also an important component of the class. The laboratory work complements and illustrates the lecture material. Serves as a lab science course for students pursuing a non-science major program of study. Not open to students with credit in BIO 107 and/or BIO 108. Cannot be used toward major requirements for the Math-Science A.S. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 107",
+                        "name": "Human Anatomy And Physiology I",
+                        "credits": "0.000 OR 4.000",
+                        "desc": "Bio 107 is the first part of a two semester integrated study of the anatomy and physiology of the human body. Biochemical, cellular, tissue, organ, and organ system study will be emphasized. Organ systems to be studied in Bio 107 include: integumentary, skeletal, muscular and nervous systems. Prerequisites: (ACC Credit level BIO 103 Minimum Grade of C or HS Biology 1920 080 or Regents Biology 080) and (ACC Credit level CHM 103 Minimum Grade of C or HS Chemistry 1920 080 or Regents Chemistry 080) or ACC Credit level BIO 111 Minimum Grade of C or ACC Credit level BIO 112 Minimum Grade of C or ACC Credit level BIO 113 Minimum Grade of C or ACC Credit level BIO 114 Minimum Grade of C or ACC Credit level BIO 205 Minimum Grade of C or ACC Credit level BIO 212 Minimum Grade of C or ACC Credit level BIO 213 Minimum Grade of C or ACC Credit level BIO 215 Minimum Grade of C and ACC Credit level CHM 104A Minimum Grade of C and ACC Credit level CHM 104B Minimum Grade of C or ACC Credit level CHM 111 Minimum Grade of C or ACC Credit level CHM 112 Minimum Grade of C or ACC Credit level CHM 203 Minimum Grade of C or ACC Credit level CHM 204 Minimum Grade of C. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science, Math/Science Core Req Fall 2022 (Term 202210) there are currently 9 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 5 Sections. Click here to Show Sections. Summer 2023 (Term 202305) there are currently 3 Sections. The Summer 2023 schedule will be available soon.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 108",
+                        "name": "Human Anatomy & Physiology II",
+                        "credits": "0.000 OR 4.000",
+                        "desc": "The second course in an integrated study of the anatomy and physiology of the human body. The following systems are covered: endocrine, circulatory, lymphatic, immune, digestive, respiratory, urinary, and reproductive. Emphasis will be at the biochemical, cellular, tissue, organ, and organ system levels. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science, Math/Science Core Req Fall 2022 (Term 202210) there are currently 4 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 7 Sections. Click here to Show Sections. Summer 2023 (Term 202305) there are currently 3 Sections. The Summer 2023 schedule will be available soon.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 110",
+                        "name": "Introduction To Marine Biology",
+                        "credits": "3.000",
+                        "desc": "An introduction to life in the world's oceans and seas. Core biological concepts are also considered as they apply to the marine environment. Can not be used toward the major requirement for the Math-Science AS degree. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Non Lab Science. Fall 2022 (Term 202210) there are currently 1 Sections. Click here to Show Sections Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 1 Sections. Click here to Show Sections. Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 111",
+                        "name": "General Biology I",
+                        "credits": "0.000 OR 4.000",
+                        "desc": "A course involving the major topics in the modern study of animals, including their evolution, classification, anatomy and physiology, life history, behavior and ecology. General principles of biology as they relate to animals are also incorporated into the course, such as cell biology, metabolism and genetics. Laboratory work complements the lecture material, and also provides a survey of the major animal phyla. The course is designed to prepare biology majors for upper division courses in the biological sciences, as well as provide all science majors a strong background in biology. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science, Math/Science Core Req Fall 2022 (Term 202210) there are currently 3 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 1 Sections. Click here to Show Sections Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 112",
+                        "name": "General Biology II",
+                        "credits": "0.000 OR 4.000",
+                        "desc": "A survey of the plant kingdom, including fungi and algae, with emphasis on structure and function, physiology, taxonomy, ecology, and practical aspects. The weekly laboratory examines plant diversity, physiology, and practical botany including identification and horticulture. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science, Math/Science Core Req Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 113",
+                        "name": "Microbiology",
+                        "credits": "0.000 OR 4.000",
+                        "desc": "An integrated study of the biology of microorganisms and how their existence impacts other living things. Classic and advanced microbiology techniques are employed in the laboratory. Additional time beyond the schedule lab period will be required. Prerequisites: (ACC Credit level BIO 103 Minimum Grade of C or HS Biology 1920 080 or Regents Biology 080) and (ACC Credit level CHM 103 Minimum Grade of C or HS Chemistry 1920 080 or Regents Chemistry 080) or ACC Credit level BIO 107 Minimum Grade of C or ACC Credit level BIO 108 Minimum Grade of C or ACC Credit level BIO 111 Minimum Grade of C or ACC Credit level BIO 112 Minimum Grade of C or ACC Credit level BIO 114 Minimum Grade of C or ACC Credit level BIO 205 Minimum Grade of C or ACC Credit level BIO 212 Minimum Grade of C or ACC Credit level BIO 213 Minimum Grade of C or ACC Credit level BIO 215 Minimum Grade of C and ACC Credit level CHM 104A Minimum Grade of C and ACC Credit level CHM 104B Minimum Grade of C or ACC Credit level CHM 111 Minimum Grade of C or ACC Credit level CHM 112 Minimum Grade of C or ACC Credit level CHM 203 Minimum Grade of C or ACC Credit level CHM 204 Minimum Grade of C. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science, Math/Science Core Req. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 114",
+                        "name": "Human Nutrition",
+                        "credits": "3.000",
+                        "desc": "A course in nutritional science with an emphasis on biochemical and physiological principles. The structure, function, digestion, absorption, and metabolism of nutrients with an emphasis on how poor dietary habits contribute to the development of diseases will also be covered. Topics include food labels, personal diet analysis, energy balance, nutrition for athletes, metabolic effects of alcohol, and other topics of interest. Does NOT fulfill a laboratory science requirement. Course Attributes: Gen Ed Natural Sciences, Liberal Arts, Math/Science Core Req, Non Lab Science Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2016-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 205",
+                        "name": "General Ecology",
+                        "credits": "0.000 OR 4.000",
+                        "desc": "General Ecology is the examination of ecosystem principles from practical and theoretical perspectives through the study of interactions between organisms and their environment. Topics include nutrient cycles, population dynamics, species interactions, physiological responses to the environment, and landscape processes. Weekly labs complement the lecture material providing a survey of ecological concepts and techniques. This course is utilized for SUNY General Education Natural Sciences requirements and for LAMS Degree Program students, specifically LAMS- Biology Concentration students transferring into 4-year programs. Course Attributes: Gen Ed Natural Sciences, Liberal Arts and Sciences, Lab Science, Math/Science Core Req. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 212",
+                        "name": "Genetics",
+                        "credits": "4.000",
+                        "desc": "The major topics of modern genetics are studied; including Mendelian genetics, chromosomal genetics, molecular genetics, mutation, bacterial/viral genetics, recombinant DNA, and population/evolutionary genetics. Conceptual understanding and techniques of genetic analysis are emphasized. Laboratory work ranges from the traditional use of Drosophila to study the transmission of genes to the modern molecular techniques of genetic engineering. Students also complete an independent research project of their own choosing and design. Course Attributes: Liberal Arts and Sciences, Lab Science, Math/Science Core Req. Section Info: There are no sections in any term covered in the Catalog term you selected.",
+                        "department": "Biology",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2500",
+                        "name": "Genetics And Evolution",
+                        "note": "--",
+                        "desc": "Mechanisms of inheritance in eukaryotes and prokaryotes; genetic mapping, gene expression, cloning and sequencing; quantitative and population genetics, and synthetic theory of evolution.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS 102",
+                        "name": "Principles Of Management",
+                        "credits": "3.000",
+                        "desc": "This course develops both the content and process issues of management. Defines the functional activities of planning, organizing, staffing, directing and controlling, while stressing the areas of communications, decision making, group dynamics, conflict resolution, motivation, leadership, and individual self-improvement. The art of delegation is explored in the issues of authority, accountability, and responsibility. Fall 2022 (Term 202210) there are currently 9 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 11 Sections. Click here to Show Sections. Summer 2023 (Term 202305) there are currently 1 Sections. The Summer 2023 schedule will be available soon.",
+                        "department": "Business",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS 147",
+                        "name": "Management Accounting",
+                        "credits": "4.000",
+                        "desc": "An introduction to management accounting as used in the decision-making process with a focus on the internal user of accounting information as related to the management functions of planning, motivating and controlling. Topics include: job order, process-and activity-based costing, cost-volume-profit relationships, budgeting, responsibility accounting, standard costing, incremental analysis, capital budgeting and other current topics. Computer applications may be part of this course. Fall 2022 (Term 202210) there are currently 2 Sections. Click here to Show Sections. Winter 2023 (Term 202215) there are currently 0 Sections. Sorry, there are currently no sections in the Winter 2023 term. Spring 2023 (Term 202220) there are currently 2 Sections. Click here to Show Sections. Summer 2023 (Term 202305) there are currently 0 Sections. Sorry, there are currently no sections in the Summer 2023 term.",
+                        "department": "Business",
+                        "catalog": "SUNY Adirondack Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2300",
+                        "name": "Financial Accounting In The Digital Age",
+                        "note": "--",
+                        "desc": "An introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, long term liabilities, and equity. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Adrian College": {
+        "city": "Adrian",
+        "state": "MI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART101",
+                        "name": "Two-dimensional Design",
+                        "credits": "3",
+                        "desc": "Design elements, principles, processes and media in two dimensions, in a variety of visual concepts in both black and white and color. Studio. (ARTS).",
+                        "department": "Art And Design",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2220",
+                        "name": "Fundamentals Of 2d Design",
+                        "note": "--",
+                        "desc": "An introductory course which will present basic concepts about composition, line, pictorial space, light, and color in the visual arts in order to help students develop the means for expressing visual ideas effectively. Weekly homework design projects, using both traditional and electronic media, will be complemented by in-class slide lectures, videos, and critiques.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART103",
+                        "name": "Drawing From Life",
+                        "credits": "3",
+                        "desc": "Emphasizes developing drawing, design and technical skills in a variety of black and white media by working from real objects and models in the studio. (ARTS).",
+                        "department": "Art And Design",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART215",
+                        "name": "Beginning Photography",
+                        "credits": "3",
+                        "desc": "Learn camera operation, digital image editing and skills to improve as a photographer. While refining technical skills, there is also an emphasis on developing aesthetic sensitivity and appreciation of the medium as a potent vehicle for communication. Studio. (ARTS).",
+                        "department": "Art And Design",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM102",
+                        "name": "Principles & Practices Of Public Speaking",
+                        "credits": "3",
+                        "desc": "Introduction to public speaking. Students gain experience in their ability to develop critical insights on public address performance. Work with electronic media performance is included.",
+                        "department": "Communication Arts And Sciences",
+                        "catalog": "Adrian College Undergraduate 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 101",
+                        "name": "First-year Writing",
+                        "credits": "4",
+                        "desc": "Development of composing and revising skills throughout the writing process. Instruction in academic report writing, including: 1) library, interview and on-line research; 2) issues of plagiarism; and 3) methods of documentation. Includes small group workshops and individual conferences with instructor. (Required of all students except may be waived through AP placement examination; must be repeated if grade earned is NC).",
+                        "department": "English",
+                        "catalog": "Adrian College Undergraduate 2014-2016"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 103",
+                        "name": "Western Civilization I",
+                        "credits": "3",
+                        "desc": "An introduction to the history and culture of Europe from 3000 BCE to 1650 CE, emphasizing ancient civilizations, medieval Europe, the Renaissance, and the Reformation. May be used toward fulfillment of the European History requirement. (HUMANITIES).",
+                        "department": "History",
+                        "catalog": "Adrian College Undergraduate 2016-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 104",
+                        "name": "Western Civilization II",
+                        "credits": "3",
+                        "desc": "An introduction to the history and culture of Europe from 1715 to the present, emphasizing the Enlightenment, the French Revolution, industrialization, nationalism, imperialism, fascism, World Wars I and II, the Cold War, and contemporary intellectual, political and social changes. May be used toward fulfillment of the European history requirement. (HUMANITIES).",
+                        "department": "History",
+                        "catalog": "Adrian College Undergraduate 2016-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INTD224",
+                        "name": "History Of Architecture & Interiors II",
+                        "credits": "3",
+                        "desc": "History of Architecture and Interiors from the 19th Century through today.",
+                        "department": "Interior Design",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 4120",
+                        "name": "Cloud Atlas: 20th Century Architecture, Culture And Civilization",
+                        "note": "--",
+                        "desc": "Building on the knowledge, critical perspectives, and abilities that students have acquired in the previous courses in the history, theory, and criticism sequence, this course begins a study of the ideas, values, theories, and practices that contributed to the rise of modernity in the western world and eventually on a global scale. This course explores the ideal of modernity as both a cultural phenomenon and as a technological enframing of the world, scientific rationality, historical consciousness, etc.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH135",
+                        "name": "Calculus & Analytic Geometry I",
+                        "credits": "4",
+                        "desc": "Topics include mathematical modeling, transcendental functions, parametric equations and functions in parametric form, limits, continuity, differentiation, integration, and related applications.",
+                        "department": "Mathematics",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH205",
+                        "name": "Calculus & Analytic Geometry II",
+                        "credits": "4",
+                        "desc": "Topics include principles of integral evaluation, applications of the definite integral to geometry, science, and engineering, mathematical modeling with first-order differential equations, sequences, infinite series, and various tests of convergence.",
+                        "department": "Mathematics",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH304",
+                        "name": "Theory Of Probability",
+                        "credits": "3",
+                        "desc": "Descriptive statistics, probability and counting techniques, discrete and continuous distributions, moment generating functions, multivariate and conditional distributions, the correlation coefficient, and least squares regression.",
+                        "department": "Mathematics",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATP 2000",
+                        "name": "\"mathematical Programming, Probability, And Statistics Elective\"",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematical Programming Probability",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MLCJ215",
+                        "name": "Japanese Film",
+                        "credits": "3",
+                        "desc": "This course investigates the language and culture of Japan through its films. Surveying Japanese films from a variety of genres, students are exposed to a non-Western version of a quintessentially Western art form. No prior knowledge of Japanese language necessary. (HUMANITIES, NON-WESTERN).",
+                        "department": "Modern Languages And Cultures - Japanese",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL105",
+                        "name": "Logic",
+                        "credits": "3",
+                        "desc": "How arguments are formulated and evaluated, analysis of the role of language in communication and training in the detection of common fallacies. Includes categorical, propositional, and predicate logic. (PHILOSOPHY/RELIGION).",
+                        "department": "Philosophy",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS205",
+                        "name": "General Physics I",
+                        "credits": "3",
+                        "desc": "This two-semester course sequence is a calculus-based survey of physics including mechanics, thermodynamics, electricity and magnetism, optics, and relativity. (Open to freshmen who meet these requirements). (NATURAL SCIENCE).",
+                        "department": "Physics",
+                        "catalog": "Adrian College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Albany College Of Pharmacy And Health Sciences": {
+        "city": "Albany",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 101",
+                        "name": "General Biology I",
+                        "credits": "4",
+                        "desc": "This course emphasizes critical thinking and scientific analysis while dealing with the molecular and cellular aspects of life. Major topics covered include biological molecules, cellular structure, cellular metabolism, Mendelian genetics, molecular genetics, classification of organisms and the principles of evolution. Laboratory exercises concentrate on the scientific process and method while examining cell structure, tissue structure, molecular genetics and biotechnology. The themes of self-discovery and individual scientific investigation run throughout this course. This is the initial course in biological sciences for BS students. Course prerequisites requiring BIO 101 are also satisfied by BIO 111 and vice versa. Lecture and Laboratory.",
+                        "department": "Biology",
+                        "catalog": "Albany College of Pharmacy and Health Sciences 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 102",
+                        "name": "General Biology II",
+                        "credits": "4",
+                        "desc": "This course continues to emphasize critical scientific thinking while focusing on the diversity of animal life and the complex interactions that occur between organisms and their environment. Major topics covered include a phylogenetic survey of organisms and an introduction to the comparative physiology of the major vertebrate organ systems. The final area covered in the course is Ecology. Topics in this section include population ecology, community ecology, ecosystems, biomes and a discussion of the future challenges to the biosphere. Laboratory exercises continue to concentrate on scientific thinking and selfdiscovery. This is the second course in the biological sciences for BS Students. Course prerequisites requiring BIO 102 are also satisfied by BIO 121 and vice versa. Lecture and Laboratory.",
+                        "department": "Biology",
+                        "catalog": "Albany College of Pharmacy and Health Sciences 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    }
+}
