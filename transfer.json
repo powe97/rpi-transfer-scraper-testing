@@ -30170,5 +30170,1477 @@
                 "end": "--"
             }
         ]
+    },
+    "Bellevue College": {
+        "city": "Bellevue",
+        "state": "WA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 105",
+                        "name": "Art Appreciation",
+                        "credits": "1-5",
+                        "desc": "Illustrates the visual components of art and artistic techniques and briefly surveys art history. Suggested for non-art majors. Course Outcomes: Students are able to express a holistic view of the visual arts. Art Appreciation is not as structured a class as Art History. Students understand how to look at art and are able to discuss what they should be seeing and why. They are able to describe why art exists and why it is important to study it. Students are able to articulate reasons for and functions of art along with connections to philosophy, history, economics, literature and many other areas. In highly descriptive essays students will be able to record their reactions to works of art viewed in local galleries and museums. Students be able to discuss works of art using the visual Elements of Style as well as various background readings, that provide knowledge of the time periods. Students will be able to recognize style period within Western Art. Students will overcome a fear of art and be encouraged to visit museums as a \u201cfun\u201d activity which will enrich their lives. GenEd Outcomes: Creative and Critical Thinking: Aesthetic Awareness. GenEd Outcomes: Communication: Visual.",
+                        "department": "Art",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 112",
+                        "name": "Three-dimensional Design",
+                        "credits": "5",
+                        "desc": "Introduces use of the third dimension in design. Students work with wood, metal, etc., to create objects using mass, space, time, and light. Course Outcomes: Conceptualization; How does one-form ideas. The creative process, originality and sources. Design; Ideas becoming physical. The student will have the experience of the four basic elements of : mass, space, time, and light. Craftsmanship; The student will have the experience of working with a variety of materials. In this process the student will learn the safe operation of the tools needed to complete the task. Research; The student will learn the importance of cocumentation of the creative process. Students will develop attitudes toward creative activity that will be useful regardless of their future professions. Students will develop vocabulary, both visual and verbal to serve as the basis for constructive criticism and exchange of ideas. To establish a starting point for the student\u2019s exploration into designing in three dimensions. Performance class. GenEd Outcomes: Communication: Visual.",
+                        "department": "Art",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 120",
+                        "name": "Drawing I",
+                        "credits": "5",
+                        "desc": "Teaches basic visual and drawing skills. Students use charcoal and pencil to draw objects and forms from direct observation in the studio. Course Outcomes: See formal components of a subject and translate them accurately, with correct scale, proportion and contour. Translate visual images with contour lines only. Observe and translate light & shadow on a subject using a wide range of values. Plan and determine compositional variables in a drawing. Create the illusion of advanced space in a drawing through the use of atmospheric perspective. Observe and translate an applicable interior space with 1 point perspective. Analyze and verbally articulate drawing objectives in a formal critique/review process. Create drawings using the medium of charcoal. Performance class. GenEd Outcomes: Creative and Critical Thinking: Aesthetic Awareness.",
+                        "department": "Art",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 140",
+                        "name": "General Inorganic & Physical Chemistry I",
+                        "credits": "6",
+                        "desc": "First in a three-course chemistry sequence for science and engineering students. The 140/150/160 series covers atomic structure, stoichiometry, solutions, gas laws, periodic law, bonding, molecular orbital theory, colligative properties, radioactivity, thermochemistry, equilibrium, acids, bases, oxidation-reduction, electrochemistry, kinetics, and simple organic chemistry. Courses in the series take a quantitative approach; format includes lecture, discussion, and laboratory.",
+                        "department": "Chemistry",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 150",
+                        "name": "General Inorganic & Physical Chemistry II",
+                        "credits": "6",
+                        "desc": "Second in a three-course chemistry sequence for science and engineering students. .",
+                        "department": "Chemistry",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 160",
+                        "name": "General Inorganic & Physical Chemistry III",
+                        "credits": "6",
+                        "desc": "Third in a three-course chemistry sequence for science and engineering students.",
+                        "department": "Chemistry",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM& 163",
+                        "name": "General Chemistry III",
+                        "credits": "6",
+                        "desc": "Third in a three-course chemistry sequence for science and engineering students. Course Outcomes: Explain how equilibrium concepts apply to chemical systems, including acids and bases, slightly soluble ionic compounds, and complex ions. Solve word problems for chemical systems at equilibrium to determine equilibrium constants, pH, and concentrations. Predict and quantify the chemical behavior of acids and bases in aqueous solutions. Discuss and quantify the effects of the thermodynamic properties of enthalpy, entropy, and free energy on chemical equilibria. Analyze the relationship between cell potential, free energy, and the equilibrium constant for electrochemical redox reactions in aqueous and electrochemical systems. Combine valence bond theory and crystal field theory to examine magnetism, color, and biochemical and industrial applications in coordination compounds. Develop laboratory practices for conducting experiments and reporting experimental results within the context of the scientific method (including the proper application of significant figures, precision, and accuracy). Future plans: Use laboratory generated data and supporting activities to reach sound conclusions about chemical phenomena, models, concepts, and theories. GenEd Outcomes: Creative and Critical Thinking: Scientific Inquiry (Nature of Science). Quantitative/Symbolic Reasoning.",
+                        "department": "Chemistry",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMST 136",
+                        "name": "Writing For The Web",
+                        "credits": "5",
+                        "desc": "Introduces the cognitive, creative, and technical tools needed to effectively create text and publish ideas for the World Wide Web. Students explore and practice styles of writing to communicate effectively in various online settings. Course Outcomes: Define a variety of terms associated with Web communications Construct a web document that demonstrates how to best organize and design written content for Web audiences Analyze and evaluate the integrated use of photos, graphics, video, and text on an existing Web site from the standpoint of best information design practices Create an online blog using a free online publishing application that incorporates images, diagrams, links, and video, supported by a written language style appropriate to a chosen target audience Develop a team-based marketing plan that incorporates a blog along with associated social networking media and various components used in Web-based campaigns Explain the difference between copyright and open source and how each can be used to both protect and/or selectively share creative work Produce written materials on the Web that can be made accessible to users with disabilities. GenEd Outcomes: Communication: Writing.",
+                        "department": "Communication Studies",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMST 280",
+                        "name": "Intercultural Communication",
+                        "credits": "5",
+                        "desc": "Examines the relationship between culture and various aspects of the communication process. Students explore cultural identity, bias, and worldview. Students practice skills that contribute to intercultural competence in a variety of contexts. Course Outcomes: Define culture and explain its elements Describe the characteristics of intercultural competency and apply to various intercultural situations Define ethnocentrism and bias and explain their influence on perception of self and others Identify and critically analyze one\u2019s own cultural identities and worldview in relation to intercultural interactions GenEd Outcomes: Connections: Cultural Diversity. Ethics.",
+                        "department": "Communication Studies",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 210",
+                        "name": "Fundamentals Of Computer Science I",
+                        "credits": "5",
+                        "desc": "Introduces computer science and programming for CS majors. Students learn design and implementation of algorithms and programming in a structured, modular language, with emphasis on problem solving, program design, and style. Course Outcomes: Solve computer programming problems using current industry standards in software engineering; editing, compiling, and executing code; which is structured in maintainable style with programmer comments (documentation). Define the concepts of data types, specifically the use of primitive data versus object, accessing and creating methods, their parameters passed, and returned. Use procedural decomposition to construct programming solutions using decision controls (if, else), repetitions (for, do while), and external file reading (secondary storage). Utilize simple data structures such as arrays and classes to solve complex problems, and use an Integrated Development Environment (IDE) to fix potential errors identified with code testing concepts. GenEd Outcomes: Creative and Critical Thinking: Quantitative/Symbolic Reasoning.",
+                        "department": "Computer Science \u2013 Transfer",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 211",
+                        "name": "Fundamentals Of Computer Science II",
+                        "credits": "5",
+                        "desc": "Continues CS 210, with data structures algorithm analysis and inheritance. Students learn to create collections, lists, binary trees, and sets. Other topics include sets, generic data types, sorting, recursion, run-time complexity, and graphical user interfaces. Course Outcomes: Create classes via inheritance, use their objects to demonstrate polymorphism of both interfaces and abstract classes; and explain the role of generic class templates within classes. Explain the principles of recursion versus repetition, and write recursive methods for a variety of tasks. Implement and contrast the uses of various data structures including arrays, sets, lists, collections, and trees. Recognize the use of Big-O notation to explain program performance in searching, sorting, recursion, and implementation of existing methods from a software API (Application Programming Interface). Compose programs that facilitate error handling using API standard Exceptions with try-catch blocks. Design programs using a Graphical User Interface (GUI) and event driven programming. GenEd Outcomes: Creative and Critical Thinking: Quantitative/Symbolic Reasoning.",
+                        "department": "Computer Science \u2013 Transfer",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 201",
+                        "name": "Introduction To Economics: Microeconomics",
+                        "credits": "5",
+                        "desc": "Investigates the responses of individual economic agents to incentives. This course provides the framework for analyzing simple models of choices for individual markets and industries within a mixed economy. The structure and outcomes of the basic model can then be modified to analyze a variety of market structures and be used to address a range of social issues, using the common policy goals of efficiency and equity.",
+                        "department": "Economics",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 101",
+                        "name": "Written Expression",
+                        "credits": "5",
+                        "desc": "Develops clear, effective writing skills and emphasizes writing as a process. Students practice writing in a variety of forms and modes. Either ENGL 101 or COMM 141 meets a written communication course requirement at BCC.",
+                        "department": "English",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 109",
+                        "name": "Information Resources",
+                        "credits": "3",
+                        "desc": "A hands-on course designed to equip students with the fundamentals of information literacy and critical thinking. These fundamentals allow students to effectively identify, retrieve, and evaluate information from a variety of sources. Course is designed to support students\u2019 academic, professional, and personal goals.",
+                        "department": "English",
+                        "catalog": "Bellevue College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 201",
+                        "name": "The Research Paper",
+                        "credits": "5",
+                        "desc": "Develops skills required for writing research papers. Students learn research techniques, source analysis, thesis development, argumentation styles, and summarizing. Either ENGL 102 or ENGL 201 may be taken for credit, not both. Note: Fulfills a written communication course requirement at BC. Course Outcomes: Locate and evaluate different types of evidence for logic, credibility, reliability, and bias (i.e. primary sources, online and written secondary sources) Students will locate, evaluate, critically read, summarize, and effectively integrate research sources. Compose humanities style research papers that include an evaluation of different types of evidence to support an original thesis and language appropriate for the audience and purpose Synthesize their own writing with a breadth of primary and secondary sources with proper in-text citations and a list of citations to avoid plagiarism Develop an original and effectively supported thesis that is appropriately complex and significant. GenEd Outcomes: Creative and Critical Thinking. Critical Thinking/Problem Solving. Research/Information Literacy. GenEd Outcomes: Communication. Writing. Same as ENGL 102.",
+                        "department": "English",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 235",
+                        "name": "Writing Fiction III",
+                        "credits": "5",
+                        "desc": "Continuation of ENGL 234.",
+                        "department": "English",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 270",
+                        "name": "Professional Report Writing",
+                        "credits": "5",
+                        "desc": "Incorporates organization, development and expression of ideas with practical problems in writing. Technical periodicals and reference work with proper bibliographical usage are emphasized. Computer use is required. Fulfills a written communication course requirement at BCC.",
+                        "department": "English",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GEOG 100",
+                        "name": "Introduction To Geography",
+                        "credits": "5",
+                        "desc": "Surveys the concepts and methods of geography by examining humankind\u2019s influence on the environment and the environment\u2019s impact on humankind. Topics include patterns and processes of world climates, culture, population, urbanization, economic activities, and resources.",
+                        "department": "Geography",
+                        "catalog": "Bellevue College 2010-2011"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JAPAN 101",
+                        "name": "Beginning First-year Japanese",
+                        "credits": "5",
+                        "desc": "Develops basic language skills in contemporary Japanese. Oral and written activities help students gain skills in listening, speaking, reading, writing, and cultural awareness that allow students to communicate and interact.",
+                        "department": "Japanese",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JAPAN 102",
+                        "name": "Intermediate First-year Japanese",
+                        "credits": "5",
+                        "desc": "Continues JAPAN 101.",
+                        "department": "Japanese",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JAPAN 103",
+                        "name": "Advanced First-year Japanese",
+                        "credits": "5",
+                        "desc": "Continues JAPAN 102.",
+                        "department": "Japanese",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 2000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 126",
+                        "name": "Calculus III",
+                        "credits": "5",
+                        "desc": "Emphasizes the study of infinite sequences and series including power series. Topics include plane analytic geometry, graphing in polar coordinates, and an introduction to vectors. Fulfills the quantitative or symbolic reasoning course requirement at BCC.",
+                        "department": "Mathematics",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 227",
+                        "name": "Several-variable Calculus",
+                        "credits": "5",
+                        "desc": "Extends the concepts of calculus to vector-valued functions and functions of several variables. Partial derivatives are included. Fulfills the quantitative or symbolic reasoning course requirement at BCC.",
+                        "department": "Mathematics",
+                        "catalog": "Bellevue Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 238",
+                        "name": "Differential Equations",
+                        "credits": "5",
+                        "desc": "Uses tools from algebra and calculus in solving first- and second-order linear differential equations. Students focus on applying differential equations in modeling physical situations, and using power series methods and numerical techniques when explicit solutions are unavailable. May include work with Laplace Transforms and systems of differential equations. Note: Fulfills the quantitative or symbolic reasoning course requirement at BC. Course Outcomes: Solve linear and non-linear first order ordinary differential equations. Solve second order linear ordinary differential equations. Apply ordinary differential equations to model physical situations and interpret solutions. Apply numerical and graphical techniques to analyze solutions to ordinary differential equations. GenEd Outcomes: Creative and Critical Thinking: Critical Thinking/Problem Solving. Quantitative/Symbolic Reasoning.",
+                        "department": "Mathematics",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH& 151",
+                        "name": "Calculus I",
+                        "credits": "5",
+                        "desc": "Introduces the concepts of limits, derivatives, and integrals. Topics include techniques and applications of derivatives of algebraic and transcendental functions. Students begin working with antiderivatives. Either MATH& 151 or MATH 148 may be taken for credit, not both. Note: Fulfills the quantitative or symbolic reasoning course requirement at BC. Course Outcomes: Calculate limits of functions using graphs, numerical data, and analytically. Define the derivative of a function and explain what that means in graphical and applied contexts. Use the general differentiation rules to calculate derivatives of polynomial, rational and common transcendental functions and combinations of those functions. Apply the ideas and techniques of derivatives to solve problems of maximum/minimum and rates of change. Use derivatives to describe the shapes of graphs of functions. GenEd Outcomes: Creative and Critical Thinking: Critical Thinking/Problem Solving. Quantitative/Symbolic Reasoning.",
+                        "department": "Mathematics",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "MATH 1010 (4cr)",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUSC 107",
+                        "name": "Fundamentals Of Music",
+                        "credits": "5",
+                        "desc": "Introduces the structure of music and its notation. Students learn to read and write basic pitch and rhythm notation and to construct scales, chords, and melodies. Intended for nonmajors with little or no musical experience. Course Outcomes: Express basic musical thoughts using musical notation on staff paper. Write scales on treble and bass clefs. Write key signatures on treble and bass clefs. Read musical notation and translate into singing or rhythmic tapping. Write triads and seventh chords on treble and bass clefs. Write Roman numeral analyses of basic musical excerpts. Compose basic Music Notation using computing software such as Finale/Sibelius. GenEd Outcomes: Creative and Critical Thinking: Critical Thinking/Problem Solving.",
+                        "department": "Music",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1400",
+                        "name": "Music Fundamentals",
+                        "note": "--",
+                        "desc": "A creative approach for students with no previous experience to the concepts of music theory (rhythm, scales, keys, intervals, chords, etc.) and elementary harmony. Also an introduction to some of the monuments of Western repertory through listening, reading, and discussion.",
+                        "department": "Arts (Hssh)",
+                        "catalog": "Rensselaer Polytechnic Institute 2012-2013"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 121",
+                        "name": "General Engineering Physics I",
+                        "credits": "6",
+                        "desc": "First in a three-course survey of physics for science and engineering majors. Course presents fundamental principles of mechanics, including motion, Newton\u2019s laws, work, energy, momentum, rotation, and gravity. Conceptual development and problem solving have equal emphasis. Course Outcomes: Laboratory Skills: Use standard laboratory instruments appropriately, based on a sufficient understanding of their function; Measure physical quantities in the laboratory with appropriate attention to minimizing possible sources of random and systematic error; Make reasonable estimates of the uncertainties associated with each measurement; Evaluate a hypothesis in terms of its testability and determine the kind and amount of data required to test it; Summarize the properties of a set of data to facilitate analysis, using standard statistics such as mean and standard deviation; Determine the uncertainty of a computed quantity that arises from the uncertainties in the measured values of the quantities from which it is computed; Analyze an appropriate set of measurements for consistency with a hypothesis, form and justify a conclusion regarding the fit between the data and the hypothesis; Recognizes that measurement uncertainty is estimated as an act judgment on the part of the observer and that judgment does not imply arbitrariness. Communication Skills: Produce a compact and unambiguous verbal description of an experimental procedure and of the observations/data obtained using it; Produce a compact and unambiguous verbal description of a chain of theoretical or experimental reasoning, including clarity regarding assumptions, accuracy regarding logical connections, specificity regarding conclusions, and clarity regarding the scope (and limitations) of applicability. Kinematics objectives: Students can distinguish acceleration from velocity in diverse settings, can distinguish accelerated motions from non accelerated motions, recognize that this is a significant distinction, and can correctly determine the direction of acceleration. The student will demonstrate competence with verbal, graphical, algebraic and vector algebraic representations of motions as described below. Verbal. Correctly describe the position velocity and acceleration of an object with attention to proper use of \u201cincreasing\u201d, \u201cdecreasing\u201d or \u201cconstant\u201d (steady). Given a verbal description of the motion the student can correctly deduce the values (if given) or relative magnitudes, and signs for the position velocity and acceleration. Graphical. Given a verbal description or an observation of the motion the student can produce qualitatively correct graphs for the position velocity and acceleration. From graphs of the position velocity and acceleration (and appropriate initial conditions) students can describe the motion and the graphs with proper use of slope vs. value and \u201cincreasing\u201d, \u201cdecreasing\u201d or \u201cconstant\u201d (steady). Students are able to obtain quantitative information from graphs utilizing slope, value, area under the curve, and intersections of graph curves or intersections with the axes. Students can produce any two of the position velocity or acceleration graphs from the remaining graph and appropriate initial conditions. Algebraic. Given a verbal description, graph, or an observation of the motion the student can write an appropriate equation for the motion correctly choosing signs and values if this information is available. Students can re-arrange or combine equations algebraically before the substitution of values to solve for the desired quantities. Vector Algebraic. Students can represent the position, velocity, relative velocity or acceleration vectorially and decompose the vectors into components where appropriate. Students can perform vector arithmetic and find resultant vectors in one and two dimensions. Students can solve end of chapter problems involving one or two objects in one or two dimensions. Students will demonstrate the ability to apply representations to this process, including proper use of coordinates, selection of equations, interpretation of implicitly given information, and symbolic (rather than numeric) algebra steps. Dynamics. The student has formed a concept of Newtonian force and distinguishes force from closely related or more primitive concepts of impetus, momentum, velocity, and \u201cthe force of inertia\u201d (which is not a Newtonian force at all). For small numbers of interacting objects, the student can identify the forces of interaction, properly assign them to the system that experiences the force, and identify the object that makes the force. The student can distinguish between inertial and non-inertial reference frames, and understands that Newton\u2019s Second Law only applies to the former. The student is able to describe an operational (and non circular) method of defining mass and force using Newton\u2019s Second Law. The student correctly identifies the net force (rather that any particular force) as the cause of the acceleration (rather than causing velocity). The student can apply vector concepts to describe the effects of competing forces acting on a system. The student can correctly determine the net vector force acting on a system when three or more forces act, and can express the net force in both common vector forms. The student can apply Newton\u2019s Second law to a body in the context of end of chapter problems, utilizing Free Body Diagrams, appropriate coordinates, and any required Kinematics equations. The student can recognize action reaction pairs among the forces acting in common situations, and distinguishes these from \u201ccause/effect\u201d pairs of forces. The student Distinguishes weight from mass, and distinguishes weight from the supporting force supplied to objects by objects in the environment. The student can determine from the problem whether to go from dynamics to kinematics or the other way. Friction and Circular Motion: The student has a conceptual understanding of frictional forces as demonstrated by the ability to distinguishes and properly identify cases of static friction from cases of kinetic friction, the ability to predict the behavior of objects that are acted on by frictional forces, and by correctly distinguishing the physical meanings of the terms found in the expressions used to describe friction. The student can apply their understanding of frictional forces to the solution of end of chapter problems involving a small number of objects.",
+                        "department": "Physics",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 122",
+                        "name": "General Engineering Physics II",
+                        "credits": "6",
+                        "desc": "Second in a three-course survey of physics for science and engineering majors. Course presents fundamental principles of electromagnetism, including electrostatics, current electricity circuits, magnetism induction, generation of electricity, electromagnetic oscillations, alternating currents, and Maxwell\u2019s equations. Conceptual development and problem solving have equal emphasis. Course Outcomes: Laboratory Skills: \u2022 Use standard laboratory instruments appropriately, based on a sufficient understanding of their function; \u2022 Measure physical quantities in the laboratory with appropriate attention to minimizing possible sources of random and systematic error; Laboratory: Practice, Outcome/Assessment: Student will reliably acquire data of sufficient quality to decisivly test the hypothesis of formal laboratory investigations. Alternative or parallel assessment: The student will demonstrate satisfactory performance on lab practicum questions associated with mid-term or final exams. \u2022 Measure physical quantities in the laboratory with appropriate attention to minimizing possible sources of random and systematic error; \u2022 Make reasonable estimates of the uncertainties associated with each measurement; \u2022 Recognizes that measurement uncertainty is estimated as an act judgment on the part of the observer and that judgment does not imply arbitrariness. Measurement, Outcome/Assessment: Student will reliably record quality data acquired through measurement, habitually assigning a reasonable uncertianty to each measured value. Data analysis and conclusive statements from formal lab reports will demonstrate a satisfactory level \u2022 Evaluate a hypothesis in terms of its testability and determine the kind and amount of data required to test it; \u2022 Summarize the properties of a set of data to facilitate analysis, using standard statistics such as mean and standard deviation; Determine the uncertainty of a computed quantity that arises from the uncertainties in the measured values of the quantities from which it is computed; \u2022 Analyze an appropriate set of measurements for consistency with a hypothesis, form and justify a conclusion regarding the fit between the data and the hypothesis; Communication Skills \u2022 Produce a compact and unambiguous verbal description of an experimental procedure and of the observations/data obtained using it; \u2022 Produce a compact and unambiguous verbal description of a chain of theoretical or experimental reasoning, including clarity regarding assumptions, accuracy regarding logical connections, specificity regarding conclusions, and clarity regarding the scope (and limitations) of applicability. Physical Problem Solving Skills: \u2022 Habitually sketches the configuration of problem elements as part of the problem solving process; \u2022 Habitually uses a variety of representations in the problem solving process; \u2022 Consciously selects an appropriate coordinate system; \u2022 Identifies sub-problems and breaks a large problem into parts (linking variables). \u2022 Habitually develops and interprets algebraic representations before substituting particular numerical values; \u2022 Makes appropriate use of significant figures and units in problem solving; \u2022 Interprets algebraic and numerical results in words; Fundamental Force Concepts: Fundamental Force objectives \u2022 Students understand that there are four fundamental forces in nature. \u2022 The gravitational force. The electromagnetic force. \u2022 The weak nuclear force. \u2022 The strong nuclear force. \u2022 Students will be able to interpret and use the vector expressions for the gravitational and electric forces., and to recognize the implications of these expressions for the analysis of many body problems by direct force calculation. Electrostatics: Context for the objectives: \u2022 Classical Physics is applied to nature by making an intellectually fruitful choice of system to study. The rest of the universe then becomes the environment for this system. This analytic dichotomy is both a goal for instruction and a context for describing the objectives below. \u2022 When the system and its environment each comprise small numbers of charges, analysis proceeds by computing the electric field or electric potential produced by the environmental charges, then computing the interaction of system charges with that field. The force (or potential energy) of that interaction then becomes an input to the mechanics problem as described in Physics 121 (114). Electrostatics General objectives: \u2022 The Student is able to make fruitful choices of system charge(s) to study and clearly distinguishes between the system and the environment. The student can distinguish between and properly associate the field (or potential) belonging to the system charge from those made by charges in the environment. \u2022 The student can generate expressions for the field (or potential) produced by the environment charges throughout the region containing the system charge(s) and determine the values for these quantities at the site of the system charge(s). \u2022 The student can generate expressions for the interaction (force or potential energy) produced by the environment charges on the system charge(s) and determine the values for these interactions as inputs to the associated mechanics problem. \u2022 The student is able to apply the learning objectives of the mechanics course to solve mechanics problems in this new context. The student has developed the awareness that the mechanics principles can be generalized beyond that course. The process described above is linear, proceeding from cause to effect. Once it is understood the student must also be able to reason (and solve problems) that begin with the effects as the inputs and have the causes as the desired goal. The Electrostatics Particular Objectives: \u2022 Students able to explain simple electrostatics experiments and charge separation phenomena using ideas of conduction, polarization of matter, and neutral pairs. \u2022 The student has an introductory understanding of the structure and constituents of atoms, molecules, crystals and amorphous solids, and can describe how these structures and the very large number of particles involved affect the electrical properties of the respective macroscopic material. \u2022 Students can identify the spectrum of electric properties of bulk matter resulting from the range of conductivity (zero to sensibly infinite) and understand the basic implications of these properties on the fields and potentials in and around matter. The student can describe these implications both microscopically and macroscopically. \u2022 Students recognize that the structure of the field (or potential) is determined by the structure of the charges. Students will demonstrate this understanding by identifying symmetries in the field (or potential) structure that arise from symmetries in the charge distribution (point vs. line vs. plane sources, E vs. B field structures).",
+                        "department": "Physics",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 123",
+                        "name": "General Engineering Physics III",
+                        "credits": "6",
+                        "desc": "Third in a three-course survey of physics for science and engineering majors. Course presents fundamental principles of oscillating systems and wave phenomena, including optics, simple harmonic motion, waves, sound, light, optical instruments, interference, diffraction, and polarization. Conceptual development and problem solving have equal emphasis. Course Outcomes: Thinking like physicists Outcomes: Recognize and articulate systematic behaviors in nature revealed by their own observations, especially those that are often overlooked through being obvious. Construct knowledge that does not depend on any outside authority; knowledge based on personal observation, reasoning, and possibly on physical laws or principles previously validated by the student. Students can explicitly articulate where they have done so and can devise instances where they can do this in other settings beyond the course. Demonstrate that they perceive that nature is governed by a small set of physical laws and principles and exemplify this understanding by o explicitly employing natural laws as components of a structured approach to design or problem solving. Employing a common approach to design and problem-solving in example cases that are fundamentally related but have diverse surface features. Represent the situation in general analytical, design and problem-solving settings, verbally, graphically, and mathematically, employing a structured approach to problem solving that leads from inputs to answers explicitly utilizing or respecting applicable physical laws. Exhibit a spectrum of problem solving skills including linear causal analysis, and global bookkeeping type analysis (e.g. application of conservation laws). They will productively employ methods to begin constructing solutions before the complete reasoning path is evident. Students will also develop skills needed to validate results or claims by reasoning backward to check for consistency with fundamental principles. Communications outcomes: Communicate science in authentic forms including accurate reporting of apparatus and procedures, construct arguments that reason physically from observations to conclusion using physical law and mathematics appropriately. The level of rigor expected is appropriate to the level of the course (that is, it increases through the sequence). Evaluate the quality of their observations and physical reasoning through understanding of origins and analysis of measurement uncertainty, limitations of theory and apparatus, and correct application of physical laws and principles. Read physics content written at the college level including texts, journal articles and physics problems. Interpret and generate clear physical reasoning (e.g. physics problem solutions) using multiple representations including algebraic (symbolic), numerical, graphical, oral, written, and pictorial representations. Specific Course Outcomes: Extend the \u201cThinking like a physicist\u201d outcome to discrete oscillating systems and oscillations of continuous media (and fields) obtaining in such cases the function characterizing the motion of an oscillating system or wave from which all other kinematic and dynamic features of the behavior can be calculated. They will be able in this process to employ Newton\u2019s laws, Maxwell\u2019s equations, energy considerations and assumptions about continuous media as needed in this process and will recognize the role of differential equations in the general case. Outline the path described above for damped and forced oscillating systems, and for mechanical and electromagnetic waves. Distinguish the properties of waves arising from the medium from those imposed by the boundaries (including sources). Students will exhibit this understanding by explicitly employing these distinctions to identify productive approaches to problems or when predicting the outcomes of experiments with waves. Describe Wave Optics and Geometric Optics as two physical models of the same behaviors and be able to identify the conditions that govern their respective applicability. They will be able to employ each model in appropriate settings to predict optical phenomena and behaviors and to solve typical end of chapter problems. Connect fundamental laws and physical principles to their ordinary experiences and to illustrations of experiences that they will soon encounter in their professional careers (e.g.: physics, chemistry, engineering, earth and space sciences, computer science, as well as related industries). Describe what physicists find unifying and elegant in the simplicity of having few laws of great power and be able to describe or illustrate this in a several distinct topical areas. GenEd Outcomes: Creative and Critical Thinking: Quantitative/Symbolic Reasoning. GenEd Outcomes: Connections: Natural Systems (Science and the Natural World).",
+                        "department": "Physics",
+                        "catalog": "Bellevue College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Belmont University": {
+        "city": "Nashville",
+        "state": "TN",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CSC 1120",
+                        "name": "Programming II",
+                        "credits": "3",
+                        "desc": "A continuation of algorithm development and programming, including basic aspects of string processing, recursion, internal search/sort methods, and simple data structures.",
+                        "department": "Computer Science",
+                        "catalog": "Belmont University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 2220",
+                        "name": "Principles Of Microeconomics",
+                        "credits": "3",
+                        "desc": "An introductory course in microeconomic theory. Primary emphasis is placed upon the study of the behavior of individual decision-making units. Topics to be studied include: demand and supply analysis, the theory of consumer behavior, the theory of the firm, market structures and resource allocation, and resource price-employment determination.",
+                        "department": "Economics",
+                        "catalog": "Belmont University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 1220",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "Further techniques of integration with applications; exponential and logarithmic functions; parametric equations; and sequences and infinite series.",
+                        "department": "Mathematics",
+                        "catalog": "Belmont University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Beloit College": {
+        "city": "Beloit",
+        "state": "WI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 125",
+                        "name": "Introduction To New Media",
+                        "credits": "1",
+                        "desc": "This course is designed to investigate the basic techniques, concepts, and practices of digital imaging, as well as to support students\u2019 conceptual development. The application of photographic and graphic-related software, such as Adobe Photoshop and Illustrator Creative Suite, are introduced in this course. It is also intended to strengthen critical and research skills through students\u2019 artistic productions. The course includes readings, class discussions, writing, slide presentations, individual projects, and group and individual critiques. Artistic and Creative Practices.",
+                        "department": "Art History",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 117",
+                        "name": "Chemistry",
+                        "credits": "1",
+                        "desc": "Why is chemistry important to other sciences, technology, and society? What processes do chemists use when dealing with real problems? What conceptual models do chemists use to understand and explain their observations? The focus of this course is on the reasons for doing science, the intellectual and instrumental tools used, the models developed to solve new problems, and the assertion that chemistry has a tremendous effect on your personal life and on the decisions made by society. Along the way, we cover atoms, molecules, ions, and periodic properties; chemical equations, stoichiometry and moles; Lewis structures and VSEPR model of bonding; reactivity and functional groups; states of matter and intermolecular forces; relationships between structure and properties. Topical applications and issues vary with the instructor and may include climate change, food and fuel, and energy use for lighting. Three two-hour class periods per week of combined lecture, laboratory, and discussion. Scientific Inquiry into the Physical and Biological Universe. Note: Students with a strong prior background in chemistry are encouraged to consult with the department about placement in a more advanced chemistry course.",
+                        "department": "Chemistry",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 220",
+                        "name": "Environmental, Analytical, And Geochemistry",
+                        "credits": "1",
+                        "desc": "Chemical equilibria are fundamental in the understanding of biological and environmental processes and in chemical analysis. This course emphasizes quantitative and graphical interpretation of acid-base, solubility, distribution, complex ion, and redox equilibria in aqueous solution and soils. Laboratory work stresses application of gravimetric, volumetric, spectrophotometric, and potentiometric techniques. Preprofessional preparation requiring one term of quantitative analysis is satisfied by Chemistry 220. Three class periods and one laboratory period per week. Scientific Inquiry into the Physical and Biological Universe.",
+                        "department": "Chemistry",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2110",
+                        "name": "Equilibrium Chemistry And Quantitative Analysis",
+                        "note": "--",
+                        "desc": "This course covers principles of equilibrium chemistry including acid-base and redox equilibria, ideal and nonideal treatments of equilibrium, complex simultaneous equilibria, and equilibrium as it relates to titrations and precipitation reactions in quantitative analysis. It also deals with basic electrochemistry and electro-analytical and spectroscopic methods of quantitative analysis and gravimetric methods. Students cannot get credit for both this course and CHEM 4530.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 245",
+                        "name": "Molecular Modeling, Visualization, And Computational Chemistry",
+                        "credits": "1",
+                        "desc": "Quantum mechanics applied to one-dimensional systems; structure and visualization of molecules using molecular modeling and computational chemistry. Two three-hour combined class and laboratory periods per week.",
+                        "department": "Chemistry",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 250",
+                        "name": "Solid State Chemistry",
+                        "credits": "1",
+                        "desc": "Solids are an important part of our materials-intensive world and are at the foundation of many emerging technologies. This course focuses on the relationships among structure, composition, and periodic properties; the characterization of atomic and molecular arrangements in crystalline and amorphous solids such as metals, minerals, ceramics, semiconductors and proteins; and applications to the fields of electronics, optics, magnetics, catalysis, and energy generation and storage. Laboratory work emphasizes the synthesis, purification, and characterization of inorganic compounds. Three class periods and one laboratory period per week.",
+                        "department": "Chemistry",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCI 125",
+                        "name": "Introduction To Computer Hardware",
+                        "credits": ".5",
+                        "desc": "Introduction to the organization of the physical components of a computer (hardware) and the interface between the hardware and the programs/instructions (software) that results in a functioning computational machine. Features an introduction to binary numbers, digital logic, and elementary programming at the raw binary level and the assembler level (in terms of the instruction set for the central processing unit (CPU). Includes study of the other critical components of the computer: memory and its hierarchy, buses, and their communication with one another and the outside world. Offered each fall, first module.",
+                        "department": "Computer Science",
+                        "catalog": "Beloit College 2015-2017"
+                    },
+                    {
+                        "id": "CSCI 225",
+                        "name": "Computer Architecture",
+                        "credits": ".5",
+                        "desc": "In-depth study of the hardware constituting a modern von Neumann central processing unit (CPU) in terms of its functional subunits (registers, arithmetic and logic unit, data path and control) and their interconnections, as well as in terms of its interface to memory and the external world. Includes formal study of digital logic, instruction set architectures, advanced assembly language, and simulation and study of a CPU formed from subunits constructed using digital logic. The course also explores alternative processor architectures and multiprocessing.",
+                        "department": "Computer Science",
+                        "catalog": "Beloit College 2019-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 199",
+                        "name": "Principles Of Economics",
+                        "credits": "1",
+                        "desc": "This course takes an analytical approach to economic reasoning and contemporary economic issues. It introduces microeconomic and macroeconomic theories with applications to relevant issues such as employment, growth, international trade and finance, monetary and fiscal policy, and environmental issues. Social Analysis of Human Behavior.",
+                        "department": "Economics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 110",
+                        "name": "Calculus I",
+                        "credits": "1",
+                        "desc": "An introduction to differential and integral calculus. Limits and continuity, derivatives and integrals of polynomial, trigonometric, exponential, and logarithmic functions, applications of derivatives to optimization and approximation, the Mean Value Theorem, and the Fundamental Theorem of Calculus. Conceptual and Foundational Systems.",
+                        "department": "Mathematics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 115",
+                        "name": "Calculus II",
+                        "credits": "1",
+                        "desc": "Techniques of integration, L\u2019H\u00f4pital\u2019s Rule, infinite sequences and series, Taylor series and applications, first-order differential equations, and introduction to the calculus of multivariable functions, including partial derivatives and multiple integrals. Conceptual and Foundational Systems.",
+                        "department": "Mathematics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 190",
+                        "name": "Differential Equations",
+                        "credits": "1",
+                        "desc": "Solution methods for first-order differential equations, linear differential equations, powerseries solutions, the Laplace transform, numerical methods, stability, applications.",
+                        "department": "Mathematics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 215",
+                        "name": "Abstract Algebra",
+                        "credits": "1",
+                        "desc": "Axiomatic treatment of selected algebraic structures including groups, rings, integral domains, and fields, with illustrative examples. Also includes elementary factorization theory.",
+                        "department": "Mathematics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 4010",
+                        "name": "Abstract Algebra",
+                        "note": "--",
+                        "desc": "Groups, rings, polynomial rings, fields, integral domains, with emphasis on group theory; homomorphisms and isomorphisms; normal subgroups, cosets, ideals, modules; quotient groups and quotient rings; other topics chosen from number theory, polynomials, and Galois Theory.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 101",
+                        "name": "General Physics I",
+                        "credits": "1",
+                        "desc": "An introduction to the fundamental concepts of classical mechanics: Newton\u2019s laws, conservation of momentum and energy, and oscillatory and rotational motion. Students planning to take additional physics courses should take Mathematics 110 concurrently with Physics 101. Four hours of classroom work and two hours of laboratory work are required each week. Scientific Inquiry into the Physical and Biological Universe.",
+                        "department": "Physics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 102",
+                        "name": "General Physics II",
+                        "credits": "1",
+                        "desc": "A continuation of Physics 101. Introduction to geometric optics, electric circuits, and electric and magnetic fields. Four hours of classroom work and two hours of laboratory work are required each week. Scientific Inquiry into the Physical and Biological Universe.",
+                        "department": "Physics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 210",
+                        "name": "Modern Physics",
+                        "credits": "1",
+                        "desc": "An introduction to the special theory of relativity, early quantum theory, and non-relativistic quantum mechanics. Application of these ideas to selected topics in atomic, nuclear, and condensed matter physics. The laboratory will require independent use of advanced equipment and statistical analysis of data.",
+                        "department": "Physics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 320",
+                        "name": "Statistical Mechanics",
+                        "credits": "1",
+                        "desc": "First, second, and third laws of thermodynamics; principles of classical and quantum statistical mechanics and their relationships to thermodynamics; fluctuations; applications of the theory of gases, liquids, and solids; heat engines.",
+                        "department": "Physics",
+                        "catalog": "Beloit College 2017-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 4420",
+                        "name": "Thermodynamics And Statistical Mechanics",
+                        "note": "--",
+                        "desc": "The principles and physical applications of classical thermodynamics are developed. Basic concepts in classical and quantum statistical mechanics are introduced and their relations to thermodynamics are developed.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 350",
+                        "name": "Quantum Mechanics",
+                        "credits": "1",
+                        "desc": "Foundations and mathematical techniques of quantum mechanics, including variational methods and perturbation theory; applications to atomic, molecular, and nuclear structure and processes.",
+                        "department": "Physics",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 4100",
+                        "name": "Introductory Quantum Mechanics",
+                        "note": "--",
+                        "desc": "Quantum mechanics beyond Schrodinger wave mechanics. The postulates of quantum mechanics. Second quantization, Dirac notation, Hilbert spaces, perturbation theory, and applications to simple systems.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "POLS 130",
+                        "name": "Introduction To Comparative Politics And Policy",
+                        "credits": "1",
+                        "desc": "Introduction to the internal politics and policies of various countries throughout the world. Themes of the course include: methods and approaches of comparative analysis; democratic vs. authoritarian systems; political culture and state traditions; political attitudes and ideologies; executive, legislative, and judicial systems; electoral and party systems; interest groups and other civil society actors; political economy; and selected domestic and foreign policy issues. Students may elect to use this course as part of their preparation for study abroad. Social Analysis of Human Behavior.",
+                        "department": "Political Science",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "WRIT 100",
+                        "name": "Writing Seminar",
+                        "credits": ".5, 1",
+                        "desc": "The course focuses on developing students\u2019 writing skills. Each section of this seminar offers a topical framework for examining the relationship between critical thinking, reading, and writing; practicing effective writing process; generating different kinds of writing; identifying and improving the elements of successful writing; and engaging with other writers (from peer collaboration to research) in a seminar setting. May be taken only once if a grade of \u201cC\u201d or better is received; otherwise a second course may be taken under a different topic. Textual Cultures and Analysis. Topics course.",
+                        "department": "Writing",
+                        "catalog": "Beloit College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bentley University": {
+        "city": "Waltham",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AC 310",
+                        "name": "Cost Management",
+                        "credits": "3",
+                        "desc": "Introduces the concepts of cost management and strategic cost management. Presents comprehensive coverage of principles involved in the determination of the cost of a product or service. Covers operational budgeting, standard costing, and activity-based costing as tools for planning and control. Emphasizes analysis, interpretation and presentation of information for management decision-making purposes, especially those decisions as they relate to cost management.",
+                        "department": "Accountancy",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AC 311",
+                        "name": "Financial Accounting And Reporting I",
+                        "credits": "3",
+                        "desc": "First in a two-course sequence of financial accounting courses at the professional level, this course examines accounting theory and concepts which form background for the external financial reporting. It addresses the U.S. Generally Accepted Accounting Principles (GAAP) related to the preparation of financial statements, with particular emphasis on asset valuations, and their relationship to income determination. Addresses skills to record and report the impact of transactions and events in compliance with GAAP, identify financial reporting and measurement alternatives, and determine their effects on financial statements, and apply professional accounting literature to determine the applicable GAAP in a real-world context.",
+                        "department": "Accountancy",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2300",
+                        "name": "Financial Accounting In The Digital Age",
+                        "note": "--",
+                        "desc": "An introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, long term liabilities, and equity. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AC 312",
+                        "name": "Financial Accounting And Reporting II",
+                        "credits": "3",
+                        "desc": "This course continues the two-course sequence begun in AC 311 by exploring accounting theory and concepts which form background for external financial reporting. It examines the Generally Accepted Accounting Principles (GAAP) related to the preparation of financial statements, with particular emphasis on the equity side of the balance sheet. Topics covered include current liabilities, long-term debt, leases, pensions, stockholders\u2019 equity, earnings per share, accounting for income taxes, accounting changes, and the statement of cash flows.",
+                        "department": "Accountancy",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIN 382",
+                        "name": "The City In American Film",
+                        "credits": "3",
+                        "desc": "This course examines the image of the city in American film. Close attention is paid to issues of race and sexual orientation amid the multiple, sometimes conflicting, portrayals of urban centers as places of refuge and violence, liberalism and intolerance, prosperity and poverty. While setting provides the conceptual theme of the course, students are invited to analyze these films from the widest possible array of perspectives, grounded in the critical approaches relevant to the discipline of cinema studies and interpretation of narrative meanings.",
+                        "department": "Cinema",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 2000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 100",
+                        "name": "Solving Business Problems With Information Technology",
+                        "credits": "3",
+                        "desc": "This course introduces information technology skills necessary for operating a small business and understanding how information technology benefits all organizations. Through hands-on exercises, readings, class discussions, homework assignments, and group projects, students will learn to identify and use IT resources for problem solving, with a focus on how IT enables modern businesses to operate. Students will gain a fundamental understanding of digital technology and the implications of hardware, software, cloud and networking decisions on related business operations. They will use productivity software to create, modify, and present business documents, and develop an intermediate level of proficiency using Excel. Students will explore emerging technology trends such as artificial intelligence, machine learning, virtual/augmented reality and the Internet of Things and their impact on conducting business.",
+                        "department": "Computer Information Systems",
+                        "catalog": "Bentley University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "MGMT 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2024",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EC 111",
+                        "name": "Principles Of Microeconomics",
+                        "credits": "3",
+                        "desc": "Provides students with an understanding of fundamental economic principles and tools. Presents economic analysis with respect to demand, supply, market equilibrium, costs of production and resource pricing. Examines the market structures of pure competition, oligopoly, monopolistic competition and monopoly. Analyzes the markets for labor and capital.",
+                        "department": "Economics",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EC 112",
+                        "name": "Principles Of Macroeconomics",
+                        "credits": "3",
+                        "desc": "Analyzes the determinants of aggregate economic activity and the effects of government policies intended to achieve full employment, price stability and economic growth. Topics include inflation, unemployment, interest rates, fiscal policy and the public debt, monetary policy, the balance of payments, and exchange rates. Introduces the economic analysis of international trade, comparative advantage and selected current economic problems.",
+                        "department": "Economics",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EMS 101",
+                        "name": "Critical Reading And Writing",
+                        "credits": "3",
+                        "desc": "Students in Critical Reading and Writing learn to read and write rhetorically. To do so, they will summarize, analyze, evaluate, and synthesize the published views of others. They will consider their own and others\u2019 rhetorical choices based on audience, purpose, and context. The course addresses questions such as: How do we comprehend a difficult text? What communicative norms might we encounter in society and business, and how can we navigate between them? How is meaning created through written work, and how do we assess its credibility? Course readings advance students\u2019 learning by challenging them intellectually, engaging them in the process of thinking critically about the issues raised, and motivating them to create meaning of their own. Four-year students are expected to complete Critical Reading and Writing in their first semester at the university.",
+                        "department": "English & Media Studies",
+                        "catalog": "Bentley University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "WRIT 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2024",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EXP 101",
+                        "name": "Expository Writing I: Critical Thinking And Writing",
+                        "credits": "3",
+                        "desc": "The rigorous expectations of writing at the college level can be daunting for many students. In Expository Writing I, students learn to summarize, analyze, and evaluate the published views of others. To do so, students practice identifying arguments, evidence and structure. By drawing connections between the works of others, students begin to understand the context of the issues they\u2019re studying, to develop their own ideas, and to present those ideas to a specific audience. Students are expected to complete Expository Writing I in their first year to help prepare them for the writing they\u2019ll be asked to do throughout their time at Bentley and beyond. Designed for students who are native speakers of English.Students are placed on the basis of the placement essays, which are read by a committee of professors who teach expository writing. The essays are evaluated according to carefully developed criteria that have proven to identify the amount of writing instruction students need to read and write at a level acceptable at Bentley.",
+                        "department": "Expository Writing Program",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EXP 201",
+                        "name": "Expository Writing II: Advanced Inquiry In Writing",
+                        "credits": "3",
+                        "desc": "Expository Writing II reinforces and advances the lessons of Expository Writing I, leading students toward understanding and mastery of the processes involved in sustained inquiry. Undertaking an ambitious intellectual project that culminates in a final paper, students work to develop substantial research questions, improve information literacy skills, and conduct research where they explore a topic and create a complex argument. While working to develop their reading, writing, and critical thinking abilities for their other Bentley classes and their lives beyond college, students consider multiple genres and audiences for their writing. Students are expected to complete Expository Writing II by the end of their sophomore year. Designed for students who are native speakers of English.",
+                        "department": "Expository Writing Program",
+                        "catalog": "Bentley University Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
     }
 }
