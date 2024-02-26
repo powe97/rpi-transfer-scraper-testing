@@ -20110,6 +20110,2544 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 142",
+                        "name": "Basic Principles Of Chemistry",
+                        "credits": "4",
+                        "desc": "An introduction to the composition, structure, and properties of matter. The first semester covers atomic structure, stoichiometry, periodic trends, bonding and molecular geometry, thermochemistry, and the behavior of gases, liquids, and solids. Central concepts in the second semester are energy transfer, spontaneity, and change (thermochemistry, chemical equilibrium, and kinetics). The laboratory portion stresses basic techniques and quantitative applications. Basic algebra skills are required. Concurrent enrollment in calculus is recommended for students who intend to major in chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 251",
+                        "name": "Introduction To Artificial Intelligence",
+                        "credits": "4",
+                        "desc": "An introduction to artificial intelligence principles and techniques, primarily intended for students interested in cognitive science and neuroscience. The course emphasizes elements of artificial intelligence that are compatible with the current understanding of biologically based intelligence (e.g., neural computation), and explores the application of such artificial intelligence techniques as automated reasoning, machine learning, evolutionary learning, heuristic search, and behavior-based robot control. Application examples are drawn from artificial life, robotics, game play, logic, visual perception, and natural language processing. CROSS-LISTED: COGNITIVE SCIENCE.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 325",
+                        "name": "Advanced Hardware: Multiprocessor Computer Architecture",
+                        "credits": "4",
+                        "desc": "Modern desktop computers typically contain multiple microprocessors. In order to take full advantage of these new machines, one must understand a number of interlocking hardware and software issues, including instruction and thread-level parallelism, architectures for shared memory, and dynamic scheduling. This course combines principles of computer organization as applied to multiprocessor systems with case studies of extant multicore architectures.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Economics 100",
+                        "name": "Principles Of Economics",
+                        "credits": "4",
+                        "desc": "An introduction to the essential ideas of economic analysis. The microeconomics component of the course develops the basic model of consumer and firm behavior (including demand and supply) in the context of an idealized competitive market and examines several ways in which the real world deviates from this model, including monopoly, minimum wages and other price controls, taxes, and government regulation. The macroeconomics component studies the aggregate behavior of modern economies and the government\u2019s ability (or inability) to use monetary and fiscal policies to achieve economic goals such as full employment and price stability. Cross-listed: economics and finance, environmental studies, gis.",
+                        "department": "Economics",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENVIRONMENTAL STUDIES 305",
+                        "name": "Social Entrepreneurship Practicum",
+                        "credits": "4",
+                        "desc": "In this collaborative, cross-institution course, student teams conceive and develop models for social enterprises. Bard students engage with classes from American University of Central Asia, Al-Quds Bard, Central European University, and institutions in Bangladesh, Costa Rica, and Taiwan through synchronous online learning and in-person labs. The course culminates in a \u201cshark tank\u201d for sustainability among and between teams from the different universities. Readings and discussions are focused on issues such as urban-based innovation ecosystems, social obstacles to risk taking, and drivers of change from decarbonization to artificial intelligence, among others. Designated: osun course.",
+                        "department": "Environmental Studies",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (4cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FILM 109",
+                        "name": "Aesthetics Of Film",
+                        "credits": "4",
+                        "desc": "This survey course for first-year students addresses central cinematic issues\u2014 narrative design, montage, realism, collage, abstraction\u2014 through screenings and theoretical readings. Films studied include works by Chaplin, Keaton, Renoir, Rossellini, Hitchcock, Deren, Brakhage, Bresson, and Godard; authors include Vertov, Eisenstein, Pudovkin, Munsterberg, Bazin, Brakhage, Deren, and Arnheim.",
+                        "department": "Film",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JS 101",
+                        "name": "Introduction To Jewish Studies",
+                        "credits": "4",
+                        "desc": "The primary focus of this course is the history of the Jewish people and Judaism as a religion, but students also examine topics in Jewish literature, society, and politics. CROSS-LISTED: HISTORICAL STUDIES, RELIGION.",
+                        "department": "Jewish Studies",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT 280",
+                        "name": "The Heroic Age",
+                        "credits": "4",
+                        "desc": "Major works of the early Middle Ages are studied, with an emphasis on those written in what are today France, Germany, England, and Scandinavia. The course considers society-shaping historical events, such as the Viking invasions, rise of feudalism, and spread of Christianity, and the literary works that developed in those contexts. Texts include Beowulf, The Song of Roland, the Nibelungenlied, and the plays of Hrotswitha of Gandersheim. CROSS-LISTED: MEDIEVAL STUDIES.",
+                        "department": "Literature",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 4000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 261",
+                        "name": "Proofs And Fundamentals",
+                        "credits": "4",
+                        "desc": "An introduction to the methodology of the mathematical proof. The logic of compound and quantified statements; mathematical induction; and basic set theory, including functions and cardinality, are covered. Topics from foundational mathematics are developed to provide students with an opportunity to apply proof techniques.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 332",
+                        "name": "Abstract Algebra",
+                        "credits": "4",
+                        "desc": "An introduction to modern abstract algebraic systems. The structures of groups, rings, and fields are studied, together with the homo - morphisms of these objects. Topics include equivalence relations, finite groups, group actions, integral domains, polynomial rings, and finite fields.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 4010",
+                        "name": "Abstract Algebra",
+                        "note": "--",
+                        "desc": "Groups, rings, polynomial rings, fields, integral domains, with emphasis on group theory; homomorphisms and isomorphisms; normal subgroups, cosets, ideals, modules; quotient groups and quotient rings; other topics chosen from number theory, polynomials, and Galois Theory.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 142",
+                        "name": "Introduction To Western Music",
+                        "credits": "4",
+                        "desc": "By presenting selected masterpieces in the Western tradition, this course demonstrates some of the ways in which music communicates with the listener. In the process, a number of basic concepts underlying musical form and structure are clarified. Students are encouraged to bring their own favorite works to class for general discussion.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2500",
+                        "name": "Histories Of Western Music",
+                        "note": "--",
+                        "desc": "This course surveys multiple approaches to the Western art music traditions from a contemporary global, multicultural context. The inter-relationships between music, society and cultural forces is emphasized. Students learn to recognize and describe the basic components of music, like texture, tonality, rhythm, dynamics, and melody Lectures are supplemented by listening assignments and in-class demonstrations.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 211",
+                        "name": "Jazz In Literature I",
+                        "credits": "4",
+                        "desc": "A two-semester course that explores jazzthemed short stories, novels, and plays, with the goal of scrutinizing the synergy of two great art forms\u2014literature and jazz\u2014in the 20th century. The reading list includes Maya Angelou, James Baldwin, Donald Barthelme, Ralph Ellison, Langston Hughes, Toni Morrison, and Ann Petry. CROSS-LISTED: AFRICANA STUDIES, AMERICAN STUDIES.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 103",
+                        "name": "Introduction To Psychology",
+                        "credits": "4",
+                        "desc": "How does the mind create the reality we perceive? How do experiences shape the brain, and how do processes in the brain influence thought, emotion, and behavior? This course investigates these and similar questions by studying the science of the human mind and behavior. Topics covered include memory, perception, development, psychopathology, personality, and social behavior. A focus is on the biological, cognitive, and social/cultural roots that give rise to human experience. The course also considers how behavior differs among people and across situations.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 230",
+                        "name": "Cognitive Psychology",
+                        "credits": "4",
+                        "desc": "This course is about how people perceive, remember, and think about information. The major topics covered include object recognition, memory, concept formation, language, visual knowledge, judgment, reasoning, problem solving, and conscious and unconscious thought. The course also considers the neural underpinnings of these topics. CROSS-LISTED: MBB.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 4000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SCI 161",
+                        "name": "Astronomy",
+                        "credits": "4",
+                        "desc": "An introduction to astronomy and astrophysics that covers the current status of knowledge and theories of the solar system, individual stars, galaxies, and the interstellar medium. Theories of quasars, pulsars, supernovas, X-ray stars, and black holes are discussed in terms of models of stellar, galactic, and cosmic evolution.",
+                        "department": "Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ASTR 1000",
+                        "name": "Astronomy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Astronomy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SHP 222",
+                        "name": "The History Of Science Before Newton",
+                        "credits": "4",
+                        "desc": "T. S. Kuhn\u2019s model of historical progress is used to examine selected parts of discourses involving pre-Socratic philosophy, mythology, Copernican astronomy, Galileo\u2019s trial, and Newton\u2019s philosophy.",
+                        "department": "Science History And Philosophy",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bard College - Bard Globalization And International Affairs Program": {
+        "city": "New York",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AFR 148",
+                        "name": "African Encounters",
+                        "credits": "4",
+                        "desc": "An introduction to Western representations of Africa from the precolonial period to the present, juxtaposed with representations by Africans. Readings include early traveler accounts, ethnographic/anthropological studies, novels, and political writings. CROSS-LISTED: ANTHROPOLOGY, ENVIRONMENTAL AND URBAN STUDIES.",
+                        "department": "Africana Studies",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANTH 213",
+                        "name": "Anthropology Of Medicine",
+                        "credits": "4",
+                        "desc": "An exploration of medical knowledge and practice in a variety of healing systems, focusing on the human body as the site in which illness is experienced and upon which social meanings and political actions are inscribed. The course examines the way political economic systems and the inequalities they engender affect human well-being. Among the topics addressed are biomedical constructs, alternative medical systems, epidemic diseases, cosmetic medical interventions, and new medical technologies. CROSS-LISTED: GENDER AND SEXUALITY STUDIES, HUMAN RIGHTS, SCIENCE, TECHNOLOGY AND SOCIETY.",
+                        "department": "Anthropology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 100",
+                        "name": "Digital I: Image Making",
+                        "credits": "4",
+                        "desc": "An introduction to both the technical and conceptual aspects of developing a creative practice within a digital context. Students learn software skills, including Adobe Photoshop, Illustrator, and InDesign tools, and explore the creative possibilities within the digital platforms and spaces that foster contemporary communication. The course emphasizes building critical analysis and increased agency as creators within the complex networks of digital information and social media space.",
+                        "department": "Art",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 106",
+                        "name": "Sculpture I",
+                        "credits": "4",
+                        "desc": "Students work with a variety of materials and processes to investigate form, space, surface, location, and gesture. The course is structured around weekly and biweekly assignments that usually begin with an exercise (\u201cmake a sculpture that hangs in the balance\u201d) and introduce a medium, technique, and set of ideas. Group critiques are supplemented by demonstrations in materials and techniques, and presentations of related modern and contemporary artwork.",
+                        "department": "Art",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2210",
+                        "name": "Sculpture I",
+                        "note": "--",
+                        "desc": "A beginning sculpture course combining hands-on studio work sessions with lectures on the history and theory of sculpture practice. The studio component involves explorations of materials and techniques as tools for the enhancing of visual sensitivity and creative expression.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Art 108",
+                        "name": "Drawing I",
+                        "credits": "4",
+                        "desc": "Josef Albers said that he wanted to \u201copen eyes.\u201d This course approaches drawing as a way to explore different ways of seeing. Students work in a range of mediums, techniques, processes, and approaches. Assignments deal with form, space, gesture, mark, line, and image with the goal being the development of work that moves from observation to abstraction. Demonstrations in materials and techniques are given along with readings and presentations of artists whose work is related to the themes addressed.",
+                        "department": "Art",
+                        "catalog": "Bard College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART HISTORY 113",
+                        "name": "History Of Photography",
+                        "credits": "4",
+                        "desc": "The discovery of photography was announced in 1839, almost simultaneously by several inventors. Born of experiments in art and science, the medium combines vision and technology. With its uniquely intimate relation to the real, photography has many applications outside the realm of fine art; nevertheless, from its inception it has been a vehicle for artistic aspirations. This survey of photography from its earliest manifestations to the 2000s considers the medium\u2019s applications\u2014as art, science, historical record, and document. Cross-listed: sts.",
+                        "department": "Art History",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (4cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 141",
+                        "name": "Subcellular Biology",
+                        "credits": "4",
+                        "desc": "Beginning with the evolution and complexity of life, including prokaryotes and viruses, the course examines the commonality of life at both the biochemical and cellular levels. One primary focus is energy transfer in living systems (fermentation, respiration, and photosynthesis), followed by attention to information transfer (genetics, nucleic acid replication, transcription, and translation). The course ends with discussions of more complex topics (genetic engineering, human genetics, and immunology).",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 142",
+                        "name": "Organismal Biology",
+                        "credits": "4",
+                        "desc": "An introduction to organismal biology and ecology, primarily for those who intend to continue in biology. Topics include population genetics; evolution; vertebrate embryology and anatomy; and animal phylogeny, taxonomy, and ecology. Biology 142 may be taken before Biology 141. Students majoring in biology are strongly encouraged to enroll concurrently in Chemistry 142.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 144",
+                        "name": "Biostatistics",
+                        "credits": "4",
+                        "desc": "This course provides a general idea of the statistical methods commonly used in biology, the methods appropriate for various types of data, and an in-depth examination of how the methods work. Topics covered include elementary probability and statistics, hypothesis testing, characteristics of frequency distributions, regression analysis, and some multivariate-based methods.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4200",
+                        "name": "Biostatistics",
+                        "note": "--",
+                        "desc": "An introduction to the concepts and techniques of modern statistics. Computerbased, in-class sessions will emphasize hands-on application of statistical techniques using data and examples drawn from the biological and medical sciences. Pre-class, online exercises will prepare students for in-depth classroom explorations. Topics covered will include sampling, regression, analysis of variance, and factor analysis, MANOVA, maximum likelihood methods, discriminant analysis, time series analysis, and forecasting. The final project requires analysis of a major research-related data set and write-up of results in the format of a scientific paper.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 202",
+                        "name": "Ecology And Evolution",
+                        "credits": "4",
+                        "desc": "In addition to studying foundational ideas in both ecology and evolution, the class explores how genetic variation among individual organisms can influence ecological interactions and how these interactions can influence fitness. Students use model building to inform a mechanistic understanding of processes.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 303",
+                        "name": "Microbiology",
+                        "credits": "4",
+                        "desc": "The first portion of the course deals with prokaryotic cell biology and growth; the second with plant viruses, viroids, bacteriophages, animal viruses, and prions; and the third with the diversity of the prokaryotes, from archaea through both pathogenic and nonpathogenic bacteria. Laboratory work provides practical experience in dealing with prokaryotes and bacteriophages.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 411",
+                        "name": "Cancer Biology",
+                        "credits": "4",
+                        "desc": "Cancer is a genetic disease that cannot be inherited; a disease in which one\u2019s own cells disrupt normal physiological functions; a disease for which some therapies result in the loss of the body\u2019s ability to fight disease. This advanced course looks at the complex reasons for these paradoxes, by examining a particular cancer from several perspectives: epidemiological, physiological, genetic, molecular, and cellular.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 415",
+                        "name": "Advanced Seminar In Ecology",
+                        "credits": "4",
+                        "desc": "This course includes a review of the conceptual bases of restoration ecology, including succession, recruitment, plant/animal interactions, and landscape-scale phenomena. It also addresses particular operational problems in restoration (genetics, hydrological regimes, physical barriers, exotic species, fire, and grazing). Students participate in a class project to design and execute a restoration plan for a location on campus.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 141",
+                        "name": "Basic Principles Of Chemistry",
+                        "credits": "4",
+                        "desc": "An introduction to the composition, structure, and properties of matter. The first semester covers atomic structure, stoichiometry, periodic trends, bonding and molecular geometry, thermochemistry, and the behavior of gases, liquids, and solids. Central concepts in the second semester are energy transfer, spontaneity, and change (thermochemistry, chemical equilibrium, and kinetics). The laboratory portion stresses basic techniques and quantitative applications. Basic algebra skills are required. Concurrent enrollment in calculus is recommended for students who intend to major in chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 142",
+                        "name": "Basic Principles Of Chemistry",
+                        "credits": "4",
+                        "desc": "An introduction to the composition, structure, and properties of matter. The first semester covers atomic structure, stoichiometry, periodic trends, bonding and molecular geometry, thermochemistry, and the behavior of gases, liquids, and solids. Central concepts in the second semester are energy transfer, spontaneity, and change (thermochemistry, chemical equilibrium, and kinetics). The laboratory portion stresses basic techniques and quantitative applications. Basic algebra skills are required. Concurrent enrollment in calculus is recommended for students who intend to major in chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 251",
+                        "name": "Introduction To Artificial Intelligence",
+                        "credits": "4",
+                        "desc": "An introduction to artificial intelligence principles and techniques, primarily intended for students interested in cognitive science and neuroscience. The course emphasizes elements of artificial intelligence that are compatible with the current understanding of biologically based intelligence (e.g., neural computation), and explores the application of such artificial intelligence techniques as automated reasoning, machine learning, evolutionary learning, heuristic search, and behavior-based robot control. Application examples are drawn from artificial life, robotics, game play, logic, visual perception, and natural language processing. CROSS-LISTED: COGNITIVE SCIENCE.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 325",
+                        "name": "Advanced Hardware: Multiprocessor Computer Architecture",
+                        "credits": "4",
+                        "desc": "Modern desktop computers typically contain multiple microprocessors. In order to take full advantage of these new machines, one must understand a number of interlocking hardware and software issues, including instruction and thread-level parallelism, architectures for shared memory, and dynamic scheduling. This course combines principles of computer organization as applied to multiprocessor systems with case studies of extant multicore architectures.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Economics 100",
+                        "name": "Principles Of Economics",
+                        "credits": "4",
+                        "desc": "An introduction to the essential ideas of economic analysis. The microeconomics component of the course develops the basic model of consumer and firm behavior (including demand and supply) in the context of an idealized competitive market and examines several ways in which the real world deviates from this model, including monopoly, minimum wages and other price controls, taxes, and government regulation. The macroeconomics component studies the aggregate behavior of modern economies and the government\u2019s ability (or inability) to use monetary and fiscal policies to achieve economic goals such as full employment and price stability. Cross-listed: economics and finance, environmental studies, gis.",
+                        "department": "Economics",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENVIRONMENTAL STUDIES 305",
+                        "name": "Social Entrepreneurship Practicum",
+                        "credits": "4",
+                        "desc": "In this collaborative, cross-institution course, student teams conceive and develop models for social enterprises. Bard students engage with classes from American University of Central Asia, Al-Quds Bard, Central European University, and institutions in Bangladesh, Costa Rica, and Taiwan through synchronous online learning and in-person labs. The course culminates in a \u201cshark tank\u201d for sustainability among and between teams from the different universities. Readings and discussions are focused on issues such as urban-based innovation ecosystems, social obstacles to risk taking, and drivers of change from decarbonization to artificial intelligence, among others. Designated: osun course.",
+                        "department": "Environmental Studies",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (4cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FILM 109",
+                        "name": "Aesthetics Of Film",
+                        "credits": "4",
+                        "desc": "This survey course for first-year students addresses central cinematic issues\u2014 narrative design, montage, realism, collage, abstraction\u2014 through screenings and theoretical readings. Films studied include works by Chaplin, Keaton, Renoir, Rossellini, Hitchcock, Deren, Brakhage, Bresson, and Godard; authors include Vertov, Eisenstein, Pudovkin, Munsterberg, Bazin, Brakhage, Deren, and Arnheim.",
+                        "department": "Film",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JS 101",
+                        "name": "Introduction To Jewish Studies",
+                        "credits": "4",
+                        "desc": "The primary focus of this course is the history of the Jewish people and Judaism as a religion, but students also examine topics in Jewish literature, society, and politics. CROSS-LISTED: HISTORICAL STUDIES, RELIGION.",
+                        "department": "Jewish Studies",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT 280",
+                        "name": "The Heroic Age",
+                        "credits": "4",
+                        "desc": "Major works of the early Middle Ages are studied, with an emphasis on those written in what are today France, Germany, England, and Scandinavia. The course considers society-shaping historical events, such as the Viking invasions, rise of feudalism, and spread of Christianity, and the literary works that developed in those contexts. Texts include Beowulf, The Song of Roland, the Nibelungenlied, and the plays of Hrotswitha of Gandersheim. CROSS-LISTED: MEDIEVAL STUDIES.",
+                        "department": "Literature",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 4000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 261",
+                        "name": "Proofs And Fundamentals",
+                        "credits": "4",
+                        "desc": "An introduction to the methodology of the mathematical proof. The logic of compound and quantified statements; mathematical induction; and basic set theory, including functions and cardinality, are covered. Topics from foundational mathematics are developed to provide students with an opportunity to apply proof techniques.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 332",
+                        "name": "Abstract Algebra",
+                        "credits": "4",
+                        "desc": "An introduction to modern abstract algebraic systems. The structures of groups, rings, and fields are studied, together with the homo - morphisms of these objects. Topics include equivalence relations, finite groups, group actions, integral domains, polynomial rings, and finite fields.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 4010",
+                        "name": "Abstract Algebra",
+                        "note": "--",
+                        "desc": "Groups, rings, polynomial rings, fields, integral domains, with emphasis on group theory; homomorphisms and isomorphisms; normal subgroups, cosets, ideals, modules; quotient groups and quotient rings; other topics chosen from number theory, polynomials, and Galois Theory.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 142",
+                        "name": "Introduction To Western Music",
+                        "credits": "4",
+                        "desc": "By presenting selected masterpieces in the Western tradition, this course demonstrates some of the ways in which music communicates with the listener. In the process, a number of basic concepts underlying musical form and structure are clarified. Students are encouraged to bring their own favorite works to class for general discussion.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2500",
+                        "name": "Histories Of Western Music",
+                        "note": "--",
+                        "desc": "This course surveys multiple approaches to the Western art music traditions from a contemporary global, multicultural context. The inter-relationships between music, society and cultural forces is emphasized. Students learn to recognize and describe the basic components of music, like texture, tonality, rhythm, dynamics, and melody Lectures are supplemented by listening assignments and in-class demonstrations.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 211",
+                        "name": "Jazz In Literature I",
+                        "credits": "4",
+                        "desc": "A two-semester course that explores jazzthemed short stories, novels, and plays, with the goal of scrutinizing the synergy of two great art forms\u2014literature and jazz\u2014in the 20th century. The reading list includes Maya Angelou, James Baldwin, Donald Barthelme, Ralph Ellison, Langston Hughes, Toni Morrison, and Ann Petry. CROSS-LISTED: AFRICANA STUDIES, AMERICAN STUDIES.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 103",
+                        "name": "Introduction To Psychology",
+                        "credits": "4",
+                        "desc": "How does the mind create the reality we perceive? How do experiences shape the brain, and how do processes in the brain influence thought, emotion, and behavior? This course investigates these and similar questions by studying the science of the human mind and behavior. Topics covered include memory, perception, development, psychopathology, personality, and social behavior. A focus is on the biological, cognitive, and social/cultural roots that give rise to human experience. The course also considers how behavior differs among people and across situations.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 230",
+                        "name": "Cognitive Psychology",
+                        "credits": "4",
+                        "desc": "This course is about how people perceive, remember, and think about information. The major topics covered include object recognition, memory, concept formation, language, visual knowledge, judgment, reasoning, problem solving, and conscious and unconscious thought. The course also considers the neural underpinnings of these topics. CROSS-LISTED: MBB.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 4000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SCI 161",
+                        "name": "Astronomy",
+                        "credits": "4",
+                        "desc": "An introduction to astronomy and astrophysics that covers the current status of knowledge and theories of the solar system, individual stars, galaxies, and the interstellar medium. Theories of quasars, pulsars, supernovas, X-ray stars, and black holes are discussed in terms of models of stellar, galactic, and cosmic evolution.",
+                        "department": "Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ASTR 1000",
+                        "name": "Astronomy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Astronomy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SHP 222",
+                        "name": "The History Of Science Before Newton",
+                        "credits": "4",
+                        "desc": "T. S. Kuhn\u2019s model of historical progress is used to examine selected parts of discourses involving pre-Socratic philosophy, mythology, Copernican astronomy, Galileo\u2019s trial, and Newton\u2019s philosophy.",
+                        "department": "Science History And Philosophy",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bard College - Bhsec Newark": {
+        "city": "Newark",
+        "state": "NJ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AFR 148",
+                        "name": "African Encounters",
+                        "credits": "4",
+                        "desc": "An introduction to Western representations of Africa from the precolonial period to the present, juxtaposed with representations by Africans. Readings include early traveler accounts, ethnographic/anthropological studies, novels, and political writings. CROSS-LISTED: ANTHROPOLOGY, ENVIRONMENTAL AND URBAN STUDIES.",
+                        "department": "Africana Studies",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANTH 213",
+                        "name": "Anthropology Of Medicine",
+                        "credits": "4",
+                        "desc": "An exploration of medical knowledge and practice in a variety of healing systems, focusing on the human body as the site in which illness is experienced and upon which social meanings and political actions are inscribed. The course examines the way political economic systems and the inequalities they engender affect human well-being. Among the topics addressed are biomedical constructs, alternative medical systems, epidemic diseases, cosmetic medical interventions, and new medical technologies. CROSS-LISTED: GENDER AND SEXUALITY STUDIES, HUMAN RIGHTS, SCIENCE, TECHNOLOGY AND SOCIETY.",
+                        "department": "Anthropology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 100",
+                        "name": "Digital I: Image Making",
+                        "credits": "4",
+                        "desc": "An introduction to both the technical and conceptual aspects of developing a creative practice within a digital context. Students learn software skills, including Adobe Photoshop, Illustrator, and InDesign tools, and explore the creative possibilities within the digital platforms and spaces that foster contemporary communication. The course emphasizes building critical analysis and increased agency as creators within the complex networks of digital information and social media space.",
+                        "department": "Art",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 106",
+                        "name": "Sculpture I",
+                        "credits": "4",
+                        "desc": "Students work with a variety of materials and processes to investigate form, space, surface, location, and gesture. The course is structured around weekly and biweekly assignments that usually begin with an exercise (\u201cmake a sculpture that hangs in the balance\u201d) and introduce a medium, technique, and set of ideas. Group critiques are supplemented by demonstrations in materials and techniques, and presentations of related modern and contemporary artwork.",
+                        "department": "Art",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2210",
+                        "name": "Sculpture I",
+                        "note": "--",
+                        "desc": "A beginning sculpture course combining hands-on studio work sessions with lectures on the history and theory of sculpture practice. The studio component involves explorations of materials and techniques as tools for the enhancing of visual sensitivity and creative expression.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Art 108",
+                        "name": "Drawing I",
+                        "credits": "4",
+                        "desc": "Josef Albers said that he wanted to \u201copen eyes.\u201d This course approaches drawing as a way to explore different ways of seeing. Students work in a range of mediums, techniques, processes, and approaches. Assignments deal with form, space, gesture, mark, line, and image with the goal being the development of work that moves from observation to abstraction. Demonstrations in materials and techniques are given along with readings and presentations of artists whose work is related to the themes addressed.",
+                        "department": "Art",
+                        "catalog": "Bard College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART HISTORY 113",
+                        "name": "History Of Photography",
+                        "credits": "4",
+                        "desc": "The discovery of photography was announced in 1839, almost simultaneously by several inventors. Born of experiments in art and science, the medium combines vision and technology. With its uniquely intimate relation to the real, photography has many applications outside the realm of fine art; nevertheless, from its inception it has been a vehicle for artistic aspirations. This survey of photography from its earliest manifestations to the 2000s considers the medium\u2019s applications\u2014as art, science, historical record, and document. Cross-listed: sts.",
+                        "department": "Art History",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (4cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 141",
+                        "name": "Subcellular Biology",
+                        "credits": "4",
+                        "desc": "Beginning with the evolution and complexity of life, including prokaryotes and viruses, the course examines the commonality of life at both the biochemical and cellular levels. One primary focus is energy transfer in living systems (fermentation, respiration, and photosynthesis), followed by attention to information transfer (genetics, nucleic acid replication, transcription, and translation). The course ends with discussions of more complex topics (genetic engineering, human genetics, and immunology).",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 142",
+                        "name": "Organismal Biology",
+                        "credits": "4",
+                        "desc": "An introduction to organismal biology and ecology, primarily for those who intend to continue in biology. Topics include population genetics; evolution; vertebrate embryology and anatomy; and animal phylogeny, taxonomy, and ecology. Biology 142 may be taken before Biology 141. Students majoring in biology are strongly encouraged to enroll concurrently in Chemistry 142.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 144",
+                        "name": "Biostatistics",
+                        "credits": "4",
+                        "desc": "This course provides a general idea of the statistical methods commonly used in biology, the methods appropriate for various types of data, and an in-depth examination of how the methods work. Topics covered include elementary probability and statistics, hypothesis testing, characteristics of frequency distributions, regression analysis, and some multivariate-based methods.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4200",
+                        "name": "Biostatistics",
+                        "note": "--",
+                        "desc": "An introduction to the concepts and techniques of modern statistics. Computerbased, in-class sessions will emphasize hands-on application of statistical techniques using data and examples drawn from the biological and medical sciences. Pre-class, online exercises will prepare students for in-depth classroom explorations. Topics covered will include sampling, regression, analysis of variance, and factor analysis, MANOVA, maximum likelihood methods, discriminant analysis, time series analysis, and forecasting. The final project requires analysis of a major research-related data set and write-up of results in the format of a scientific paper.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 202",
+                        "name": "Ecology And Evolution",
+                        "credits": "4",
+                        "desc": "In addition to studying foundational ideas in both ecology and evolution, the class explores how genetic variation among individual organisms can influence ecological interactions and how these interactions can influence fitness. Students use model building to inform a mechanistic understanding of processes.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 303",
+                        "name": "Microbiology",
+                        "credits": "4",
+                        "desc": "The first portion of the course deals with prokaryotic cell biology and growth; the second with plant viruses, viroids, bacteriophages, animal viruses, and prions; and the third with the diversity of the prokaryotes, from archaea through both pathogenic and nonpathogenic bacteria. Laboratory work provides practical experience in dealing with prokaryotes and bacteriophages.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 411",
+                        "name": "Cancer Biology",
+                        "credits": "4",
+                        "desc": "Cancer is a genetic disease that cannot be inherited; a disease in which one\u2019s own cells disrupt normal physiological functions; a disease for which some therapies result in the loss of the body\u2019s ability to fight disease. This advanced course looks at the complex reasons for these paradoxes, by examining a particular cancer from several perspectives: epidemiological, physiological, genetic, molecular, and cellular.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 415",
+                        "name": "Advanced Seminar In Ecology",
+                        "credits": "4",
+                        "desc": "This course includes a review of the conceptual bases of restoration ecology, including succession, recruitment, plant/animal interactions, and landscape-scale phenomena. It also addresses particular operational problems in restoration (genetics, hydrological regimes, physical barriers, exotic species, fire, and grazing). Students participate in a class project to design and execute a restoration plan for a location on campus.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 141",
+                        "name": "Basic Principles Of Chemistry",
+                        "credits": "4",
+                        "desc": "An introduction to the composition, structure, and properties of matter. The first semester covers atomic structure, stoichiometry, periodic trends, bonding and molecular geometry, thermochemistry, and the behavior of gases, liquids, and solids. Central concepts in the second semester are energy transfer, spontaneity, and change (thermochemistry, chemical equilibrium, and kinetics). The laboratory portion stresses basic techniques and quantitative applications. Basic algebra skills are required. Concurrent enrollment in calculus is recommended for students who intend to major in chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 142",
+                        "name": "Basic Principles Of Chemistry",
+                        "credits": "4",
+                        "desc": "An introduction to the composition, structure, and properties of matter. The first semester covers atomic structure, stoichiometry, periodic trends, bonding and molecular geometry, thermochemistry, and the behavior of gases, liquids, and solids. Central concepts in the second semester are energy transfer, spontaneity, and change (thermochemistry, chemical equilibrium, and kinetics). The laboratory portion stresses basic techniques and quantitative applications. Basic algebra skills are required. Concurrent enrollment in calculus is recommended for students who intend to major in chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 251",
+                        "name": "Introduction To Artificial Intelligence",
+                        "credits": "4",
+                        "desc": "An introduction to artificial intelligence principles and techniques, primarily intended for students interested in cognitive science and neuroscience. The course emphasizes elements of artificial intelligence that are compatible with the current understanding of biologically based intelligence (e.g., neural computation), and explores the application of such artificial intelligence techniques as automated reasoning, machine learning, evolutionary learning, heuristic search, and behavior-based robot control. Application examples are drawn from artificial life, robotics, game play, logic, visual perception, and natural language processing. CROSS-LISTED: COGNITIVE SCIENCE.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 325",
+                        "name": "Advanced Hardware: Multiprocessor Computer Architecture",
+                        "credits": "4",
+                        "desc": "Modern desktop computers typically contain multiple microprocessors. In order to take full advantage of these new machines, one must understand a number of interlocking hardware and software issues, including instruction and thread-level parallelism, architectures for shared memory, and dynamic scheduling. This course combines principles of computer organization as applied to multiprocessor systems with case studies of extant multicore architectures.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Economics 100",
+                        "name": "Principles Of Economics",
+                        "credits": "4",
+                        "desc": "An introduction to the essential ideas of economic analysis. The microeconomics component of the course develops the basic model of consumer and firm behavior (including demand and supply) in the context of an idealized competitive market and examines several ways in which the real world deviates from this model, including monopoly, minimum wages and other price controls, taxes, and government regulation. The macroeconomics component studies the aggregate behavior of modern economies and the government\u2019s ability (or inability) to use monetary and fiscal policies to achieve economic goals such as full employment and price stability. Cross-listed: economics and finance, environmental studies, gis.",
+                        "department": "Economics",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENVIRONMENTAL STUDIES 305",
+                        "name": "Social Entrepreneurship Practicum",
+                        "credits": "4",
+                        "desc": "In this collaborative, cross-institution course, student teams conceive and develop models for social enterprises. Bard students engage with classes from American University of Central Asia, Al-Quds Bard, Central European University, and institutions in Bangladesh, Costa Rica, and Taiwan through synchronous online learning and in-person labs. The course culminates in a \u201cshark tank\u201d for sustainability among and between teams from the different universities. Readings and discussions are focused on issues such as urban-based innovation ecosystems, social obstacles to risk taking, and drivers of change from decarbonization to artificial intelligence, among others. Designated: osun course.",
+                        "department": "Environmental Studies",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (4cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FILM 109",
+                        "name": "Aesthetics Of Film",
+                        "credits": "4",
+                        "desc": "This survey course for first-year students addresses central cinematic issues\u2014 narrative design, montage, realism, collage, abstraction\u2014 through screenings and theoretical readings. Films studied include works by Chaplin, Keaton, Renoir, Rossellini, Hitchcock, Deren, Brakhage, Bresson, and Godard; authors include Vertov, Eisenstein, Pudovkin, Munsterberg, Bazin, Brakhage, Deren, and Arnheim.",
+                        "department": "Film",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JS 101",
+                        "name": "Introduction To Jewish Studies",
+                        "credits": "4",
+                        "desc": "The primary focus of this course is the history of the Jewish people and Judaism as a religion, but students also examine topics in Jewish literature, society, and politics. CROSS-LISTED: HISTORICAL STUDIES, RELIGION.",
+                        "department": "Jewish Studies",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT 280",
+                        "name": "The Heroic Age",
+                        "credits": "4",
+                        "desc": "Major works of the early Middle Ages are studied, with an emphasis on those written in what are today France, Germany, England, and Scandinavia. The course considers society-shaping historical events, such as the Viking invasions, rise of feudalism, and spread of Christianity, and the literary works that developed in those contexts. Texts include Beowulf, The Song of Roland, the Nibelungenlied, and the plays of Hrotswitha of Gandersheim. CROSS-LISTED: MEDIEVAL STUDIES.",
+                        "department": "Literature",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 4000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 261",
+                        "name": "Proofs And Fundamentals",
+                        "credits": "4",
+                        "desc": "An introduction to the methodology of the mathematical proof. The logic of compound and quantified statements; mathematical induction; and basic set theory, including functions and cardinality, are covered. Topics from foundational mathematics are developed to provide students with an opportunity to apply proof techniques.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 332",
+                        "name": "Abstract Algebra",
+                        "credits": "4",
+                        "desc": "An introduction to modern abstract algebraic systems. The structures of groups, rings, and fields are studied, together with the homo - morphisms of these objects. Topics include equivalence relations, finite groups, group actions, integral domains, polynomial rings, and finite fields.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 4010",
+                        "name": "Abstract Algebra",
+                        "note": "--",
+                        "desc": "Groups, rings, polynomial rings, fields, integral domains, with emphasis on group theory; homomorphisms and isomorphisms; normal subgroups, cosets, ideals, modules; quotient groups and quotient rings; other topics chosen from number theory, polynomials, and Galois Theory.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 142",
+                        "name": "Introduction To Western Music",
+                        "credits": "4",
+                        "desc": "By presenting selected masterpieces in the Western tradition, this course demonstrates some of the ways in which music communicates with the listener. In the process, a number of basic concepts underlying musical form and structure are clarified. Students are encouraged to bring their own favorite works to class for general discussion.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2500",
+                        "name": "Histories Of Western Music",
+                        "note": "--",
+                        "desc": "This course surveys multiple approaches to the Western art music traditions from a contemporary global, multicultural context. The inter-relationships between music, society and cultural forces is emphasized. Students learn to recognize and describe the basic components of music, like texture, tonality, rhythm, dynamics, and melody Lectures are supplemented by listening assignments and in-class demonstrations.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 211",
+                        "name": "Jazz In Literature I",
+                        "credits": "4",
+                        "desc": "A two-semester course that explores jazzthemed short stories, novels, and plays, with the goal of scrutinizing the synergy of two great art forms\u2014literature and jazz\u2014in the 20th century. The reading list includes Maya Angelou, James Baldwin, Donald Barthelme, Ralph Ellison, Langston Hughes, Toni Morrison, and Ann Petry. CROSS-LISTED: AFRICANA STUDIES, AMERICAN STUDIES.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 103",
+                        "name": "Introduction To Psychology",
+                        "credits": "4",
+                        "desc": "How does the mind create the reality we perceive? How do experiences shape the brain, and how do processes in the brain influence thought, emotion, and behavior? This course investigates these and similar questions by studying the science of the human mind and behavior. Topics covered include memory, perception, development, psychopathology, personality, and social behavior. A focus is on the biological, cognitive, and social/cultural roots that give rise to human experience. The course also considers how behavior differs among people and across situations.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 230",
+                        "name": "Cognitive Psychology",
+                        "credits": "4",
+                        "desc": "This course is about how people perceive, remember, and think about information. The major topics covered include object recognition, memory, concept formation, language, visual knowledge, judgment, reasoning, problem solving, and conscious and unconscious thought. The course also considers the neural underpinnings of these topics. CROSS-LISTED: MBB.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 4000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SCI 161",
+                        "name": "Astronomy",
+                        "credits": "4",
+                        "desc": "An introduction to astronomy and astrophysics that covers the current status of knowledge and theories of the solar system, individual stars, galaxies, and the interstellar medium. Theories of quasars, pulsars, supernovas, X-ray stars, and black holes are discussed in terms of models of stellar, galactic, and cosmic evolution.",
+                        "department": "Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ASTR 1000",
+                        "name": "Astronomy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Astronomy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SHP 222",
+                        "name": "The History Of Science Before Newton",
+                        "credits": "4",
+                        "desc": "T. S. Kuhn\u2019s model of historical progress is used to examine selected parts of discourses involving pre-Socratic philosophy, mythology, Copernican astronomy, Galileo\u2019s trial, and Newton\u2019s philosophy.",
+                        "department": "Science History And Philosophy",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bard College - Brooklyn Public Library": {
+        "city": "Brooklyn",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AFR 148",
+                        "name": "African Encounters",
+                        "credits": "4",
+                        "desc": "An introduction to Western representations of Africa from the precolonial period to the present, juxtaposed with representations by Africans. Readings include early traveler accounts, ethnographic/anthropological studies, novels, and political writings. CROSS-LISTED: ANTHROPOLOGY, ENVIRONMENTAL AND URBAN STUDIES.",
+                        "department": "Africana Studies",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANTH 213",
+                        "name": "Anthropology Of Medicine",
+                        "credits": "4",
+                        "desc": "An exploration of medical knowledge and practice in a variety of healing systems, focusing on the human body as the site in which illness is experienced and upon which social meanings and political actions are inscribed. The course examines the way political economic systems and the inequalities they engender affect human well-being. Among the topics addressed are biomedical constructs, alternative medical systems, epidemic diseases, cosmetic medical interventions, and new medical technologies. CROSS-LISTED: GENDER AND SEXUALITY STUDIES, HUMAN RIGHTS, SCIENCE, TECHNOLOGY AND SOCIETY.",
+                        "department": "Anthropology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 100",
+                        "name": "Digital I: Image Making",
+                        "credits": "4",
+                        "desc": "An introduction to both the technical and conceptual aspects of developing a creative practice within a digital context. Students learn software skills, including Adobe Photoshop, Illustrator, and InDesign tools, and explore the creative possibilities within the digital platforms and spaces that foster contemporary communication. The course emphasizes building critical analysis and increased agency as creators within the complex networks of digital information and social media space.",
+                        "department": "Art",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 106",
+                        "name": "Sculpture I",
+                        "credits": "4",
+                        "desc": "Students work with a variety of materials and processes to investigate form, space, surface, location, and gesture. The course is structured around weekly and biweekly assignments that usually begin with an exercise (\u201cmake a sculpture that hangs in the balance\u201d) and introduce a medium, technique, and set of ideas. Group critiques are supplemented by demonstrations in materials and techniques, and presentations of related modern and contemporary artwork.",
+                        "department": "Art",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2210",
+                        "name": "Sculpture I",
+                        "note": "--",
+                        "desc": "A beginning sculpture course combining hands-on studio work sessions with lectures on the history and theory of sculpture practice. The studio component involves explorations of materials and techniques as tools for the enhancing of visual sensitivity and creative expression.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Art 108",
+                        "name": "Drawing I",
+                        "credits": "4",
+                        "desc": "Josef Albers said that he wanted to \u201copen eyes.\u201d This course approaches drawing as a way to explore different ways of seeing. Students work in a range of mediums, techniques, processes, and approaches. Assignments deal with form, space, gesture, mark, line, and image with the goal being the development of work that moves from observation to abstraction. Demonstrations in materials and techniques are given along with readings and presentations of artists whose work is related to the themes addressed.",
+                        "department": "Art",
+                        "catalog": "Bard College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART HISTORY 113",
+                        "name": "History Of Photography",
+                        "credits": "4",
+                        "desc": "The discovery of photography was announced in 1839, almost simultaneously by several inventors. Born of experiments in art and science, the medium combines vision and technology. With its uniquely intimate relation to the real, photography has many applications outside the realm of fine art; nevertheless, from its inception it has been a vehicle for artistic aspirations. This survey of photography from its earliest manifestations to the 2000s considers the medium\u2019s applications\u2014as art, science, historical record, and document. Cross-listed: sts.",
+                        "department": "Art History",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (4cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 141",
+                        "name": "Subcellular Biology",
+                        "credits": "4",
+                        "desc": "Beginning with the evolution and complexity of life, including prokaryotes and viruses, the course examines the commonality of life at both the biochemical and cellular levels. One primary focus is energy transfer in living systems (fermentation, respiration, and photosynthesis), followed by attention to information transfer (genetics, nucleic acid replication, transcription, and translation). The course ends with discussions of more complex topics (genetic engineering, human genetics, and immunology).",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 142",
+                        "name": "Organismal Biology",
+                        "credits": "4",
+                        "desc": "An introduction to organismal biology and ecology, primarily for those who intend to continue in biology. Topics include population genetics; evolution; vertebrate embryology and anatomy; and animal phylogeny, taxonomy, and ecology. Biology 142 may be taken before Biology 141. Students majoring in biology are strongly encouraged to enroll concurrently in Chemistry 142.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 144",
+                        "name": "Biostatistics",
+                        "credits": "4",
+                        "desc": "This course provides a general idea of the statistical methods commonly used in biology, the methods appropriate for various types of data, and an in-depth examination of how the methods work. Topics covered include elementary probability and statistics, hypothesis testing, characteristics of frequency distributions, regression analysis, and some multivariate-based methods.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4200",
+                        "name": "Biostatistics",
+                        "note": "--",
+                        "desc": "An introduction to the concepts and techniques of modern statistics. Computerbased, in-class sessions will emphasize hands-on application of statistical techniques using data and examples drawn from the biological and medical sciences. Pre-class, online exercises will prepare students for in-depth classroom explorations. Topics covered will include sampling, regression, analysis of variance, and factor analysis, MANOVA, maximum likelihood methods, discriminant analysis, time series analysis, and forecasting. The final project requires analysis of a major research-related data set and write-up of results in the format of a scientific paper.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 202",
+                        "name": "Ecology And Evolution",
+                        "credits": "4",
+                        "desc": "In addition to studying foundational ideas in both ecology and evolution, the class explores how genetic variation among individual organisms can influence ecological interactions and how these interactions can influence fitness. Students use model building to inform a mechanistic understanding of processes.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 303",
+                        "name": "Microbiology",
+                        "credits": "4",
+                        "desc": "The first portion of the course deals with prokaryotic cell biology and growth; the second with plant viruses, viroids, bacteriophages, animal viruses, and prions; and the third with the diversity of the prokaryotes, from archaea through both pathogenic and nonpathogenic bacteria. Laboratory work provides practical experience in dealing with prokaryotes and bacteriophages.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 411",
+                        "name": "Cancer Biology",
+                        "credits": "4",
+                        "desc": "Cancer is a genetic disease that cannot be inherited; a disease in which one\u2019s own cells disrupt normal physiological functions; a disease for which some therapies result in the loss of the body\u2019s ability to fight disease. This advanced course looks at the complex reasons for these paradoxes, by examining a particular cancer from several perspectives: epidemiological, physiological, genetic, molecular, and cellular.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 415",
+                        "name": "Advanced Seminar In Ecology",
+                        "credits": "4",
+                        "desc": "This course includes a review of the conceptual bases of restoration ecology, including succession, recruitment, plant/animal interactions, and landscape-scale phenomena. It also addresses particular operational problems in restoration (genetics, hydrological regimes, physical barriers, exotic species, fire, and grazing). Students participate in a class project to design and execute a restoration plan for a location on campus.",
+                        "department": "Biology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 4000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 141",
+                        "name": "Basic Principles Of Chemistry",
+                        "credits": "4",
+                        "desc": "An introduction to the composition, structure, and properties of matter. The first semester covers atomic structure, stoichiometry, periodic trends, bonding and molecular geometry, thermochemistry, and the behavior of gases, liquids, and solids. Central concepts in the second semester are energy transfer, spontaneity, and change (thermochemistry, chemical equilibrium, and kinetics). The laboratory portion stresses basic techniques and quantitative applications. Basic algebra skills are required. Concurrent enrollment in calculus is recommended for students who intend to major in chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 142",
+                        "name": "Basic Principles Of Chemistry",
+                        "credits": "4",
+                        "desc": "An introduction to the composition, structure, and properties of matter. The first semester covers atomic structure, stoichiometry, periodic trends, bonding and molecular geometry, thermochemistry, and the behavior of gases, liquids, and solids. Central concepts in the second semester are energy transfer, spontaneity, and change (thermochemistry, chemical equilibrium, and kinetics). The laboratory portion stresses basic techniques and quantitative applications. Basic algebra skills are required. Concurrent enrollment in calculus is recommended for students who intend to major in chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 251",
+                        "name": "Introduction To Artificial Intelligence",
+                        "credits": "4",
+                        "desc": "An introduction to artificial intelligence principles and techniques, primarily intended for students interested in cognitive science and neuroscience. The course emphasizes elements of artificial intelligence that are compatible with the current understanding of biologically based intelligence (e.g., neural computation), and explores the application of such artificial intelligence techniques as automated reasoning, machine learning, evolutionary learning, heuristic search, and behavior-based robot control. Application examples are drawn from artificial life, robotics, game play, logic, visual perception, and natural language processing. CROSS-LISTED: COGNITIVE SCIENCE.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CMSC 325",
+                        "name": "Advanced Hardware: Multiprocessor Computer Architecture",
+                        "credits": "4",
+                        "desc": "Modern desktop computers typically contain multiple microprocessors. In order to take full advantage of these new machines, one must understand a number of interlocking hardware and software issues, including instruction and thread-level parallelism, architectures for shared memory, and dynamic scheduling. This course combines principles of computer organization as applied to multiprocessor systems with case studies of extant multicore architectures.",
+                        "department": "Computer Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Economics 100",
+                        "name": "Principles Of Economics",
+                        "credits": "4",
+                        "desc": "An introduction to the essential ideas of economic analysis. The microeconomics component of the course develops the basic model of consumer and firm behavior (including demand and supply) in the context of an idealized competitive market and examines several ways in which the real world deviates from this model, including monopoly, minimum wages and other price controls, taxes, and government regulation. The macroeconomics component studies the aggregate behavior of modern economies and the government\u2019s ability (or inability) to use monetary and fiscal policies to achieve economic goals such as full employment and price stability. Cross-listed: economics and finance, environmental studies, gis.",
+                        "department": "Economics",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENVIRONMENTAL STUDIES 305",
+                        "name": "Social Entrepreneurship Practicum",
+                        "credits": "4",
+                        "desc": "In this collaborative, cross-institution course, student teams conceive and develop models for social enterprises. Bard students engage with classes from American University of Central Asia, Al-Quds Bard, Central European University, and institutions in Bangladesh, Costa Rica, and Taiwan through synchronous online learning and in-person labs. The course culminates in a \u201cshark tank\u201d for sustainability among and between teams from the different universities. Readings and discussions are focused on issues such as urban-based innovation ecosystems, social obstacles to risk taking, and drivers of change from decarbonization to artificial intelligence, among others. Designated: osun course.",
+                        "department": "Environmental Studies",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (4cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FILM 109",
+                        "name": "Aesthetics Of Film",
+                        "credits": "4",
+                        "desc": "This survey course for first-year students addresses central cinematic issues\u2014 narrative design, montage, realism, collage, abstraction\u2014 through screenings and theoretical readings. Films studied include works by Chaplin, Keaton, Renoir, Rossellini, Hitchcock, Deren, Brakhage, Bresson, and Godard; authors include Vertov, Eisenstein, Pudovkin, Munsterberg, Bazin, Brakhage, Deren, and Arnheim.",
+                        "department": "Film",
+                        "catalog": "Bard College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JS 101",
+                        "name": "Introduction To Jewish Studies",
+                        "credits": "4",
+                        "desc": "The primary focus of this course is the history of the Jewish people and Judaism as a religion, but students also examine topics in Jewish literature, society, and politics. CROSS-LISTED: HISTORICAL STUDIES, RELIGION.",
+                        "department": "Jewish Studies",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT 280",
+                        "name": "The Heroic Age",
+                        "credits": "4",
+                        "desc": "Major works of the early Middle Ages are studied, with an emphasis on those written in what are today France, Germany, England, and Scandinavia. The course considers society-shaping historical events, such as the Viking invasions, rise of feudalism, and spread of Christianity, and the literary works that developed in those contexts. Texts include Beowulf, The Song of Roland, the Nibelungenlied, and the plays of Hrotswitha of Gandersheim. CROSS-LISTED: MEDIEVAL STUDIES.",
+                        "department": "Literature",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 4000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 261",
+                        "name": "Proofs And Fundamentals",
+                        "credits": "4",
+                        "desc": "An introduction to the methodology of the mathematical proof. The logic of compound and quantified statements; mathematical induction; and basic set theory, including functions and cardinality, are covered. Topics from foundational mathematics are developed to provide students with an opportunity to apply proof techniques.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 332",
+                        "name": "Abstract Algebra",
+                        "credits": "4",
+                        "desc": "An introduction to modern abstract algebraic systems. The structures of groups, rings, and fields are studied, together with the homo - morphisms of these objects. Topics include equivalence relations, finite groups, group actions, integral domains, polynomial rings, and finite fields.",
+                        "department": "Mathematics",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 4010",
+                        "name": "Abstract Algebra",
+                        "note": "--",
+                        "desc": "Groups, rings, polynomial rings, fields, integral domains, with emphasis on group theory; homomorphisms and isomorphisms; normal subgroups, cosets, ideals, modules; quotient groups and quotient rings; other topics chosen from number theory, polynomials, and Galois Theory.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 142",
+                        "name": "Introduction To Western Music",
+                        "credits": "4",
+                        "desc": "By presenting selected masterpieces in the Western tradition, this course demonstrates some of the ways in which music communicates with the listener. In the process, a number of basic concepts underlying musical form and structure are clarified. Students are encouraged to bring their own favorite works to class for general discussion.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2500",
+                        "name": "Histories Of Western Music",
+                        "note": "--",
+                        "desc": "This course surveys multiple approaches to the Western art music traditions from a contemporary global, multicultural context. The inter-relationships between music, society and cultural forces is emphasized. Students learn to recognize and describe the basic components of music, like texture, tonality, rhythm, dynamics, and melody Lectures are supplemented by listening assignments and in-class demonstrations.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 211",
+                        "name": "Jazz In Literature I",
+                        "credits": "4",
+                        "desc": "A two-semester course that explores jazzthemed short stories, novels, and plays, with the goal of scrutinizing the synergy of two great art forms\u2014literature and jazz\u2014in the 20th century. The reading list includes Maya Angelou, James Baldwin, Donald Barthelme, Ralph Ellison, Langston Hughes, Toni Morrison, and Ann Petry. CROSS-LISTED: AFRICANA STUDIES, AMERICAN STUDIES.",
+                        "department": "Music",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 103",
+                        "name": "Introduction To Psychology",
+                        "credits": "4",
+                        "desc": "How does the mind create the reality we perceive? How do experiences shape the brain, and how do processes in the brain influence thought, emotion, and behavior? This course investigates these and similar questions by studying the science of the human mind and behavior. Topics covered include memory, perception, development, psychopathology, personality, and social behavior. A focus is on the biological, cognitive, and social/cultural roots that give rise to human experience. The course also considers how behavior differs among people and across situations.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 230",
+                        "name": "Cognitive Psychology",
+                        "credits": "4",
+                        "desc": "This course is about how people perceive, remember, and think about information. The major topics covered include object recognition, memory, concept formation, language, visual knowledge, judgment, reasoning, problem solving, and conscious and unconscious thought. The course also considers the neural underpinnings of these topics. CROSS-LISTED: MBB.",
+                        "department": "Psychology",
+                        "catalog": "Bard College 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 4000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SCI 161",
+                        "name": "Astronomy",
+                        "credits": "4",
+                        "desc": "An introduction to astronomy and astrophysics that covers the current status of knowledge and theories of the solar system, individual stars, galaxies, and the interstellar medium. Theories of quasars, pulsars, supernovas, X-ray stars, and black holes are discussed in terms of models of stellar, galactic, and cosmic evolution.",
+                        "department": "Science",
+                        "catalog": "Bard College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ASTR 1000",
+                        "name": "Astronomy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Astronomy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
             }
         ]
     }
