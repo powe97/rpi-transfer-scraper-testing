@@ -258,12 +258,13 @@ try:
         state["inst_idx"] = 0
         state["inst_pg"] += 1
 
-except Exception as e:
-    print("Program hits exception with state: ", end="")
-    json.dump(state, sys.stdout, indent=4)
-    with open(f"transfer.json", "w") as transferjson:
-        json.dump(institutions, transferjson, indent=4)
-    with open(f"state.json", "w") as statejson:
-        json.dump(state, statejson, indent=4)
-    driver.quit()
-    raise e
+except Exception:
+    print("Program hits exception and will terminate")
+
+print("Program will terminate with state: ", end="")
+json.dump(state, sys.stdout, indent=4)
+with open(f"transfer.json", "w") as transferjson:
+    json.dump(institutions, transferjson, indent=4)
+with open(f"state.json", "w") as statejson:
+    json.dump(state, statejson, indent=4)
+driver.quit()
