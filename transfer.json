@@ -57818,6 +57818,1460 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 118",
+                        "name": "Automata-theoretic Software Analysis",
+                        "credits": "9",
+                        "desc": "An introduction to the use of automata theory in the formal analysis of both concurrent and sequentially executing software systems. The course covers the use of logic model checking with linear temporal logic and interactive techniques for property-based static source code analysis. Instructor: Holzmann. 3 hours of outside preparation.",
+                        "department": "Computer Science",
+                        "catalog": "California Institute of Technology 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ec 11",
+                        "name": "Introduction To Economics",
+                        "credits": "9",
+                        "desc": "An introduction to economic methodology, models, and institutions. Includes both basic microeconomics and an introduction to modern approaches to macroeconomic issues. Students are required to participate in economics experiments. Instructor: Rangel. 4 hours of outside preparation.",
+                        "department": "Economics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "IST 4",
+                        "name": "Information And Logic",
+                        "credits": "9",
+                        "desc": "The course explains the key concepts at the foundations of computing with physical substrates, including representations of numbers, Boolean algebra as an axiomatic system, Boolean functions and their representations, composition of functions and relations, implementing functions with circuits, circuit complexity, representation of computational processes with state diagrams, state diagrams as a composition of Boolean functions and memory, and the implementation of computational processes with finite state machines. The basic concepts covered in the course are connected to advanced topics like programming, computability, logic, complexity theory, information theory, and biochemical systems. Satisfies the menu requirement of the Caltech core curriculum. Instructor: Bruck. 6 hours of outside preparation.",
+                        "department": "Information Science And Technology",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ma 1",
+                        "name": "d Series",
+                        "credits": "4",
+                        "desc": "This is a course intended for those students in the special calculus-intensive sections of Ma 1 a who did not have complex numbers, Taylor polynomials, and infinite series during Ma 1 a. It may not be taken by students who have passed the regular Ma 1 a. 2 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ma 1a",
+                        "name": "Calculus Of One And Several Variables And Linear Algebra",
+                        "credits": "9",
+                        "desc": "Special section of Ma 1 a, 12 units (5-0-7). Review of calculus. Complex numbers, Taylor polynomials, infinite series. Comprehensive presentation of linear algebra. Derivatives of vector functions, multiple integrals, line and path integrals, theorems of Green and Stokes. Ma 1 b, c is divided into two tracks: analytic and practical. Students will be given information helping them to choose a track at the end of the fall term. There will be a special section or sections of Ma 1 a for those students who, because of their background, require more calculus than is provided in the regular Ma 1 a sequence. These students will not learn series in Ma 1 a and will be required to take Ma 1 d. Instructors: Katz, Mantovan, Graber, Flach, Yu. 5 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ma 1b",
+                        "name": "Calculus Of One And Several Variables And Linear Algebra",
+                        "credits": "9",
+                        "desc": "Special section of Ma 1 a, 12 units (5-0-7). Review of calculus. Complex numbers, Taylor polynomials, infinite series. Comprehensive presentation of linear algebra. Derivatives of vector functions, multiple integrals, line and path integrals, theorems of Green and Stokes. Ma 1 b, c is divided into two tracks: analytic and practical. Students will be given information helping them to choose a track at the end of the fall term. There will be a special section or sections of Ma 1 a for those students who, because of their background, require more calculus than is provided in the regular Ma 1 a sequence. These students will not learn series in Ma 1 a and will be required to take Ma 1 d. Instructors: Katz, Mantovan, Graber, Flach, Yu. 5 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Ma 1c",
+                        "name": "Calculus Of One And Several Variables And Linear Algebra",
+                        "credits": "9",
+                        "desc": "Special section of Ma 1 a, 12 units (5-0-7). Review of calculus. Complex numbers, Taylor polynomials, infinite series. Comprehensive presentation of linear algebra. Derivatives of vector functions, multiple integrals, line and path integrals, theorems of Green and Stokes. Ma 1 b, c is divided into two tracks: analytic and practical. Students will be given information helping them to choose a track at the end of the fall term. There will be a special section or sections of Ma 1 a for those students who, because of their background, require more calculus than is provided in the regular Ma 1 a sequence. These students will not learn series in Ma 1 a and will be required to take Ma 1 d. Instructors: Katz, Mantovan, Graber, Flach, Yu. 5 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MA 2A",
+                        "name": "Differential Equations, Probability And Statistics",
+                        "credits": "9",
+                        "desc": "Ordinary differential equations, probability, statistics. Instructors: Makarov, Border. 5 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2013-2014"
+                    },
+                    {
+                        "id": "MA 2B",
+                        "name": "Differential Equations, Probability And Statistics",
+                        "credits": "9",
+                        "desc": "Ordinary differential equations, probability, statistics. Instructors: Makarov, Border. 5 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ma 5b",
+                        "name": "Introduction To Abstract Algebra",
+                        "credits": "9",
+                        "desc": "Introduction to groups, rings, fields, and modules. The first term is devoted to groups and includes treatments of semidirect products and Sylow's theorem. The second term discusses rings and modules and includes a proof that principal ideal domains have unique factorization and the classification of finitely generated modules over principal ideal domains. The third term covers field theory and Galois theory, plus some special topics if time permits. Instructors: Mantovan, Aluffi, Oswal. 6 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Ma 5c",
+                        "name": "Introduction To Abstract Algebra",
+                        "credits": "9",
+                        "desc": "Introduction to groups, rings, fields, and modules. The first term is devoted to groups and includes treatments of semidirect products and Sylow's theorem. The second term discusses rings and modules and includes a proof that principal ideal domains have unique factorization and the classification of finitely generated modules over principal ideal domains. The third term covers field theory and Galois theory, plus some special topics if time permits. Instructors: Mantovan, Aluffi, Oswal. 6 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 4010",
+                        "name": "Abstract Algebra",
+                        "note": "--",
+                        "desc": "Groups, rings, polynomial rings, fields, integral domains, with emphasis on group theory; homomorphisms and isomorphisms; normal subgroups, cosets, ideals, modules; quotient groups and quotient rings; other topics chosen from number theory, polynomials, and Galois Theory.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ma 17",
+                        "name": "How To Solve It",
+                        "credits": "4",
+                        "desc": "There are many problems in elementary mathematics that require ingenuity for their solution. This is a seminar-type course on problem solving in areas of mathematics where little theoretical knowledge is required. Students will work on problems taken from diverse areas of mathematics; there is no prerequisite and the course is open to first-year. May be repeated for credit. Instructor: Staff. 2 hours of outside preparation.",
+                        "department": "Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 4000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ph 1a",
+                        "name": "Classical Mechanics And Electromagnetism",
+                        "credits": "9",
+                        "desc": "The first year of a two-year course in introductory classical and modern physics. Topics: Newtonian mechanics in Ph 1 a; electricity and magnetism, and special relativity, in Ph 1 b, c. Emphasis on physical insight and problem solving. Ph 1 b, c is divided into two tracks: the Practical Track emphasizing practical electricity, and the Analytic Track, which teaches and uses methods of multivariable calculus. Students enrolled in the Practical Track are encouraged to take Ph 8 bc concurrently. Students will be given information helping them to choose a track at the end of fall term. Instructors: Cheung, Hsieh, Refael. 5 hours of outside preparation.",
+                        "department": "Physics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ph 1b",
+                        "name": "Classical Mechanics And Electromagnetism",
+                        "credits": "9",
+                        "desc": "The first year of a two-year course in introductory classical and modern physics. Topics: Newtonian mechanics in Ph 1 a; electricity and magnetism, and special relativity, in Ph 1 b, c. Emphasis on physical insight and problem solving. Ph 1 b, c is divided into two tracks: the Practical Track emphasizing practical electricity, and the Analytic Track, which teaches and uses methods of multivariable calculus. Students enrolled in the Practical Track are encouraged to take Ph 8 bc concurrently. Students will be given information helping them to choose a track at the end of fall term. Instructors: Cheung, Hsieh, Refael. 5 hours of outside preparation.",
+                        "department": "Physics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Ph 1c",
+                        "name": "Classical Mechanics And Electromagnetism",
+                        "credits": "9",
+                        "desc": "The first year of a two-year course in introductory classical and modern physics. Topics: Newtonian mechanics in Ph 1 a; electricity and magnetism, and special relativity, in Ph 1 b, c. Emphasis on physical insight and problem solving. Ph 1 b, c is divided into two tracks: the Practical Track emphasizing practical electricity, and the Analytic Track, which teaches and uses methods of multivariable calculus. Students enrolled in the Practical Track are encouraged to take Ph 8 bc concurrently. Students will be given information helping them to choose a track at the end of fall term. Instructors: Cheung, Hsieh, Refael. 5 hours of outside preparation.",
+                        "department": "Physics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Ph 2a",
+                        "name": "Waves, Quantum Mechanics, And Statistical Physics",
+                        "credits": "9",
+                        "desc": "An introduction to several areas of physics including applications in modern science and engineering. Topics include discrete and continuous oscillatory systems, wave mechanics, applications in telecommunications and other areas (first term); foundational quantum concepts, the quantum harmonic oscillator, the Hydrogen atom, applications in optical and semiconductor systems (second term); ensembles and statistical systems, thermodynamic laws, applications in energy technology and other areas (third term). Although best taken in sequence, the three terms can be taken independently. Instructors: Hildebrandt, Cheung, Filippone. 6 hours of outside preparation.",
+                        "department": "Physics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Ph 2b",
+                        "name": "Waves, Quantum Mechanics, And Statistical Physics",
+                        "credits": "9",
+                        "desc": "An introduction to several areas of physics including applications in modern science and engineering. Topics include discrete and continuous oscillatory systems, wave mechanics, applications in telecommunications and other areas (first term); foundational quantum concepts, the quantum harmonic oscillator, the Hydrogen atom, applications in optical and semiconductor systems (second term); ensembles and statistical systems, thermodynamic laws, applications in energy technology and other areas (third term). Although best taken in sequence, the three terms can be taken independently. Instructors: Hildebrandt, Cheung, Filippone. 6 hours of outside preparation.",
+                        "department": "Physics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Ph 3",
+                        "name": "Introductory Physics Laboratory",
+                        "credits": "6",
+                        "desc": "Introduction to experimental physics and data analysis, with techniques relevant to all fields that deal in quantitative data. Specific physics topics include ion trapping, harmonic motion, mechanical resonance, and precision interferometry. Broader skills covered include introductions to essential electronic equipment used in modern research labs, basic digital data acquisition and analysis, statistical interpretation of quantitative data, professional record keeping and documentation of experimental research, and an introduction to the Mathematica programming language. Only one term may be taken for credit. Instructors: Black, Libbrecht. 3 hours of outside preparation.",
+                        "department": "Physics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 2110",
+                        "name": "Modern Physics",
+                        "note": "--",
+                        "desc": "An introduction to modern physics including special relativity; quantum physics of elementary particles, atoms, nuclei, molecules, and solids; astrophysics; and fundamental forces, and fields.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2011-2012"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PS 120",
+                        "name": "American Electoral Behavior And Party Strategy",
+                        "credits": "9",
+                        "desc": "A consideration of existing literature on the voting behavior of the citizen, and an examination of theoretical and empirical views of the strategies followed by the parties. Two substantial papers are expected of students. Instructor: Alvarez. 6 hours of outside preparation.",
+                        "department": "Political Science",
+                        "catalog": "California Institute of Technology 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "California Polytechnic State University-San Luis Obispo": {
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 111",
+                        "name": "Introduction To The Visual Arts",
+                        "credits": "4",
+                        "desc": "Introduction to the material techniques and social purposes of painting, graphic arts, sculpture, performance, and architecture across diverse cultures. Builds visual analysis skills and research techniques needed to interpret and talk about the visual arts broadly. Fulfills General Education Area C1 (General Education Area C3 for students on the 2019-20 or earlier catalogs). 2020-21 or later catalog: GE Area C1. 2019-20 or earlier catalog: GE Area C3.",
+                        "department": "Art",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (4cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMS 101",
+                        "name": "Public Speaking",
+                        "credits": "4",
+                        "desc": "Introduction to the principles of oral communication and the tradition of public speaking in political and social life. Practical experience in the development, presentation, and critical analysis of speeches to inform and to persuade. Not open to students with credit in COMS 102. Course may be offered in classroom-based, online, or hybrid format. Cross-listed as COMS/HNRS 101. Fulfills General Education Area A1 with a grade of C- or better (GE Area A2 for students on the 2019-20 or earlier catalogs). 2020-21 or later catalog: GE Area A1. 2019-20 or earlier catalog: GE Area A2.",
+                        "department": "Communication Studies",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 221",
+                        "name": "Microeconomics",
+                        "credits": "4",
+                        "desc": "Microeconomic principles. Marginal and equilibrium analysis of commodity and factor markets in determination of price and output. Normative issues of efficiency and equity.",
+                        "department": "Economics",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    },
+                    {
+                        "id": "ECON 222",
+                        "name": "Macroeconomics",
+                        "credits": "4",
+                        "desc": "Introduction to macroeconomics including aggregate output, employment, inflation, and economic growth. Money and the monetary system. Macroeconomic policy including fiscal and monetary policy. Fulfills General Education Area D2 (GE Area D2 or GE Area D3 for students on the 2019-20 or earlier catalogs). 2020-21 or later catalog: GE Area D2. 2019-20 or earlier: GE Area D2 or D3.",
+                        "department": "Economics",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "ECON 1200 (4cr) + ECON 1000 (4cr)",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "ECON 1200 (4cr) + ECON 1000 (4cr)",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EDES 123",
+                        "name": "Principles Of Environmental Design",
+                        "credits": "4",
+                        "desc": "How design relates and impacts environmental and social justice, equity, identity, community, and well-being. Design thinking, process, and tools in describing and planning the built environment. Divergent and inclusive thinking, engaging multiple publics, and expert knowledge in planning and design. Course may be offered in classroom-based or online format. 2 discussions. Fulfills General Education Area E (GE Area D4 for students on the 2017-19 or earlier catalogs). 2019-20 or later catalog: GE Area E. 2017-19 or earlier catalog: GE Area D4. Sustainability Related.",
+                        "department": "Environmental Design",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2370",
+                        "name": "Energy, Comfort, And Ecology",
+                        "note": "--",
+                        "desc": "This course addresses fundamental principles relating the environmental context to human needs and comfort. Topics include the principles of thermodynamics at the architectural scale, optimization versus variability, principles of building sites and orientations, psychometrics, and human comfort, and an introduction to energy modeling. This course is required of all students in the B.Arch. degree program.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 134",
+                        "name": "Writing And Rhetoric",
+                        "credits": "4",
+                        "desc": "Rhetorical principles and strategies for producing effective writing. Writing as a recursive process that leads to greater coherency, stylistic complexity, and rhetorical awareness. Not open to students with credit in ENGL 133. Course may be offered in classroom-based, online, or hybrid format. Fulfills General Education Area A2 with a grade of C- or better (GE Area A1 for students on the 2019-20 or earlier catalogs). 2020-21 or later catalog: GE Area A2. 2019-20 or earlier catalog: GE Area A1.",
+                        "department": "English",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "WRIT 1000 (4cr)",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GRC 101",
+                        "name": "Introduction To Graphic Communication",
+                        "credits": "3",
+                        "desc": "Graphic communication history, theory, processes, applications, and practices. New technologies that affect day-to-day communication including traditional and digital printing and publishing, and non-print imaging including Internet applications. Overview of design technology, web and digital media, printing and imaging management, graphics for packaging, industry segments.",
+                        "department": "Graphic Communication",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "COMM 1000 (3cr)",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 216",
+                        "name": "Comparative Social Movements",
+                        "credits": "4",
+                        "desc": "History of social movements worldwide from the late nineteenth century to the present. May include, but not limited to: socialism and other labor movements, feminism, white supremacy, pacifism, decolonization, Indigenous peoples, racial justice, LGBTQIA, environmentalism, fair trade, and independent living movement. Cross-listed as HIST/HNRS 216. Fulfills General Education Area D2 (GE Area D2 or GE Area D3 for students on the 2019-20 or earlier catalogs). 2020-21 or later catalog: GE Area D2. 2019-20 or earlier: GE Area D2 or D3.",
+                        "department": "History",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 222",
+                        "name": "World History, 1000-1800",
+                        "credits": "4",
+                        "desc": "History of world societies in comparative global perspective. Cross-cultural exchange, interaction, and conflict in the making of the world to 1800, concentrating on the global interaction and integration, cultural and ecological exchange, economic, political, and cultural transformations. Not open to students with credit in HIST 210. Field trip may be required. Fulfills General Education Area D2 (GE Area D2 or GE Area D3 for students on the 2019-20 or earlier catalogs). 2020-21 or later catalog: GE Area D2. 2019-20 or earlier: GE Area D2 or D3.",
+                        "department": "History",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (4cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 182",
+                        "name": "Calculus For Architecture And Construction Management",
+                        "credits": "4",
+                        "desc": "Integral calculus with applications to architecture and construction management. The algebra of vectors. Polar, cylindrical, and spherical coordinate systems. Not open to students with credit in MATH 142. Fulfills GE Area B4 (GE Area B1 for students on the 2019-20 or earlier catalogs); a grade of C- or better is required in one course in this GE area. 2020-21 or later catalog: GE Area B4. 2019-20 or earlier catalog: GE Area B1.",
+                        "department": "Mathematics",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1500",
+                        "name": "Calculus For Architecture, Management, And Hass",
+                        "note": "--",
+                        "desc": "Basic concepts in differential and integral calculus for functions of one variable. Topics will include functions, limits, continuity, derivatives, integration, exponential and logarithmic functions, and techniques of integration. Application areas will include topics in Management, Architecture, and Social Sciences with special emphasis on the role of calculus in introductory probability. Students cannot get credit for both MATH 1500 and MATH 1010.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 126",
+                        "name": "Logic And Argumentative Writing",
+                        "credits": "4",
+                        "desc": "Principles of argument analysis, evaluation and construction. Deductive and inductive reasoning, including analogical arguments, universal and statistical generalizations, and causal inferences. Principles of organizing and writing argumentative essays. Moral dimensions of rational discourse. Course may be offered in classroom-based, online, or hybrid format. Fulfills General Education Area A3 with a grade of C- or better. 2020-21 or later catalog: GE Area A3. 2019-20 or earlier catalog: GE Area A3.",
+                        "department": "Philosophy",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "PHIL 1000 (4cr)",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "POLS 111",
+                        "name": "California Constitution And Government",
+                        "credits": "1",
+                        "desc": "Basic aspects of California state government. Satisfies GE D1 for students who have passed both AP US Government and US History exams, or transfer students who have received advice in writing from the Office of the Registrar to take POLS 111. Course may be offered in classroom-based or hybrid format.",
+                        "department": "Political Science",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "POLS 112",
+                        "name": "American And California Government",
+                        "credits": "4",
+                        "desc": "Study of U.S. and California government institutions, politics, issues and political behavior. Constitutional, historical, social, economic, and cultural perspectives. Relationships to social, economic, and political inequality, and unequal treatment of historically marginalized groups and efforts to address unequal treatment. Course may be offered in classroom-based or online format. Fulfills General Education Area D1. 2020-21 or later: GE Area D1. 2019-20 or earlier catalog: GE Area D1.",
+                        "department": "Political Science",
+                        "catalog": "California Polytechnic State University San Luis Obispo 2022-2026"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (4cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "California State Polytechnic University-Pomona": {
+        "city": "Pomona",
+        "state": "CA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 110",
+                        "name": "Life Science",
+                        "credits": "3",
+                        "desc": "Basic concepts in the study of living systems, including human beings. Uses the study of biology to illustrate approaches of science in understanding the universe. The role of science in modern society and the impact of human civilization on other organisms considered. Designed to satisfy the general education requirements for life science. Courses fulfill General Education: Biological Science and Laboratory Activity. Component(s): 3 lectures/problem-solving. Note(s): Product fee required for BIO 111L. Faculty: Staff.",
+                        "department": "Biology",
+                        "catalog": "California State Polytechnic University Pomona 2017-2018"
+                    },
+                    {
+                        "id": "BIO 111L",
+                        "name": "Life Science",
+                        "credits": "1",
+                        "desc": "Basic concepts in the study of living systems, including human beings. Uses the study of biology to illustrate approaches of science in understanding the universe. The role of science in modern society and the impact of human civilization on other organisms considered. Designed to satisfy the general education requirements for life science. Courses fulfill General Education: Biological Science and Laboratory Activity. Component(s): 3 lectures/problem-solving. Note(s): Product fee required for BIO 111L. Faculty: Staff.",
+                        "department": "Biology",
+                        "catalog": "California State Polytechnic University Pomona 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ME 3011",
+                        "name": "Thermodynamics",
+                        "credits": "3",
+                        "desc": "Thermodynamic properties and processes; equations of state; tables and charts of thermodynamic properties; work and heat, the first law of thermodynamics and first law properties; the second law of thermodynamics and entropy; gas power cycles. Component(s): Lecture. Contact Hour(s): 3 hours lecture/problem-solving. Repeat for Credit: May be taken only once. Course Category: Major Course.",
+                        "department": "Mechanical Engineering",
+                        "catalog": "California State Polytechnic University Pomona 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MANE 2710",
+                        "name": "Thermodynamics",
+                        "note": "--",
+                        "desc": "Introduction to the First and Second Laws of Thermodynamics for open and closed systems. Thermodynamic properties of solids, liquids, and gases. Elementary power and refrigeration cycles.",
+                        "department": "Mechanical Aerospace Nuclear Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            }
+        ]
+    },
+    "California State University-Dominguez Hills": {
+        "city": "Carson",
+        "state": "CA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 120",
+                        "name": "Principles Of Biology I",
+                        "credits": "3",
+                        "desc": "Introduction to basic biological concepts including biochemistry and macromolecules, the structure and function of cells, basic genetic principles, DNA replication, transcription and translation.",
+                        "department": "Biology",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    },
+                    {
+                        "id": "BIO 121",
+                        "name": "Principles Of Biology Lab I",
+                        "credits": "1",
+                        "desc": "Laboratory investigations of the properties of biological molecules and cells, metabolism, and patterns of inheritance. Modern laboratory techniques and application of the scientific method are emphasized.",
+                        "department": "Biology",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    },
+                    {
+                        "id": "BIO 122",
+                        "name": "Principles Of Biology II",
+                        "credits": "3",
+                        "desc": "Introduction to basic biological concepts, including biology of prokaryotes, fungi, plants, invertebrates, and vertebrates, the anatomy and physiology of select organ systems.",
+                        "department": "Biology",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    },
+                    {
+                        "id": "BIO 123",
+                        "name": "Principles Of Biology II Lab",
+                        "credits": "1",
+                        "desc": "Laboratory investigations demonstrating the major properties of the animal kingdom, plant structure and reproduction, vertebrate organ systems and animal fertilization. Application of the scientific method is emphasized.",
+                        "department": "Biology",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE 110",
+                        "name": "General Chemistry I",
+                        "credits": "5",
+                        "desc": "Chemical stoichiometry, atomic structure, periodic table, quantum theory, gases, thermochemistry, ionic bonding, Lewis formulas, liquids, solids, solutions.",
+                        "department": "Chemistry",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 211",
+                        "name": "Calculus III",
+                        "credits": "5",
+                        "desc": "Multivariable calculus: analytic geometry, scalar and vector products, partial differentiation, multiple integration, change of coordinates, gradient, optimization, line integrals, Green's theorem, elements of vector calculus.",
+                        "department": "Mathematics",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 130",
+                        "name": "General Physics I",
+                        "credits": "5",
+                        "desc": "Kinematics and dynamics of particles, rigid bodies and fluids. Kinetic theory, temperature and thermodynamics. Calculus-based course.",
+                        "department": "Physics",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    },
+                    {
+                        "id": "PHY 132",
+                        "name": "General Physics II",
+                        "credits": "5",
+                        "desc": "Waves, light, electricity and magnetism.",
+                        "department": "Physics",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 132",
+                        "name": "General Physics II",
+                        "credits": "5",
+                        "desc": "Waves, light, electricity and magnetism.",
+                        "department": "Physics",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 110",
+                        "name": "Critical Thinking And Problem Solving",
+                        "credits": "3",
+                        "desc": "Course is designed to improve critical thinking and problem solving skills such as deductive and inductive reasoning, probabilistic reasoning and decision-making. May include computer-assisted instruction.",
+                        "department": "Psychology",
+                        "catalog": "California State University Dominguez Hills 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "California State University-Long Beach": {
+        "city": "Long Beach",
+        "state": "CA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 111A",
+                        "name": "General Chemistry",
+                        "credits": "5",
+                        "desc": "One year of high school chemistry is strongly recommended. (This course is recommended for those intending to pursue careers in science or engineering.). First semester of a two-semester sequence (CHEM 111A and CHEM 111B). Introduction to principles of chemistry including chemical reactions, stoichiometry, thermochemistry, electronic structure, bonding, and properties of solids, liquids, gases, and solutions. Course fee may be required. (Lab and problem-solving session 6 hrs.). Credit in CHEM 90 or CHEM 101 does not substitute for a passing score on the Chemistry Placement Examination.",
+                        "department": "Chemistry And Biochemistry",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM 130",
+                        "name": "Essentials Of Public Speaking",
+                        "credits": "3",
+                        "desc": "Composition and delivery of speeches to inform and persuade. Logical organization is stressed.",
+                        "department": "Communication Studies",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 100",
+                        "name": "Composition II",
+                        "credits": "3",
+                        "desc": "Expository writing course designed for first-year students. Satisfies one of the writing requirements for general education at CSULB. Emphasizes academic writing, focusing primarily on analytical reading and thesis-driven writing. Same course as AFRS 100, ASAM 100, CHLS 104. Not open for credit to students with credit in: AFRS 100, ASAM 100, CHLS 104.",
+                        "department": "English",
+                        "catalog": "California State University Long Beach 2018-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 102",
+                        "name": "Critical Reading And Writing",
+                        "credits": "3",
+                        "desc": "Analytical reading and persuasive writing, with emphasis on logic and argumentation. Not open for credit to students with credit in ENGL 200.",
+                        "department": "English",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 122",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "Continuous functions. Derivatives and applications including graphing, related rates, and optimization. Transcendental functions. L\u2019Hospital\u2019s Rule. Antiderivatives. Definite integrals. Area under a curve. (problem session 2 hrs.)",
+                        "department": "Mathematics And Statistics",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 123",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "Applications of the integral. Techniques of integration. Infinite series including convergence tests and Taylor series. Parametric equations. Polar coordinates. Introduces differential equations. (Problem session 2 hrs.) Not open for credit to students with credit in MATH 222.",
+                        "department": "Mathematics And Statistics",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 224",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "Vectors and three-dimensional analytic geometry. Partial derivatives and Lagrange multipliers. Multiple integrals. Vector calculus, line and surface integrals. Green\u2019s Theorem, Stokes\u2019 Theorem, and the Divergence Theorem. (Problem session 2 hrs.)",
+                        "department": "Mathematics And Statistics",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 151",
+                        "name": "Mechanics And Heat",
+                        "credits": "4",
+                        "desc": "Kinematics, Newton\u2019s Laws, rotational motion, conservation laws, mechanical waves, and laws of thermodynamics.",
+                        "department": "Physics",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 152",
+                        "name": "Electricity And Magnetism",
+                        "credits": "4",
+                        "desc": "Coulomb\u2019s law, electrostatics, electric circuits, introductory electronics, magnetic fields, induction, Maxwell\u2019s equations and waves.",
+                        "department": "Physics",
+                        "catalog": "California State University Long Beach 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Cambridge Assessment International Education": {
+        "city": "Cambridge",
+        "state": "",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "Accounting - 9706",
+                        "name": "Accounting",
+                        "credits": "",
+                        "desc": "The syllabus engages students with the relevance and applicability of accounting in real-world contexts. Students will explore the role and responsibilities of the accountant, and study areas such as financial accounting and cost and management accounting. Studying this subject helps students to understand, apply, analyse and evaluate accounting information to help decision-making in business and communicate information to stakeholders. These transferable skills are an ideal foundation for further study and a career within accounting or related professions.",
+                        "department": "Accounting",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2300",
+                        "name": "Financial Accounting In The Digital Age",
+                        "note": "--",
+                        "desc": "An introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, long term liabilities, and equity. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Biology - 9700",
+                        "name": "Biology",
+                        "credits": "",
+                        "desc": "Cambridge International AS and A Level Biology builds on the skills acquired at Cambridge IGCSE (or equivalent) level. The syllabus includes the main theoretical concepts which are fundamental to the subject, some current applications of biology, and a strong emphasis on advanced practical skills. Practical skills are assessed in a timetabled practical examination. The emphasis throughout is on the understanding of concepts and the application of biology ideas in novel contexts as well as on the acquisition of knowledge. The course encourages creative thinking and problem-solving skills which are transferable to any future career path. Cambridge International AS and A Level Biology is ideal for learners who want to study biology or a wide variety of related subjects at university or to follow a career in science.",
+                        "department": "Biology",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "A Level Only",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "A Level Only",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Chemistry - 9701",
+                        "name": "Chemistry",
+                        "credits": "",
+                        "desc": "Cambridge International AS and A Level Chemistry builds on the skills acquired at Cambridge IGCSE (or equivalent) level. The syllabus includes the main theoretical concepts which are fundamental to the subject, some current applications of chemistry, and a strong emphasis on advanced practical skills. Practical skills are assessed in a timetabled practical examination. The emphasis throughout is on the understanding of concepts and the application of chemistry ideas in novel contexts as well as on the acquisition of knowledge. The course encourages creative thinking and problem-solving skills which are transferable to any future career path. Cambridge International AS and A Level Chemistry is ideal for learners who want to study chemistry or a wide variety of related subjects at university or to follow a career in science.",
+                        "department": "Chemistry",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "A Level Only",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "A Level Only",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Chinese - 9715",
+                        "name": "Chinese (a Level Only)",
+                        "credits": "",
+                        "desc": "Cambridge International A Level Chinese builds on the language skills gained at Cambridge IGCSE, Cambridge O Level or Cambridge International AS Level, and is the ideal foundation for university-level study, or to improve career prospects. Learners gain an understanding of how to use the language in a variety of situations. They will be expected to handle texts and other source materials, extracting information in order to respond to specific tasks. Through their studies, learners can expect to achieve greater fluency, accuracy and confidence in the language. They will also learn how to translate material from English into the Chinese.",
+                        "department": "Chinese",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "A Level Only",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Computer Science - 9618",
+                        "name": "Computer Science",
+                        "credits": "",
+                        "desc": "Cambridge International AS & A Level Computer Science encourages learners to meet the needs of higher education courses in computer science as well as twenty-first century digital employers. It encourages leaders to think creatively, through applying practical programming solutions, demonstrating that they are effective uses of technology. Learners develop computational thinking & programming skills to solve computer science problems. Cambridge International AS and A Level Computer Science will help learners develop a range of skills such as thinking creatively, analytically, logically and critically. They will also be able to appreciate the ethical issues that arise with current and emerging computing technologies. From the 2022 examination series, this syllabus will replace Cambridge International AS and A Level Computing (syllabus code 9608) (/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/). There will be a cross over year in 2021 when the last series of 9608 ends and the new syllabus 9618 starts.",
+                        "department": "Computer Science",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "A Level Only",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Economics - 9708",
+                        "name": "Economics",
+                        "credits": "",
+                        "desc": "Students learn how to explain and analyse economic issues and arguments, evaluate economic information, and organise, present and communicate ideas and judgements clearly. The syllabus covers a range of fundamental economic ideas, including an introduction to the price system and government intervention, international trade and exchange rates, the measurement of employment and inflation, and the causes and consequences of inflation. Students also study the theory of the firm, market failure, macroeconomic theory and policy, and economic growth and development.",
+                        "department": "Economics",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "A Level Only",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "English - Literature - 9695",
+                        "name": "English - Literature",
+                        "credits": "",
+                        "desc": "Learners following the Cambridge International AS and A Level English syllabus will study a range of texts in the three main forms: prose, poetry and drama. Set texts are offered from a wide range of different periods and cultures. Learners will develop skills of reading and analysis of texts, and are encouraged to undertake wider reading to aid understanding of the texts studied. They will learn skills of effective and appropriate communication including the ability to discuss the critical context of texts. Changes have been made to this syllabus for examination from 2021 onwards. Please see the 2021-2023 syllabus for detailed information.",
+                        "department": "English - Literature",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "A Level Only",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Mathematics - 9709",
+                        "name": "Mathematics",
+                        "credits": "",
+                        "desc": "Cambridge International A Level Mathematics develops a set of transferable skills. These include the skill of working with mathematical information, as well as the ability to think logically and independently, consider accuracy, model situations mathematically, analyse results and reflect on findings. Learners can apply these skills across a wide range of subjects and these skills equip them well for progression to higher education or directly into employment. At AS level, teachers can choose from three different routes to Cambridge International AS Level Mathematics: Pure Mathematics only, Pure Mathematics and Mechanics, or Pure Mathematics and Probability & Statistics. At A Level, teachers can also choose from different routes to Cambridge International A Level Mathematics depending on the choice of applied mathematics (Mechanics and/or Probability and Statistics). Please note: From 2020 Cambridge International A Level Mathematics has two different routes: Pure Mathematics and Probability & Statistics only; or Pure Mathematics, Mechanics and Probability & Statistics.",
+                        "department": "Mathematics",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "A Level Only",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "A Level Only",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Physics - 9702",
+                        "name": "Physics",
+                        "credits": "",
+                        "desc": "Cambridge International AS and A Level Physics builds on the skills acquired at Cambridge IGCSE (or equivalent) level. The syllabus includes the main theoretical concepts which are fundamental to the subject, some current applications of physics, and a strong emphasis on advanced practical skills. Practical skills are assessed in a timetabled practical examination. The emphasis throughout is on the understanding of concepts and the application of physics ideas in novel contexts as well as on the acquisition of knowledge. The course encourages creative thinking and problem-solving skills which are transferable to any future career path. Cambridge International AS and A Level Physics is ideal for learners who want to study physics or a wide variety of related subjects at university or to follow a career in science.",
+                        "department": "Physics",
+                        "catalog": "AICE Cambridge International Exams 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "A Level Only",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "A Level Only",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
             }
         ]
     }
