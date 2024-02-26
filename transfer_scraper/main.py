@@ -39,7 +39,11 @@ def scrape_course_card(html_id, i, note):
         .find_elements(By.TAG_NAME, "tr")
     )
     course_name_and_id = trs[0].text.split()
-    course_desc = trs[1].text
+
+    course_desc = ""
+    if trs[1].find_element(By.TAG_NAME, "td").get_attribute("colspan") == "2":
+        course_desc = trs[1].text
+
     course_department = (
         next((x for x in trs if x.text.strip().startswith("Department:")))
         .find_elements(By.TAG_NAME, "td")[1]
