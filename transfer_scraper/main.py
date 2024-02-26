@@ -3,6 +3,7 @@ import html
 import sys
 import re
 import os.path
+import traceback
 from time import sleep
 import random
 from fake_useragent import UserAgent
@@ -116,6 +117,8 @@ print("")
 
 try:
     while state["inst_pg"] <= num_pages:
+        page = driver.find_element("id", f"gdvInstWithEQ")
+
         if state["inst_pg"] != 1:
             driver.find_element(
                 By.CSS_SELECTOR,
@@ -127,7 +130,6 @@ try:
             sleep(random.uniform(16, 25))
 
         print(driver.find_element("id", "lblInstWithEQPaginationInfo").text)
-        page = driver.find_element("id", f"gdvInstWithEQ")
 
         inst_list_len = len(
             page.find_elements(
@@ -165,7 +167,9 @@ try:
                 pass
 
             while state["course_pg"] <= course_pages_len:
-                print(f"Scraping {inst_name}, page {state['course_pg']}/{course_pages_len}")
+                print(
+                    f"Scraping {inst_name}, page {state['course_pg']}/{course_pages_len}"
+                )
                 course_links_len = len(
                     driver.find_element("id", "gdvCourseEQ").find_elements(
                         By.CSS_SELECTOR, "a[id^=gdvCourseEQ_btnViewCourseEQDetail_]"
@@ -260,10 +264,11 @@ try:
 
 except Exception as e:
     print("Program hits exception and will terminate")
-    print(f"Exception details: {type(e).__name__}, {e.args}")
+    print(traceback.format_exc())
 
 print("Program will terminate with state: ", end="")
 json.dump(state, sys.stdout, indent=4)
+print("")
 with open(f"transfer.json", "w") as transferjson:
     json.dump(institutions, transferjson, indent=4)
 with open(f"state.json", "w") as statejson:
