@@ -12716,6 +12716,2804 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 101",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.",
+                        "department": "Psychology",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "Fundamentals of the language. Emphasizes listening, speaking, reading, and writing.",
+                        "department": "Spanish",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Arizona State University-Downtown Phoenix": {
+        "city": "Phoenix",
+        "state": "AZ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 201",
+                        "name": "Photography I",
+                        "credits": "3",
+                        "desc": "An introduction to photography, with emphasis on investigating personal, social, cultural and aesthetic concerns with the camera. Class lectures address contemporary and historical photographers and various philosophical and technical approaches to the medium. Lab sections emphasize the creative process through camera work and darkroom procedures using 35 mm film, as well as digital capturing from cell phone camera to DSLR. Students leave this class with a better understanding of the role of photographs in culture and in their own lives.",
+                        "department": "Art",
+                        "catalog": "Arizona State University Course Descriptions Spring 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 113",
+                        "name": "General Chemistry I",
+                        "credits": "4",
+                        "desc": "Principles of chemistry. Adapted to the needs of students in the physical, biological, and earth sciences.",
+                        "department": "Chemistry",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 120",
+                        "name": "Digital Design Fundamentals",
+                        "credits": "3",
+                        "desc": "Number systems, conversion methods, binary and complement arithmetic, Boolean algebra, circuit minimization, ROMs, PLAs, flipflops, synchronous sequential circuits.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 230",
+                        "name": "Computer Organization And Assembly Language Programming",
+                        "credits": "3",
+                        "desc": "Register-level computer organization. Instruction set architecture. Assembly language. Processor organization and design. Memory organization. IO programming. Exception/interrupt handling.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 110",
+                        "name": "Principles Of Programming",
+                        "credits": "3",
+                        "desc": "Concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 205",
+                        "name": "Object-oriented Programming And Data Structures",
+                        "credits": "3",
+                        "desc": "Problem solving by programming with an object-oriented programming language. Introduces data structures. Overview of computer science topics.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 240",
+                        "name": "Introduction To Programming Languages",
+                        "credits": "3",
+                        "desc": "Introduces the procedural, object-oriented, functional and declarative languages.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 294",
+                        "name": "Special Topics",
+                        "credits": "1-4",
+                        "desc": "Covers topics of immediate or special interest to a faculty member and students.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECN 211",
+                        "name": "Macroeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic macroeconomic analysis. Economic institutions and factors determining income levels, price levels, and employment levels.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "ECN 212",
+                        "name": "Microeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic microeconomic analysis. Theory of exchange and production, including the theory of the firm.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Discovers, organizes and develops ideas in relation to the writer's purpose, subject and audience. Emphasizes modes of written discourse and effective use of rhetorical principles.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 102",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 108",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "For students for whom English is not the native language. Critical reading and writing; emphasizes strategies of academic discourse. Research writing required. Satisfies graduation requirement of ENG 102.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSE 100",
+                        "name": "Introduction To Engineering",
+                        "credits": "2",
+                        "desc": "Introduces the engineering design process; working in engineering teams; the profession of engineering; engineering models, written and oral technical communication skills.",
+                        "department": "Fulton School Of Engineering",
+                        "catalog": "Arizona State University Course Descriptions Spring 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 3 credits elective",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "GLG 103",
+                        "name": "Introduction To Geology I: Laboratory",
+                        "credits": "1",
+                        "desc": "3 hours lab, some field trips. Both GLG 101 and 103 or both GLG 101 and ENV 103 must be taken to secure SQ General Studies credit.",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HST 102",
+                        "name": "Europe And The Mediterranean: Ancient And Medieval",
+                        "credits": "3",
+                        "desc": "Origins and development of European societies and institutions from the ancient world through the Middle Ages.",
+                        "department": "History",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 265",
+                        "name": "Calculus For Engineers I",
+                        "credits": "3",
+                        "desc": "Limits and continuity, differential calculus of functions of one variable, introduction to integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 266",
+                        "name": "Calculus For Engineers II",
+                        "credits": "3",
+                        "desc": "Methods of integration, applications of calculus, elements of analytic geometry, improper integrals, Taylor series.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "MAT 267",
+                        "name": "Calculus For Engineers III",
+                        "credits": "3",
+                        "desc": "Vector-valued functions of several variables, partial derivatives, multiple integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 275",
+                        "name": "Modern Differential Equations",
+                        "credits": "3",
+                        "desc": "Introduces differential equations, theoretical and practical solution techniques. Applications. Problem solving using MATLAB.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 131",
+                        "name": "University Physics II: Electricity And Magnetism",
+                        "credits": "3",
+                        "desc": "Electric charge and current, electric and magnetic fields in vacuum and in materials, and induction. AC circuits, displacement current, and electromagnetic waves. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "PHY 132",
+                        "name": "University Physics Laboratory II",
+                        "credits": "1",
+                        "desc": "Lab accompanying PHY 131. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 101",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.",
+                        "department": "Psychology",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "Fundamentals of the language. Emphasizes listening, speaking, reading, and writing.",
+                        "department": "Spanish",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Arizona State University-Polytechnic": {
+        "city": "Mesa",
+        "state": "AZ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 201",
+                        "name": "Photography I",
+                        "credits": "3",
+                        "desc": "An introduction to photography, with emphasis on investigating personal, social, cultural and aesthetic concerns with the camera. Class lectures address contemporary and historical photographers and various philosophical and technical approaches to the medium. Lab sections emphasize the creative process through camera work and darkroom procedures using 35 mm film, as well as digital capturing from cell phone camera to DSLR. Students leave this class with a better understanding of the role of photographs in culture and in their own lives.",
+                        "department": "Art",
+                        "catalog": "Arizona State University Course Descriptions Spring 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 113",
+                        "name": "General Chemistry I",
+                        "credits": "4",
+                        "desc": "Principles of chemistry. Adapted to the needs of students in the physical, biological, and earth sciences.",
+                        "department": "Chemistry",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 120",
+                        "name": "Digital Design Fundamentals",
+                        "credits": "3",
+                        "desc": "Number systems, conversion methods, binary and complement arithmetic, Boolean algebra, circuit minimization, ROMs, PLAs, flipflops, synchronous sequential circuits.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 230",
+                        "name": "Computer Organization And Assembly Language Programming",
+                        "credits": "3",
+                        "desc": "Register-level computer organization. Instruction set architecture. Assembly language. Processor organization and design. Memory organization. IO programming. Exception/interrupt handling.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 110",
+                        "name": "Principles Of Programming",
+                        "credits": "3",
+                        "desc": "Concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 205",
+                        "name": "Object-oriented Programming And Data Structures",
+                        "credits": "3",
+                        "desc": "Problem solving by programming with an object-oriented programming language. Introduces data structures. Overview of computer science topics.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 240",
+                        "name": "Introduction To Programming Languages",
+                        "credits": "3",
+                        "desc": "Introduces the procedural, object-oriented, functional and declarative languages.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 294",
+                        "name": "Special Topics",
+                        "credits": "1-4",
+                        "desc": "Covers topics of immediate or special interest to a faculty member and students.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECN 211",
+                        "name": "Macroeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic macroeconomic analysis. Economic institutions and factors determining income levels, price levels, and employment levels.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "ECN 212",
+                        "name": "Microeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic microeconomic analysis. Theory of exchange and production, including the theory of the firm.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Discovers, organizes and develops ideas in relation to the writer's purpose, subject and audience. Emphasizes modes of written discourse and effective use of rhetorical principles.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 102",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 108",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "For students for whom English is not the native language. Critical reading and writing; emphasizes strategies of academic discourse. Research writing required. Satisfies graduation requirement of ENG 102.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSE 100",
+                        "name": "Introduction To Engineering",
+                        "credits": "2",
+                        "desc": "Introduces the engineering design process; working in engineering teams; the profession of engineering; engineering models, written and oral technical communication skills.",
+                        "department": "Fulton School Of Engineering",
+                        "catalog": "Arizona State University Course Descriptions Spring 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 3 credits elective",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "GLG 103",
+                        "name": "Introduction To Geology I: Laboratory",
+                        "credits": "1",
+                        "desc": "3 hours lab, some field trips. Both GLG 101 and 103 or both GLG 101 and ENV 103 must be taken to secure SQ General Studies credit.",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HST 102",
+                        "name": "Europe And The Mediterranean: Ancient And Medieval",
+                        "credits": "3",
+                        "desc": "Origins and development of European societies and institutions from the ancient world through the Middle Ages.",
+                        "department": "History",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 265",
+                        "name": "Calculus For Engineers I",
+                        "credits": "3",
+                        "desc": "Limits and continuity, differential calculus of functions of one variable, introduction to integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 266",
+                        "name": "Calculus For Engineers II",
+                        "credits": "3",
+                        "desc": "Methods of integration, applications of calculus, elements of analytic geometry, improper integrals, Taylor series.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "MAT 267",
+                        "name": "Calculus For Engineers III",
+                        "credits": "3",
+                        "desc": "Vector-valued functions of several variables, partial derivatives, multiple integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 275",
+                        "name": "Modern Differential Equations",
+                        "credits": "3",
+                        "desc": "Introduces differential equations, theoretical and practical solution techniques. Applications. Problem solving using MATLAB.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 131",
+                        "name": "University Physics II: Electricity And Magnetism",
+                        "credits": "3",
+                        "desc": "Electric charge and current, electric and magnetic fields in vacuum and in materials, and induction. AC circuits, displacement current, and electromagnetic waves. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "PHY 132",
+                        "name": "University Physics Laboratory II",
+                        "credits": "1",
+                        "desc": "Lab accompanying PHY 131. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 101",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.",
+                        "department": "Psychology",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "Fundamentals of the language. Emphasizes listening, speaking, reading, and writing.",
+                        "department": "Spanish",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Arizona State University-Skysong": {
+        "city": "Scottsdale",
+        "state": "AZ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 201",
+                        "name": "Photography I",
+                        "credits": "3",
+                        "desc": "An introduction to photography, with emphasis on investigating personal, social, cultural and aesthetic concerns with the camera. Class lectures address contemporary and historical photographers and various philosophical and technical approaches to the medium. Lab sections emphasize the creative process through camera work and darkroom procedures using 35 mm film, as well as digital capturing from cell phone camera to DSLR. Students leave this class with a better understanding of the role of photographs in culture and in their own lives.",
+                        "department": "Art",
+                        "catalog": "Arizona State University Course Descriptions Spring 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 113",
+                        "name": "General Chemistry I",
+                        "credits": "4",
+                        "desc": "Principles of chemistry. Adapted to the needs of students in the physical, biological, and earth sciences.",
+                        "department": "Chemistry",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 120",
+                        "name": "Digital Design Fundamentals",
+                        "credits": "3",
+                        "desc": "Number systems, conversion methods, binary and complement arithmetic, Boolean algebra, circuit minimization, ROMs, PLAs, flipflops, synchronous sequential circuits.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 230",
+                        "name": "Computer Organization And Assembly Language Programming",
+                        "credits": "3",
+                        "desc": "Register-level computer organization. Instruction set architecture. Assembly language. Processor organization and design. Memory organization. IO programming. Exception/interrupt handling.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 110",
+                        "name": "Principles Of Programming",
+                        "credits": "3",
+                        "desc": "Concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 205",
+                        "name": "Object-oriented Programming And Data Structures",
+                        "credits": "3",
+                        "desc": "Problem solving by programming with an object-oriented programming language. Introduces data structures. Overview of computer science topics.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 240",
+                        "name": "Introduction To Programming Languages",
+                        "credits": "3",
+                        "desc": "Introduces the procedural, object-oriented, functional and declarative languages.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 294",
+                        "name": "Special Topics",
+                        "credits": "1-4",
+                        "desc": "Covers topics of immediate or special interest to a faculty member and students.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECN 211",
+                        "name": "Macroeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic macroeconomic analysis. Economic institutions and factors determining income levels, price levels, and employment levels.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "ECN 212",
+                        "name": "Microeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic microeconomic analysis. Theory of exchange and production, including the theory of the firm.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Discovers, organizes and develops ideas in relation to the writer's purpose, subject and audience. Emphasizes modes of written discourse and effective use of rhetorical principles.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 102",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 108",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "For students for whom English is not the native language. Critical reading and writing; emphasizes strategies of academic discourse. Research writing required. Satisfies graduation requirement of ENG 102.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSE 100",
+                        "name": "Introduction To Engineering",
+                        "credits": "2",
+                        "desc": "Introduces the engineering design process; working in engineering teams; the profession of engineering; engineering models, written and oral technical communication skills.",
+                        "department": "Fulton School Of Engineering",
+                        "catalog": "Arizona State University Course Descriptions Spring 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 3 credits elective",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "GLG 103",
+                        "name": "Introduction To Geology I: Laboratory",
+                        "credits": "1",
+                        "desc": "3 hours lab, some field trips. Both GLG 101 and 103 or both GLG 101 and ENV 103 must be taken to secure SQ General Studies credit.",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HST 102",
+                        "name": "Europe And The Mediterranean: Ancient And Medieval",
+                        "credits": "3",
+                        "desc": "Origins and development of European societies and institutions from the ancient world through the Middle Ages.",
+                        "department": "History",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 265",
+                        "name": "Calculus For Engineers I",
+                        "credits": "3",
+                        "desc": "Limits and continuity, differential calculus of functions of one variable, introduction to integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 266",
+                        "name": "Calculus For Engineers II",
+                        "credits": "3",
+                        "desc": "Methods of integration, applications of calculus, elements of analytic geometry, improper integrals, Taylor series.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "MAT 267",
+                        "name": "Calculus For Engineers III",
+                        "credits": "3",
+                        "desc": "Vector-valued functions of several variables, partial derivatives, multiple integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 275",
+                        "name": "Modern Differential Equations",
+                        "credits": "3",
+                        "desc": "Introduces differential equations, theoretical and practical solution techniques. Applications. Problem solving using MATLAB.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 131",
+                        "name": "University Physics II: Electricity And Magnetism",
+                        "credits": "3",
+                        "desc": "Electric charge and current, electric and magnetic fields in vacuum and in materials, and induction. AC circuits, displacement current, and electromagnetic waves. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "PHY 132",
+                        "name": "University Physics Laboratory II",
+                        "credits": "1",
+                        "desc": "Lab accompanying PHY 131. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 101",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.",
+                        "department": "Psychology",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "Fundamentals of the language. Emphasizes listening, speaking, reading, and writing.",
+                        "department": "Spanish",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Arizona State University-Tempe": {
+        "city": "Tempe",
+        "state": "AZ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 201",
+                        "name": "Photography I",
+                        "credits": "3",
+                        "desc": "An introduction to photography, with emphasis on investigating personal, social, cultural and aesthetic concerns with the camera. Class lectures address contemporary and historical photographers and various philosophical and technical approaches to the medium. Lab sections emphasize the creative process through camera work and darkroom procedures using 35 mm film, as well as digital capturing from cell phone camera to DSLR. Students leave this class with a better understanding of the role of photographs in culture and in their own lives.",
+                        "department": "Art",
+                        "catalog": "Arizona State University Course Descriptions Spring 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 113",
+                        "name": "General Chemistry I",
+                        "credits": "4",
+                        "desc": "Principles of chemistry. Adapted to the needs of students in the physical, biological, and earth sciences.",
+                        "department": "Chemistry",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 120",
+                        "name": "Digital Design Fundamentals",
+                        "credits": "3",
+                        "desc": "Number systems, conversion methods, binary and complement arithmetic, Boolean algebra, circuit minimization, ROMs, PLAs, flipflops, synchronous sequential circuits.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 230",
+                        "name": "Computer Organization And Assembly Language Programming",
+                        "credits": "3",
+                        "desc": "Register-level computer organization. Instruction set architecture. Assembly language. Processor organization and design. Memory organization. IO programming. Exception/interrupt handling.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 110",
+                        "name": "Principles Of Programming",
+                        "credits": "3",
+                        "desc": "Concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 205",
+                        "name": "Object-oriented Programming And Data Structures",
+                        "credits": "3",
+                        "desc": "Problem solving by programming with an object-oriented programming language. Introduces data structures. Overview of computer science topics.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 240",
+                        "name": "Introduction To Programming Languages",
+                        "credits": "3",
+                        "desc": "Introduces the procedural, object-oriented, functional and declarative languages.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 294",
+                        "name": "Special Topics",
+                        "credits": "1-4",
+                        "desc": "Covers topics of immediate or special interest to a faculty member and students.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECN 211",
+                        "name": "Macroeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic macroeconomic analysis. Economic institutions and factors determining income levels, price levels, and employment levels.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "ECN 212",
+                        "name": "Microeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic microeconomic analysis. Theory of exchange and production, including the theory of the firm.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Discovers, organizes and develops ideas in relation to the writer's purpose, subject and audience. Emphasizes modes of written discourse and effective use of rhetorical principles.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 102",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 108",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "For students for whom English is not the native language. Critical reading and writing; emphasizes strategies of academic discourse. Research writing required. Satisfies graduation requirement of ENG 102.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSE 100",
+                        "name": "Introduction To Engineering",
+                        "credits": "2",
+                        "desc": "Introduces the engineering design process; working in engineering teams; the profession of engineering; engineering models, written and oral technical communication skills.",
+                        "department": "Fulton School Of Engineering",
+                        "catalog": "Arizona State University Course Descriptions Spring 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 3 credits elective",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "GLG 103",
+                        "name": "Introduction To Geology I: Laboratory",
+                        "credits": "1",
+                        "desc": "3 hours lab, some field trips. Both GLG 101 and 103 or both GLG 101 and ENV 103 must be taken to secure SQ General Studies credit.",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HST 102",
+                        "name": "Europe And The Mediterranean: Ancient And Medieval",
+                        "credits": "3",
+                        "desc": "Origins and development of European societies and institutions from the ancient world through the Middle Ages.",
+                        "department": "History",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 265",
+                        "name": "Calculus For Engineers I",
+                        "credits": "3",
+                        "desc": "Limits and continuity, differential calculus of functions of one variable, introduction to integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 266",
+                        "name": "Calculus For Engineers II",
+                        "credits": "3",
+                        "desc": "Methods of integration, applications of calculus, elements of analytic geometry, improper integrals, Taylor series.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "MAT 267",
+                        "name": "Calculus For Engineers III",
+                        "credits": "3",
+                        "desc": "Vector-valued functions of several variables, partial derivatives, multiple integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 275",
+                        "name": "Modern Differential Equations",
+                        "credits": "3",
+                        "desc": "Introduces differential equations, theoretical and practical solution techniques. Applications. Problem solving using MATLAB.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 131",
+                        "name": "University Physics II: Electricity And Magnetism",
+                        "credits": "3",
+                        "desc": "Electric charge and current, electric and magnetic fields in vacuum and in materials, and induction. AC circuits, displacement current, and electromagnetic waves. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "PHY 132",
+                        "name": "University Physics Laboratory II",
+                        "credits": "1",
+                        "desc": "Lab accompanying PHY 131. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 101",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.",
+                        "department": "Psychology",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "Fundamentals of the language. Emphasizes listening, speaking, reading, and writing.",
+                        "department": "Spanish",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Arizona State University-West": {
+        "city": "Glendale",
+        "state": "AZ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 201",
+                        "name": "Photography I",
+                        "credits": "3",
+                        "desc": "An introduction to photography, with emphasis on investigating personal, social, cultural and aesthetic concerns with the camera. Class lectures address contemporary and historical photographers and various philosophical and technical approaches to the medium. Lab sections emphasize the creative process through camera work and darkroom procedures using 35 mm film, as well as digital capturing from cell phone camera to DSLR. Students leave this class with a better understanding of the role of photographs in culture and in their own lives.",
+                        "department": "Art",
+                        "catalog": "Arizona State University Course Descriptions Spring 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 113",
+                        "name": "General Chemistry I",
+                        "credits": "4",
+                        "desc": "Principles of chemistry. Adapted to the needs of students in the physical, biological, and earth sciences.",
+                        "department": "Chemistry",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 120",
+                        "name": "Digital Design Fundamentals",
+                        "credits": "3",
+                        "desc": "Number systems, conversion methods, binary and complement arithmetic, Boolean algebra, circuit minimization, ROMs, PLAs, flipflops, synchronous sequential circuits.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 230",
+                        "name": "Computer Organization And Assembly Language Programming",
+                        "credits": "3",
+                        "desc": "Register-level computer organization. Instruction set architecture. Assembly language. Processor organization and design. Memory organization. IO programming. Exception/interrupt handling.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 110",
+                        "name": "Principles Of Programming",
+                        "credits": "3",
+                        "desc": "Concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "CSE 205",
+                        "name": "Object-oriented Programming And Data Structures",
+                        "credits": "3",
+                        "desc": "Problem solving by programming with an object-oriented programming language. Introduces data structures. Overview of computer science topics.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 240",
+                        "name": "Introduction To Programming Languages",
+                        "credits": "3",
+                        "desc": "Introduces the procedural, object-oriented, functional and declarative languages.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSE 294",
+                        "name": "Special Topics",
+                        "credits": "1-4",
+                        "desc": "Covers topics of immediate or special interest to a faculty member and students.",
+                        "department": "Computer Science And Engineering",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECN 211",
+                        "name": "Macroeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic macroeconomic analysis. Economic institutions and factors determining income levels, price levels, and employment levels.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "ECN 212",
+                        "name": "Microeconomic Principles",
+                        "credits": "3",
+                        "desc": "Basic microeconomic analysis. Theory of exchange and production, including the theory of the firm.",
+                        "department": "Economics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Discovers, organizes and develops ideas in relation to the writer's purpose, subject and audience. Emphasizes modes of written discourse and effective use of rhetorical principles.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 102",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 108",
+                        "name": "First-year Composition",
+                        "credits": "3",
+                        "desc": "For students for whom English is not the native language. Critical reading and writing; emphasizes strategies of academic discourse. Research writing required. Satisfies graduation requirement of ENG 102.",
+                        "department": "English",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSE 100",
+                        "name": "Introduction To Engineering",
+                        "credits": "2",
+                        "desc": "Introduces the engineering design process; working in engineering teams; the profession of engineering; engineering models, written and oral technical communication skills.",
+                        "department": "Fulton School Of Engineering",
+                        "catalog": "Arizona State University Course Descriptions Spring 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 3 credits elective",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GLG 101",
+                        "name": "Introduction To Geology I (physical)",
+                        "credits": "3",
+                        "desc": "Basic principles of geology, geochemistry, and geophysics. Rocks, minerals, weathering, earthquakes, mountain building, volcanoes, water, and glaciers. Students must complete both GLG 101 and GLG 103 to receive an SQ (general studies).",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "GLG 103",
+                        "name": "Introduction To Geology I: Laboratory",
+                        "credits": "1",
+                        "desc": "3 hours lab, some field trips. Both GLG 101 and 103 or both GLG 101 and ENV 103 must be taken to secure SQ General Studies credit.",
+                        "department": "Geological Sciences",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HST 102",
+                        "name": "Europe And The Mediterranean: Ancient And Medieval",
+                        "credits": "3",
+                        "desc": "Origins and development of European societies and institutions from the ancient world through the Middle Ages.",
+                        "department": "History",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 265",
+                        "name": "Calculus For Engineers I",
+                        "credits": "3",
+                        "desc": "Limits and continuity, differential calculus of functions of one variable, introduction to integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 266",
+                        "name": "Calculus For Engineers II",
+                        "credits": "3",
+                        "desc": "Methods of integration, applications of calculus, elements of analytic geometry, improper integrals, Taylor series.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "MAT 267",
+                        "name": "Calculus For Engineers III",
+                        "credits": "3",
+                        "desc": "Vector-valued functions of several variables, partial derivatives, multiple integration.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 275",
+                        "name": "Modern Differential Equations",
+                        "credits": "3",
+                        "desc": "Introduces differential equations, theoretical and practical solution techniques. Applications. Problem solving using MATLAB.",
+                        "department": "Mathematics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 131",
+                        "name": "University Physics II: Electricity And Magnetism",
+                        "credits": "3",
+                        "desc": "Electric charge and current, electric and magnetic fields in vacuum and in materials, and induction. AC circuits, displacement current, and electromagnetic waves. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    },
+                    {
+                        "id": "PHY 132",
+                        "name": "University Physics Laboratory II",
+                        "credits": "1",
+                        "desc": "Lab accompanying PHY 131. Both PHY 131 and PHY 132 must be taken to secure SQ General Studies credit.",
+                        "department": "Physics",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 101",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.",
+                        "department": "Psychology",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "Fundamentals of the language. Emphasizes listening, speaking, reading, and writing.",
+                        "department": "Spanish",
+                        "catalog": "Arizona State University Course Descriptions Fall 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
             }
         ]
     }
