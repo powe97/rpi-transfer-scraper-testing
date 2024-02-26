@@ -258,8 +258,9 @@ try:
         state["inst_idx"] = 0
         state["inst_pg"] += 1
 
-except Exception:
+except Exception as e:
     print("Program hits exception and will terminate")
+    print(f"Exception details: {type(e).__name__}, {e.args}")
 
 print("Program will terminate with state: ", end="")
 json.dump(state, sys.stdout, indent=4)
