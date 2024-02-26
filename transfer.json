@@ -34138,5 +34138,2373 @@
                 "end": "5/1/2026"
             }
         ]
+    },
+    "Berklee College Of Music": {
+        "city": "Boston",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ET 011",
+                        "name": "Ear Training 1",
+                        "credits": "3",
+                        "desc": "Development of basic ear training skills through singing and dictation studies. Study of songs, intervals, and exercises in the pentatonic and major scales. Study of basic rhythm patterns.Development of basic ear training skills through singing and dictation studies. Study of songs, intervals, and exercises in the pentatonic and major scales. Study of basic rhythm patterns.",
+                        "department": "Ear Training",
+                        "catalog": "Berklee College of Music Bulletin 1996-1997"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GE 011",
+                        "name": "English Composition",
+                        "credits": "3",
+                        "desc": "In English Composition, students will develop techniques for the writing of concise and lucid themes as a means of developing clarity and coherence in discussion and essays. Additionally, the analysis of assigned readings provides an introduction to various rhetorical forms where emphasis will be placed on effective communication. The course focuses on effective writing skills ranging from mechanics (grammar, spelling, and punctuation), to paragraph structure and organization, to more subtle considerations of style, audience, and tone. It covers the principal aims of writing: to express, explain, persuade, and create. Course Chair: C. Combs. Required of: Degree students. Electable by: All.",
+                        "department": "General Education",
+                        "catalog": "Berklee College of Music Bulletin 1996-1997"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HR 011",
+                        "name": "Harmony 1",
+                        "credits": "2",
+                        "desc": "Basic harmonic theory. Note identification, scale and mode construction, key signatures, interval recognition, chord construction, available tensions. Principles of diatonic chord progressions and analysis. Course Chair: B. London. Required of: All. Electable by: All.",
+                        "department": "Harmony",
+                        "catalog": "Berklee College of Music Bulletin 1996-1997"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Berkshire Community College": {
+        "city": "Pittsfield",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AIB 205",
+                        "name": "Money And Banking",
+                        "credits": "3",
+                        "desc": "Contemporary theory and practice in the field of finance and banking. This course is designed to develop an understanding of what money is and does, and how it is banked, and examines the American commercial banking system, including the Federal Reserve system as it aids and regulates banking. The course serves the student planning further study in banking, finance, or economics, and the student interested in understanding our banking system in general.",
+                        "department": "American Institute Of Banking",
+                        "catalog": "Berkshire Community College 2008-2009"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 2000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 109",
+                        "name": "Introductory Ecology I",
+                        "credits": "4",
+                        "desc": "Primarily theoretical ecology. Topics covered in lecture and laboratory include ecosystem concept, ecological energetics, biogeochemical cycling, limiting factors, habitat types, and ecological succession.",
+                        "department": "Biology",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 111",
+                        "name": "Introduction To Botany",
+                        "credits": "4",
+                        "desc": "The biology, ecology, and taxonomy of plants and their role in human civilization. Structure and function, metabolism, growth and physiology, genetics, evolution, and adaptations are included. Laboratories emphasize structure, function, growth, and taxonomy. A plant collection may be required.",
+                        "department": "Biology",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 112",
+                        "name": "Zoology",
+                        "credits": "4",
+                        "desc": "An introduction to the organization and evolution of animals, including invertebrates and vertebrates. This course examines how various animal groups have solved the biological problems common to all life.",
+                        "department": "Biology",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 201",
+                        "name": "Anatomy & Physiology I",
+                        "credits": "4",
+                        "desc": "The structure of the human body, including microscopic anatomy, and the principles involved in the functioning and integration of the various body systems. This course covers, cells, tissues, the integumentary, skeletal, articular, muscular, nervous and sensory systems.",
+                        "department": "Biology",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 202",
+                        "name": "Anatomy & Physiology II",
+                        "credits": "4",
+                        "desc": "A continuation of BIO 201. This course covers the endocrine, circulatory, lymphatic, respiratory, digestive, urinary and reproductive systems, as well as fluids and electrolytes.",
+                        "department": "Biology",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS 233",
+                        "name": "International Business",
+                        "credits": "3",
+                        "desc": "An introduction to the scope, importance, and implications of international business. Topics include the human, cultural, and geographic environment of international business; commercial policies, strategies, and instruments of trade; political, legal and monetary considerations; international marketing; and the implications of economic integration among nations. Case studies and term project are required.",
+                        "department": "Business",
+                        "catalog": "Berkshire Community College 2010-2011"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS 251",
+                        "name": "Law For Business I",
+                        "credits": "3",
+                        "desc": "An introduction to the legal principles of business. This course concentrates on the essential elements of legally enforceable contracts, personal property and bailments, agency and employment law, and an overview of the Uniform Commercial Code as it applies to the sale of goods. An introduction to the American legal system and to tort law is also included. The text is supplemented by case discussions.",
+                        "department": "Business",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS 220",
+                        "name": "Managerial Accounting",
+                        "credits": "3",
+                        "desc": "An examination of the process of gathering and analyzing accounting data for use by managers in planning, decision making, and controlling. This course uses computerized spreadsheet applications in analyzing the performance of product lines and other segments of a firm, pricing strategy, cost-volume-profit relationships, budgeting, and capital investment decisions.",
+                        "department": "Business",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    },
+                    {
+                        "id": "BUS 255",
+                        "name": "Principles Of Finance",
+                        "credits": "3",
+                        "desc": "An examination of the acquisition of funds in today's corporations. Topics include shareholder wealth maximization concepts, working capital management, alternative forms of short- and long-term funds, financial analysis, mergers, leveraged buy-outs (LBOs), and capital budgeting.",
+                        "department": "Business",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MGMT 2320",
+                        "name": "Managerial Finance",
+                        "note": "--",
+                        "desc": "An introduction to corporate financial analysis and decision making. This course covers the following topics: financial statement analysis, valuation principles, risk and return analysis, working capital management, capital budgeting, cost of capital, capital structure, and dividend policy.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 101",
+                        "name": "Introductory Chemistry I",
+                        "credits": "4",
+                        "desc": "A laboratory science course for students planning to transfer. Topics include: atoms, measurements, moles, quantum mechanical model of the atom, periodic properties, molecules and compounds, Lewis structures and molecular geometry, chemical reactions, chemical quantities, solutions, aqueous reactions and thermochemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 102",
+                        "name": "Introductory Chemistry II",
+                        "credits": "4",
+                        "desc": "A continuation of CHM-101. Topics include: gases, liquids, solids, intermolecular forces, phase diagrams, solutions, kinetics, equilibrium, acids and bases, free energy, thermodynamics, electrochemistry and oxidation-reduction.",
+                        "department": "Chemistry",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 201",
+                        "name": "Organic Chemistry I",
+                        "credits": "4",
+                        "desc": "A mechanism-based organic chemistry course designed for students that plan to transfer. Topics include: nomenclature of all organic functional groups, molecular orbital theory, isomers, stereochemistry, elementary step mechanisms including proton transfer, coordination, heterolysis, nucleophilic addition, nucleophile elimination, electrophilic addition, electrophile elimination, carbocation rearrangement nucleophilic substitution 2, and bimolecular elimination 2 as well as multistep mechanisms including nucleophilic substitution 1 and elimination 1. The course applies these topics to organic syntheses and biomolecules.",
+                        "department": "Chemistry",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2250",
+                        "name": "Organic Chemistry I",
+                        "note": "--",
+                        "desc": "Structure and chemical behavior of organic molecules with particular emphasis on reaction mechanisms as pathways for understanding their reactions. Stereochemistry, synthesis, and spectroscopic methods for the identification of organic functional groups are among the topics included.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 202",
+                        "name": "Organic Chemistry II",
+                        "credits": "4",
+                        "desc": "A continuation of CHM-201. A mechanism-based organic chemistry course designed for students that plan to transfer. Topics include: aromaticity, structure determination using IR and NMR, multistep mechanisms such as electrophilic addition to nonpolar pi bonds, nucleophilic addition to polar pi bonds, nucleophilic addition-elimination reactions, aromatic substitution, pericyclic reactions, free radicals, and polymerization. The course applies these topics to organic syntheses and biomolecules.",
+                        "department": "Chemistry",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2260",
+                        "name": "Organic Chemistry II",
+                        "note": "--",
+                        "desc": "A continuation of CHEM 2250, which is a prerequisite.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 124",
+                        "name": "C++ Programming I",
+                        "credits": "4",
+                        "desc": "A course in microcomputer software design using objects. This course is an introduction to C++ and object-oriented programming. Topics include objects, control structures, functions, arrays, and structs. An online course management system will be used to provide instructional support via the Internet. Note: Credit is not granted for both CIS 124 and ENT 183.",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 125",
+                        "name": "C++ Programming II",
+                        "credits": "4",
+                        "desc": "A continuation of CIS 124. Topics include pointers, string manipulation, structured data, objects, classes, inheritance, polymorphism, advanced file handling, virtual functions and recursion. An online course management system will be used to provide instructional lab support via the Internet.",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 131",
+                        "name": "Computer Science I With Java",
+                        "credits": "4",
+                        "desc": "A study of computer programming using the Ja va language. The course will cover basic programming structures and stress good program design methodology. Topics include the development of both standalone applications, applets, and the use of Java class libraries.",
+                        "department": "Computer Information Systems",
+                        "catalog": "Berkshire Community College 2005-2006"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 132",
+                        "name": "Computer Science II With Java",
+                        "credits": "4",
+                        "desc": "A continuation of CIS 131. Topics include objects, classes, strings, graphics, exception handling, multith reading, and file processing.",
+                        "department": "Computer Information Systems",
+                        "catalog": "Berkshire Community College 2005-2006"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 155",
+                        "name": "Web Development",
+                        "credits": "3",
+                        "desc": "An experiential web design course focusing on process, best practices and design. Students will use Hyper Text Markup Language (HTML) and Cascading Style Sheets (CSS) to create websites and present them on the World Wide Web. The course will cover Responsive Web Design: a process to make websites optimal whether viewing on a desktop, tablet or mobile device. Students will be exposed to the technologies of advanced web development and will survey many of the tools used to create websites today.",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 201",
+                        "name": "Advanced Cobol",
+                        "credits": "4",
+                        "desc": "A continuation of CIS 200. This course includes table handling, sequential, indexed sequential, and pure random-access processing techniques.",
+                        "department": "Computer Information Systems",
+                        "catalog": "Berkshire Community College 2005-2006"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 203",
+                        "name": "Systems Design",
+                        "credits": "3",
+                        "desc": "The technical aspects of systems design such as the systems perspective, techniques for analyzing systems, systems control, documentation, file design, organizing a data processing department, and making feasibility studies. Both manual and automated systems are studied.",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 212",
+                        "name": "Assembly Language",
+                        "credits": "4",
+                        "desc": "A study of the internal instructions, organization and operations of the modern digital computer. Topics such as data movement, flow of control, mnemonics and symbolic addressing, memory usage sub-routines, and input-output are covered. Linkage between assembler routines and others written in higher level languages is also studied.",
+                        "department": "Computer Information Systems",
+                        "catalog": "Berkshire Community College 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 231",
+                        "name": "Computer Science I With Java",
+                        "credits": "4",
+                        "desc": "A study of computer programming using the Java language. The course will cover creating stand-alone applications and applets. Topics include control structures, Graphical User Interface (GUI) design, object oriented design, the use of Java class libraries, user-defined methods and classes, inheritance, exception handling and graphics.",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1010",
+                        "name": "Introduction To Computer Programming",
+                        "note": "--",
+                        "desc": "Computer programming is a way of thinking. A successful programmer needs to take a word problem, generate a pseudocode algorithm, and convert it to the syntax of a specific programming language. This course is an alternative to CSCI 1100 and is intended for students who want an introduction to this programming process but do not intend to do further course work in programming or computer science. Emphasis will be on the generation of the algorithms and problem solving. This course is offered in Python, an approachable language with relatively low syntax complexity, which allows students to concentrate on the fundamentals without becoming sidetracked by language specifics. It also affords students a tool for creating useful personal applications or prototypes in the future. Students cannot get credit for this course if they have already taken any other CSCI course. (Fall 2019 is the final offering of this course.)",
+                        "department": "Computer Science (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2019-2020"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 232",
+                        "name": "Computer Science II With Java",
+                        "credits": "4",
+                        "desc": "A continuation of CIS 231. Topics include classes and objects with I/O serialization, collections and utilities, multithreading, advanced GUI's, Java beans and relational databases.",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 240",
+                        "name": "Scaling Networks",
+                        "credits": "4",
+                        "desc": "Third course of a four course sequence provides the in depth exposure to the architecture, components, and operations of routers and switches in larger and more complex networks. Students learn how to configure routers and switches for advanced functionality. By the end of this course, students will be able to configure and troubleshoot routers and switches and resolve common issues with routing protocols, and spanning tree protocols in IPv4 and IPv6 networks. Students will also develop the knowledge and skills needed to implement a Wireless LAN in a small-to- medium network.",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 241",
+                        "name": "Connecting Networks",
+                        "credits": "4",
+                        "desc": "Discusses the Wide Area Network (WAN) technologies and network services required by converged applications in a complex network. The course enables students to understand the selection criteria of network devices and WAN technologies to meet network requirements. Students learn how to configure and troubleshoot network devices and resolve common issues with data link protocols. Students will also develop the knowledge and skills needed to implement virtual private network (VPN)operations in a complex network. Completing this course of the four course sequence will prepare the student for the Associate-level certifications in Networking (CCNA).",
+                        "department": "Computer Info Systems",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 104",
+                        "name": "Introduction To Interpersonal Communication",
+                        "credits": "3",
+                        "desc": "A study of interpersonal communication designed to examine, develop, strengthen, and maintain interpersonal relationships. Discussions focus on nonverbal (proxemics, territoriality) and verbal (semantics, paralanguage) communication. Presentations, class discussions, and group techniques are used in class.",
+                        "department": "Communications",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 105",
+                        "name": "Introduction To Oral Communication",
+                        "credits": "3",
+                        "desc": "An introduction to basic principles of speaking in public and the development of confidence and poise in the speaker. Performances include informative and persuasive speeches, and speeches using visual aids. The course also encompasses basic research, analysis, and outlining.",
+                        "department": "Communications",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 106",
+                        "name": "Introduction To Oral Interpretation Of Literature",
+                        "credits": "3",
+                        "desc": "Performance techniques through reading various forms of literature to an audience. A written analysis is required for each reading.",
+                        "department": "Communications",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 107",
+                        "name": "Introduction To Oral Communication In Business",
+                        "credits": "3",
+                        "desc": "A study of speaking skills appropriate to a business setting. This course includes presenting oral reports, conducting information- gathering interviews, establishing goodwill through motivational talks, and participating in group decision making.",
+                        "department": "Communications",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 150",
+                        "name": "World Economy",
+                        "credits": "3",
+                        "desc": "An exploration of contemporary issues affecting world economy. Selected critical problem areas such as food sufficiency, oil supply, population growth, and distribution of wealth will be examined against a background of culture, geography, and politics.",
+                        "department": "Economics",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 211",
+                        "name": "Principles Of Microeconomics",
+                        "credits": "3",
+                        "desc": "An introduction to the theory and application of economic tools of analysis, to include the costs and rewards that cause individuals, firms and industries to demand and supply goods and services in the market. This course also explores the theories and realities of competitive and noncompetitive markets, and applies microeconomic tools of analysis to specific problems in areas such as energy, ecology, the global economy, and development theory.",
+                        "department": "Economics",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 212",
+                        "name": "Principles Of Macroeconomics",
+                        "credits": "3",
+                        "desc": "An introduction to the theory and application of economic and political forces which affect the national economy. Major topics include gross domestic product and other measures of economic conditions; taxing, borrowing, and spending by various levels of government; Keynesian and neo-Keynesian models of equilibrium; and means used by the Federal Reserve system and the banking industry to stabilize the economy of the United States.",
+                        "department": "Economics",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "Composition I",
+                        "credits": "3",
+                        "desc": "An introduction to expository writing and college-level research. This course focuses on the process of writing with an emphasis on thorough development of a mainpoint by using supporting ideas and evidence. In addition, students learn to locate and integrate information from secondary sources through summary, paraphrases, and direct quotation in various forms of thesis-based writing. This course also includes critical reading of essays and instruction in research and the responsible use of sources.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 103",
+                        "name": "Honors Composition I",
+                        "credits": "3",
+                        "desc": "The study and practice of academic writing with an emphasis on developing logical arguments. Students will apply critical reading strategies to texts from multiple disciplines in order to analyze rhetorical strategies, methods of expression, argument-formation. Written assignments will focus on use of textual evidence; the methods, strategies, and applications of college-level research; and the development of an individual critical stance.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 104",
+                        "name": "Honors Composition II",
+                        "credits": "3",
+                        "desc": "A multi-modal college-level research course with a focus on using evidence-based research methods, forming clear arguments, and developing a professional academic writing style. Students will identify and pursue individual research interests and present their findings in multiple modes such as a formal research paper; slide, poster, and oral presentations; and other forms appropriate to presenting scholarly work. Membership in the Berkshire Honors Scholar Program and permission of the instructor required.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 116",
+                        "name": "Technical Writing",
+                        "credits": "3",
+                        "desc": "Introduction to composing professional and technical documents in science, technology and engineering fields. Students will learn to write effective proposals, manuals and a variety of formal technical reports and documents.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-204",
+                        "name": "Literature Of Peace & War",
+                        "credits": "3",
+                        "desc": "A study of mankind\u2019s quest for peace and resort to war as reflected in literature. Writers to be sampled may include Thucydides, Virgil, Shakespeare, Thoreau, Whitman, Crane, Owen, Remarque, Hemingway, Lowell, Vonnegut, O\u2019Brien and others past and present. Humanities and Fine Arts. Critical Thinking.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2016-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 215",
+                        "name": "Introduction To Literature",
+                        "credits": "3",
+                        "desc": "An introduction to the study of literature through critical reading and analysis of fiction, poetry, drama, and creative non-fiction. This course emphasizes literary analysis and evaluation as well as discussion of social, intellectual, and historical influences as a means of understanding literary texts. NOTE: Credit is not granted for both ENG-104 and ENG-215.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 216",
+                        "name": "Introduction To The Novel",
+                        "credits": "3",
+                        "desc": "A survey of fiction, emphasizing longer works. Various types of novels will be examined; other literary forms may be included for comparative study.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 221",
+                        "name": "Literature Of Western Civilization I",
+                        "credits": "3",
+                        "desc": "A sampling of landmark works of literature from Homeric Greece to medieval Europe (typically, The Iliad, portions of the Bible, some Platonic dialogues and Athenian tragedies, The Aeneid, Inferno). In addition to cultural values of various eras, the course explores the nature of imaginative literature. It also seeks to improve reading comprehension, and to develop facility in the written expression of ideas. It complements courses in Western civilization and art history.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 222",
+                        "name": "Literature Of Western Civilization II",
+                        "credits": "3",
+                        "desc": "A continuation of ENG 221 which may be elected separately. This course samples landmark works from the Renaissance to the twentieth century as a way to understand how literature reflects the philosophy and concerns of representative cultural eras. Representative writers may include Shakespeare, Milton, Voltaire, Stendhal, Ibsen, Tolstoy, Woolf and Camus. It complements courses in Western civilization and art history.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 231",
+                        "name": "American Literature To 1865",
+                        "credits": "3",
+                        "desc": "A selective introduction of American literary works from the colonialist period through the beginning of the Civil War, with emphasis on their social/historical context and cultural significance. Literary works will be studied through careful reading, discussion, written analysis, and research.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 232",
+                        "name": "American Literature Since 1865",
+                        "credits": "3",
+                        "desc": "A continuation of ENG 231 which may be elected separately. Novels, stories, poems, and plays from the rise of realism to the present are studied, including works by such authors as James, Twain, Crane, Cather, Frost, Hemingway, and O'Neill.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 240",
+                        "name": "Modern Drama",
+                        "credits": "3",
+                        "desc": "A study of dramatic literature in the modern period, with a preliminary look at the classical period. This course includes reading, discussion, and analysis of works by dramatists from Ibsen to Ionesco. humanities and fine arts.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2005-2006"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 241",
+                        "name": "British Literature I",
+                        "credits": "3",
+                        "desc": "A selective survey of British literary works from the Middle Ages through the Seventeenth Century, with attention to their social/historical context and cultural significance. Literary works will be studied through careful reading, discussion, and written analysis.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 242",
+                        "name": "British Literature II",
+                        "credits": "3",
+                        "desc": "A continuation of ENG-241 which may be taken separately. Poems, novels, and plays by British writers from the eighteenth century to the present will be studied, with attention to their social/historical context and cultural significance. Literary works will be studied through careful reading, discussion, and written analysis.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-243",
+                        "name": "Creative Writing",
+                        "credits": "3",
+                        "desc": "A course for students with a serious interest in creative writing. Assignments will include practice primarily in the short story but also in screenplays, drama, poetry, and/or creative nonfiction. Class discussion will center on students\u2019 writings and the study of selected short works of fiction, poetry, and/or one-act plays. Humanities and Fine Arts.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 251",
+                        "name": "Shakespeare",
+                        "credits": "3",
+                        "desc": "An introduction to the Western world\u2019s greatest playwright through a close reading of several of his major plays. Course emphasis is on the meaning of the texts rather than on historical matters. The ability to read carefully and to express one\u2019s ideas clearly will be an advantage. Humanities and fine arts.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2008-2009"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-260",
+                        "name": "Introduction To Journalism",
+                        "credits": "3",
+                        "desc": "A survey of the fundamentals of newspaper journalism, emphasizing live reporting, news judgment, and basic news and feature writing. While aimed at producing publishable journalism, this course also covers professional areas such as ethics, fairness, reporters\u2019 rights, and slander. Humanities and Fine Arts.",
+                        "department": "English",
+                        "catalog": "Berkshire Community College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENM 151",
+                        "name": "Engineering Calculus I",
+                        "credits": "4",
+                        "desc": "The first half of an introduction to single-variable calculus. Topics include limits, continuity, derivatives of algebraic, trigonometric, logarithmic, exponential, and inverse functions, and an introduction to the definite integral. Applications to physics and engineering are emphasized.",
+                        "department": "Engineering Mathematics",
+                        "catalog": "Berkshire Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Big Sandy Community & Technical College": {
+        "city": "Prestonsburg",
+        "state": "KY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "Writing I",
+                        "credits": "3",
+                        "desc": "Focuses on academic writing. Provides instruction in drafting and revising essays that express ideas in Standard English, including reading critically, thinking logically, responding to texts, addressing specific audiences, researching and documenting sources. Includes review of grammar, mechanics and usage, Notes: (a) credit not available by special examination; (b) English 101 and 102 may not be taken concurrently; (c) AP credit in the English Language and Composition category for ENG 101 awarded as indicated by AP scoring chart in current KCTCS catalog. Lecture: 3 credits (45 contact hours) Attributes: WC - Written Communication, Credit not permitted via STEP exam, Course Also Offered in Modules. Components: LEC: Lecture.",
+                        "department": "English",
+                        "catalog": "Kentucky Community and Technical College System 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Birmingham Southern College": {
+        "city": "Birmingham",
+        "state": "AL",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ARB 101",
+                        "name": "Elementary Arabic I",
+                        "credits": "1",
+                        "desc": "An introduction to the sounds and structure of Arabic language and its varieties (formal and colloquial), as well as to the culture of Arabic-speaking peoples. Skills emphasized are reading, writing, speaking, and oral comprehension. Instructor consent required.",
+                        "department": "Arabic",
+                        "catalog": "Birmingham Southern College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARB 102",
+                        "name": "Elementary Arabic II",
+                        "credits": "1",
+                        "desc": "A continuation of ARB 101 with special focus on mastering basic communication skills as well as addressing the different cultural aspects of the Arabic-speaking world.",
+                        "department": "Arabic",
+                        "catalog": "Birmingham Southern College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI 125",
+                        "name": "Cell And Molecular Biology",
+                        "credits": "1",
+                        "desc": "An investigation of the fundamental properties of cells. Topics include cell structure and function, energetics and metabolism, gene structure and expression, and the techniques used to study these phenomena. Designed for students who plan to major in biology or one of the natural sciences and/or who are pre-health. One three-hour laboratory per week. A Scientific Methodologies and Public Health Studies designated course.",
+                        "department": "Biology",
+                        "catalog": "Birmingham Southern College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CH 149",
+                        "name": "Chemical Principles",
+                        "credits": "1",
+                        "desc": "A course covering advanced topics in atomic theory, equilibria, thermodynamics, and kinetics, as well as an introduction to organic and biochemistry. One three-hour laboratory per week. An Explorations in Scholarship and Scientific Methodologies designated course.",
+                        "department": "Chemistry",
+                        "catalog": "Birmingham Southern College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EH 208",
+                        "name": "Intermediate Writing",
+                        "credits": "1",
+                        "desc": "The development of intensive analytical skills, precise and extensive vocabulary, and consciousness of style. A service-learning integrated course.",
+                        "department": "English",
+                        "catalog": "Birmingham Southern College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HI 241",
+                        "name": "Monarchs, Rebellion, And Empire: History Of England From The Anglo- Saxons To George III",
+                        "credits": "1",
+                        "desc": "A survey of the political, social, economic, and constitutional history of England and the British Empire to 1789. Among the many subjects examined are the Anglo-Saxons, the Norman Conquest, the Wars of the Roses, Henry VIII and the English Reformation, Elizabeth I and the defeat of the Spanish Armada, the English Civil War, the Restoration, the establishment of the \u201cfirst\u201d British Empire, and the responses to the American and French Revolutions. An Interpretation or Analysis designated course.",
+                        "department": "History",
+                        "catalog": "Birmingham Southern College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HI 288",
+                        "name": "Remembering World War II: The War In Asia And The Pacific",
+                        "credits": "1",
+                        "desc": "How World War II in Asia and the Pacific is remembered in several countries, including China, Japan, Korea, and the United States. Using a variety of literary (novels, poetry, and memoirs), artistic (film and painting), and architectural (monuments, memorials, and museums) evidence, we explore the legacy and memories of World War II in these various countries, consider some of the many issues related to self-representation and historical memory, and examine how different cultures with widely divergent pasts and traditions come to shape memory and guilt. A Global Perspectives designated course.",
+                        "department": "History",
+                        "catalog": "Birmingham Southern College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HON 125",
+                        "name": "America\u2019s Music",
+                        "credits": "1",
+                        "desc": "Explores the unique qualities of American music and the contributions of American musicians to the world. The course investigates the dialectical tension between the Eurocentric tradition and the search for a unique form of musical expression in America. Complementary readings in literature, philosophy, and art, with an emphasis on primary sources.",
+                        "department": "Honors",
+                        "catalog": "Birmingham Southern College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Blue Ridge Community College": {
+        "city": "Flat Rock",
+        "state": "NC",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 111",
+                        "name": "Art Appreciation",
+                        "credits": "3",
+                        "desc": "This course introduces the origins and historical development of art. Emphasis is placed on the relationship of design principles to various art forms including but not limited to sculpture, painting, and architecture. Upon completion, students should be able to identify and analyze a variety of artistic styles, periods, and media. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education humanities/fine arts requirement.",
+                        "department": "Art",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 121",
+                        "name": "Two-dimensional Design",
+                        "credits": "3",
+                        "desc": "This course introduces the elements and principles of design as applied to two-dimensional art. Emphasis is placed on the structural elements, the principles of visual organization, and the theories of color mixing and interaction. Upon completion, students should be able to understand and use critical and analytical approaches as they apply to two-dimensional visual art. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a pre-major and/or elective course requirement. A Course fee is required.",
+                        "department": "Art",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 122",
+                        "name": "Three-dimensional Design",
+                        "credits": "3",
+                        "desc": "This course introduces basic studio problems in three-dimensional visual design. Emphasis is placed on the structural elements and organizational principles as applied to mass and space. Upon completion, students should be able to apply three-dimensional design concepts. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a pre-major and/or elective course requirement. A course fee is required.",
+                        "department": "Art",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 131",
+                        "name": "Drawing I",
+                        "credits": "3",
+                        "desc": "This course introduces the language of drawing and the use of various drawing materials. Emphasis is placed on drawing techniques, media, and graphic principles. Upon completion, students should be able to demonstrate competence in the use of graphic form and various drawing processes. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a pre-major and/or elective course requirement. A course fee is required.",
+                        "department": "Art",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 132",
+                        "name": "Drawing II",
+                        "credits": "3",
+                        "desc": "This course continues instruction in the language of drawing and the use of various materials. Emphasis is placed on experimentation in the use of drawing techniques, media, and graphic materials. Upon completion, students should be able to demonstrate increased competence in the expressive use of graphic form and techniques. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement. A course fee is required.",
+                        "department": "Art",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 111",
+                        "name": "Writing And Inquiry",
+                        "credits": "3",
+                        "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education English composition requirement. Note: The second level curriculum English (ENG 112 or ENG 114) should be carefully selected with input from the student faculty advisor to ensure proper program credit. This course should be selected based on the requirements of the student\u2019s program.",
+                        "department": "English",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 113",
+                        "name": "Literature-based Research",
+                        "credits": "3",
+                        "desc": "This course, the second in a series of two, expands the concepts developed in ENG 111 by focusing on writing that involves literaturebased research and documentation. Emphasis is placed on critical reading and thinking and the analysis and interpretation of prose, poetry, and drama: plot, characterization, theme, cultural context, etc. Upon completion, students should be able to construct mechanically sound, documented essays and research papers that analyze and respond to literary works. This course has been approved to satisfy the Comprehensive Articulation Agreement general education core requirement in English composition. This course also requires students to participate in an oral communications process in the development of class presentations.",
+                        "department": "English",
+                        "catalog": "Blue Ridge Community College 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 231",
+                        "name": "American Literature I",
+                        "credits": "3",
+                        "desc": "This course covers selected works in American literature from its beginnings to 1865. Emphasis is placed on historical background, cultural context, and literary analysis of selected prose, poetry, and drama. Upon completion, students should be able to analyze and interpret literary works in their historical and cultural contexts. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education humanities/fine arts requirement.",
+                        "department": "English",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 241",
+                        "name": "British Literature I",
+                        "credits": "3",
+                        "desc": "This course covers selected works in British literature from its beginnings to the Romantic Period. Emphasis is placed on historical background, cultural context, and literary analysis of selected prose, poetry, and drama. Upon completion, students should be able to interpret, analyze, and respond to literary works in their historical and cultural contexts. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education humanities/fine arts requirement.",
+                        "department": "English",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS 111",
+                        "name": "World Civilizations I",
+                        "credits": "3",
+                        "desc": "This course introduces world history from the dawn of civilization to the early modern era. Topics include Eurasian, African, American, and Greco-Roman civilizations and Christian, Islamic and Byzantine cultures. Upon completion, students should be able to analyze significant political, socioeconomic, and cultural developments in pre-modern world civilizations. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education social/behavioral science requirement..",
+                        "department": "History",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS 112",
+                        "name": "World Civilizations II",
+                        "credits": "3",
+                        "desc": "This course introduces world history from the early modern era to the present. Topics include the cultures of Africa, Europe, India, China, Japan, and the Americas. Upon completion, students should be able to analyze significant political, socioeconomic, and cultural developments in modern world civilizations. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education social/behavioral science requirement.",
+                        "department": "History",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HUM 123",
+                        "name": "Appalachian Culture",
+                        "credits": "3",
+                        "desc": "This course provides an interdisciplinary study of the unique features of Appalachian culture. Topics include historical, political, sociological, psychological, and artistic features which distinguish this region. Upon completion, students should be able to demonstrate a broad-based awareness and appreciation of Appalachian culture. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+                        "department": "Humanities",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 110",
+                        "name": "Music Appreciation",
+                        "credits": "3",
+                        "desc": "This course is a basic survey of the music of the Western world. Emphasis is placed on the elements of music, terminology, composers, form, and style within a historical perspective. Upon completion, students should be able to demonstrate skills in basic listening and understanding of the art of music. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education humanities/fine arts requirement.",
+                        "department": "Music",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 150",
+                        "name": "General Psychology",
+                        "credits": "3",
+                        "desc": "This course provides an overview of the scientific study of human behavior. Topics include history, methodology, biopsychology, sensation, perception, learning, motivation, cognition, abnormal behavior, personality theory, social psychology, and other relevant topics. Upon completion, students should be able to demonstrate a basic knowledge of the science of psychology. This course has been approved to satisfy the Universal General Education Transfer Component of the Comprehensive Articulation Agreement general education social/behavioral science requirement.",
+                        "department": "Psychology",
+                        "catalog": "Blue Ridge Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 110",
+                        "name": "Introduction To Spanish",
+                        "credits": "2",
+                        "desc": "This course provides an introduction to understanding, speaking, reading, and writing Spanish. Emphasis is placed on pronunciation, parts of speech, communicative phrases, culture, and skills for language acquisition. Upon completion, students should be able to identify and apply basic grammar concepts, display cultural awareness, and communicate in simple phrases in Spanish.",
+                        "department": "Spanish",
+                        "catalog": "Blue Ridge Community College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bluegrass Community & Technical College": {
+        "city": "Lexington",
+        "state": "KY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "Writing I",
+                        "credits": "3",
+                        "desc": "Focuses on academic writing. Provides instruction in drafting and revising essays that express ideas in Standard English, including reading critically, thinking logically, responding to texts, addressing specific audiences, researching and documenting sources. Includes review of grammar, mechanics and usage, Notes: (a) credit not available by special examination; (b) English 101 and 102 may not be taken concurrently; (c) AP credit in the English Language and Composition category for ENG 101 awarded as indicated by AP scoring chart in current KCTCS catalog. Lecture: 3 credits (45 contact hours) Attributes: WC - Written Communication, Credit not permitted via STEP exam, Course Also Offered in Modules. Components: LEC: Lecture.",
+                        "department": "English",
+                        "catalog": "Kentucky Community and Technical College System 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bob Jones University": {
+        "city": "Greenville",
+        "state": "SC",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "EN 100",
+                        "name": "Introduction To College English",
+                        "credits": "3",
+                        "desc": "Basics of sentence structure, including parts of speech, sentence patterns, phrases and clauses. Emphasis on effective paragraph construction. Required of students with English ACT score 14 or below. Not open to those with English ACT score 15 or above. Not applicable toward associate or baccalaureate English requirement.",
+                        "department": "English",
+                        "catalog": "Bob Jones University Undergraduate 2016-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SP 101",
+                        "name": "Fundamentals Of Speech",
+                        "credits": "3",
+                        "desc": "The basic principles of public speaking with special emphasis on platform techniques and a study of the different types of speech.",
+                        "department": "Speech",
+                        "catalog": "Bob Jones University Undergraduate 2009-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Boise State University": {
+        "city": "Boise",
+        "state": "ID",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 106",
+                        "name": "Basic Design (area I)",
+                        "credits": "3",
+                        "desc": "An exploration of three-dimensional design elements. Emphasis on the theoretical and applied study of the structural organization underlying three-dimensional art forms.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2005-2006"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 112",
+                        "name": "Drawing II",
+                        "credits": "3",
+                        "desc": "Continuation of ART 109, with an emphasis on composition. Concepts include representational and abstract drawing from observation and imagination. Experimentation with various media and color. Introduction to figure drawing.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 156",
+                        "name": "Architectural Graphics I",
+                        "credits": "3",
+                        "desc": "Introduction to architectural graphics including the principles and techniques of plan, section, elevation, axonometric and perspective projections through drawing projects and lectures.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2010-2011"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 255",
+                        "name": "Architectural Graphics II",
+                        "credits": "3",
+                        "desc": "A continuation of ART 156, emphasizes axonometric and perspective projection drawings and their incorporation into digital media and the design process.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2010-2011"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 256",
+                        "name": "Introduction To Architectural Design",
+                        "credits": "3",
+                        "desc": "Introduction to the fundamentals of architectural design through lectures and projects, instructs students in developing a foundation with which to critically see and design. Students research, design, and represent concepts in space, light, material, and tectonics with drawings, models, and digital media.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2010-2011"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 270",
+                        "name": "History Of Modern Architecture I",
+                        "credits": "3",
+                        "desc": "History of modern architecture from mid-18th through late 19th century.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2010-2011"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 4000",
+                        "name": "Architecture Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART209",
+                        "name": "Introduction To Printmaking",
+                        "credits": "3",
+                        "desc": "Introduction to historical and contemporary printmaking media and techniques and their creative potential.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART215",
+                        "name": "Painting I",
+                        "credits": "3",
+                        "desc": "Introduction to the fundamentals of painting. Basic technical, formal and conceptual issues in historical and contemporary painting. May be repeated once for credit.",
+                        "department": "Art",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 4220",
+                        "name": "Painting",
+                        "note": "--",
+                        "desc": "A painting course in opaque media such as oil or acrylic with emphasis on color interaction, composition, and pictorial design. Using sources from observation and the history of painting, students are taught to see and convey effects of color on/in 2D pictorial space and to develop critical skills in looking at paintings. Cross Listed: Cross listed with ARTS 6220; students cannot obtain credit for both courses.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 203",
+                        "name": "General Botany",
+                        "credits": "4",
+                        "desc": "An introduction to plant biology, which includes the study of cells, genetics, whole plant physiology and functions, ecology, classification, and economic importance. (Area III). (Formerly BOT 130).",
+                        "department": "Biology",
+                        "catalog": "Boise State University Undergraduate 2000-2001"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL102",
+                        "name": "Writing And Rhetoric II",
+                        "credits": "3",
+                        "desc": "Develops students\u2019 understanding of how rhetoric functions in academic and public environments. Engages students in inquiry about writing and rhetoric in action. Immerses students in the iterative processes of writing and research. Offers opportunities to reflect on and compose in specific rhetorical contexts. Foundations of Writing.",
+                        "department": "English",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH170",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "Informal limits and continuity. Derivatives and antiderivatives, including trigonometric, exponential, and logarithmic functions. The relationship between a function, its derivative, and its antiderivative. Integration and the fundamental theorem of calculus. Applications of calculus to physical models, geometry, approximation, and optimization. Foundations of Mathematics.",
+                        "department": "Mathematics",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH175",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "A continuation of MATH 170. Techniques of integration and calculation of antiderivatives. Applications of integration to physical models, including calculation of volume, moment, mass, and centroid. Informal convergence of sequences and series of real numbers. Taylor series, Taylor polynomials, and applications to approximation. Vectors, parametric curves, and polar coordinates.",
+                        "department": "Mathematics",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH275",
+                        "name": "Multivariable And Vector Calculus",
+                        "credits": "4",
+                        "desc": "Vector algebra and geometry, functions of several variables, partial and directional derivatives, gradient, chain rule, optimization, multiple and iterated integrals. Parametric curves and surfaces, vector fields, divergence and curl, line and surface integrals, Green\u2019s, Stokes\u2019 and divergence theorems. Use of software such as Maple or Mathematica for visualization, exploration and solutions of real-world problems. : .",
+                        "department": "Mathematics",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "--",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH333",
+                        "name": "Differential Equations With Matrix Theory",
+                        "credits": "4",
+                        "desc": "Use of differential equations to model phenomena in sciences and engineering. Solution of differential equations via analytic, qualitative and numerical techniques. Linear and nonlinear systems of differential equations. Introduction to matrix algebra, determinants, eigenvalues, and solutions of linear systems. Laplace transforms.",
+                        "department": "Mathematics",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC101",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "Investigation of mental processes and behavior through the lens of the scientific method. This survey course draws from topics within the American Psychological Association's five pillars of psychology: Pillar 1 Biological (Neuroscience, Sensation, Consciousness, Motivation); Pillar 2 Cognitive (Cognition, Memory, Perception); Pillar 3 Development (Learning, Life Span Development, Language); Pillar 4 Social and Personality (Social, Personality, Intelligence, Emotion, Multicultural, Gender); and Pillar 5 Mental and Physical Health (Abnormal, Health, Therapies). Foundations of Social Sciences.",
+                        "department": "Psychology",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPAN201",
+                        "name": "Intermediate Spanish I",
+                        "credits": "4",
+                        "desc": "Intended to further develop all four language skills: speaking, reading, writing, and listening. Intensive review of fundamentals of structure and vocabulary in a communicative context. Topics for conversation, reading, and writing focus on Hispanic cultures. Course conducted in Spanish. Foundations of Humanities.",
+                        "department": "Spanish",
+                        "catalog": "Boise State University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 2000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
     }
 }
