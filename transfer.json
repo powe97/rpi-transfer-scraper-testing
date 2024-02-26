@@ -38932,6 +38932,2432 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHIN 20b",
+                        "name": "Continuing Chinese",
+                        "credits": "1",
+                        "desc": "Continuation of CHIN 10a. Jian Wei.",
+                        "department": "Chinese",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1420",
+                        "name": "Chinese II",
+                        "note": "--",
+                        "desc": "This is a continuation of Chinese I, a course for the standard modern Chinese language (Mandarin). Students learn more Chinese characters and words, reach a total of nearly 500 characters and 650 words, and use more complicated grammatical structures, including some compliment phrases and topic-comment sentences. In sum, students will learn more in all four aspects\u2014listening, speaking, reading, and writing\u2014presented in Chinese I.e course.",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2015-2016"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CLAS 115b",
+                        "name": "Topics In Greek And Roman History",
+                        "credits": "1",
+                        "desc": "Topics vary from year to year and the course may be repeated for credit with permission of the instructor. Topics include the Age of Alexander the Great, the Age of Pericles, the Greekness of Alexander, and Imperialism in Antiquity. See the Schedule of Classes for the current topic. Cheryl Walker. [ hum ].",
+                        "department": "Classical Studies",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COSI 103a",
+                        "name": "Fundamentals Of Software Engineering",
+                        "credits": "1",
+                        "desc": "In this course, you will learn (and practice) the design and construction of large bodies of software using modern software engineering practices, including object oriented design, test driven development, working data, and project management. You will be challenged to solve different kinds of problems, using different approaches and different tools. The course also aims to teach the basic and expected knowledge and practice within industry for entry level developers. Tim Hickey. [ sn ].",
+                        "department": "Computer Science",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 2a",
+                        "name": "A Survey Of Economics",
+                        "credits": "1",
+                        "desc": "Intended for students who are not Economics majors or minors. May not be taken for credit by students who took ECON 10a in prior years. Concurrent enrollment in ECON 10a not allowed. Introduces economic analysis with policy applications. The economist's approach to social analysis is systematically elaborated. Geoff Clarke. [ qr ss ].",
+                        "department": "Economics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 8b",
+                        "name": "The Global Economy",
+                        "credits": "",
+                        "desc": "Applies the basic tools and models of economic analysis to a wide range of topics in micro-, macro-, and international economics. School of Social Science. Semester course. Staff.",
+                        "department": "Economics",
+                        "catalog": "Brandeis University 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 4000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 57a",
+                        "name": "Environmental Economics",
+                        "credits": "1",
+                        "desc": "Investigates the theoretical and policy problems posed by the use of renewable and nonrenewable resources. Theoretical topics include the optimal pricing of resources, the optimal use of standards and taxes to correct pollution problems under uncertainty, and the measurement of costs and benefits. Linda Bui and James Ji. [ ss ].",
+                        "department": "Economics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 4230",
+                        "name": "Environmental Economics",
+                        "note": "--",
+                        "desc": "Develops a critical understanding of environmental issues and policy from an interdisciplinary economics perspective. Covers the economics of environmental quality including the links between the economy and the environment, the causes of environmental problems, evaluation of environmental projects and policies, and policies to address environmental issues with an emphasis on efficiency, equity, and sustainability, and the international dimensions of environmental issues.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FA 145a",
+                        "name": "St. Peter's And The Vatican",
+                        "credits": "1",
+                        "desc": "The history, growth, and development of Christendom's most famous shrine, with particular concern for the relationship between the design and decoration of the Renaissance/Baroque church and palace complex and their Early Christian and Medieval predecessors. Charles McClendon. [ ca ].",
+                        "department": "Fine Arts",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FYS 11a",
+                        "name": "Nature's Nanotechnology",
+                        "credits": "1",
+                        "desc": "Imagine a world occupied by machines whose size is 10,000 times smaller than the width of a human hair. Some of them produce fuel by harnessing solar energy, while others transport cargo on tracks only 10 atoms across, or assemble other machines following molecular blueprints. This is the bustling world inside a living cell, which we will explore using high school level math, physics and biology. Jan\u00e9 Kondev (Physics). Familiarity with high school math, physics, chemistry and biology is expected. Enrollment limited to QBReC Scholars. [ sn ].",
+                        "department": "First Year Seminars",
+                        "catalog": "Brandeis University 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HISP 104b",
+                        "name": "Peoples, Ideas, And Language Of The Hispanic World",
+                        "credits": "1",
+                        "desc": "Students will improve their ability to communicate in Spanish and analyze the products, practices, and perspectives of the Spanish-speaking world. Specifically, students will explore how language, history, traditions, texts, and images express their own identities and those of Spanish speakers around the world. Coursework and assessment will focus on developing language proficiency and intercultural competence. Students enrolling for the first time in a Hispanic Studies course at Brandeis should refer to www.brandeis.edu/registrar/newstudent/testing.html#spantest. Staff. [ fl hum ].",
+                        "department": "Hispanic Studies",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HISP 105a",
+                        "name": "Oral Communication Through Cultural Topics",
+                        "credits": "1",
+                        "desc": "A content-based language course in which you will develop your ability to present information, persuade, and debate in Spanish. Throughout the semester, you will interact with a variety of authentic texts in order to acquire the sociolinguistic tools that you need to communicate effectively in different contexts. Each unit incorporates active learning strategies, cross-cultural comparisons, and social justice themes. Practice tasks and formal assessments will mirror real-world situations where both linguistic and intercultural competence will be evaluated. Students enrolling for the first time in a Hispanic Studies course at Brandeis should refer to www.brandeis.edu/registrar/newstudent/testing.html#spantest. Staff. [ fl hum ].",
+                        "department": "Hispanic Studies",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HISP 106b",
+                        "name": "Spanish For Written Communication Through Contemporary Culture",
+                        "credits": "1",
+                        "desc": "Focuses on written communication and the improvement of writing skills, from developing ideas to outlining and editing. Literary selections will introduce the students to the principles of literary analysis and serve as topics for class discussion and writing. Students enrolling for the first time in a Hispanic Studies course at Brandeis should refer to www.brandeis.edu/registrar/newstudent/testing.html#spantest. Staff. [ fl hum wi ].",
+                        "department": "Hispanic Studies",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 80a",
+                        "name": "Introduction To East Asian Civilization",
+                        "credits": "1",
+                        "desc": "A selective introduction to the development of forms of thought, social and political institutions, and distinctive cultural contributions of China and Japan from early times to the beginning of the nineteenth century. Staff. [ djw dl hum nw ss ].",
+                        "department": "History",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 80b",
+                        "name": "East Asia In The Modern World",
+                        "credits": "1",
+                        "desc": "Surveys East Asian history from the 1600 to the present. Compares Chinese, Korean, and Japanese encounters with forces of industrial capitalism, including colonialism, urbanization, and globalization, resulting in East Asia's distinctive cultural and social modernity. Staff. [ hum nw ss ].",
+                        "department": "History",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LGLS 10a",
+                        "name": "Introduction To Law",
+                        "credits": "1",
+                        "desc": "Surveys the nature, process, and institutions of law: the reasoning of lawyers and judges, the interplay of cases and policies, the impact of history and culture, and the ideals of justice and responsibility in a global context. Daniel Breen. [ oc ss ].",
+                        "department": "Legal Studies",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 10a",
+                        "name": "Techniques Of Calculus (a)",
+                        "credits": "1",
+                        "desc": "Introduction to differential (and some integral) calculus of one variable, with emphasis on techniques and applications. Rebecca Torrey. [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 10b",
+                        "name": "Techniques Of Calculus (b)",
+                        "credits": "1",
+                        "desc": "Introduction to integral calculus of one variable with emphasis on techniques and applications. Continuation of 10a. Students may not take MATH 10a and MATH 10b simultaneously. Students may not take MATH 10b if they have received a satisfactory grade in MATH 20a. Keith Merrill. [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 15a",
+                        "name": "Applied Linear Algebra",
+                        "credits": "1",
+                        "desc": "Matrices, determinants, linear equations, vector spaces, eigenvalues, quadratic forms, linear programming. Emphasis on techniques and applications. Students may take MATH 15a or 22a for credit, but not both. Carolyn Abbott (fall), Staff. (spring). [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    },
+                    {
+                        "id": "MATH 20a",
+                        "name": "Multi-variable Calculus",
+                        "credits": "1",
+                        "desc": "Among the topics treated are functions of several variables, vector-valued functions, partial derivatives and multiple integrals, extremum problems, line and surface integrals, Green's and Stokes's theorems. Emphasis on techniques and applications. Students may take Math 20a or 22b for credit, but not both. Students may not take MATH 10a or 10b or 15a concurrently with MATH 20a. Ying Zhang (fall), Tyler Maunu (spring). [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "--",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 22a",
+                        "name": "Honors Linear Algebra And Multi-variable Calculus, Part I",
+                        "credits": "1",
+                        "desc": "MATH 22a and b cover linear algebra and calculus of several variables. The material is similar to that of MATH 15a and MATH 20b, but with a more theoretical emphasis and with more attention to proofs. Students may take MATH 15a or 22a for credit, but not both. Bong Lian. [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "--",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 4100",
+                        "name": "Linear Algebra",
+                        "note": "--",
+                        "desc": "The theory underlying vector spaces, algebra of subspaces, bases; linear transformations, dual spaces; eigenvectors, eigenvalues, minimal polynomials, canonical forms of linear transformations; inner products, adjoints, orthogonal projections, and complements.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 15a",
+                        "name": "Applied Linear Algebra",
+                        "credits": "1",
+                        "desc": "Matrices, determinants, linear equations, vector spaces, eigenvalues, quadratic forms, linear programming. Emphasis on techniques and applications. Students may take MATH 15a or 22a for credit, but not both. Carolyn Abbott (fall), Staff. (spring). [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    },
+                    {
+                        "id": "MATH 22a",
+                        "name": "Honors Linear Algebra And Multi-variable Calculus, Part I",
+                        "credits": "1",
+                        "desc": "MATH 22a and b cover linear algebra and calculus of several variables. The material is similar to that of MATH 15a and MATH 20b, but with a more theoretical emphasis and with more attention to proofs. Students may take MATH 15a or 22a for credit, but not both. Bong Lian. [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "--",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 4100",
+                        "name": "Linear Algebra",
+                        "note": "--",
+                        "desc": "The theory underlying vector spaces, algebra of subspaces, bases; linear transformations, dual spaces; eigenvectors, eigenvalues, minimal polynomials, canonical forms of linear transformations; inner products, adjoints, orthogonal projections, and complements.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 37a",
+                        "name": "Differential Equations",
+                        "credits": "1",
+                        "desc": "A first course in ordinary differential equations. Study of general techniques, with a view to solving specific problems such as the brachistochrone problem, the hanging chain problem, the motion of the planets, the vibrating string, Gauss's hypergeometric equation, the Volterra predator-prey model, isoperimetric problems, and the Abel mechanical problem. Staff. [ sn ].",
+                        "department": "Mathematics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 48b",
+                        "name": "\"love Is The Message\": Dance Musics And Their Cultures From Disco To Dubstep",
+                        "credits": "1",
+                        "desc": "Explores the history of contemporary, popular dance music, from disco to dubstep, exploring concepts of authenticity, authorship, and appropriation and investigating the intersections between music, culture, society, and politics. Special one-time offering, spring 2020. Matthew Heck. Division of Creative Arts.",
+                        "department": "Music",
+                        "catalog": "Brandeis University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 11b",
+                        "name": "Introductory Physics II",
+                        "credits": "1",
+                        "desc": "An introduction to electricity and magnetism and the special theory of relativity. Usually taken with PHYS 19b. Staff. [ qr sn ].",
+                        "department": "Physics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 15b",
+                        "name": "Advanced Introductory Physics II",
+                        "credits": "1",
+                        "desc": "An advanced version of PHYS 11b for students with good preparation in physics and mathematics. An introduction to electricity and magnetism and the special theory of relativity for students with advanced preparation. taken with PHYS 19b. Peter Mistark. [ qr sn ].",
+                        "department": "Physics",
+                        "catalog": "Brandeis University 2022-2023"
+                    },
+                    {
+                        "id": "PHYS 19b",
+                        "name": "Physics Laboratory II",
+                        "credits": "1",
+                        "desc": "Laboratory course designed to accompany PHYS 11b and 15b. Basic experiments in electricity, magnetism, and optics. Basic electrical measurements. Determination of several fundamental physical constants. One afternoon or evening of laboratory per week. One one-and-a-half-hour lecture per week. May yield half-course credit toward rate-of-work and graduation. Two semester-hour credits. Staff. [ dl ].",
+                        "department": "Physics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1250",
+                        "name": "Introductory Electromagnetic Theory",
+                        "note": "--",
+                        "desc": "Introductory physics for students seeking a more intensive experience. Electricity and magnetism is discussed making use of multivariable differentiation and integration. AC and DC circuits. Electromagnetic waves, optics, and selected topics in modern physics. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 19a",
+                        "name": "Physics Laboratory I",
+                        "credits": "1",
+                        "desc": "Laboratory course designed to accompany PHYS 11a and 15a. Introductory statistics and data analysis including use of microcomputers and basic experiments in mechanics. One afternoon or evening of laboratory per week. One one-and-a-half-hour lecture per week. May yield half-course credit toward rate-of-work and graduation. Two semester-hour credits. Gabriella Sciolla. [ dl ].",
+                        "department": "Physics",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 1a",
+                        "name": "Introduction To Psychology",
+                        "credits": "1",
+                        "desc": "A survey of contemporary psychology. Topics include brain and behavior, perception, memory, learning, cognitive processes, plasticity, intelligence, child and adult development, personality, social behavior, and the relationship between normal and abnormal behavior. Ms. Gutchess and Ms. Wright. School of Social Science.",
+                        "department": "Psychology",
+                        "catalog": "Brandeis University 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 10a",
+                        "name": "Introduction To Psychology",
+                        "credits": "1",
+                        "desc": "A survey of contemporary psychology. Topics include brain and behavior, perception, memory, learning, cognitive processes, plasticity, intelligence, child and adult development, personality, social behavior, and the relationship between normal and abnormal behavior. PSYC 10a is the introductory course for Psychology majors and is a prerequisite for most other courses in the major. Anne Berry and James Howard.",
+                        "department": "Psychology",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "USEM 43A",
+                        "name": "Get The Hero",
+                        "credits": "3",
+                        "desc": "War hero, superhero, my hero, anti-hero; these are just a few varieties of \u201chero\u201d that exist in our language and culture. This course seeks to defamiliarize what this word means in our world, looking instead to its ancient origins. Focusing on Greece, where the term was invented, as well as Rome, Mesopotamia, the Middle East, and India, students will discover the shared notions of \u201chero\u201d as well as key distinctions within each respective cultural context. This course will read, discuss, and write about epics, comedies, tragedies, Plato, and parts of the New Testament. Mr. Muellner (Classical Studies).",
+                        "department": "University Seminar",
+                        "catalog": "Brandeis University 2008-2009"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "UWS 7a",
+                        "name": "Historical Truth In Fiction",
+                        "credits": "1",
+                        "desc": "Introduces students to the power of writing as a means of communication and a process of thinking and understanding. As students complete a series of writing assignments, they will engage in a process of reading, drafting, reviewing and revising, working in peer groups and individually with their instructors. From Alex Haley\u2019s Roots to Doctor Who\u2019s time-travel adventures, this course invites students to engage with novels, short stories, films, and television series that tell historical \u201ctruths\u201d through fiction. We will engage with stories of triumph and loss, oppression and resistance, and war and peace that bring history to life. Together we will grapple with many themes in world history with a particular focus on women, class and race in social struggles for freedom, in national movements for self-determination and in war and conflict. For their final project, students will have the opportunity to research a story of historical fiction of their choosing. Alaa Murad. University Writing Seminar.",
+                        "department": "Uws",
+                        "catalog": "Brandeis University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "UWS 16a",
+                        "name": "Sex And Advertising",
+                        "credits": "1",
+                        "desc": "Introduces students to the power of writing as a means of communication and a process of thinking and understanding. As students complete a series of writing assignments, they will engage in a process of reading, drafting, reviewing and revising, working in peer groups and individually with their instructors. Sex Sells! It's the immortal truism of the advertising industry. But how does sex sell? For decades, advertisers have used hot bods and innuendo to suggest that power and pleasure can be bought. In the 1970s, the battle cry, 'You've come a long way, Baby!' pushed cigarettes as the hip accessories of feminism and the sexual revolution. Today, brands blend consumerism with gender activism, invite LGBTQ to the mainstream marketplace, and tempt millennials with new promises of sex and success. In this course, students find and write about advertising that delights, infuriates, and perplexes them. In the first essay, they dissect their choice of pornographic food commercials, Budweiser bromances, and Calvin Klein billboards that titillate consumers and reshape social constructs of masculinity and femininity. The research paper challenges students to locate and comprehend recent studies of sex and gender in advertising and apply them to a defined set of ads or a major campaign of their choice. Doug Kirshen. [ uws ].",
+                        "department": "University Writing Seminar",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "UWS 43b",
+                        "name": "Animals In A Human World",
+                        "credits": "1",
+                        "desc": "Introduces students to the power of writing as a means of communication and a process of thinking and understanding. As students complete a series of writing assignments, they will engage in a process of reading, drafting, reviewing, and revising, working in peer groups and individually with their instructor. How do we define our relationship with animals: which we keep as livestock, which we keep as pets, and which we keep in zoos? Human-animal interactions have developed over hundreds of thousands of years; in that time, animals have had a significant impact on human behavior and on the development of human societies. In this class, we will explore the deep history of the relationship between humans and animals. We will consider how different cultures and subsistence strategies cultivate different interspecies dynamics, and particularly how domestication changes the way we perceive animals and their place in the world. To explore these questions, we will use multiple lines of evidence, including ethnographic data, material culture, and scientific analyses of faunal remains. Students will have the opportunity to research and write about the relationship between humans and animals in a wide variety of ancient and modern cultures. Catherine Scott. [ uws ].",
+                        "department": "University Writing Seminar",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bridgeport Hospital School Of Nursing": {
+        "city": "Bridgeport",
+        "state": "CT",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "MEEG 423",
+                        "name": "Computer Aided Manufacturing (cam) And Nc Machining",
+                        "credits": "3",
+                        "desc": "This course applies manufacturing and various numerical controlled software for designing computer-aided manufacturing and NC machining systems, processes and algorithms. This course is heavy in implementation of various manufacturing technologies and programming of NC machines.",
+                        "department": "Mechanical Engineering",
+                        "catalog": "University of Bridgeport 2012-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MANE 4000",
+                        "name": "\"mechanical, Aerospace, And Nuclear Engineering Elective\"",
+                        "note": "3 credit elective",
+                        "desc": "",
+                        "department": "Mechanical Aerospace Nuclear Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2024",
+                "end": "1/1/2029"
+            }
+        ]
+    },
+    "Bridgewater State University": {
+        "city": "Bridgewater",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 100",
+                        "name": "General Principles Of Biology",
+                        "credits": "4",
+                        "desc": "The biological principles at the cellular and organismal levels are discussed. The topics covered include cell structure, respiration, photosynthesis, osmosis, enzymes, DNA and protein synthesis, genetics, ecology and evolution. (CNSL).",
+                        "department": "Biological Sciences",
+                        "catalog": "Bridgewater State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 400",
+                        "name": "History Of Economic Thought",
+                        "credits": "3",
+                        "desc": "This course is an overview of the development of economic theory, which is presented in a historical context. The ideas of many important contributors to economic thought will be studied including those of Adam Smith, Karl Marx and John Maynard Keynes. May be taken for graduate-level credit.",
+                        "department": "Economics",
+                        "catalog": "Bridgewater State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 4000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 101",
+                        "name": "Writing Rhetorically",
+                        "credits": "3",
+                        "desc": "By intensive practice in composing persuasive texts, writers explore various techniques for discovering, developing and organizing ideas in relation to rhetorical context. Special attention is given to developing an effective writing process and an awareness of the relationships among text, audience and purpose. (CWR1).",
+                        "department": "English",
+                        "catalog": "Bridgewater State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2110",
+                        "name": "Strategic Writing",
+                        "note": "--",
+                        "desc": "This course is designed to assist students in becoming more self-possessed and versatile writers. The course offers instruction in linguistic, rhetorical, and sociocultural concepts through its overarching focus on language: how it works, where it falls short, and how to harness it for specific purposes. Critical thinking and composing are conceptualized as processes, which includes the creation, development, organization, and revision of ideas and arguments. Students will complete a series of writing assignments in order to participate in contemporary debates occurring in both public and academic contexts.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MGMT 303",
+                        "name": "Organizational Behavior",
+                        "credits": "3",
+                        "desc": "This course introduces students to fundamental concepts and behavioral skills in such areas as leadership, communication, group dynamics, motivation and decision-making. Emphasis will be placed upon skill development enabling the student to function in professional and managerial roles in work organizations.",
+                        "department": "Management",
+                        "catalog": "Bridgewater State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4850",
+                        "name": "Organizational Behavior In High Performance Organizations",
+                        "note": "--",
+                        "desc": "This course provides an overview of basic processes in human behavior that influence the effectiveness of individuals, groups and organizations. Its focus is on understanding what happens during interpersonal interactions in work situations, and what can be done to make employees more effective. Topics covered include organizational socialization, motivation, decision-making, team dynamics, virtual teams, influence, and conflict management. Numerous exercises and case analyses are used in class to help provide students with insights into these processes.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 182",
+                        "name": "Elements Of Physics II",
+                        "credits": "4",
+                        "desc": "Principles of electricity, magnetism, optics and modern physics are studied. One two-hour laboratory period weekly. (CNSL; CQUR).",
+                        "department": "Physics",
+                        "catalog": "Bridgewater State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "PHYS 1200 (4cr)",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 243",
+                        "name": "General Physics I",
+                        "credits": "4",
+                        "desc": "This is a calculus-based beginning course in physics that emphasizes the study of kinematics, dynamics and heat. One three-hour laboratory weekly; or six hours of combined lecture and lab taught in a studio style, weekly. (CNSL; CQUR).",
+                        "department": "Physics",
+                        "catalog": "Bridgewater State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 244",
+                        "name": "General Physics II",
+                        "credits": "4",
+                        "desc": "This course is a calculus-based study of electricity, magnetism and light. Six hours of combined lecture and lab taught in a studio style, weekly. (CNSL; CQUR).",
+                        "department": "Physics",
+                        "catalog": "Bridgewater State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Brigham Young University - Idaho": {
+        "city": "Rexburg",
+        "state": "ID",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CHILD210",
+                        "name": "Child Development",
+                        "credits": "3",
+                        "desc": "This course is a theoretical, academically oriented course focusing on the physical, cognitive, emotional, and social development of the child from conception through adolescence. Students will explore the influences of family, peers, and social institutions on the child's development. Contact Hours: Lecture (1 hour / credit)3. Lab (1-3 hour / credit)0. Guided Instruction (1-3 hour / credit)0. Can this course be audited?: Yes. Department: Department of Home and Family. Course Learning Outcomes (CLO's): 1. Identify and describe the typical physical, cognitive, emotional, and social developmental needs and tasks for each stage of development. 2. Demonstrate an introductory understanding of major developmental theories and accepted methods of scientific inquiry. 3. Recognize and apply strategies to create environments and cultivate relationships that will foster healthy development. 4. Recognize the role of the family in nurturing and guiding the development of young children. Previous Subject Code/Number: Subject Code Number: -- 210.",
+                        "department": "Child Studies",
+                        "catalog": "Brigham Young University Idaho 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FDAMF101",
+                        "name": "American Foundations",
+                        "credits": "3",
+                        "desc": "This course examines the full range of the American experience with the goal of better understanding the foundational ideals and institutions that explain the successes and limitations of the United States. This course also has interdisciplinary elements and draws deeply from political science, cultural studies, and economics to illuminate the American past, present, and future. Contact Hours: Lecture (1 hour / credit)3. Lab (1-3 hour / credit)0. Guided Instruction (1-3 hour / credit)0. Can this course be audited?: No. Department: Department of History, Geography and Political Science. Course Learning Outcomes (CLO's): Students will: 1. Explain the basic principles, truths, and history of American political and economic institutions (including agency, rights, rule of law, constitutionalism, the War for Independence, the U.S. Constitution, religion in America, civil rights, women\u2019s suffrage, immigration, market economics, Keynesianism, monetarism, the Great Depression, technology, and foreign relations). 2. Converse knowledgeably and respectfully on public issues, apply social theories and correct principles to contemporary situations, and appreciate and defend the universal principles of the American Founding 3. Become effective disciple leaders and informed citizens of their countries.",
+                        "department": "American Foundations",
+                        "catalog": "Brigham Young University Idaho 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2500",
+                        "name": "American History",
+                        "note": "--",
+                        "desc": "This course surveys the history of the United States from the colonial era through the present. The course introduces major themes and tensions in United States politics, society, and culture with a focus on environmental factors. Topics will include encounters between American Indians and colonial peoples, independence, the formation of the American government, slavery, immigration, citizenship, rights, social movements, colonialism, war, and the changing identity of the United States in the world.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FDCA 101",
+                        "name": "Foundations Of Humanities",
+                        "credits": "3",
+                        "desc": "Introduction to the Humanities. Students will examine key works in the arts from Renaissance through the early 20th Century, their historical and cultural context, and the artistic principles that contribute to heir significance. Students will then apply these principles in their own creative work, and in making value assessments about the arts. Fulfills Foundations requirement.",
+                        "department": "Cultural Awareness",
+                        "catalog": "Brigham Young University Idaho 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FDENG101",
+                        "name": "Writing And Reasoning Foundations",
+                        "credits": "3",
+                        "desc": "An introduction to academic inquiry and writing, laying the foundation for further academic and professional development. Students will learn to think and read critically and practice the writing process, including invention, research, summary, synthesis and analysis, revision, and editing. Students will work on several major writing assignments, including a research project in which they will gather information from a range of valid sources, demonstrating they can analyze and use that information purposefully, following appropriate documentation. Unique Course Requirements: Minimum of 20 pages edited prose. Contact Hours: Lecture (1 hour / credit)3. Lab (1-3 hour / credit)0. Guided Instruction (1-3 hour / credit)0. Can this course be audited?: No. Department: Department of English. Course Learning Outcomes (CLO's): 1. Students will know the importance of critical thinking, reading, and writing; the writing situation; and documentation of sources. 2. Students will know the importance of the writing process. 3. Students will know the terms and definition that apply to writing. 4. Students will know the qualities of good writing. 5. Students will gain an appreciation for clear, reasoned, audience-appropriate writing and thinking. 6. Students will gain confidence in the face of future writing opportunities.",
+                        "department": "Foundations: English",
+                        "catalog": "Brigham Young University Idaho 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "--",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Brightpoint Community College": {
+        "city": "Chester",
+        "state": "VA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 111",
+                        "name": "College Composition I",
+                        "credits": "3",
+                        "desc": "Introduces and prepares students to the critical processes and fundamentals of writing in academic and professional contexts. Teaches the use of print and digital technologies to promote inquiry. Requires the production of a variety of academic texts, totaling at least 4500 words (15 pages typed) of polished writing. This course requires proficiency in using word processing and learning management software. This is a Passport and UCGS transfer course.",
+                        "department": "English",
+                        "catalog": "Brightpoint Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 112",
+                        "name": "College Composition II",
+                        "credits": "3",
+                        "desc": "Further develops students\u2019 ability to write for academic and professional contexts with increased emphasis on argumentation and research. Requires students to evaluate, integrate, and document print and digital sources to produce a range of academic and multimodal texts, culminating in a fully documented research paper. This course requires proficiency in using word processing and learning management software. This is a UCGS transfer course. Total: 3 hours per week.",
+                        "department": "English",
+                        "catalog": "Brightpoint Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 243",
+                        "name": "Survey Of English Literature I",
+                        "credits": "3",
+                        "desc": "Studies major English works from the Anglo-Saxon period to the present, emphasizing ideas and characteristics of the British literary tradition. Involves critical reading and writing.",
+                        "department": "English",
+                        "catalog": "John Tyler Community College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bristol Community College": {
+        "city": "Fall River",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AST 112",
+                        "name": "Introduction To Astronomy: Stars, Galaxies, And The Universe",
+                        "credits": "4",
+                        "desc": "This course is a descriptive, conceptual introduction to astronomy as a scientific discipline that focuses on the sun, stars, galaxies, and the universe as a whole. Topics include the properties of light and spectra, telescopes, gravity and orbits, the sun, the nature of stars and their evolution, galaxies and large-scale cosmic structure, and the origin of the universe and its evolution over time. Other important aspects of the course include scheduled observing sessions, discussion of recent discoveries in astronomy and cosmology, and laboratory exercises that reinforce concepts covered. Computer-based labs and other visual aids are used extensively. This course complements the material covered in AST 111 but may be taken independently. High school sciences and basic algebra are recommended. Three class hours and two laboratory hours weekly in a combined lecture/laboratory setting. A few meetings will be scheduled at night for observing with the College's telescope. Instructional Support Fee applies Competency met: Scientific Reasoning and Discovery.",
+                        "department": "Astronomy",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ASTR 1000",
+                        "name": "Astronomy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Astronomy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 121",
+                        "name": "Fundamentals Of Biological Science I",
+                        "credits": "4",
+                        "desc": "This course is designed for science majors. An examination of three areas of contemporary biological science including selected topics in chemistry, necessary as background for cell biology, the structure and function of cells with emphasis on reproduction, membrane functions, and cell energetics, and the molecular mechanisms of genetic control and patterns of inheritance. Instructional Support Fee applies. Competency met: Scientific Reasoning and Discovery.",
+                        "department": "Biology",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 126",
+                        "name": "Introduction To Biotechnology",
+                        "credits": "3",
+                        "desc": "The course covers the tools of the biotechnician: gene manipulation, biotechnological applications in medicine, forensics, and industry, bioethics, and biological risk assessment. Three class hours per week. Instructional Support Fee applies.",
+                        "department": "Biology",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 127",
+                        "name": "Introduction To Biotechniques",
+                        "credits": "4",
+                        "desc": "This course provides an introduction to laboratory research techniques and background as to how they are used in a variety of medical, clinical and scientific disciplines. Students will gain theoretical background and practical experience in lab safety, solid and liquid measurement, solution preparation, protein and DNA concentration determination, DNA and protein gel electrophoresis, immunoblotting, ELISA and column chromatography. Good documentation, laboratory and manufacturing practices will be applied throughout the lab. This course emphasizes basic laboratory skills essential for beginning level employment in clinical, academic, and industrial biotechnology laboratories. Instructional Support Fee applies.",
+                        "department": "Biology",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 240",
+                        "name": "Cell Biology",
+                        "credits": "4",
+                        "desc": "This course considers the molecular structure of cells, cell energetics, the role of nucleic acids, cell division, and fertilization. The laboratory covers microscopic studies of cells and methods for studying macromolecules and cells. Instructional Support Fee applies.",
+                        "department": "Biology",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 250",
+                        "name": "Introduction To Immunology",
+                        "credits": "4",
+                        "desc": "This course describes the molecular and cellular interactions involved in immune responses. Topics include: development of the immune system, innate immunity, immunoglobulin structure and genetics, antigen-antibody reactions, the major histocompatibility complex and antigen presentation, T cell receptors (genetics, structure, selection), T cell activation and effector functions, immune responses to infections, organisms and tumors, autoimmune diseases, allergies, immune deficiencies and AIDS, activation and regulation of the immune response Antibody structure and function; applications of monoclonal antibodies in biotechnology and medicine; tolerance. Laboratory involves antibody purification, immunoprecipitation assays, immunoblotting, and ELISAs.",
+                        "department": "Biology",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 113",
+                        "name": "Fundamentals Of Chemistry I",
+                        "credits": "4",
+                        "desc": "This course is designed for students majoring in science and engineering. Topics covered include scientific measurements and dimensional analysis, the structure of matter, chemical nomenclature, chemical formulas, chemical equations, mole and stoichiometry, thermochemistry, the gas laws, the quantum model of the atom, and periodicity of atomic properties. The laboratory component provides applications of concepts covered in lecture. Three class hours, one recitation hour a week. Instructional Support Fee applies. Competency Met: Scientific Reasoning and Discovery.",
+                        "department": "Chemistry",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM 114",
+                        "name": "Fundamentals Of Chemistry II",
+                        "credits": "4",
+                        "desc": "Topics include theories of chemical bonding, intermolecular forces in solids and liquids, solutions and colligative properties, kinetics, equilibria, acids and bases, thermodynamics, and electrochemistry. The laboratory includes semimicroqualitative analysis along with traditional experimental procedures. Three class hours, one recitation hour a week. Instructional Support Fee applies. Competency met: Scientific Reasoning and Discovery.",
+                        "department": "Chemistry",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECN 112",
+                        "name": "Principles Of Economics-micro",
+                        "credits": "3",
+                        "desc": "Principles underlying the organization and function of the market economy, including supply and demand, the theory of the firm, resource allocation under conditions of perfect competition, monopolistic competition and oligopoly, the relationship of government and business, pricing, employment of resources, and wages, rents, interests, and profits. In addition, contemporary economic issues are presented to reinforce theoretical concepts. A passing score on the College's Reading placement test or a C or better or concurrent enrollment in ENG 091 or RDG 090 and a grade of C or better in RDG 080. Competency met: Social Phenomenon (5.4)",
+                        "department": "Economics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EGR 141",
+                        "name": "Introduction To Environment",
+                        "credits": "3",
+                        "desc": "This course is designed to examine the impact of human activities on the natural world in the context of our emerging awareness of the scope of environmental problems and against the background of our understanding of normal ecosystems. The focus will be on topics concerning population, agriculture, energy, air pollution, water resources and waste management. Competency met: Scientific Reasoning and Discovery.",
+                        "department": "Engineering",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IENV 1000",
+                        "name": "Interdisciplinary Environmental Courses Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Environmental Courses",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "Composition I: College Writing",
+                        "credits": "3",
+                        "desc": "College-Composition I provides students an opportunity to develop and reflect on their own process of writing through various stages of planning, composing, revising, and editing. In addition, students learn how to formulate and support a thesis using a number of rhetorical strategies, to engage in the research process and to practice critical reading strategies for the purpose of documenting credible sources to support claims. Students write in accordance with the conventions of written English and incorporate digital tools and technologies. Instructional Support Fee applies. Competency met: Critical Thinking, Written Communication.",
+                        "department": "English",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 102",
+                        "name": "Composition II: Writing About Literature",
+                        "credits": "3",
+                        "desc": "College Composition II builds upon the critical reading and writing skills learned in ENG 101 while using poetry, drama, and fiction as the primary texts for examination. Using a writing process, students will continue to develop complex and diverse writing projects where synthesis and analysis are emphasized. They will apply terminology and theory to develop literary arguments. In doing so, students will make connections between culturally diverse literature and its relevance to the human experiences in the 21st century. Instructional Support Fee applies. Competencies met: Written Communication, and Critical Thinking.",
+                        "department": "English",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HST 111",
+                        "name": "The West And The World I",
+                        "credits": "3",
+                        "desc": "This course is a comparative study of societies and cultures from prehistory through the Renaissance. It emphasizes the interaction between the West and the world in order to understand the current world. A passing score on the College's Reading placement test or C or better or concurrent enrollment in ENG 091 or RDG 090 and a grade of C or better in RDG 080. Competency met: Historic Awareness (5.1), Global Awareness (5.2), Social Phenomenon (5.4)",
+                        "department": "History",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HST 113",
+                        "name": "United States History To 1877",
+                        "credits": "3",
+                        "desc": "This course is a survey of the American past from the Age of Exploration to the end of Reconstruction. It examines the major forces, personalities, events, and institutions that shaped the American experience through 1877. Topics include the development of colonial society, the American Revolution, the Constitution (Federal and the Commonwealth of Massachusetts), the growth of the new nation, westward expansion, the rise of sectionalism, and the Civil War and Reconstruction era. Students develop the ability to think, read, and write critically and analytically and to understand the various forms of human interaction through a study of the creation and growth of the United States through 1877. The course aids students in their efforts to understand the principles of group behavior and social organizations and how power is wielded in society. A passing score on the College's Reading placement test or C or better or concurrent enrollment in ENG 091 or RDG 090 and a grade of C or better in RDG 080. Competency met: Historic Awareness (5.1), Global Awareness (5.2), Multicultural Perspective (5.3), Social Phenomenon (5.4), Ethical Dimensions (7.0)",
+                        "department": "History",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 119",
+                        "name": "Fundamental Statistics",
+                        "credits": "3",
+                        "desc": "This course provides a survey of statistical methods, with examples taken from sociology, psychology, education, and related fields. A minimum background in mathematics is assumed. Topics include descriptive statistics, measure of central tendency and variability, probability, binomial and normal distributions, estimation, correlation, regression sampling distributions, and hypothesis testing. Competency met: Quantitative and Symbolic Reasoning.",
+                        "department": "Mathematics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 214",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "This course is an introduction to calculus and provides students with initial exposure to limits and continuity, the derivative, and differentiation and integration of algebraic, trigonometric, logarithmic, and exponential functions, as well as applications of differentiation. Instructional Support Fee applies.",
+                        "department": "Mathematics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 215",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "This course is a continuation of MTH 214. Topics covered include: applications of the definite integral; techniques of integration; parametric equations; polar coordinates; and infinite sequences and series. One computer laboratory hour per week. Instructional Support Fee applies.",
+                        "department": "Mathematics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    },
+                    {
+                        "id": "MTH 253",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "This course is a continuation of MTH 215. Topics include: two- and three-dimensional vectors; vactor functions; partial derivatives; multiple integrals; and vector calculus. In addition to the four-hour lecture, a one-hour lab is required each week. One computer laboratory hour per week. Instructional Support Fee applies.",
+                        "department": "Mathematics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 254",
+                        "name": "Ordinary Differential Equations",
+                        "credits": "3",
+                        "desc": "This course covers the methods of solving ordinary differential equations and applications in engineering and the sciences. Topics include equations of the first order, higher order equations, power series solutions and applications.",
+                        "department": "Mathematics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "MATH 2400 (3 credits)",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHL 152",
+                        "name": "Ethics: Making Ethical Decisions In A Modern World",
+                        "credits": "3",
+                        "desc": "This course presents the various systems which philosophers in the Western World have devised for making ethical decisions. The course examines modern ethical problems, e.g. abortion, divorce, euthanasia, extramarital sex, war, and capital punishment in the light of these systems. It encourages the student to form reasoned solutions to the ethical problems of our day. Three class hours a week. Competency met: Social Phenomenon (5.4), Humanities (6.0), Ethical Dimensions (7.0)",
+                        "department": "Philosophy",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 4240",
+                        "name": "Ethics",
+                        "note": "--",
+                        "desc": "A critical examination of traditional and contemporary works in ethical theory by considering what these theories have to say about how people should live, what rights and obligations they have, what things are intrinsically valuable. Typically, this includes such topics as ethical and cultural relativism, egoism, freedom, and responsibility. Often the focus will be on contemporary issues such as war, abortion, equality, or punishment.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 211",
+                        "name": "General Physics I",
+                        "credits": "4",
+                        "desc": "This course and Physics 212 are a one-year calculus-based introduction to the principles of physics and their applications. Topics include vectors, kinematics, Newton's law of motion, work/energy, momentum, and rotational motion. Emphasis is placed on understanding through problem solving. This course is transferable to four-year engineering degrees. Instructional Support Fee applies. Competency met: Scientific Reasoning and Discovery.",
+                        "department": "Physics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHY 212",
+                        "name": "General Physics II",
+                        "credits": "4",
+                        "desc": "This is the second semester continuation of PHY 211. It serves primarily as a calculus-based introduction to electricity and magnetism. In particular this course covers Maxwell's equations and basic electric circuits, both DC and AC. Topics also include fluids, oscillations, and waves. Concurrent registration in MTH 253 is recommended. Instructional Support Fee applies.",
+                        "department": "Physics",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SCI 251",
+                        "name": "Honors Seminar: Emerging Paradigms In Science, Humanities, And Culture",
+                        "credits": "3",
+                        "desc": "This course is a broad overview of some of the latest discoveries and leading perspectives in contemporary science, as well as their potential impact on society, culture, education, and public policy. Topics covered in the course may include quantum physics, chaos, and fractal theory, epigenetics, cosmology, consciousness studies, neurobiology, artificial intelligence, and others. The course is also cross-disciplinary in that it explores the potential impact of these discoveries on contemporary society, culture and the environment.",
+                        "department": "Science",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 2000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPA 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "3",
+                        "desc": "This course offers beginning training in the four skills: reading, writing, speaking and aural comprehension. An introduction to Hispanic culture is included. One hour of laboratory practice is required. Only for students with no language background or one to two years of high school Spanish with a C average. Students with an A or B average are encouraged to enroll in the 102 level. One language laboratory hour per week. Instructional Support Fee applies. Competency met: Humanities (6.0)",
+                        "department": "Spanish",
+                        "catalog": "Bristol Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Brock University": {
+        "city": "St Catherine",
+        "state": "ON",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 1P97",
+                        "name": "Calculus With Applications",
+                        "credits": "0.50",
+                        "desc": "Lines, polynomials, logarithms and exponential functions; two-sided limits; rates of change using derivatives; max and min of functions using derivatives; higher derivatives and concavity; area under a curve using integrals; optimization of functions of two variables using partial derivatives; growth and decay using differential equations; applications to many different disciplines; use of computer algebra systems. Restriction: not open to Mathematics (single or combined) majors. Note: may be available on site, online or blended. Designed for students in Biological Sciences, Biotechnology, Business, Earth Sciences, Economics, Environmental Geoscience, Geography and Medical Sciences. Not open to students with credit in any university calculus course. Major credit will not be granted to Mathematics majors.",
+                        "department": "Mathematics",
+                        "catalog": "Brock University Undergraduate 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1500",
+                        "name": "Calculus For Architecture, Management, And Hass",
+                        "note": "--",
+                        "desc": "Basic concepts in differential and integral calculus for functions of one variable. Topics will include functions, limits, continuity, derivatives, integration, exponential and logarithmic functions, and techniques of integration. Application areas will include topics in Management, Architecture, and Social Sciences with special emphasis on the role of calculus in introductory probability. Students cannot get credit for both MATH 1500 and MATH 1010.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Brookdale Community College": {
+        "city": "Lincroft",
+        "state": "NJ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH121",
+                        "name": "People And Their Environment",
+                        "credits": "3",
+                        "desc": "This introduction to design presents an overview of the relationship between people and their environment, both natural and man-made. The emphasis is on seeing and comprehending the world around us, identifying and discussing the forces of change at work in the environment and clarifying the role of the environmental designer. Supplementing the faculty lectures will be guest lectures and field trips. Lab/Studio: 0.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2150",
+                        "name": "The Ethos Of Architecture",
+                        "note": "--",
+                        "desc": "This course will examine the spectrum of architectural phenomena and ideas without a specific chronology using examples ranging from antiquity to the contemporary world in western and non-western civilizations and produced in both vernacular and disciplinary cultures. An essential part of this course is to stimulate students\u2019 curiosity about architecture and the larger world and introduce them to key issues of architecture regarding space, form, critique, technology, aesthetics, societal and cultural contexts, etc. Particular emphasis will be given to the emergence of modernism in architecture. Crucial to the goals of this course is to encourage students to pursue and develop their own unique vision and voice in architecture throughout their education and practice. Fundamental to this process is making students aware of the necessity to challenge their own subjectivities, biases, and presuppositions. Cross Listed: ARCH 5100.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH131",
+                        "name": "Introduction To Design I",
+                        "credits": "5",
+                        "desc": "This course is an introduction to basic principles and elements of design with emphasis on design methodology, abstract design theories and concepts and communication skills. The course draws upon many areas of design, particularly architectural, interior design, and industrial design constructs a systematic introduction to these fields. Lab/Studio: 8.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    },
+                    {
+                        "id": "ARCH132",
+                        "name": "Introduction To Design II",
+                        "credits": "5",
+                        "desc": "This course continues the design fundamentals introduced in ARCH 131. Issues related to sensitivity to context and graphic analysis of existing architecture are also explored. Lab/Studio: 8.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2800",
+                        "name": "Architectural Design Studio 1",
+                        "note": "--",
+                        "desc": "This course introduces students to design as a way of thinking, creating, and making through a series of short projects. The projects stress critical and creative thinking and invention, interdisciplinary collaboration, observation and perception, communication and visualization. Using sketching, photography, model making, and computing students pursue open-ended investigations of form, space, materials, and the ideas that both generate and are generated by them. This course is required of all first-year architecture undergraduates in the B.Arch. program.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH151",
+                        "name": "Architectural Construction I",
+                        "credits": "3",
+                        "desc": "This course is an introduction to the construction process and its relationship to architecture and interior design. The study of materials and methods of construction is concerned primarily with wood, heavy timber and masonry construction and is presented through lectures, exercises, case studies and site visits. Emphasis is on process, compatibility of materials and drawings as a communication tool in architecture and interior design. Lab/Studio: 0.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2510",
+                        "name": "Materials And Design",
+                        "note": "--",
+                        "desc": "This course establishes an understanding of the most common materials, their properties and resulting uses, and the implications of their uses in the larger context of material life cycles. The structural makeup of metals, ceramics, polymers, and composite materials is discovered and their resulting properties, costs, and life cycle consequences are clarified. An understanding of basic mechanical properties is established hands on by conducting tension, compression, and 3-point bending tests (mse-lab). Physical performance of material constructs as synergy between form and material properties is further illustrated. Experiments are conducted that introduce such major concepts as structural loading, properties of sections, and resulting system performance. Sustainability: The concept of life cycles is introduced; material and energy flows are tracked throughout the entire material life cycle. This will be accomplished alongside introducing major material groupings (metals, polymers, ceramics, and composites). Students come to realize that environmental concerns are directly related to structural composition and material availability. Consequences of resource extraction, distribution, manipulation, use, and disposal, reuse or recycle are addressed at both local and global scales. Selected field trips to materials extraction, processing, manufacturing, disposal, and recycling facilities are aimed to give physical meaning to the concept of life cycle. Cross Listed: ARCH 5300.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH152",
+                        "name": "Architectural Construction II",
+                        "credits": "3",
+                        "desc": "A continuation of ARCH 151 that relates construction to architectural design. This will include an investigation of factors such as building codes, structure and mechanical system issues. The course will study materials and methods of masonry, concrete and steel construction. Commercial building planning and basic environmental systems will also be explored. Emphasis will be placed on criteria for selection of materials and systems, materials research, standards and test methods and forces of deterioration. Course material will be presented through lectures, field trips, films and case studies. Lab/Studio: 0.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2530",
+                        "name": "Digital Constructs 2",
+                        "note": "--",
+                        "desc": "This course builds upon topics covered in Digital Constructs 1 by focusing upon contemporary means of producing and communicating architectural ideas. Students will use digital methodologies through all phases of a project as well as advanced representation and digital fabrication techniques. The use of digital modeling as a sketch and iterative tool will be emphasized. Tools taught in Digital Constructs 2 will build upon those software programs taught in Digital Constructs 1. This course is required of all first-year architecture undergraduates in the B.Arch. program. Coordination of the relationship of course content to Architectural Design Studio 2 will be between the Digital Constructs 2 faculty instructor and the first-year architectural design studio coordinator and faculty.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH225",
+                        "name": "3d Architectural Cad",
+                        "credits": "3",
+                        "desc": "The student will be presented with a comprehensive course in 3 Dimensional modeling. The student will acquire the skills necessary to create 3D models and 3D graphics. The assignments will focus on multi-discipline applications including architecture and interior design. Students will create objects in 3D as it relates to 3D computer aided design and manufacturing. Lab/Studio: 4.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2520",
+                        "name": "Digital Constructs 1",
+                        "note": "--",
+                        "desc": "This course will examine and teach methods of representation and the communication of design concepts. Skills taught will enable students to produce two-dimensional and three-dimensional digital models, as well as drawings from multiple perspectives. Students will understand virtual environments as they pertain to model making, drawing, scale, and materiality. Students will be introduced to digital modeling and graphic design softwares. This course is required of all first-year architecture undergraduates in the B.Arch. program. Coordination of the relationship of course content to Architectural Design Studio 1 will be between the Digital Constructs 1 faculty instructor and the first-year architectural design studio coordinator and faculty.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ARCH 2530",
+                        "name": "Digital Constructs 2",
+                        "note": "--",
+                        "desc": "This course builds upon topics covered in Digital Constructs 1 by focusing upon contemporary means of producing and communicating architectural ideas. Students will use digital methodologies through all phases of a project as well as advanced representation and digital fabrication techniques. The use of digital modeling as a sketch and iterative tool will be emphasized. Tools taught in Digital Constructs 2 will build upon those software programs taught in Digital Constructs 1. This course is required of all first-year architecture undergraduates in the B.Arch. program. Coordination of the relationship of course content to Architectural Design Studio 2 will be between the Digital Constructs 2 faculty instructor and the first-year architectural design studio coordinator and faculty.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH245",
+                        "name": "History Of Architecture: Pre-historic To Gothic",
+                        "credits": "3",
+                        "desc": "This course is a survey of social, political, technological, functional and aesthetic concerns of Western Architecture from its earliest beginnings to the late Gothic period. Lab/Studio: 0.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    },
+                    {
+                        "id": "ARCH246",
+                        "name": "History Of Architecture: Renaissance Through The 19th Century",
+                        "credits": "3",
+                        "desc": "This course is a survey of social, political, technological, functional and aesthetic concerns of Western Architecture from the Renaissance through the mid-19th century. Lab/Studio: 0.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 4100",
+                        "name": "An Architectural Genealogy",
+                        "note": "--",
+                        "desc": "This course addresses the history of architectural and related developments in selected Western and non-Western civilizations in order to construct a conceptual and strategic understanding of the relationships between architecture, culture, civilization, technology, and thought. In doing so, it will focus on key constructed spatial phenomena of the pre-modern world and, where relevant, elucidate the connection of these works of architecture and their motivating ideals to those of the modern and contemporary world.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH247",
+                        "name": "History Of Architecture: Industrial Revolution To Modernism",
+                        "credits": "3",
+                        "desc": "The student will study the history of modern architecture from its precursors in the late 19th century through the \u201cLate Modernist\u201d movements after World War II. The student will be able to consider the technological, social, economic and cultural factors which have helped to shape the development of modern architecture relative to modern history and culture. Emphasis on American, regional and European architecture. Lab/Studio: 0.",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 4120",
+                        "name": "Cloud Atlas: 20th Century Architecture, Culture And Civilization",
+                        "note": "--",
+                        "desc": "Building on the knowledge, critical perspectives, and abilities that students have acquired in the previous courses in the history, theory, and criticism sequence, this course begins a study of the ideas, values, theories, and practices that contributed to the rise of modernity in the western world and eventually on a global scale. This course explores the ideal of modernity as both a cultural phenomenon and as a technological enframing of the world, scientific rationality, historical consciousness, etc.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH262",
+                        "name": "Architectural Studio II",
+                        "credits": "5",
+                        "desc": "This studio course continues to build upon the design concepts introduced in ARCH 261. The lecture hour explores in depth aspects of architectural design. Detailed analysis and the design development of a complex program will be studied. Lab/Studio: 8. Technological Competency (t).",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2810",
+                        "name": "Architectural Design Studio 2",
+                        "note": "--",
+                        "desc": "This course continues the processes of critical inquiry in relation to design and design creativity through a series of hands-on projects that incorporate fundamental issues of technology, materiality, abstraction, tectonics, and theory that consider the array of architectural issues in the design of built environments that consider architecture in a wider sense that includes its involvement with site, context, situation, and simple program. This course is required of all first-year architecture undergraduates in the B.Arch. program.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ARCH 2810",
+                        "name": "Architectural Design Studio 2",
+                        "note": "--",
+                        "desc": "This course continues the processes of critical inquiry in relation to design and design creativity through a series of hands-on projects that incorporate fundamental issues of technology, materiality, abstraction, tectonics, and theory that consider the array of architectural issues in the design of built environments that consider architecture in a wider sense that includes its involvement with site, context, situation, and simple program. This course is required of all first-year architecture undergraduates in the B.Arch. program.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARCH262",
+                        "name": "Architectural Studio II",
+                        "credits": "5",
+                        "desc": "This studio course continues to build upon the design concepts introduced in ARCH 261. The lecture hour explores in depth aspects of architectural design. Detailed analysis and the design development of a complex program will be studied. Lab/Studio: 8. Technological Competency (t).",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    },
+                    {
+                        "id": "ARCH262",
+                        "name": "Architectural Studio II",
+                        "credits": "5",
+                        "desc": "This studio course continues to build upon the design concepts introduced in ARCH 261. The lecture hour explores in depth aspects of architectural design. Detailed analysis and the design development of a complex program will be studied. Lab/Studio: 8. Technological Competency (t).",
+                        "department": "Architecture",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARCH 2810",
+                        "name": "Architectural Design Studio 2",
+                        "note": "--",
+                        "desc": "This course continues the processes of critical inquiry in relation to design and design creativity through a series of hands-on projects that incorporate fundamental issues of technology, materiality, abstraction, tectonics, and theory that consider the array of architectural issues in the design of built environments that consider architecture in a wider sense that includes its involvement with site, context, situation, and simple program. This course is required of all first-year architecture undergraduates in the B.Arch. program.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ARCH 2810",
+                        "name": "Architectural Design Studio 2",
+                        "note": "--",
+                        "desc": "This course continues the processes of critical inquiry in relation to design and design creativity through a series of hands-on projects that incorporate fundamental issues of technology, materiality, abstraction, tectonics, and theory that consider the array of architectural issues in the design of built environments that consider architecture in a wider sense that includes its involvement with site, context, situation, and simple program. This course is required of all first-year architecture undergraduates in the B.Arch. program.",
+                        "department": "Architecture",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL101",
+                        "name": "General Biology I",
+                        "credits": "4",
+                        "desc": "This introductory level course is designed for science majors and for students in other majors that require a laboratory science course. Through exercises in the laboratory and classroom experiences, the student will demonstrate the ability to identify, describe and interpret basic biological concepts. These concepts include the chemical basis of life, levels of organization, photosynthesis,cellular respiration, metabolism, and genetic continuity and heredity. Scientific inquiry utilizing the scientific method is stressed throughout the course. Lab/Studio: 3. General Education Course (Sciences).",
+                        "department": "Biology",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL105",
+                        "name": "Life Sciences",
+                        "credits": "4",
+                        "desc": "This course is intended to meet a laboratory science requirement for the non-science major. Through laboratory exercises and classroom experiences the student will demonstrate an appreciation of life phenomena and the diversity of living organisms. Topics include basic metabolic functions that create and sustain life, reproduction, growth, development, behavior and adaptation of selected life forms and the interactions among living organisms. Lab/Studio: 3. General Education Course (Sciences).",
+                        "department": "Biology",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CADD121",
+                        "name": "Engineering Graphics With Cad",
+                        "credits": "3",
+                        "desc": "This course will provide the student with a complete engineering graphics curriculum utilizing freehand sketching, manual/board drafting and Computer-Aided Drafting. The topics will include graphic size and shape development, orthographic projection, sectional and auxiliary views, dimensioning and tolerancing, fasteners and the preparation of a set of working drawings.",
+                        "department": "Computer Aided Drafting/Design",
+                        "catalog": "Brookdale Community College 2018-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "ENGR 1200 = 1 credit and ENGR 1000 = 1 credit",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ENGR 1200",
+                        "name": "Engineering Graphics And Cad",
+                        "note": "ENGR 1200 = 1 credit and ENGR 1000 = 1 credit",
+                        "desc": "An introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic and isometric free-hand sketching, and computergenerated design documentation. Contact, Lecture or Lab Hours: 3 contact hours.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM101",
+                        "name": "General Chemistry I",
+                        "credits": "5",
+                        "desc": "The student will investigate the fundamental concepts of chemistry from a theoretical approach and participate in a laboratory program that demonstrates this theory. The subjects covered include atomic structure, chemical bonding, acids and bases, gases, solids and liquids and properties of solutions. The course content is designed for the science major who wishes to transfer to a four-year institution. Lab/Studio: 3. General Education Course (Sciences).",
+                        "department": "Chemistry",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM102",
+                        "name": "General Chemistry II",
+                        "credits": "5",
+                        "desc": "A continuation of CHEM 101, the student will investigate the areas of kinetics, equilibrium, nuclear reactions, thermochemistry, electrochemistry, carbon chemistry and transition metal and organic chemistry using a problem solving approach to bring about understanding. Lab/Studio: 3. General Education Course (Sciences).",
+                        "department": "Chemistry",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CINE105",
+                        "name": "Film Appreciation: Motion Picture/art",
+                        "credits": "3",
+                        "desc": "The student will view a wide range of short and feature length films and be able to identify the major film theories, the basic techniques of filmmaking and the basic characteristics of the film medium as art and entertainment. Lab/Studio: 0. General Education Course (Humanities).",
+                        "department": "Cinematography",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP126",
+                        "name": "Computer Logic And Design",
+                        "credits": "3",
+                        "desc": "This course provides the student with an introduction to computer systems. The topics include computer components, computer programming logic using design structures, developing algorithms, coding programs, and debugging program code. Lab/Studio: 0 General Education Course (Technological Competency).",
+                        "department": "Computer Science",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1010",
+                        "name": "Introduction To Computer Programming",
+                        "note": "--",
+                        "desc": "Computer programming is a way of thinking. A successful programmer needs to take a word problem, generate a pseudocode algorithm, and convert it to the syntax of a specific programming language. This course is an alternative to CSCI 1100 and is intended for students who want an introduction to this programming process but do not intend to do further course work in programming or computer science. Emphasis will be on the generation of the algorithms and problem solving. This course is offered in Python, an approachable language with relatively low syntax complexity, which allows students to concentrate on the fundamentals without becoming sidetracked by language specifics. It also affords students a tool for creating useful personal applications or prototypes in the future. Students cannot get credit for this course if they have already taken any other CSCI course. (Fall 2019 is the final offering of this course.)",
+                        "department": "Computer Science (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2019-2020"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMP129",
+                        "name": "Information Technology",
+                        "credits": "3",
+                        "desc": "This course is a rigorous introduction to computer science and computer applications. This course emphasizes common computer/technology skills and helps students access, process and present information. This course contains a component that helps the student to recognize analyze and assess ethical issues and situations in computer science. Lab/Studio: 0. General Education Course (Technological Competency) (Ethical Reasoning and Action).",
+                        "department": "Computer Science",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    },
+                    {
+                        "id": "COMP137",
+                        "name": "Programming For Engineers",
+                        "credits": "3",
+                        "desc": "This course is designed for engineering students with no previous high-level programming language experience. The students will learn how to analyze scientific problems and code solutions to these problems using the ANSI/ISO Standard C++ language. Lab/Studio: 0. Technological Competency (t).",
+                        "department": "Computer Science",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON106",
+                        "name": "Micro Economics",
+                        "credits": "3",
+                        "desc": "Students will understand principles of supply and demand including sensitivity analysis to price, income and utility. They will analyze cost under various market structures. Both the output and input markets will be examined. Lab/Studio: 0. General Education Course (Social Sciences).",
+                        "department": "Economics",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON107",
+                        "name": "Economics",
+                        "credits": "3",
+                        "desc": "This intensive course for non-business students combines macro and micro economics theory. It is designed to acquaint students with the nature of the market system and the major issues and problems affecting our economy. Students will understand the basic theoretical principles of demand theory, cost and price, equilibrium analysis and application to decision-making in the firm. Students will also understand the basic theoretical principles of production possibilities, national income accounts, consumption, investment, monetary and fiscal policies and problems of employment and price levels. ECON 107 is a condensed combination of ECON 105 and ECON 106. Therefore, a student will not receive credit for ECON 107 in addition to ECON 105 and ECON 106. Also, since ECON 107 is not a comprehensive combination of ECON 105 and ECON 106, it cannot be used in place of the two. Lab/Studio: 0. General Education Course (Social Sciences).",
+                        "department": "Economics",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGI101",
+                        "name": "Engineering Mechanics I",
+                        "credits": "3",
+                        "desc": "Subject includes classification of systems of forces, resultants, geometrical and analytical conditions for equilibrium of force systems, frames, trusses, friction, centers of gravity, moments of inertia, parabolic and catenary cables. Lab/Studio: 0.",
+                        "department": "Engineering",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1100",
+                        "name": "Introduction To Engineering Analysis",
+                        "note": "Transfers as 3 credits",
+                        "desc": "An integrated development of linear algebra and statics emphasizing engineering applications and also incorporating computer exercises involving matrix techniques and calculations using available software packages.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGI103",
+                        "name": "Engineering Problem Solving With Computers",
+                        "credits": "3",
+                        "desc": "Students will learn the fundamentals of MATLAB, how to write programs in MATLAB, and how to solve engineering problems using MATLAB. Emphasis on problem-solving skills and mathematical tools of importance in engineering. Technological Competency (t).",
+                        "department": "Engineering",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 3 elective credits",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGI105",
+                        "name": "Introduction To Engineering",
+                        "credits": "1",
+                        "desc": "This course is an introduction to the Engineering Curriculum. The purpose of this course is to expose the student to the various branches of engineering, the careers that are available, the educational requirements, and the tools of the engineer. Various computer demonstrations and student projects will be performed to introduce the student to typical engineering uses of computers and software. The course consists of one hour per week of lecture. Upon successful completion of this course, the student will earn one credit. The student should have an interest in understanding the challenges of engineering as a profession. Lab/Studio: 0.",
+                        "department": "Engineering",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 1 elective credit",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGI121",
+                        "name": "Engineering Graphics With Cad",
+                        "credits": "2",
+                        "desc": "This course will provide the student with a complete engineering graphics curriculum utilizing freehand sketching, manual/board drafting and Computer-Aided Drafting. The topics will include graphic size and shape development, orthographic projection, sectional and auxiliary views, dimensioning and tolerancing, fasteners and the preparation of a set of working drawings. Lab/Studio: 0.",
+                        "department": "Engineering",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1200",
+                        "name": "Engineering Graphics And Cad",
+                        "note": "Transfers as 1 credit",
+                        "desc": "An introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic and isometric free-hand sketching, and computergenerated design documentation. Contact, Lecture or Lab Hours: 3 contact hours.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGI241",
+                        "name": "Principles Of Ee I (circuits)",
+                        "credits": "4",
+                        "desc": "This course introduces the student to the basic concepts of DC and AC circuit analysis, loop and node analysis, network theorems and poly-phase circuits. Laboratory work emphasizes basic measurement techniques. The student will verify circuit theory as well as laboratory measurements with computer-aided circuit analysis such as PSpice and other software packages. Lab/Studio: 2.",
+                        "department": "Engineering",
+                        "catalog": "Brookdale Community College 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECSE 1000",
+                        "name": "\"electrical, Compputer, And Systems Engineering Elective\"",
+                        "note": "Transfers as 4 elective credits",
+                        "desc": "",
+                        "department": "Electrical, Computer, Systems Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
             }
         ]
     }
