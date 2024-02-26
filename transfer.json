@@ -4886,6 +4886,2524 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 300",
+                        "name": "General Principles",
+                        "credits": "3",
+                        "desc": "This course provides a broad overview of general principles of psychology. Topics include the scientific method, statistics, biological determinants, as well as general processes of behavior, such as development, learning, language, intelligence, perception, motivation, emotion, personality, and mental health. This course is not open to students who have taken PSYC 480. Hours: 54 hours LEC. Transferable: CSU; UC (UC credit limitation: PSYC 300, 305, & 480 combined: maximum credit, one course). General Education: AA/AS Area V(b); CSU Area D9; IGETC Area 4I C-ID: C-ID PSY 110.",
+                        "department": "Psychology",
+                        "catalog": "American River College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 356",
+                        "name": "Human Sexuality",
+                        "credits": "3",
+                        "desc": "This course offers a balanced scientific understanding of the biopsychosocial perspective on human sexual behavior from birth through adulthood. It provides factual, up-to-date, nonjudgmental information designed to dispel myths, and to facilitate problem identification and possible solutions. Sexuality is explored from historical, cultural, psychological, physiological, sociological, and legal viewpoints. Hours: 54 hours LEC. Transferable: CSU; UC. General Education: AA/AS Area III(b); AA/AS Area VI; CSU Area D4; CSU Area D9; CSU Area E1; IGETC Area 4D; IGETC Area 4I C-ID: C-ID PSY 130.",
+                        "department": "Psychology",
+                        "catalog": "American River College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPAN 401",
+                        "name": "Elementary Spanish",
+                        "credits": "4",
+                        "desc": "This course introduces the language and culture of the Spanish-speaking world. It includes the development of listening, speaking, reading, and writing Spanish with emphasis on the communicative skills, as well as the fundamentals of Spanish pronunciation and grammar. Hours: 72 hours LEC. Transferable: CSU; UC. General Education: AA/AS Area I; CSU Area C2; IGETC Area 6 C-ID: C-ID SPAN 100.",
+                        "department": "Spanish",
+                        "catalog": "American River College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPEECH 301",
+                        "name": "Public Speaking",
+                        "credits": "3",
+                        "desc": "This course covers oral composition and delivery of messages in public speaking situations. It focuses on how to manage anxieties about speaking in public, organize ideas when speaking to inform and persuade, use supporting materials to increase the effectiveness of messages, appeal to different audiences, and critically evaluate messages. By the end of the course, students will be more confident and effective in oral communication situations. Audio/video recording equipment may be used as an aid to self-analysis and improvement. Hours: 54 hours LEC. Transferable: CSU; UC. General Education: AA/AS Area II(b); CSU Area A1; IGETC Area 1C C-ID: C-ID COMM 110.",
+                        "department": "Speech",
+                        "catalog": "American River College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPEECH 331",
+                        "name": "Group Discussion",
+                        "credits": "3",
+                        "desc": "This course covers the dynamics of group communication and prepares individuals to function more effectively in groups. It focuses on oral communication in task and social groups. Topics include communication concepts and behaviors in problem solving, decision making, leadership, conflict management, and group roles and norms. Hours: 54 hours LEC. Transferable: CSU; UC.General Education: AA/AS Area II(b); CSU Area A1; IGETC Area 1C C-ID: C-ID COMM 140.",
+                        "department": "Speech",
+                        "catalog": "American River College 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "STAT 300",
+                        "name": "Introduction To Probability And Statistics",
+                        "credits": "4",
+                        "desc": "This course is an introduction to probability and statistics. Topics include elementary principles and applications of descriptive statistics, counting principles, elementary probability principles, probability distributions, estimation of parameters, hypothesis testing, linear regression and correlation, and Analysis of Variance (ANOVA). Applications use data from various disciplines including business, social sciences, psychology, life and health sciences, and education. Statistical analysis using a computer statistics package or graphing calculator is required. Hours: 72 hours LEC. Transferable: CSU; UC (UC credit limitation: STAT 300, 305, and PSYC 330 combined: maximum credit, one course ). General Education: AA/AS Area II(b); CSU Area B4; IGETC Area 2. C-ID: C-ID MATH 110.",
+                        "department": "Statistics",
+                        "catalog": "American River College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "American University": {
+        "city": "Washington",
+        "state": "DC",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ACCT-240",
+                        "name": "Principles Of Financial Accounting",
+                        "credits": "3",
+                        "desc": "An introduction to the accounting profession, business entities, and the financial accounting cycle; the construction and interpretation of the basic financial statements as a communications link between business firms and their stakeholders.",
+                        "department": "Accounting And Taxation",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANTH-250",
+                        "name": "Human Origins Fa5",
+                        "credits": "3",
+                        "desc": "The contributions that physical anthropology and archaeology can make toward an understanding of the origins and development of humankind. Includes genetics, the principles of evolution as applied to humans, the nonhuman primates and their behavior, human fossils, and the archaeology of the New and Old Worlds.",
+                        "department": "Anthropology",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARTS-100",
+                        "name": "Art: The Studio Experience Fa1",
+                        "credits": "3",
+                        "desc": "This beginning studio course introduces students to painting, drawing, sculpture, and design combined with visual literacy. The course focuses on the interrelationship of hand, eye, and mind to create informed works of art that engage larger critical, formal, or cultural dialogues and relate basic visual language to analytic and creative processes of the artist. AU Core Habits of Mind: Creative-Aesthetic Inquiry.",
+                        "department": "Art: Studio",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARTS-205",
+                        "name": "The Artist\u2019s Perspective: Drawing Fa1",
+                        "credits": "3",
+                        "desc": "This introductory drawing course examines observation as a tool of discovery. Students explore traditional and conceptual notions of looking and experiment with different materials, techniques, and practices in order to examine visual perception. The course investigates drawing as a two-dimensional and threedimensional medium.",
+                        "department": "Art: Studio",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARTS-210",
+                        "name": "The Artist\u2019s Perspective: Painting Fa1",
+                        "credits": "3",
+                        "desc": "This course is an introduction to the practices, production, and consideration of contemporary painting techniques and strategies. Using acrylic paints and other materials students engage in technical, creative, and conceptual projects that introduce a broad range of approaches to painting including both representation and abstraction. Through the creation of paintings, group critiques, lectures on and by artists, and visits to galleries and museums, students learn the language of painting and investigate its traditional and contemporary contexts. AU Core Habits of Mind: Creative-Aesthetic Inquiry.",
+                        "department": "Art: Studio",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 4220",
+                        "name": "Painting",
+                        "note": "--",
+                        "desc": "A painting course in opaque media such as oil or acrylic with emphasis on color interaction, composition, and pictorial design. Using sources from observation and the history of painting, students are taught to see and convey effects of color on/in 2D pictorial space and to develop critical skills in looking at paintings. Cross Listed: Cross listed with ARTS 6220; students cannot obtain credit for both courses.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARTS-215",
+                        "name": "The Artist\u2019s Perspective: Sculpture Fa1",
+                        "credits": "3",
+                        "desc": "This introductory sculpture course investigates three-dimensional concerns, focusing on observation, process, form, and object as a means of arriving at content. Students are introduced to traditional and contemporary art practices and explore a variety of materials, techniques, and tools. AU Core Habits of Mind: Creative-Aesthetic Inquiry.",
+                        "department": "Art: Studio",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2210",
+                        "name": "Sculpture I",
+                        "note": "--",
+                        "desc": "A beginning sculpture course combining hands-on studio work sessions with lectures on the history and theory of sculpture practice. The studio component involves explorations of materials and techniques as tools for the enhancing of visual sensitivity and creative expression.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARTS-235",
+                        "name": "The Artist\u2019s Perspective: Video Art Fa1",
+                        "credits": "3",
+                        "desc": "An introduction to contemporary video art and its representations of time, this course emphasizes experimental approaches over conventional narrative. Projects involve shooting and editing individual video assignments for class critiques, and developing personal moving image art projects. Examples of artists\u2019 film and video are screened and discussed in the context of readings and written assignments. AU Core Habits of Mind: Creative-Aesthetic Inquiry.",
+                        "department": "Art: Studio",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1030",
+                        "name": "Digital Filmmaking",
+                        "note": "--",
+                        "desc": "This is a hands-on introduction to film making. Students study a selection of great films; and learn how to make movies using lightweight field production equipment. Throughout the course students produce a variety of short videos in different genres, and develop their critical capacity for analyzing cinema and other forms of motion picture storytelling. The class ends with a mini film festival where everyone presents their work.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-120",
+                        "name": "Structure And Function Of The Human Body Fa5",
+                        "credits": "4",
+                        "desc": "Through lecture and laboratory, this course focuses on the normal structure of the human body and how that structure defines functionality of the body. Each system is discussed at multiple levels from the anatomy to how it fits in the puzzle of the human body. The course also discusses how disease alters the normal structure and/or function of the body as well as some of the social concerns surrounding biological research and medicine that could impact our overall health and well-being. AU Core Habits of Mind: Natural-Scientific Inquiry.",
+                        "department": "Biology",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM-105",
+                        "name": "Visual Literacy Fa1",
+                        "credits": "3",
+                        "desc": "This course introduces students to ways of understanding visual media through instruction in the fundamental principles of 2-D design, photography, and film/video. Students learn visual theory and immerse themselves in new ways of seeing; understand the impact of images in various forms and contexts; critically deconstruct images created by others while producing images of their own; and come to appreciate the influences of visual symbols on communication.",
+                        "department": "Communication",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CORE-101",
+                        "name": "Au Experience I",
+                        "credits": "1.5",
+                        "desc": "American University Experience (AUx) is a full-year sequence of courses for students transitioning into their first year of college at AU. Drawing on many academic disciplines including student development theory, this course helps students navigate their academic, social, cultural, and psychological adjustment to university life. Themes covered include freedom of expression; campus resources; exploring and expressing identities; building academic success; budgeting time and money; health and wellness; finding community; rights and responsibilities; diversity, bias, and privilege; and setting goals for success. AU Core Foundation: AU Experience I. Permission: program director. Note: Students may not receive credit toward a degree for both CORE-100 and CORE-101.",
+                        "department": "Au Core Curriculum",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CORE-105",
+                        "name": "Complex Problems Seminar",
+                        "credits": "3",
+                        "desc": "Topics vary by section. This required seminar for all students during their first year at American University demonstrates the value of approaching important conceptual problems and social issues from a variety of perspectives, often from multiple disciplines and including multiple voices. Students are introduced to the importance of incorporating diverse perspectives, clear communication, critical reading, and working with feedback. The seminars feature discussions, lectures, collaboration, and integrative learning. AU Core Foundation: Complex Problems. Not repeatable for credit. Note: Open only to students in their first year at American University. Students may not receive credit toward a degree for both CORE-105, and CORE- 106 or CORE-107.",
+                        "department": "Au Core Curriculum",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CORE-200",
+                        "name": "Au Experience II",
+                        "credits": "1.5",
+                        "desc": "American University Experience (AUx) is a full-year sequence of courses for students transitioning into their first year of college at AU. Race and social identity, which include but are not limited to ethnicity, gender and sexual expression, class, disability, and religion, are often discussed in coded, contentious, or uncomfortable ways. This course creates a space for conversations and learning about these topics that pushes beyond the norm. It builds upon concepts introduced in CORE-100/CORE-101, blending personal exploration of social identity formation with a multidisciplinary approach to race and ethnicity. As a starting point for the academic study of the structures of culture and power as well as social movements that challenge those structures, the course equips students to become part of a community of learners whose members come from a variety of backgrounds and bring with them a range of experiences. AU Core Foundation: AU Experience II. Note: Students may not receive credit toward a degree for both CORE- 200 and CORE-201.",
+                        "department": "Au Core Curriculum",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSC-280",
+                        "name": "Introduction To Computer Science I",
+                        "credits": "4",
+                        "desc": "Problem solving and algorithm development. Structured programming, basic data types, and canonical structures; arrays and subprograms; recursion. Social implications of computing. Elementary applications from business and science. Note: Familiarity with using files, e-mail, and the World Wide Web required.",
+                        "department": "Computer Science",
+                        "catalog": "American University 2019-2020"
+                    },
+                    {
+                        "id": "CSC-281",
+                        "name": "Introduction To Computer Science II",
+                        "credits": "3",
+                        "desc": "Students develop programming skills that serve as a foundation for further study in computer science. They learn object-oriented programming and design software that models real-world systems from our networked world and gain an appreciation for the role of algorithms and data structures in problem-solving and software design (e.g., objected-oriented design, lists, files, searching, and sorting). Elementary numerical methods and the construction of a simple graphical user interface (GUI) are also discussed. AU Core Integrative Requirement: Quantitative Literacy II.",
+                        "department": "Computer Science",
+                        "catalog": "American University 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON-100",
+                        "name": "Macroeconomics Fa4",
+                        "credits": "3",
+                        "desc": "Introduction to the basic principles of aggregate economic analysis. Includes measurement and determinants of national income, unemployment, inflation, economic growth, and business cycles. Topics also include historical perspectives, alternative approaches to economics, and current issues and controversies.",
+                        "department": "Economics",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON-150",
+                        "name": "Economics For Business",
+                        "credits": "3",
+                        "desc": "Introduction to the analysis of markets, the behavior of different kinds of economic agents, and the basic principles of aggregate economic analysis, with a particular focus on the application of these topics to business decisions. Covers demand and supply, behavior of consumers and firms, competitive and noncompetitive markets, international trade, the measurement of national income, unemployment, inflation, and monetary and fiscal policies. Restriction: Registration not allowed in both ECON-150 and ECON-200. Note: Intended for Kogod School of Business (KSB) students. Students may not receive credit toward a degree for both ECON-150 and ECON-200.",
+                        "department": "Economics",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 2000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ELTA-100",
+                        "name": "Media And Culture",
+                        "credits": "3",
+                        "desc": "This course is organized thematically by the type of media, including newspapers, radio, film, the web, and social media. For each media genre, students engage in a related activity, such as writing a newspaper article, producing a pilot radio show, launching a new magazine, analyzing a TV show, and developing a website. Students work both individually and collaboratively in small groups and pay close attention to any language issues that arise during their activities and tasks. Permission: advisor.",
+                        "department": "English Language And Training Academy",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1560",
+                        "name": "Media And Society",
+                        "note": "--",
+                        "desc": "A survey of the historical origins and cultural impact of several mass media, including television, film, radio, the Internet, and print media. The course aims to increase media literacy through analysis of specific media products as well as discussion of broad topics such as: advertising and commercialization; politics and censorship; gender, race, and social identity.",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENVS-150",
+                        "name": "Nature Of Earth Fa5",
+                        "credits": "4",
+                        "desc": "This course, which includes a weekly laboratory, covers the scientific principles, concepts, and methodologies required to understand the interrelationships of the natural world; to identify and analyze environmental problems; and to evaluate potential solutions. The course explores the topics of biodiversity and convention, ecology and evolution, population dynamics, nutrient cycling, and ecosystems resources. AU Core Habits of Mind: Natural-Scientific Inquiry.",
+                        "department": "Environmental Studies",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JAPN-114",
+                        "name": "Japanese, Elementary I",
+                        "credits": "5",
+                        "desc": "Prepares students to function in everyday situations in the Japanese-speaking world. Focuses on the acquisition of basic vocabulary and grammatical structures in culturally authentic contexts through speaking, reading, writing, and listening comprehension.",
+                        "department": "Japanese",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JLS-110G",
+                        "name": "Western Legal Tradition 2:1",
+                        "credits": "3",
+                        "desc": "From the biblical era to the American experiment, the Western legal tradition encompasses primitive, divine, natural, canon, secular, and common law. This course examines the key legal documents and issues of the tradition including the Code of Hammurabi, the Ten Commandments, the trials of Socrates and Jesus, the Magna Carta, the Rule of Law, and Common law.",
+                        "department": "Justice, Law And Society",
+                        "catalog": "American University 2006-2007"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "KSB-100",
+                        "name": "Business 1.0",
+                        "credits": "3",
+                        "desc": "Business is an exciting and dynamic environment. This course is the initial step in becoming a student of business. It provides a broad introduction which enables students to gain an appreciation of the complex nature of business and a sense of what is required to operate a successful business. In this course students learn what a business is, how it operates, and why. They learn how business impacts society and the effect society has on business. Students gain an understanding of the various entities that influence business, such as the economy, customers, suppliers, the government, and the global community, and discover the interrelated tasks and operations that must occur for a business to be successful. Note: Fall enrollment open only to first-year students; spring enrollment open only to first-year students or sophomores.",
+                        "department": "Business",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-100",
+                        "name": "College Writing",
+                        "credits": "3",
+                        "desc": "Develops students' skills in reading with understanding, summarizing and synthesizing information accurately, and writing correct, reasoned prose. Note: Completion of LIT-100 and LIT-101 with grades of C or better fulfills the university College Writing and Writing Proficiency Requirement.",
+                        "department": "Literature",
+                        "catalog": "American University 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-101",
+                        "name": "College Writing Seminar",
+                        "credits": "3",
+                        "desc": "Continues the work begun in LIT-100, stressing the student's abilities to construct extended arguments, to synthesize diverse materials, and to pursue library research. Note: Completion of LIT-100 and LIT-101 with grades of C or better fulfills the university College Writing and Writing Proficiency Requirement.",
+                        "department": "Literature",
+                        "catalog": "American University 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-135G",
+                        "name": "Critical Approach To The Cinema 1:1",
+                        "credits": "3",
+                        "desc": "Analysis of film content and style through screenings and substantial readings in aesthetic theory and film history. Also considers social issues, cultural artifacts, and forms of artistic expression.",
+                        "department": "Literature",
+                        "catalog": "American University 2006-2007"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-211",
+                        "name": "Applied Calculus I",
+                        "credits": "3",
+                        "desc": "Functions, differentiation, and integration. Applications to several areas, especially business. AU Core Foundation: Quantitative Literacy I. Restriction: Registration not allowed in both MATH-211 and MATH-221. Note: Registration eligibility may be determined by appropriate score on the Mathematics Placement test. Credit toward a major in the Department of Mathematics and Statistics requires departmental approval. Students may not receive credit toward a degree for both MATH-211 and MATH-221.",
+                        "department": "Mathematics",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-221",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "Real numbers; coordinate systems; functions; limits and continuity; differentiation and applications; trigonometric functions; indefinite and definite integration and applications; fundamental theorem of integral calculus. AU Core Foundation: Quantitative Literacy I. Restriction: Registration not allowed in both MATH-221 and MATH-211. Note: Registration eligibility may be determined by appropriate score on the Mathematics Placement test. Students may not receive credit toward a degree for both MATH-221 and MATH-211.",
+                        "department": "Mathematics",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MGMT-100",
+                        "name": "Business 1.0",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the fundamental elements of business from the perspectives of shareholders, management/employces, society and other stakeholders. It develops an appreciation of the complex and integrated nature of these elements, which include decision making, leadership, technology, and globalization. Students learn what a business is, how it operates, and why. The course employs a variety of teaching methods, such as interactive learning technologies, guest speakers, and small group projects.",
+                        "department": "Business: Management",
+                        "catalog": "American University 2006-2007"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MGMT-201",
+                        "name": "Global Corporate Citizenship Fa3",
+                        "credits": "3",
+                        "desc": "Understanding the complexity of the business environment requires an understanding of business as a citizen. Certainly a good business citizen obeys the law, but is that sufficient? Good business citizenship also requires participation in the social order and accepting and perpetuating common values. This course prepares students to be managers and leaders of businesses that practice good citizenship in the global economy.",
+                        "department": "Business: Management",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MKTG-300",
+                        "name": "Principles Of Marketing",
+                        "credits": "3",
+                        "desc": "An introduction to marketing decision making in business and nonprofit organizations. Particular attention is devoted to analysis of customer needs; segmenting markets; and developing product, promotion, pricing, and distribution strategies. Students develop their business writing skills and learn through writing an integrated market analysis assignment. AU Core Integrative Requirement: Written Communication and Information Literacy II. Restriction: Registration not allowed in both MKTG-300 and MKTG-250. Note: Students may not receive credit toward a degree for both MKTG-300 and MKTG-250.",
+                        "department": "Business: Marketing",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "OGIS-130",
+                        "name": "Intercultural Understanding",
+                        "credits": "3",
+                        "desc": "Introduces students to the field of intercultural communication, offering a balanced mix of competency development and academic understanding of the subject area. Restriction: International Accelerator Program (Undergraduate) or American Collegiate at American University (Undergraduate).",
+                        "department": "Global And Immersive Studies",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PERF-110",
+                        "name": "Understanding Music Fa1",
+                        "credits": "3",
+                        "desc": "This course introduces the richness and variety of musical language through listening and comprehension. The course explores fundamentals of acoustics, melody, harmony, form, texture, and color in a wide range of music from ancient and global (non-Western) music to European concert music, jazz, blues, and an eclectic array of popular music. AU Core Habits of Mind: Creative-Aesthetic Inquiry. Note: The course includes required attendance at live concerts.",
+                        "department": "Performing Arts",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PERF-114",
+                        "name": "Class Voice",
+                        "credits": "1",
+                        "desc": "Basic principles of singing. Prepares the beginning student for private study and more effective choral singing, etc. Repeatable for credit.",
+                        "department": "Performing Arts",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2750",
+                        "name": "Private Music Lessons",
+                        "note": "--",
+                        "desc": "Private applied music lessons provide weekly instruction in instrumental and vocal performance. The goal of this class is to develop the student\u2019s musical ability relative to capacity and interest. A supplementary lesson fee is charged. Credit Hours: 1 (course can be repeated multiple times for credit).",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS-110",
+                        "name": "Principles Of Physics I Fa5",
+                        "credits": "4",
+                        "desc": "The first course in a calculus-based, two-semester sequence in general physics, including weekly laboratory. Includes the study of motion and forces, Newton\u2019s Laws, momentum, energy, gravitation, fluids, properties of matter, and thermodynamics. AU Core Habits of Mind: Natural-Scientific Inquiry. Note: PHYS-110/PHYS- 210 generally satisfy requirements of medical and dental schools.",
+                        "department": "Physics",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SIS-105G",
+                        "name": "World Politics 3:1",
+                        "credits": "3",
+                        "desc": "Patterns of conflict and cooperation in a rapidly-changing world. The primary focus is on concepts and theories which provide a framework for analyzing and understanding contemporary issues. The course examines the behavior of states and other international actors, seeks to explain foreign policies, and identifies the main characteristics of interaction among states.",
+                        "department": "International Service",
+                        "catalog": "American University 2006-2007"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SISU-130",
+                        "name": "Intercultural Understanding Fa3",
+                        "credits": "3",
+                        "desc": "Introduces students to the field of intercultural communication, offering a balanced mix of competency development and academic understanding of the subject area.",
+                        "department": "International Service Undergraduate",
+                        "catalog": "American University 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SOCY-110",
+                        "name": "Views From The Global South Fa3",
+                        "credits": "3",
+                        "desc": "Approaches the Global South through study of the works of its own intellectuals and political leaders. Reflections on the development of the \u201cThird World\u201d and critical engagement with the dilemmas of and contemporary issues facing the Global South. The course links texts to their context.",
+                        "department": "Sociology",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPEX-130",
+                        "name": "Intercultural Understanding",
+                        "credits": "3",
+                        "desc": "Introduces students to the field of intercultural communication, offering a balanced mix of competency development and academic understanding of the subject area.",
+                        "department": "Professional And Extended Studies",
+                        "catalog": "American University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "STAT-202",
+                        "name": "Basic Statistics",
+                        "credits": "4",
+                        "desc": "Data presentation, display, and summary, averages, dispersion, simple linear regression, and correlation, probability, sampling distributions, confidence intervals, and tests of significance. Use of statistical software both to analyze real data and to demonstrate and explore concepts. AU Core Foundation: Quantitative Literacy I. Restriction: Registration not allowed in both STAT-202, and STAT-203 or STAT-204. Note: Registration eligibility determined by prerequisite coursework or appropriate score on the Mathematics Placement test. Students may not receive credit toward a degree for both STAT-202, and STAT-203 or STAT-204.",
+                        "department": "Statistics",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "STAT-204",
+                        "name": "Introduction To Business Statistics",
+                        "credits": "4",
+                        "desc": "Statistical concepts and methods used in business decision making. Topics include probability rules, discrete and continuous distributions, descriptive and graphical statistics, estimation, confidence intervals, hypothesis testing, analysis of variance, regression, and applications of MS Excel data analysis tools to economic and business data. AU Core Foundation: Quantitative Literacy I. Restriction: Registration not allowed in both STAT-204, and STAT-202 or STAT-203. Note: Registration eligibility determined by prerequisite coursework or appropriate score on the Mathematics Placement test. Students may not receive credit toward a degree for both STAT-204, and STAT-202 or STAT-203.",
+                        "department": "Statistics",
+                        "catalog": "American University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "WRTG-100",
+                        "name": "College Writing",
+                        "credits": "3",
+                        "desc": "Develops students\u2019 skills in reading with understanding, summarizing and synthesizing information accurately, and writing correct, reasoned prose. AU Core Foundation: Written Communication and Information Literacy I. Note: Completion of WRTG-100 and WRTG- 101 with grades of C or better fulfills the College Writing Requirement.",
+                        "department": "Writing",
+                        "catalog": "American University 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "--",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "WRTG-101",
+                        "name": "College Writing Seminar",
+                        "credits": "3",
+                        "desc": "Continues the work begun in WRTG-100, stressing the student\u2019s abilities to construct extended arguments, to synthesize diverse materials, and to pursue library research. AU Core Foundation: Written Communication and Information Literacy I. Note: Completion of WRTG-100 and WRTG-101 with grades of C or better fulfills the College Writing Requirement.",
+                        "department": "Writing",
+                        "catalog": "American University 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2110",
+                        "name": "Strategic Writing",
+                        "note": "--",
+                        "desc": "This course is designed to assist students in becoming more self-possessed and versatile writers. The course offers instruction in linguistic, rhetorical, and sociocultural concepts through its overarching focus on language: how it works, where it falls short, and how to harness it for specific purposes. Critical thinking and composing are conceptualized as processes, which includes the creation, development, organization, and revision of ideas and arguments. Students will complete a series of writing assignments in order to participate in contemporary debates occurring in both public and academic contexts.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "American University In Cairo": {
+        "city": "Cairo",
+        "state": "",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CORE 1010",
+                        "name": "Freshman Seminar",
+                        "credits": "3",
+                        "desc": "This course is a cluster of distinct courses (topics may vary semester to semester) with shared goals and learning outcomes. All sections of CORE 1010 aim to introduce students to university-level academic study and the meaning and values of a liberal arts education. Through varied section topics, readings, films and other media, discussions and assignments, CORE 1010 will help students adapt and succeed in today's university environment, as they develop their skills in critical thinking, information literacy, teamwork, and effective reading and communication. Courses focus on issues of lasting value and current relevance for students, and address questions such as \"Who am I?\" \"What do citizenship and civic responsibility mean?\" \"How do I know what is true?\" and \"What is a good life?\" When Offered: Summer only for students repeating the course.",
+                        "department": "Core",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCE 1001",
+                        "name": "Fundamentals Of Computing I",
+                        "credits": "3",
+                        "desc": "Introduces fundamental concepts and principles of computing systems, grand challenges in computing, analyzing and formulating solutions to multidisciplinary problems, basic algorithms for solving problems, as well as designing, implementing, and testing programs using one prime language and other supplementary languages. Using data and procedural abstractions as basic design principles, students learn how to design and implement basic data structures such as stacks and queues, and to apply various algorithms for operating on them. Also covers some numbering systems, data representation, and basic computer organization. The course uses the imperative and object-oriented paradigms.",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCE 1101",
+                        "name": "Fundamentals Of Computing II",
+                        "credits": "3",
+                        "desc": "Introduces concepts and techniques for developing larger software systems. The object-oriented paradigm is further utilized using a modern programming language such as Java or C++. Covers topics that include classes and objects, inheritance, encapsulation, polymorphism, more algorithms, basic design patterns, generics, testing. Also covers the design and implementation of data structures including but not limited to lists, trees, and graphs.",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1010",
+                        "name": "Introduction To Computer Programming",
+                        "note": "--",
+                        "desc": "Computer programming is a way of thinking. A successful programmer needs to take a word problem, generate a pseudocode algorithm, and convert it to the syntax of a specific programming language. This course is an alternative to CSCI 1100 and is intended for students who want an introduction to this programming process but do not intend to do further course work in programming or computer science. Emphasis will be on the generation of the algorithms and problem solving. This course is offered in Python, an approachable language with relatively low syntax complexity, which allows students to concentrate on the fundamentals without becoming sidetracked by language specifics. It also affords students a tool for creating useful personal applications or prototypes in the future. Students cannot get credit for this course if they have already taken any other CSCI course. (Fall 2019 is the final offering of this course.)",
+                        "department": "Computer Science (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2019-2020"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCE 2201",
+                        "name": "Data Structures And Algorithms",
+                        "credits": "3",
+                        "desc": "The role of data structures in software engineering and algorithm design. Abstract data types and classes: concepts, data models, and levels of abstraction. Recursion. Analysis of algorithms. Elementary data structures and their implementation: arrays, strings, structures and files. Specification, implementation and application of stacks, queues, lists, trees and graphs. Searching and sorting algorithms.",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCE 2301",
+                        "name": "Digital Design I",
+                        "credits": "3",
+                        "desc": "Basic logic gates, Boolean algebra, logic minimization algorithms, modular design of combinational circuits, introduction to computer arithmetic, memory elements, sequential circuits, Finite State Machines analysis and design, top-down digital systems design approach, timing aspects of digital systems. Exposure to modern Electronic Design Automation tools, Hardware Description Languages and programmable logic devices. The laboratory component will cover experiments in digital electronics.",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    },
+                    {
+                        "id": "CSCE 2302",
+                        "name": "Digital Design I Lab",
+                        "credits": "1",
+                        "desc": "The laboratory will cover experiments in digital design and experiments illustrating material of course CSCE 2301 .",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECSE 2610",
+                        "name": "Computer Components And Operations",
+                        "note": "--",
+                        "desc": "Design-oriented introduction to computer components and operations. Standard codes, number systems, base conversions, and computer arithmetic. Boolean algebra, minimization and synthesis techniques for combinational and sequential logic. Races, hazards, and asynchronous behavior. Registers, arithmetic logic units, memory structure, buses, and control units. Machine language programming, instruction fetch and execution, input-output devices, interrupts, and microprogram sequencers. Software and hardware tools. Contact, Lecture or Lab Hours: 6 contact hours.",
+                        "department": "Electrical, Computer, Systems Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCE 2303",
+                        "name": "Computer Organization And Assembly Language Programming",
+                        "credits": "3",
+                        "desc": "Different components of a modern computer system are studied; how they function, how to program them, and how to utilize their communication interfaces to make them work in harmony. The course tackles hardware interface programming techniques that provide an underlying infrastructure for operating system policies to utilize. Assembly language programming is thoroughly covered as the primary means to develop hands-on knowledge controlling major components of modern computer systems, namely CPU, Memory, and I/O devices. Course has programming hands-on in, but not limited to, the following: ISA instructions, RISC, CISC, processor modes, memory hierarchy, virtual memory, interrupts, I/O devices (memory and port mapped), DMA channels, PCI devices, and timers.",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2500",
+                        "name": "Computer Organization",
+                        "note": "--",
+                        "desc": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCE 3103",
+                        "name": "Object Oriented Programming",
+                        "credits": "3",
+                        "desc": "In-depth study of a typical object-oriented programming language (C++) from a software engineering perspective, with emphasis on features supporting the development of large, efficient and reusable object-oriented applications. Principles and practice of three software development paradigms: developing classes from scratch, reuse of existing classes, incremental extension of frameworks. Encapsulation, templates, polymorphism, dynamic binding and virtual methods, operator's overloading, complex associations, dynamic aggregation, inheritance (single and multiple), exception handling, the standard template library. Introduction to UML for describing program designs.",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 4430",
+                        "name": "Programming Languages",
+                        "note": "--",
+                        "desc": "This course is a study of the important concepts found in current programming languages. Topics include language processing (lexical analysis, parsing, typechecking, interpretation and compilation, run-time environment), the role of abstraction (data abstraction and control abstraction), programming paradigms (procedural, functional, object-oriented, logic-oriented, generic), and formal language definition.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCE 3303",
+                        "name": "Fundamental Microelectronics",
+                        "credits": "3",
+                        "desc": "The course covers topics related to electronic devices and their applications such as diodes, transistors (BJT and MOSFET), and operational amplifiers with an emphasis on digital CMOS circuits design, simulation and analysis.",
+                        "department": "Computer Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECSE 2210",
+                        "name": "Microelectronics Technology",
+                        "note": "--",
+                        "desc": "An introductory survey of microelectronics technology emphasizing physical properties of semiconductors, device and circuit fabrication, semiconductor device operation. Topics include semiconductor crystals; energy bands; electrons and holes; dopant impurities; fabrication and operation of diodes, bipolar junction transistors, and field-effect transistors. Contact, Lecture or Lab Hours: 4.",
+                        "department": "Electrical, Computer, Systems Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 2011",
+                        "name": "Introduction To Microeconomics",
+                        "credits": "3",
+                        "desc": "Fundamental economic concepts and methods of economic analysis with emphasis on microeconomic issues. Analyzes basic principles of market economics including resource allocation, opportunity cost, core elements of demand and supply, market equilibrium, elasticity, pricing, market structure, and trade exchange. Labor and capital markets, market efficiency, regulation, and social welfare implications.",
+                        "department": "Economics",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 1001",
+                        "name": "Introduction To Engineering",
+                        "credits": "1",
+                        "desc": "History of engineering. Engineering fields of specialization and curricula. The engineering profession: team work, professionalism, ethics, licensing, communication and societal obligations. Engineering support personnel and activities. Engineering approach to problem solving. Examples of major engineering projects. Course project. Notes: The course must be taken in the year of admission to the engineering program.",
+                        "department": "Engineering",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 1005",
+                        "name": "Descriptive Geometry And Engineering Drawing",
+                        "credits": "2",
+                        "desc": "Introductory descriptive geometry. Orthographic and pictorial drawing. Sectional views, auxiliary views, and conventions. Dimensioning. Free hand sketching, and both manual and computer-aided drafting. Hours One class period and one three-hour lab period.",
+                        "department": "Engineering",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ENGR 1400",
+                        "name": "Engineering Communications",
+                        "note": "--",
+                        "desc": "This is an undergraduate introductory course covering basic concepts and skills in engineering communication. Topics include technical writing, project planning and proposal writing, data visualization, system modeling and simulation, engineering graphics and CAD, and effective uses of software tools. Note: This course is recommended as an alternative to ENGR 1200 for the following disciplines only: biomedical, chemical, industrial and systems, materials, electrical and computer systems, and nuclear engineering. Contact, Lecture or Lab Hours: 3 contact hours.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 2102",
+                        "name": "Engineering Mechanics I (statics)",
+                        "credits": "3",
+                        "desc": "Fundamentals of mechanics. Equilibrium of practices, forces in space, equivalent systems, equilibrium of rigid bodies, distributed forces, center of gravity, internal actions, analysis of simple structures and machine parts. Friction. Moment of inertia.",
+                        "department": "Engineering",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1100",
+                        "name": "Introduction To Engineering Analysis",
+                        "note": "--",
+                        "desc": "An integrated development of linear algebra and statics emphasizing engineering applications and also incorporating computer exercises involving matrix techniques and calculations using available software packages.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MACT 1121",
+                        "name": "Calculus I",
+                        "credits": "3",
+                        "desc": "Limits of one variable functions. Continuity and differentiability. Implicit differentiation. Differentiation of trigonometric, exponential, and logarithmic functions. Higher derivatives. Applications of derivatives: related rates, linear approximations, the Mean Value Theorem, l'Hopital's Rule, maxima and minima, curve sketching and optimization problems. Definite and indefinite integrals, Riemann Sums, the Fundamental Theorem of Calculus.",
+                        "department": "Mathematics And Actuarial Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    },
+                    {
+                        "id": "MACT 1122",
+                        "name": "Calculus II",
+                        "credits": "3",
+                        "desc": "The calculus of inverse trigonometric and hyperbolic functions. Applications of the definite integral for finding areas and volumes of revolutions. Techniques of integration. Improper integrals. Sequences and series: Convergence tests, power series, Taylor series with applications. Vectors and the three-dimensional space: Dot and cross products, lines and planes.",
+                        "department": "Mathematics And Actuarial Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MACT 2123",
+                        "name": "Calculus III",
+                        "credits": "3",
+                        "desc": "Vector valued functions and space curves. Functions of several variables: Limits and continuity, partial derivatives, directional derivatives, maximum and minimum values, Lagrange multipliers. Multiple integrals: Double and triple integrals, change of variables in multiple integrals, including polar, cylindrical and spherical coordinates. Vector calculus: vector fields, The Fundamental Theorem of Line Integrals, Green's Theorem, surface integrals, Stokes' and Gauss's Theorems.",
+                        "department": "Mathematics And Actuarial Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MACT 2141",
+                        "name": "Differential Equations",
+                        "credits": "3",
+                        "desc": "First-order differential equations and applications. Higher-order differential equations. Applications of second-order linear differential equations with constant coefficients. Systems of linear differential equations. Series solutions. Laplace transform.",
+                        "department": "Mathematics And Actuarial Science",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 1011",
+                        "name": "Physics 1: Classical Mechanics, Sound And Heat",
+                        "credits": "3",
+                        "desc": "An introduction to classical mechanics covering vectors, applications of Newton's laws, conservation laws and forces, motion in a plane, circular motion, equilibrium and elasticity, rotational motion, simple harmonic motion, energy and power; mechanical and sound waves, temperature, heat and the first law of thermodynamics. Notes: Thanaweyya Amma Math or Science, German Abitur, French Baccalaureate, IGCSE O-Level Physics, International Baccalaureate, Canadian certificates, or American Diploma (with SATII in MATH or PHYS) students are allowed to take MACT 1121 concurrently with PHYS 1011.",
+                        "department": "Physics",
+                        "catalog": "American University in Cairo 2021-2022"
+                    },
+                    {
+                        "id": "PHYS 1012",
+                        "name": "General Physics Laboratory I",
+                        "credits": "1",
+                        "desc": "The fundamental quantities of physics are measured through selected experiments in mechanics, heat, and sound. Data are summarized, errors are estimated, and reports are presented. Hours: One three-hour laboratory period.",
+                        "department": "Physics",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 1021",
+                        "name": "Physics 2: Electricity And Magnetism",
+                        "credits": "3",
+                        "desc": "An introduction to electricity and magnetism covering the electric field, Gauss's law, electric potential, capacitance, dc circuits, magnetic fields, Faraday's and Ampere's laws, time-varying fields, Maxwell's equations in integral form and alternating currents.",
+                        "department": "Physics",
+                        "catalog": "American University in Cairo 2021-2022"
+                    },
+                    {
+                        "id": "PHYS 1022",
+                        "name": "General Physics Laboratory II",
+                        "credits": "1",
+                        "desc": "The fundamental quantities of physics are measured through selected experiments in electricity, magnetism, and optics. Data are summarized, errors are estimated, and reports are presented. Hours: One three-hour laboratory period.",
+                        "department": "Physics",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 2211",
+                        "name": "Introduction To Electronics",
+                        "credits": "3",
+                        "desc": "Foundation of circuit analysis, AC theory, introduction to semiconductor devices, amplifiers, feedback oscillators. Notes: For computer science and computer engineering students, the course should be taken concurrently with PHYS 2213 instead of PHYS 2212",
+                        "department": "Physics",
+                        "catalog": "American University in Cairo 2021-2022"
+                    },
+                    {
+                        "id": "PHYS 2213",
+                        "name": "Electronics Lab For Computer Scientists & Computer Engineers",
+                        "credits": "1",
+                        "desc": "Basic experiments in electronics for the Computer Science & Engineering majors.",
+                        "department": "Physics",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECSE 2050",
+                        "name": "Introduction To Electronics",
+                        "note": "--",
+                        "desc": "The physics and operation of semiconductor diodes, bipolar junction transistors, and field-effect transistors in elementary analog circuits. Non-ideal operational amplifier characteristics. Amplifier biasing, small-signal analysis, and frequency response. Elementary bipolar and MOSFET digital circuits. Contact, Lecture or Lab Hours: 6 contact hours.",
+                        "department": "Electrical, Computer, Systems Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "RHET 1010",
+                        "name": "Freshman Writing",
+                        "credits": "3",
+                        "desc": "RHET 1010 is designed to help first year students improve their analytical and argumentative skills. This involves reading texts analytically and critically within various disciplines, considering the rhetorical situations in which they are working, organizing and supporting ideas to make a convincing argument while maintaining their voice as writers. This course also provides training in the use and integration of sources, library and online research and fosters a more discriminating attitude to academically acceptable sources. Ultimately, the course provides opportunities for students to develop effective and coherent communication skills. When Offered: Summer only for students repeating the course.",
+                        "department": "Rhetoric",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "RHET 1020",
+                        "name": "Research Writing",
+                        "credits": "3",
+                        "desc": "RHET 1020 introduces students to the process of research and the different cultures of inquiry in the disciplines. Students explore various types of research questions, making decisions about the most appropriate approach to collecting evidence, conducting analysis, organizing and presenting their work to particular discourse communities. Through this critical approach, students develop a well-informed and insightful research paper which demonstrates understanding of the processes and conventions of writing in academic contexts. Repeatable: Yes Notes: When registering for RHET 1020, if a student has not yet completed LALT 1020, they will need to concurrently register for LALT 1020. If a student fails to do so, then they will have a registration hold placed.",
+                        "department": "Rhetoric",
+                        "catalog": "American University in Cairo 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "RHET 2220",
+                        "name": "Public Speaking",
+                        "credits": "3",
+                        "desc": "Public Speaking is a course designed to provide both a practical introduction to the fundamental principles of speaking in public and a forum for practicing public speaking skills. Through a variety of instructional strategies - discussion, class workshops, readings, lectures, and presentations- students learn the processes by which effective speeches are conceived, prepared, and delivered.",
+                        "department": "Rhetoric",
+                        "catalog": "American University in Cairo 2016-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "American University Of Beirut": {
+        "city": "Beirut",
+        "state": "",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CIVE 201",
+                        "name": "Engineering Drawings And Tools",
+                        "credits": "3",
+                        "desc": "An introductory course that aims to introduce students to the basics of engineering drawing and mapping through the use of Autodesk\u2019s Revit and ESRI\u2019s ArcGIS software packages.",
+                        "department": "Civil And Environmental Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ENGR 1200",
+                        "name": "Engineering Graphics And Cad",
+                        "note": "--",
+                        "desc": "An introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic and isometric free-hand sketching, and computergenerated design documentation. Contact, Lecture or Lab Hours: 3 contact hours.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIVE 210",
+                        "name": "Statics",
+                        "credits": "3",
+                        "desc": "A course outlining vector mechanics of forces and moments; free-body diagrams; equilibrium of particles and rigid bodies in two and three dimensions; plane and space trusses; frames and machines; axial, shear, moment diagrams of beams and simple frames; friction; center of gravity and centroid; area moment of inertia; computer applications.",
+                        "department": "Civil And Environmental Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1100",
+                        "name": "Introduction To Engineering Analysis",
+                        "note": "--",
+                        "desc": "An integrated development of linear algebra and statics emphasizing engineering applications and also incorporating computer exercises involving matrix techniques and calculations using available software packages.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIVE 251",
+                        "name": "Environmental Chemistry",
+                        "credits": "3",
+                        "desc": "A course that introduces the basic principles of environmental chemistry and discusses example applications from the natural and engineered worlds.",
+                        "department": "Civil And Environmental Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENVE 2110",
+                        "name": "Introduction To Environmental Engineering",
+                        "note": "--",
+                        "desc": "Classes of pollutants and standards that define water, air and soil quality. Risk concepts and regulations to protect public health and ecosystems. Application of physics, chemistry and biology to describe and assess environmental systems. Application of mass and energy balances to design and analyze processes that purify water, air and land. Selected topics in water resources and management of solid and hazardous wastes.",
+                        "department": "Environmental Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIVE 301",
+                        "name": "Surveying",
+                        "credits": "2",
+                        "desc": "A course on the theory of measurements and errors; linear measurements; surveying instruments; leveling; angles, bearings and azimuths; stadia measurements; traversing\u2013field aspects; traverse computations and adjustment; topographic surveying; triangulation.",
+                        "department": "Civil And Environmental Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CIVL 4000",
+                        "name": "Civil Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Civil Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIVE 310",
+                        "name": "Mechanics Of Materials",
+                        "credits": "3",
+                        "desc": "A course on stresses, strains and stress-strain relationships; temperature; axial bars in tension and compression; torsion of circular bars; bending and shear stresses in beams; combined stresses; stress transformation and Mohr\u2019s circle; and computer spreadsheet.",
+                        "department": "Civil And Environmental Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2530",
+                        "name": "Strength Of Materials",
+                        "note": "--",
+                        "desc": "Concept of stress and strain, generalized Hooke\u2019s law, axial load, torsion, pure bending, transverse loading, transformation of stress and strain components in 2D, design of beams and shafts for strength, deflection of beams, work and energy, columns.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIVE 330",
+                        "name": "Engineering Geology",
+                        "credits": "3",
+                        "desc": "A course that discusses the composition and properties of rocks; geologic processes; geologic hazards; geologic structure and engineering consequences; terrain analysis and geologic mapping; interpretation and use of geologic maps; application of geology to engineering practice.",
+                        "department": "Civil And Environmental Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CIVL 2630",
+                        "name": "Introduction To Geotechnical Engineering",
+                        "note": "--",
+                        "desc": "The application of the basic laws and phenomena of science to particulate matter, specifically soils. Basic physical and mechanical structural characteristics of soil. Equilibrium and movement of water. Flow through porous media. Effective stress. Stress-strain-time relations. Basic laboratory work as related to practice. Contact, Lecture or Lab Hours: 6 contact hours.",
+                        "department": "Civil Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIVE 370",
+                        "name": "Construction Materials And Technologies",
+                        "credits": "3",
+                        "desc": "An introductory course on the composition and properties of engineering materials such as asphalt, cement, concrete, geological materials, steel, polymers and wood. Handson laboratory experiments and demonstrations are part of the course and are designed to familiarize students with materials, testing methods, equipment and standards.",
+                        "department": "Civil And Environmental Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CIVL 4270",
+                        "name": "Construction Management",
+                        "note": "--",
+                        "desc": "Application of engineering principles to planning construction operations. Network scheduling (CPM, PERT), resource allocation. Cost engineering and control.",
+                        "department": "Civil Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 211",
+                        "name": "Elementary Microeconomic Theory",
+                        "credits": "3",
+                        "desc": "General principles of microeconomics; includes elements of supply and demand, consumer behavior, costs, market structures, and income distribution. Students cannot receive credit for both ECON 211 and AGSC 212; however, the courses will not be treated as equivalent. Students cannot receive credit for ECON 211, AGSC 212 and HMPD 251.",
+                        "department": "Economics",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    },
+                    {
+                        "id": "ECON 212",
+                        "name": "Elementary Macroeconomic Theory",
+                        "credits": "3",
+                        "desc": "General principles of macroeconomics; aggregate supply and demand framework is used to analyze overall movements in prices and national output, inflation and unemployment, and monetary and fiscal policies. Students cannot receive credit for both ECON 203 and ECON 212.",
+                        "department": "Economics",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EECE 231",
+                        "name": "Introduction To Computation And Programming With Applications",
+                        "credits": "3",
+                        "desc": "This is an introductory programming course that uses the Python programming language, with balanced emphasis on programming concepts, elementary algorithms, and applications. Topics include data types, selection, repetition, lists, tuples, strings, dictionaries, functions, recursion, sorting and searching algorithms, files, plotting and data visualization, introduction to object oriented programming, testing and debugging, elementary numerical analysis methods, symbolic computation, and introduction to Matlab. The course has weekly laboratory assignments. This course is not considered equivalent to EECE 230; hence, students who have taken this course and wish to transfer to ECE will need to take EECE 230.",
+                        "department": "Electrical And Computer Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1190",
+                        "name": "Beginning Programming For Engineers",
+                        "note": "--",
+                        "desc": "This course teaches elementary programming concepts using the MATLAB environment for engineering students with little or no prior programming experience. Concepts include variables, looping, and function calls. Students cannot get credit for CSCI 1190 after earning credit for CSCI 1100 or any higher-level CSCI course.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ENGR 2000",
+                        "name": "Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INDE 410",
+                        "name": "Engineering Ethics",
+                        "credits": "3",
+                        "desc": "A course on engineering ethics covering responsibility in engineering; framing the moral problem; organizing principles of ethical theories; computers, individual morality and social policy; honesty, integrity and reliability; safety, risk and liability in engineering; engineers as employees; engineers and the environment; international engineering professionalism; and future challenges. Formerly ENMG 504.",
+                        "department": "Industrial Engineering",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 4010",
+                        "name": "Professional Development: Leadership Competencies",
+                        "note": "--",
+                        "desc": "Students will study issues associated with working in teams in a modern work environment. Various styles of leadership, the definitions of power and empowerment and their applications in industry and team settings will be studied. Additionally, other topics to be explored include vision, values and attitudes, and organizational culture. The course format will include small and large group discussions, case studies, experiential exercises, and participation from industry guests.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "STSO 4100",
+                        "name": "Professional Development 2 \u2013technical Issues And Solutions",
+                        "note": "--",
+                        "desc": "This course focuses on increasing students\u2019 knowledge concerning the impact of non-technical issues on the viability of technical (engineering) designs and solutions. The non-technical issues to be considered include the cognitive and physical strengths and limitations of people in the chain spanning from product/equipment designers/manufacturers to end users, as well as economic, environmental, cultural, political, ethical, health and safety, and societal influences. During the course, students will read and discuss articles and case studies in which the technical solution pursued did not have the desired effect, or led to disaster. Possible explanations include a failure to take into account the environmental, economic, socio-cultural, and/or political issues associated with the technology\u2019s ultimate usage.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "STAT 230",
+                        "name": "Introduction To Probability And Random Variables",
+                        "credits": "3",
+                        "desc": "Display of data, properties of probability, methods of enumeration, conditional probability and independent events; univariate and bivariate distributions corresponding to both discrete and continuous variables; mixture of distributions; covariance and correlation, independent random samples and the central limit theorem; basics of point and interval estimation and hypothesis testing. Students who successfully finish STAT 230 will not receive credit for STAT 201, STAT 210, STAT 233, or ECON 213.",
+                        "department": "Statistics",
+                        "catalog": "American University of Beirut Undergraduate 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2600",
+                        "name": "Modeling And Analysis Of Uncertainty",
+                        "note": "--",
+                        "desc": "Appreciation and understanding of uncertainties and the conditions under which they occur, within the context of the engineering problem-solving pedagogy of measurements, models, validation, and analysis. Problems and concerns in obtaining measurements; tabular and graphical organization of data to minimize misinformation and maximize information; and development and evaluation of models. Concepts will be supported with computer demonstration. Applications to problems in engineering are emphasized.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "American University Of Paris": {
+        "city": "Paris",
+        "state": "",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AH2013",
+                        "name": "Renaissance Art & Architecture",
+                        "credits": "4",
+                        "desc": "Surveys notable developments in painting, sculpture, and architecture in Italy and in Northern Europe (late 13th-16th centuries). Emphasizes the origins of the Renaissance and the basic stylistic evolution from Early to High Renaissance and Mannerism. Explores the ramifications of the Italian Renaissance mode as it came into contact with other historical and cultural traditions in Northern Europe. AH 1000 and AH 1020 are strongly recommended as prerequisites. Discipline: AH (Art History). Type: CCI. Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "Art History",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AN1002",
+                        "name": "Socio-cultural Anthropology",
+                        "credits": "4",
+                        "desc": "Sociocultural anthropology is the comparative study of human societies and cultures. This course is designed to introduce students to central areas of anthropological inquiry, a range of key theoretical perspectives and the discipline\u2019s holistic approach. Through field-based research projects, students will also gain familiarity with the discipline\u2019s qualitative research methods (especially participant observation). While students will encounter the works of key historical figures in the discipline, they will also discover current debates on globalization and transnationalism. Finally, this course also strives to cultivate students\u2019 ability to reflect critically on their own identities and cultures, thereby gaining a greater understanding and appreciation for diversity and an improved set of intercultural communication skills. \u2022 Offered in Fall 2021 as SOCIO-CULTURAL ANTHROPOLOGY (AN1002A) \u2022 Offered in Fall 2021 as SOCIO-CULTURAL ANTHROPOLOGY (AN1002B) Discipline: AN (Anthropology). Type: CCI. Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "Anthropology",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN1010",
+                        "name": "College Writing",
+                        "credits": "4",
+                        "desc": "Taught through thematically-linked works of literature from the Ancient world to the present day. Stresses expository writing, accurate expression, and logical organization of ideas in academic writing. Recent themes include: Childhood, Friendship from Aristotle to Derrida, Social Organization and Alienation, Monstrosity, and Music and Literature. This course satisfies only 4 credits of the University's English requirement. \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010A) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010B) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010C) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010D) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010E) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010F) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010G) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010H) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010I) \u2022 Offered in Fall 2021 as COLLEGE WRITING (EN1010J) Discipline: EN (English). Type: Regular. Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "English",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN2020",
+                        "name": "Writing & Criticism",
+                        "credits": "4",
+                        "desc": "A series of topic-centered courses refining the skills of academic essay writing, studying a wide range of ideas as expressed in diverse literary genres and periods. Introduces the analysis of literary texts and gives training in the writing of critical essays and research papers. Recent topics include: Utopia and Anti-Utopia, City as Metaphor, Portraits of Women, Culture Conflict, and Labyrinths. \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020A) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020B) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020C) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020E) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020F) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020G) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020H) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020I) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020J) \u2022 Offered in Fall 2021 as WRITING & CRITICISM (EN2020K) Pages \u2022 1 \u2022 2 \u2022 next \u203a \u2022 last \u00bb Discipline: EN (English). Type: CCE. Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "English",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FM3069",
+                        "name": "The Aesthetics Of Crime Fiction",
+                        "credits": "4",
+                        "desc": "Traumatic reaction in the aftermath of WWI, the rapid evolution of cinema and photography, emerging trends of psychoanalytic thought, all contributed to a disturbing, often volatile, reexamination of the aesthetics of literature in the wake of a culture of ruin characterizing early 20th century Europe. Trends in mass consumption, such as the popularity of crime fiction and its existential outgrowth film noir, are largely rooted in this struggle to come to terms with cultural transitions taking place between the two wars. This course will examine the origins and aesthetics of crime fiction and film, notably, the evolution of film noir and the s\u00e9rie noire, and other developments in Europe and America just before and after WWII. Students will analyze some of the canonical writers whose works influenced a second generation of crime fiction writers as well as the works of film directors who presided over these crucial moments of transition. Discipline: FM (Film). Type: Regular. Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "Film",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FR1100",
+                        "name": "French And Culture I",
+                        "credits": "4",
+                        "desc": "This course is an introduction to French and is intended to help students acquire the basic elements of spoken and written French. Students will learn how to express themselves in everyday life situations. The students\u2019 basic needs for linguistic and cultural information will be the main focus of this course. In class, work will be supplemented by multimedia activities and real-life situations in the city of Paris. \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100A) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100B) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100C) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100D) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100E) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100F) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100G) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100H) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100I) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE I (FR1100J) Discipline: FR (French). Type: Regular. Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "French",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FR1200",
+                        "name": "French And Culture II",
+                        "credits": "4",
+                        "desc": "This course is a second semester Elementary French course, a continuation of level FR 1010 with emphasis on acquiring basic level of proficiency in the language and understanding the culture of France and the Francophone world. This course will enable students to improve their comprehension skills through the use of authentic audio and video material and to acquire vocabulary to face situations in their real life in Paris. The four language skills (listening, speaking, reading and writing) are reinforced and special emphasis is placed on pronunciation.In-class work will be supplemented by multimedia activities and real-life situations in the City of Paris. \u2022 Offered in Fall 2021 as FRENCH AND CULTURE II (FR1200A) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE II (FR1200B) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE II (FR1200C) \u2022 Offered in Fall 2021 as FRENCH AND CULTURE II (FR1200E) Discipline: FR (French). Type: CCF Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "French",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PY2010",
+                        "name": "Introduction To Gender, Sexuality, And Society",
+                        "credits": "4",
+                        "desc": "Surveys major issues concerning gender and the science of psychology in an attempt to answer the question: why is there such a gender gap when women and men share more psychological similarities than differences? Topics include: developmental processes and gender; gender roles and stereotypes, biology and gender; cross-cultural perspectives of gender; social-cultural theories of gender; language and gender, emotions and gender, health and gender. Discipline: PY (Psychology). Type: CCI. Level: Undergraduate. Can be taken twice for credit? No.",
+                        "department": "Psychology",
+                        "catalog": "American University of Paris Course Descriptions 2021-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Anne Arundel Community College": {
+        "city": "Arnold",
+        "state": "MD",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AMS 100",
+                        "name": "Introduction To American Studies",
+                        "credits": "3",
+                        "desc": "This course meets the Arts & Humanities General Education Requirement. This course meets the Social and Behavioral Sciences General Education Requirement. Learn American culture and its many expressions. Investigate the various ways the American experience has been described from the earliest explorations to the present. Examine primary ideas and themes in the development of American culture through participation and observation. Note: Typically offered at MC and OL; fall, spring, and summer terms. One term.",
+                        "department": "American Studies",
+                        "catalog": "Anne Arundel Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "STSO 1000 (3 cr)",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 120",
+                        "name": "Digital Photography 1",
+                        "credits": "3",
+                        "desc": "Learn the technical and aesthetic properties of digital photography including camera operation, composition and lighting. Gain hands-on experience in photoediting software such as Photoshop and Lightroom. Explore the creative aspects of digital photography through assignments, lectures and demonstrations. Lab fee $60. Note: Students are required to provide a manual operation DSLR camera and an external storage device. Typically offered at MC; fall and spring terms. One term.",
+                        "department": "Art",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 125",
+                        "name": "Drawing 1",
+                        "credits": "3",
+                        "desc": "This course meets the Arts & Humanities General Education Requirement. Learn the essential principles, tools, terminologies and media used in drawing, as well as the critical thinking skills essential to understanding art. Study contour, gesture, modeling, value and perspective with emphasis on drawing from observation. Draw from the model and still life, and explore architecture through the study of perspective. No previous art instruction is necessary. Lab fee $20. Cross-listed: Also offered as ART 125H; credit is not given for both ART 125 and ART 125H. Note: Typically offered at MC, OF, and OL; fall, spring, and summer terms. Two hours of studio weekly; one term.",
+                        "department": "Art",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "--",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 154",
+                        "name": "3d Computer Graphics",
+                        "credits": "3",
+                        "desc": "Study the concepts, techniques, and technology commonly used in gaming, entertainment, architecture, and engineering to produce 3D computer graphics. Learn about modeling, texturing, lighting, rendering, animation, rigging, and dynamics through the creation of virtual 3D objects and images. Lab fee $30. Note: Typically offered at MC and OL; fall, spring, and summer terms. One term.",
+                        "department": "Art",
+                        "catalog": "Anne Arundel Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2230",
+                        "name": "3d Digital Modeling",
+                        "note": "ARTS 2230 (3cr)",
+                        "desc": "A foundational course in concepts and techniques in digital 3D, for animation, games, and digital art. This course focuses on methods and aesthetics in creating digital 3D objects, spaces, and characters, including modeling, texturing, and lighting, as preparation for further courses in the 3D Animation curriculum.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 170",
+                        "name": "Web Design 1",
+                        "credits": "3",
+                        "desc": "Study concepts integral to designing for the Web, including Web design history, XHTML, CSS, image preparation/optimization, site planning, FTP and design using industry standard applications. Explore the designer\u2019s role within professional, cultural and historical contexts. Lab fee $25. Note: Typically offered at MC, OF, and OL; fall, spring, and summer terms. One term.",
+                        "department": "Art",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 269",
+                        "name": "Responsive Web Design",
+                        "credits": "3",
+                        "desc": "Learn the process of planning, designing and building of responsive websites including project planning and wireframing, creation of mood boards and design comps. Create websites using responsive frameworks, incorporating multi-sized graphics and adaptive content, across desktop, tablet and mobile devices. Note: Typically offered at MC and OL; fall and spring terms. One term.",
+                        "department": "Art",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE 111",
+                        "name": "General Chemistry 1",
+                        "credits": "4",
+                        "desc": "This course meets the Biological and Physical Sciences General Education Requirement. Study atomic theory and periodic relationships, chemical bonding, gases, liquids and solids, stoichiometry, kinetic-molecular theory, solutions, oxidation-reduction, reactions of molecules and ions and nuclear chemistry. Laboratory work includes basic techniques and principles as well as quantitative measurements by titration, calorimetry and stoichiometry. Lab fee $35. Cross-listed: Also offered as CHE 111H; credit is not given for both CHE 111 and either of these courses: CHE 111H or CHE 115. Note: Typically offered at MC (lecture and lab), AM (lecture and lab), GB (lecture and lab), and OL (lecture only); fall, spring, and summer terms. One term.",
+                        "department": "Chemistry",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE 112",
+                        "name": "General Chemistry 2",
+                        "credits": "4",
+                        "desc": "This course meets the Biological and Physical Sciences General Education Requirement. Study the fundamental principles and quantitative aspects of chemical equilibrium, acid-base chemistry and acid-base equilibria, solubility equilibria, thermodynamics, electrochemistry, kinetics, basic concepts in nuclear chemistry and an introduction to organic chemistry nomenclature and structure. Laboratory work applies theoretical principles presented in the lecture and includes: data collection and analysis, basic laboratory techniques and use of chemical instrumentation; use of chemical literature and databases, use of a laboratory notebook to record data and results, methods of qualitative analysis, and written communication of results and conclusions in the form of lab reports. Lab fee $40. Cross-listed: Also offered as CHE 112H; credit is not given for both CHE 112 and CHE 112H. Note: It is recommended that students have completed General Chemistry 1 within 4 years prior to taking General Chemistry 2. Typically offered at MC; fall, spring, and summer terms. One term.",
+                        "department": "Chemistry",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHE 213",
+                        "name": "Organic Chemistry 1",
+                        "credits": "4",
+                        "desc": "Study the chemistry of hydrocarbons and their simple derivatives, emphasizing their structures, properties and mechanisms of reactions. Use general laboratory techniques and procedures in organic chemistry and learn modern methods of analysis, including gas chromatography. Lab fee $50. Cross-listed: Also offered as CHE 213H; credit is not given for both CHE 113 and CHE 213 or CHE 213 and CHE 213H. Note: Typically offered at MC; fall, spring, and summer terms. One term.",
+                        "department": "Chemistry",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2230",
+                        "name": "Organic Chemistry Laboratory I",
+                        "note": "--",
+                        "desc": "Laboratory experiments dealing with basic techniques used in the synthesis and characterization of organic compounds.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 2250",
+                        "name": "Organic Chemistry I",
+                        "note": "--",
+                        "desc": "Structure and chemical behavior of organic molecules with particular emphasis on reaction mechanisms as pathways for understanding their reactions. Stereochemistry, synthesis, and spectroscopic methods for the identification of organic functional groups are among the topics included.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 111",
+                        "name": "Fundamentals Of Oral Communication",
+                        "credits": "3",
+                        "desc": "This course meets the Arts & Humanities General Education Requirement. Learn about public speaking theory, and develop the skills needed to speak effectively in various situations. Learn about clear oral expression, informed critical thinking, research techniques, rhetorical modes and group communication. Write and deliver several speeches. Note: Eligibility for ENG 101 or ENG 101A is strongly recommended. Typically offered at MC, AM, GB, and OL; all terms. One term.",
+                        "department": "Communications",
+                        "catalog": "Anne Arundel Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2340",
+                        "name": "Speech Communication",
+                        "note": "WRIT 2340 (3 cr)",
+                        "desc": "This course focuses on developing public speaking skills and critical listening abilities. Guided by rhetorical theory, theories of persuasion, and argumentation theory, students prepare several oral presentations, engage in extemporaneous speaking exercises, and criticize other performances.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CTP 150",
+                        "name": "Computer Science 1",
+                        "credits": "4",
+                        "desc": "Use fundamental design principles and problem-solving techniques introduced in CTP 115 to develop computer algorithms. Implement algorithms as programs coded in Java, an object-oriented programming language. Learn the data types, control structures, classes, arrays, and I/O in the Java programming language. Learn recursion, inheritance, polymorphism, and exceptions. Emphasize style, documentation, solution robustness, and conformance with specifications throughout course work. Lab fee $25. Cross-listed: Also offered as CTP 150H. Credit is not given for both CTP 150 and CTP 150H. Note: CTP 115 prerequisite is waived for students that complete AP Computer Science. Credit is not given for both CTP 150 and CSI 161 or CSI 162. Typically offered MC and OL; fall, spring, and summer terms. One term. Formerly CSI 163 - Computer Science 1.",
+                        "department": "Computer Technologies",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 113",
+                        "name": "Consumer And Personal Finance",
+                        "credits": "3",
+                        "desc": "This course meets the Social and Behavioral Sciences General Education Requirement. Compare theories as they apply to consumer decision making. Apply theories to make practical choices regarding consumer saving, investing and budgeting. Discuss the use of credit, insurance, housing, career choice, retirement and estate planning. Crosslisted: Also offered as BPA 113; credit will not be given for ECO 113 and also BPA 113. One term.",
+                        "department": "Economics",
+                        "catalog": "Anne Arundel Community College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 211",
+                        "name": "Principles Of Economics 1",
+                        "credits": "3",
+                        "desc": "This course meets the Social and Behavioral Sciences General Education Requirement. Explore macroeconomic theory and policy. Identify and illustrate how markets work with the use of demand and supply. Discuss use of national income accounting (GDP) as a measure of the health of the economy. Examine unemployment, inflation and business cycles as they relate to the economy and possible policy prescriptions. Examine and calculate GDP to analyze and implement fiscal and monetary policies. Cross-listed: Also offered as ECO 211H; credit is not given for both ECO 211 and ECO 211H. Note: It is recommended that ECO 211 be taken prior to ECO 212. Typically offered at MC, AM, and OL; all terms. One term.",
+                        "department": "Economics",
+                        "catalog": "Anne Arundel Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
             }
         ]
     }
