@@ -51,13 +51,17 @@ def scrape_course_card(html_id, i, note):
         .text
     )
 
-    k = 1 + next(
-        i for i, v in enumerate(course_name_and_id) if bool(re.search(r"\d", v))
-    )
-    course_id = " ".join(course_name_and_id[0:k])
-    course_name = normalize_class_name(" ".join(course_name_and_id[k:]))
+    try:
+        k = 1 + next(
+            i for i, v in enumerate(course_name_and_id) if bool(re.search(r"\d", v))
+        )
+        course_id = " ".join(course_name_and_id[0:k])
+        course_name = normalize_class_name(" ".join(course_name_and_id[k:]))
+    except StopIteration:  # Handling for Not Transferrable
+        course_id = course_name_and_id[0]
+        course_name = normalize_class_name(" ".join(course_name_and_id[1:]))
+
     if not note:
-        course_credits = ""
         try:
             course_credits = (
                 next((x for x in trs if x.text.strip().startswith("Units:")))
@@ -65,7 +69,7 @@ def scrape_course_card(html_id, i, note):
                 .text.strip()
             )
         except:
-            pass
+            course_credits = ""
 
         return {
             "id": course_id,
@@ -89,7 +93,7 @@ def scrape_course_card(html_id, i, note):
 
 options = webdriver.FirefoxOptions()
 user_agent = UserAgent().random
-print(f"Using randomized user agent {user_agent}")
+print(f"Using randomized user agent {user_agent}", file=sys.stderr)
 options.add_argument("--headless")
 options.set_preference("general.useragent.override", user_agent)
 driver = webdriver.Firefox(options=options)
@@ -100,7 +104,7 @@ driver.get(
 num_pages = int(
     driver.find_element("id", "lblInstWithEQPaginationInfo").text.split()[-1]
 )
-print(f"{num_pages} pages detected")
+print(f"{num_pages} pages detected", file=sys.stderr)
 
 state = {"inst_pg": 1, "inst_idx": 0, "course_pg": 1, "course_idx": 0}
 institutions = {}
@@ -111,9 +115,9 @@ if os.path.isfile("transfer.json"):
     with open("transfer.json", "r") as transferjson:
         institutions = json.load(transferjson)
 
-print("Loaded state: ", end="")
-json.dump(state, sys.stdout, indent=4)
-print("")
+print("Loaded state: ", end="", file=sys.stderr)
+json.dump(state, sys.stderr, indent=4)
+print("", file=sys.stderr)
 
 try:
     while state["inst_pg"] <= num_pages:
@@ -129,8 +133,6 @@ try:
             wait(EC.staleness_of(page))
             sleep(random.uniform(16, 25))
             page = driver.find_element("id", f"gdvInstWithEQ")
-
-        print(driver.find_element("id", "lblInstWithEQPaginationInfo").text)
 
         inst_list_len = len(
             page.find_elements(
@@ -151,7 +153,6 @@ try:
             institution_link.click()
             wait(EC.staleness_of(institution_link))
 
-            course_pages_len = 1
             try:
                 course_pages_len = int(
                     driver.find_element(
@@ -159,18 +160,14 @@ try:
                     ).text.split()[-1]
                 )
             except NoSuchElementException:
-                pass
+                course_pages_len = 1
 
-            courses = []
             try:
                 courses = institutions[inst_name]["courses"]
             except:
-                pass
+                courses = []
 
             while state["course_pg"] <= course_pages_len:
-                print(
-                    f"Scraping {inst_name}, page {state['course_pg']}/{course_pages_len}"
-                )
                 course_links_len = len(
                     driver.find_element("id", "gdvCourseEQ").find_elements(
                         By.CSS_SELECTOR, "a[id^=gdvCourseEQ_btnViewCourseEQDetail_]"
@@ -216,6 +213,11 @@ try:
                                 ),
                             )
                         ]
+
+                        print(
+                            f"Scraped {inst_name} ({state['inst_pg']}/{num_pages}): {transfer['id']} {transfer['name']} ({state['course_pg']}/{course_pages_len})",
+                            file=sys.stderr,
+                        )
 
                         begin_date = driver.find_element(
                             "id", "lblBeginEffectiveDate"
@@ -264,12 +266,12 @@ try:
         state["inst_pg"] += 1
 
 except Exception as e:
-    print("Program hits exception and will terminate")
-    print(traceback.format_exc())
+    print("Program hits exception and will terminate", file=sys.stderr)
+    print(traceback.format_exc(), file=sys.stderr)
 
-print("Program will terminate with state: ", end="")
-json.dump(state, sys.stdout, indent=4)
-print("")
+print("Program will terminate with state: ", end="", file=sys.stderr)
+json.dump(state, sys.stderr, indent=4)
+print("", file=sys.stderr)
 with open(f"transfer.json", "w") as transferjson:
     json.dump(institutions, transferjson, indent=4)
 with open(f"state.json", "w") as statejson:
