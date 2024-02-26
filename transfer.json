@@ -61652,5 +61652,2469 @@
                 "end": "--"
             }
         ]
+    },
+    "Carleton College": {
+        "city": "Northfield",
+        "state": "MN",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 236",
+                        "name": "Mathematical Structures",
+                        "credits": "6",
+                        "desc": "Basic concepts and techniques used throughout mathematics. Topics include logic, mathematical induction and other methods of proof, problem solving, sets, cardinality, equivalence relations, functions and relations, and the axiom of choice. Other topics may include: algebraic structures, graph theory, and basic combinatorics. Formal or Statistical Reasoning (6 credits required); Deanna B Haunsperger, Caroline L Turnage-Butterbaugh, Claudio G\u00f3mez-Gonz\u00e1les, Sunrose T Shrestha.",
+                        "department": "Mathematics",
+                        "catalog": "Carleton College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 229",
+                        "name": "Analytical Mechanics",
+                        "credits": "3",
+                        "desc": "An analytical treatment of classical mechanics from a Lagrangian and Hamiltonian standpoint. Equations of motion and their solutions are studied with special emphasis on the harmonic oscillator and central-force problems. No Exploration Credit. W. Titus.",
+                        "department": "Physics",
+                        "catalog": "Carleton College 2015-2016"
+                    },
+                    {
+                        "id": "PHYS 230",
+                        "name": "Computational Mechanics",
+                        "credits": "3",
+                        "desc": "A numerical treatment of classical mechanics concentrating on examples which are difficult, if not impossible, to solve analytically. Topics may include examples from astrophysics and chaotic dynamics. No Exploration Credit. W. Titus.",
+                        "department": "Physics",
+                        "catalog": "Carleton College 2015-2016"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2330",
+                        "name": "Intermediate Mechanics",
+                        "note": "--",
+                        "desc": "Particle and rigid body dynamics using Newtonian, Lagrangian, and Hamiltonian methods. Motion of particle systems. Central force motion. Rotating coordinate systems. Rigid body motion. Coupled systems and normal coordinates. Deformable media. Introduction to Hamilton-Jacobi theory.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2010-2011"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "WMST 110",
+                        "name": "Introduction To Women's Studies",
+                        "credits": "6",
+                        "desc": "This course is an introduction to the ways in which gender structures our world, to theories of women's oppression and liberation, and to the ways feminist thought challenges established intellectual frameworks. However, because gender is not a homogeneous category but is differentiated by class, race, ethnicity, and culture, we also consider both the differences among women and the difficulties of intercultural dialogue. Humanities, Recognition and Affirmation of Difference Requirement. A. Igra, Jn. McDonnell, R. Seidman.",
+                        "department": "Women\u2019S Studies",
+                        "catalog": "Carleton College 2000-2001"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Carleton University": {
+        "city": "Ottawa",
+        "state": "ON",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Introduction To Economics",
+                        "credits": "1.0",
+                        "desc": "An introduction to the major tools and policy problems of economics. Economic analysis is applied to a variety of contemporary problems such as pollution, poverty, the control of monopoly, unemployment, inflation, and international economic problems. Precludes additional credit for ECON 1001, ECON 1002, and FYSM 1003. Discussion groups one hour a week.",
+                        "department": "Economics",
+                        "catalog": "Carleton University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECOR 1042",
+                        "name": "Data Management",
+                        "credits": "0.25",
+                        "desc": "Software development using container data types (sequences, sets, maps) for data management. Modules. Data files. Incremental, iterative development of programs. Introduction to designing and implementing numerical algorithms. Precludes additional credit for COMP 1005, COMP 1405, ECOR 1051, ECOR 1606, SYSC 1005.",
+                        "department": "Engineering Core",
+                        "catalog": "Carleton University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2600",
+                        "name": "Modeling And Analysis Of Uncertainty",
+                        "note": "--",
+                        "desc": "Appreciation and understanding of uncertainties and the conditions under which they occur, within the context of the engineering problem-solving pedagogy of measurements, models, validation, and analysis. Problems and concerns in obtaining measurements; tabular and graphical organization of data to minimize misinformation and maximize information; and development and evaluation of models. Concepts will be supported with computer demonstration. Applications to problems in engineering are emphasized.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 1602",
+                        "name": "20th-century Literature",
+                        "credits": "1.0",
+                        "desc": "An introduction to literary study, examining the poetry, drama, and fiction of the twentieth century, against the background of the social, cultural, and artistic issues that have determined the concerns of its writers. This course or FYSM 1006 is recommended for English Honours and General students. Precludes additional credit for FYSM 1006.",
+                        "department": "English",
+                        "catalog": "Carleton University Undergraduate 2007-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 1001",
+                        "name": "Introduction To Psychology I",
+                        "credits": "0.5",
+                        "desc": "A survey of topics associated with psychology's role as a natural science, including neuroscience, cognition, and learning. Precludes additional credit for PSYC 1000.",
+                        "department": "Psychology",
+                        "catalog": "Carleton University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Carnegie Mellon University": {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "03-121",
+                        "name": "Modern Biology",
+                        "credits": "9",
+                        "desc": "This is an introductory course that provides the basis for further studies in biochemistry, cell biology, genetics and molecular biology. This course emphasizes the chemical principles underlying biological processes and cell structures as well as the analysis of genetics and heredity from a molecular perspective. This is the introductory biology course for all science and nonscience majors. Course Website: http://www.cmu.edu/bio/undergrad/courses/index.html (http://www.cmu.edu/bio/undergrad/courses/).",
+                        "department": "Biological Sciences",
+                        "catalog": "Carnegie Mellon University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "BIOL 1000 (3cr)",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "21-241",
+                        "name": "Matrices And Linear Transformations",
+                        "credits": "10",
+                        "desc": "A first course in linear algebra intended for scientists, engineers, mathematicians and computer scientists. Students will be required to write some straightforward proofs. Topics to be covered: complex numbers, real and complex vectors and matrices, rowspace and columnspace of a matrix, rank and nullity, solving linear systems by row reduction of a matrix, inverse matrices and determinants, change of basis, linear transformations, inner product of vectors, orthonormal bases and the Gram-Schmidt process, eigenvectors and eigenvalues, diagonalization of a matrix, symmetric and orthogonal matrices. 21-127 is strongly recommended. (Three 50 minute lectures, one 50 minute recitation).",
+                        "department": "Mathematical Sciences",
+                        "catalog": "Carnegie Mellon University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "MATH 2012 (2cr) + MATH 2000 (2cr)",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2012",
+                        "name": "Matrix Algebra",
+                        "note": "MATH 2012 (2cr) + MATH 2000 (2cr)",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "62-122",
+                        "name": "Digital Media I",
+                        "credits": "6",
+                        "desc": "This course will engage in an overview of foundational workflows in digital media regarding two-dimensional representation techniques for spatial design processes. The course is divided into two topics with one assignment each: Technical Drawing and 2D Graphics. Students are required to submit work at the end of each class, in addition to self-guided work outside of class times: satisfactory completions of the two assignments, specific Lynda tutorials, final project, and final portfolio are required for the successful completion of the course. Through these deliverables, the course will inquire issues of 2D representation as it pertains to the effective communication of technical and conceptual information in spatial design processes. With digital media, designers now have an arsenal of tools that can subvert and augment traditional means of representation with exponentially greater fidelity and efficiency. Students will have an opportunity to practice these values and favor hybrid approaches that strive to blur the boundaries of analog and digital media, so as to learn how to be versatile in leveraging all forms of media for the design task at hand. Students are required to bring their own laptop computers with AutoCAD, Photoshop, Illustrator, and InDesign installed.",
+                        "department": "College Of Fine Arts Interdisciplinary",
+                        "catalog": "Carnegie Mellon University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (2cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "62-123",
+                        "name": "Digital Media II",
+                        "credits": "6",
+                        "desc": "TBA.",
+                        "department": "College Of Fine Arts Interdisciplinary",
+                        "catalog": "Carnegie Mellon University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2220",
+                        "name": "Fundamentals Of 2d Design",
+                        "note": "ARTS 2220 (2cr)",
+                        "desc": "An introductory course which will present basic concepts about composition, line, pictorial space, light, and color in the visual arts in order to help students develop the means for expressing visual ideas effectively. Weekly homework design projects, using both traditional and electronic media, will be complemented by in-class slide lectures, videos, and critiques.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "62-125",
+                        "name": "Drawing I",
+                        "credits": "6",
+                        "desc": "62-125 is an introductory course in free-hand architectural drawing. Its central learning objective is building a capacity for visualizing threedimensional space through hand-drawing. A parallel objective is fostering visual literacy: the ability to use line and tonal values to represent architectural space. Schedule and Content The course is taught in two three-week segments that alternate with the three-week segments of a parallel course Digital Media 1. It concludes with a final project that is shared with 48-100 Introduction to Architecture. The course has three themes that bridge over the two three-week segments. The first focuses on contour and cross contour to describe surface and space. At its completion, it addresses the appearance of architectural space in perspective. Exercises are inspired by the approach of Kimon Nicolaides, The Natural Way to Draw, to these same subjects. The second focuses on the projection of space using both freehand axonometric and perspective drawing. The third is centered on modeling surface and creating space by using tone. A sculptural approach adapted from Kimon Nicolaides is used and at the end applied to drawing architectural sections. This work is preparatory for the final project.",
+                        "department": "College Of Fine Arts Interdisciplinary",
+                        "catalog": "Carnegie Mellon University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1200",
+                        "name": "Basic Drawing",
+                        "note": "ARTS 1200 (2cr)",
+                        "desc": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "62-126",
+                        "name": "Drawing II",
+                        "credits": "6",
+                        "desc": "TBA.",
+                        "department": "College Of Fine Arts Interdisciplinary",
+                        "catalog": "Carnegie Mellon University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 4200",
+                        "name": "Advanced Drawing",
+                        "note": "ARTS 4200 (2cr)",
+                        "desc": "Advanced Drawing is designed to help students who have mastered basic drawing skills to enhance those skills and utilize them to explore visual ideas. Emphasis is placed on individual development of skills and subject matter to help students express themselves visually. Examples and studies are used from master drawings of the past to learn about the history of art and to stimulate ideas for the students\u2019 own work. Cross Listed: Cross listed with ARTS 6200; students cannot obtain credit for both courses.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "76-101",
+                        "name": "Interpretation And Argument",
+                        "credits": "9",
+                        "desc": "76-101, Interpretation and Argument, is a foundational, inquiry-driven writing course that introduces students to a variety of strategies for making compositional decisions in writing and communication. Within the course, students learn genre-based skills applicable to a variety of different fields. Students use a comparative genre analysis method to learn how to use models to take on new writing tasks, including an academic research proposal and a research article that contributes to an ongoing academic conversation. Faculty who teach 76101 typically select textsranging from scholarly texts, journalism, and filmabout an issue so that students can identify interesting questions for their own research projects. Students should expect explicit, research-based instruction, practice, and reflection to build knowledge in controlling their writing processes and writing clear, well-supported, reader-oriented arguments. Because the course emphasizes the real stakes of communicating with readers and listeners, students share with their peers both low and high stakes written work within an interactive and collaborative classroom environment. See full course descriptions at this URL: http://www.cmu.edu/hss/english/first_year/index.html Course Website: https://www.cmu.edu/dietrich/english/academic-programs/ writing-and-communication/index.html (https://www.cmu.edu/dietrich/ english/academic-programs/writing-and-communication/)",
+                        "department": "English",
+                        "catalog": "Carnegie Mellon University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "WRIT 1110 (3cr)",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            }
+        ]
+    },
+    "Carroll Community College": {
+        "city": "Westminster",
+        "state": "MD",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ACCT 102",
+                        "name": "Managerial Accounting",
+                        "credits": "3",
+                        "desc": "Examine the difference between manufacturing operations and service organizations/merchandisers. Use costing techniques for each type of operation. Prepare master, operating, financial, and flexible budgets using standard costing. Use accounting information and models to make business decisions. Course Objectives: Upon successful completion of this course, students will be able to: 1. Explain cost concepts, analyzing and classifying costs. (PG1). 2. Prepare financial statements for a manufacturing company. (PG 2). 3. Use job order costing, activity-based costing, and target costing. 4. Describe short-term decisions and capital investment decisions commonly made by businesses. (PG4). 5. Compute cost/volume/profit relationships using contribution margin analyses. 6. Determine how budgets assist managers in decision making, using accounting information and models for business decisions. (PG4). 7. Create a standard and flexible budget. (PG2,5). 8. Use accounting models to define, represent, and solve mathematical problems. (PG5). 9. Analyze financial transactions. (PG2). Three billable hours.",
+                        "department": "Accounting",
+                        "catalog": "Carroll Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUAD 201",
+                        "name": "Business Ethics",
+                        "credits": "3",
+                        "desc": "Business Ethics explores and challenges those qualities and ideals that are taken to define the ethical person in the context of modern business practice. Moral theory, analysis of contemporary topics in business, and case studies from real-life business practice will be brought together as students are encouraged to reflect on the difference between ethics and law, the challenge between profit and ethical responsibility, and their roles as moral agents in the business world. Students will be encouraged to expand their perspective on their own personal system of ethical values and to reflect on their visions of how they should act in business and what the business world can be. Also offered as PHIL 201; credit will not be awarded for both. Course Objectives: Upon successful completion of this course, students will be able to: 1. Develop the capacity to look at moral issues and ethical perspectives,(including your own), from a variety of viewpoints, taking care to do so with fairness, charity, and rigor. (G -1, 2, 6, 7) (B -3) (H -1, 2, 3, 4). 2. Participate in class discussions of moral issues in business, maintaining a cooperative, respectful, and supportive environment. (G-1, 2, 7) (B-1, 2, 3) (H-1, 2, 4). 3. Demonstrate comprehension of key concepts, tenets, and arguments in select assigned readings. Comprehension includes awareness of the complexity and nuance within the views expressed in those readings. (G-1, 2) (B-1, 3) (H- 1, 2, 3, 4). 4. Recognize connections between assigned reading material, class discussions, and modern business. This includes applying theoretical ethical material to case studies and questions oriented toward the practical conduct of business. (G-2, 6, 7) (B-3) (H-1, 2, 4, 5). 5. Critically evaluate different philosophical perspectives, while exhibiting fairness and charity toward the views under consideration. (G-2) (B-3) (H-1, 4). 6. Develop fair, reasoned, and insightful critiques of your own approach to ethics in business. (G-2, 7) (B-1, 3) (H-2, 4, 5). 7. Use philosophical activity as a way to explore moral issues that are relevant important to you and to expand, challenge, and refine your views. (G-5, 7) (B-1, 3) (H-4, 5). Three billable hours.",
+                        "department": "Business",
+                        "catalog": "Carroll Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1260",
+                        "name": "Business Law And Ethics",
+                        "note": "--",
+                        "desc": "This course focuses on legal and ethical considerations in management. Topics include torts, contracts, criminal and property law, constitutional and administrative law, dispute resolution, business formation, and equal opportunity. Students will also develop an awareness of ethics in managerial decision making, including recognizing and analyzing ethical issues in the workplace, promoting ethical behavior in corporations, and recognizing social responsibilities of business.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MGMT 201",
+                        "name": "Principles Of Management",
+                        "credits": "3",
+                        "desc": "Explore basic theories of management. Describe the internal and external environment for a business. Determine issues of ethics, planning, goal setting, and effective decision-making processes. Explain organizational structure, motivation and group dynamics, and efficient control mechanisms used by organizations. CLEP (Principles of Management) accepted. Course Objectives: Upon successful completion of this course, students will be able to: 1.Outline the historical evolution of management theories. (PG 1). 2.Describe the management functions of planning, organizing, leading, and controlling. (PG 4). 3.Explain the effects of corporate culture and environments of an organization on management. (PG 4). 4.Assess various leadership styles, theories of motivation, and the decision-making process. 5.Relate the basic concepts of planning, social responsibility, and managerial ethics. 6.Analyze organizational structure and the control process. (PG 1). 7.Apply basics of group dynamics to the challenges of managing work teams. Three billable hours.",
+                        "department": "Management",
+                        "catalog": "Carroll Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Case Western Reserve University": {
+        "city": "Cleveland",
+        "state": "OH",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ACCT 101",
+                        "name": "Introduction To Financial Accounting",
+                        "credits": "3",
+                        "desc": "Financial reports are the most significant means for an organization to communicate its management results to stockholders, creditors, and regulators. This course covers concepts, principles, and practices, including preparation and interpretation, of financial reports. The financial reporting system and basic internal controls for the balance sheet, income statement, and cash flow statements are discussed.",
+                        "department": "Accounting",
+                        "catalog": "Case Western Reserve University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2300",
+                        "name": "Financial Accounting In The Digital Age",
+                        "note": "--",
+                        "desc": "An introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, long term liabilities, and equity. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ACCT 102",
+                        "name": "Management Accounting",
+                        "credits": "3",
+                        "desc": "This course focuses on management accounting as a supporting system, helping managers to run businesses and other organizations. The course builds on knowledge of microeconomics, organizational design and behavior, production, and logistics as a foundation to explore how management accounting provides information for management planning, control and decision activities. A student may not receive credit for both ACCT 100 and ACCT 102.",
+                        "department": "Accounting",
+                        "catalog": "Case Western Reserve University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ACCT 203",
+                        "name": "Survey Of Accounting",
+                        "credits": "3",
+                        "desc": "The course covers the principle of financial and managerial accounting for non-management students, including the framework that underlies financial and management accounting and how accounting information should be used by: (1) parties external to the firm, i.e., stockholders, creditors and government, to evaluate the financial performance of an organization; and (2) internal management to fulfill the planning, control and performance evaluation functions. Enrollment is limited to students who are neither management nor accounting majors nor enrolled in the Weatherhead School of Management. This course may be substituted for ACCT 101. A student may not receive credit for both ACCT 101 and ACCT 203. This course cannot be substituted for ACCT 102 without a waiver from the chairman. Offered as ACCT 203 and ACCT 403.",
+                        "department": "Accounting",
+                        "catalog": "Case Western Reserve University 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANTH 335",
+                        "name": "Illegal Drugs And Society",
+                        "credits": "3",
+                        "desc": "This course provides perspectives on illegal drug use informed by the social, political and economic dimensions of the issues. Framed by the history, epidemiology, and medical consequences of drug use, students will confront the complex challenges posed by addiction. Anthropological research conducted in the U.S. and cross-culturally will demonstrate, elaborate and juxtapose various clinical, public health, and law enforcement policies and perspectives. Topics examined will include: why exclusively using a bio-medical model of addiction is inadequate; how effective is the war on drugs; what prevention, intervention and treatment efforts work; and various ideological/moral perspectives on illegal drug use. Offered as ANTH 335 and ANTH 435.",
+                        "department": "Anthropology",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 4430",
+                        "name": "Drugs In History",
+                        "note": "--",
+                        "desc": "This course teaches basic historical, anthropological, and sociological concepts that can be used to make sense of a wide variety of contemporary phenomena students encounter in everyday life. The focus is on analyzing how licit and illicit drugs serve as \u201ctechnologies\u201d within specific social contexts or subcultures; what drug policy reveals about social, political, and economic organization; and the impacts of biomedical knowledge and practice on specific population groups. The course focuses on the representation of drug use and drug users in popular culture, science and medicine, and history and the social sciences.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BAFI 355",
+                        "name": "Corporate Finance",
+                        "credits": "3",
+                        "desc": "The basic goals of this course are to familiarize students with the concepts and tools used in financial management at both the corporate and personal levels. They include the notion of present value, securities valuation, risk and return analysis, and other financial analysis techniques. The concepts and techniques are, in turn, used to evaluate and make decisions regarding the firm's investments (capital budgeting) and the cost of capital.",
+                        "department": "Banking And Finance",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2320",
+                        "name": "Managerial Finance",
+                        "note": "--",
+                        "desc": "An introduction to corporate financial analysis and decision making. This course covers the following topics: financial statement analysis, valuation principles, risk and return analysis, working capital management, capital budgeting, cost of capital, capital structure, and dividend policy.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 111",
+                        "name": "Principles Of Chemistry For Engineers",
+                        "credits": "4",
+                        "desc": "A first course in university chemistry emphasizing chemistry of materials for engineering students. Atomic theory and quantitative relationships; gas laws and kinetic theory; solutions, acid-base properties and pH; thermodynamics and equilibrium; kinetics, catalysis, and mechanisms; molecular structure and bonding.",
+                        "department": "Chemistry",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 223",
+                        "name": "Introductory Organic Chemistry I",
+                        "credits": "3",
+                        "desc": "Introductory course for science majors and engineering students. Develops themes of structure and bonding along with elementary reaction mechanisms. Includes treatment of hydrocarbons, alkyl halides, alcohols, and ethers as well as an introduction to spectroscopy.",
+                        "department": "Chemistry",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 103",
+                        "name": "Principles Of Macroeconomics",
+                        "credits": "3",
+                        "desc": "While Microeconomics looks at individual consumers and firms, Macroeconomics looks at the economy as a whole. The focus of this class will be on the business cycle. Unemployment, inflation and national production all change with the business cycle. We will look at how these are measured, their past behavior and at theoretical models that attempt to explain this behavior. We will also look at the role of the Federal Government and the Federal Reserve Bank of the United States in managing the business cycle.",
+                        "department": "Economics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECSE 216",
+                        "name": "Fundamental System Concepts",
+                        "credits": "3",
+                        "desc": "Develops framework for addressing problems in science and engineering that require an integrated, interdisciplinary approach, including the effective management of complexity and uncertainty. Introduces fundamental system concepts in an integrated framework. Properties and behavior of phenomena regardless of the physical implementation through a focus on the structure and logic of information flow. Systematic problem solving methodology using systems concepts.",
+                        "department": "Ecse",
+                        "catalog": "Case Western Reserve University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "XXXX",
+                        "name": "Not Transferrable",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Rpi",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECSE 281",
+                        "name": "Logic Design And Computer Organization",
+                        "credits": "4",
+                        "desc": "Fundamentals of digital systems in terms of both computer organization and logic level design. Organization of digital computers; information representation; boolean algebra; analysis and synthesis of combinational and sequential circuits; datapaths and register transfers; instruction sets and assembly language; input/output and communication; memory. Offered as CSDS 281 and ECSE 281.",
+                        "department": "Ecse",
+                        "catalog": "Case Western Reserve University 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECSE 2000",
+                        "name": "\"electrical, Compputer, And Systems Engineering Elective\"",
+                        "note": "Transfers as ECSE elective credtis",
+                        "desc": "",
+                        "department": "Electrical, Computer, Systems Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EECS 233",
+                        "name": "Introduction To Data Structures",
+                        "credits": "4",
+                        "desc": "Different representations of data: lists, stacks and queues, trees, graphs, and files. Manipulation of data: searching and sorting, hashing, recursion and higher order functions. Abstract data types, templating, and the separation of interface and implementation. Introduction to asymptotic analysis. The Java language is used to illustrate the concepts and as an implementation vehicle throughout the course.",
+                        "department": "Electrical Engineering And Computer Science",
+                        "catalog": "Case Western Reserve University 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EEPS 110",
+                        "name": "Physical Geology",
+                        "credits": "3",
+                        "desc": "Introduction to geologic processes and materials that shape the world we live in. Hydrologic cycle and evolution of landscapes. Earthquakes, volcanoes, plate tectonics, and geologic resources. Students desiring laboratory experience should enroll in EEPS 119 concurrently.",
+                        "department": "Earth, Environmental, And Planetary Sciences",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 148",
+                        "name": "Introduction To Composition",
+                        "credits": "3",
+                        "desc": "Practice and training in various modes and genres of writing. Undergraduate CIM students placed into ENGL 148 must complete the course with a grade of C or higher in order to enroll in ENGL 150.",
+                        "department": "English",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 150",
+                        "name": "Expository Writing",
+                        "credits": "3",
+                        "desc": "Substantial training and practice in academic writing.",
+                        "department": "English",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 398N",
+                        "name": "Professional Communication For Engineers",
+                        "credits": "3",
+                        "desc": "Principles and practices of effective communication in the workplace, with an emphasis on computer-mediated communication. Topics include analyzing audience needs in context, visual communication, computermediated documents, ethics, and team writing. Typical assignments include e-mail, memos, letters, reports, documentation, and oral presentations.",
+                        "department": "English",
+                        "catalog": "Case Western Reserve University 2012-2013"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 4120",
+                        "name": "Technical And Professional Communication",
+                        "note": "--",
+                        "desc": "Principles and practice of technical communication as applied to reports, technical papers, oral presentations, business communications, press releases, and popular articles. This is a communication-intensive course.",
+                        "department": "Writing (Hssh)",
+                        "catalog": "Rensselaer Polytechnic Institute 2008-2009"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 131",
+                        "name": "Elementary Computer Programming",
+                        "credits": "3",
+                        "desc": "Students will learn the fundamentals of computer programming and algorithmic problem solving. Concepts are illustrated using a wide range of examples from engineering, science, and other disciplines. Students learn how to create, debug, and test computer programs, and how to develop algorithmic solution to problems and write programs that implement those solutions. Matlab is the primary programming language used in this course, but other languages may be introduced or used throughout. Counts for CAS Quantitative Reasoning Requirement.",
+                        "department": "Engr",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 145",
+                        "name": "Chemistry Of Materials",
+                        "credits": "4",
+                        "desc": "Application of fundamental chemistry principles to materials. Emphasis is on bonding and how this relates to the structure and properties in metals, ceramics, polymers and electronic materials. Application of chemistry principles to develop an understanding of how to synthesize materials.",
+                        "department": "Engr",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1600",
+                        "name": "Materials Science",
+                        "note": "--",
+                        "desc": "Introduction to the scientific principles that dictate the structure and properties of engineering materials, including metals, ceramics, semiconductors, and polymers. Physical properties of materials (mechanical, electrical, thermal, optical) are discussed in terms of the underlying bonding and structure, spanning multiple length scales from atomic packing to micron scale defects, in practical engineering materials. Throughout the course, the material behaviors are understood from the viewpoint of thermodynamics and kinetics. Cross Listed: CHEM 1600, PHYS 1600, and ISCI 1600. Students cannot. receive credit for both this course and CHEM 1600, PHYS 1600, or ISCI 1600. Contact, Lecture or Lab Hours: 5 contact hours.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 210",
+                        "name": "Introduction To Circuits And Instrumentation",
+                        "credits": "4",
+                        "desc": "Modeling and circuit analysis of analog and digital circuits. Fundamental concepts in circuit analysis: voltage and current sources, Kirchhoff's Laws, Thevenin, and Norton equivalent circuits, inductors capacitors, and transformers. Modeling sensors and amplifiers and measuring DC device characteristics. Characterization and measurement of time dependent waveforms. Transient behavior of circuits. Frequency dependent behavior of devices and amplifiers, frequency measurements. AC power and power measurements. Electronic devices as switches.",
+                        "department": "Engr",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECSE 2010",
+                        "name": "Electric Circuits",
+                        "note": "--",
+                        "desc": "Techniques for the analysis and simulation of linear electric circuits and measurements of their properties. Topics include resistive and energy-storage elements, controlled sources and operational amplifiers, systematic analysis methods, AC steady state, power and three-phase systems, magnetic coupling and transformers, transients, s-plane representation and analysis, frequency response, and Laplace transform and computer-aided methods. Contact, Lecture or Lab Hours: 6 contact hours",
+                        "department": "Electrical, Computer, Systems Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSCC 110",
+                        "name": "Foundations Of College Writing",
+                        "credits": "4",
+                        "desc": "Writing is both a personal and a social project. Foundations of College Writing First Seminar provides attention to the personal aspects of writing including processes, habits, and skills as well as to the social aspects of writing including types of writing, persuasion/argument, and conventions. The course structure allows us to spend more time and attention on your individual needs and goals as writers. You will learn academic writing conventions, rhetorical techniques, and various processes and methods that you might adopt and employ as you move into other writing situations. We will explore writing from multiple positions: as a writer, as a reader, and as a critic. We will explore various types of writing: alphabetic text, visuals, and multimedia. And finally we will work to achieve the course objectives through freewriting, drafting, revising, reflecting, blogging, emailing, debating, and discussing.",
+                        "department": "Fscc",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "--",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSNA 120",
+                        "name": "The Impact Of Materials On Societal Development",
+                        "credits": "4",
+                        "desc": "This four credit-hour SAGES seminar provides an introduction to various dimensions of academic life through open-ended intellectual inquiry and guided by reading from primary and secondary sources. The course will require practice in written and oral communications in small groups. A primary focus of the seminar will be to examine the impact of engineering materials on societal development through human history using a few specific materials of interest as examples: concrete, steel, and semiconductors. At the conclusion of the course, students will be encouraged to explore the impact of other materials on the development of specific technologies as a group project.",
+                        "department": "Fsna",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSSY 112",
+                        "name": "Shakespeare - Still A Hit",
+                        "credits": "4",
+                        "desc": "What is the enduring appeal of the works of William Shakespeare? Not only are the plays themselves popular today; there are also many film versions and adaptations, some recent and some dating back to the early days of cinema. In this First Seminar, students will read approximately six Shakespeare plays, including at least one history, comedy, and tragedy. In addition, they will view at least one film version or adaptation of each play. With the help of Kelvin Smith Library, the films will be made available on streaming video with password-protected access, enabling students to view them when convenient and as often as necessary. Since this class (like all First Seminars) is writing-intensive, students will complete four formal essays as well as frequent in-class writing activities. There will also be in-class readings from the plays, discussions of the various film adaptations, and one or two short oral presentations or activities.",
+                        "department": "Fssy",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FSSY 185P",
+                        "name": "On The Road In America",
+                        "credits": "4",
+                        "desc": "Travel and exploration have long occupied a central role in the American imagination. The idea of the frontier, and the great westward expansion, gave birth to national myths and narratives based on transit and adventure. In recent years, Americans have continued to reflect on the significance of physical journeys, as well as the inner quests that often accompany these modern-day pilgrimages. In this course, we will examine a diverse set of works that explore the long-standing American romance with adventure and movement. We will consider the impact of the open road on America's national identity, the powerful emotions and spiritual longing that lead people onto the road, and the forces that drive them off it.",
+                        "department": "Fssy",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 121",
+                        "name": "Calculus For Science And Engineering I",
+                        "credits": "4",
+                        "desc": "Functions, analytic geometry of lines and polynomials, limits, derivatives of algebraic and trigonometric functions. Definite integral, antiderivatives, fundamental theorem of calculus, change of variables. Credit for at most one of MATH 121, MATH 123 and MATH 125 can be applied to hours required for graduation. Counts for CAS Quantitative Reasoning Requirement.",
+                        "department": "Mathematics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 125",
+                        "name": "Math And Calculus Applications For Life, Managerial, And Social Sci I",
+                        "credits": "4",
+                        "desc": "Discrete and continuous probability; differential and integral calculus of one variable; graphing, related rates, maxima and minima. Integration techniques, numerical methods, volumes, areas. Applications to the physical, life, and social sciences. Students planning to take more than two semesters of introductory mathematics should take MATH 121. Credit for at most one of MATH 121, MATH 123, and MATH 125 can be applied to hours required for graduation. Counts for CAS Quantitative Reasoning Requirement.",
+                        "department": "Mathematics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1500",
+                        "name": "Calculus For Architecture, Management, And Hass",
+                        "note": "--",
+                        "desc": "Basic concepts in differential and integral calculus for functions of one variable. Topics will include functions, limits, continuity, derivatives, integration, exponential and logarithmic functions, and techniques of integration. Application areas will include topics in Management, Architecture, and Social Sciences with special emphasis on the role of calculus in introductory probability. Students cannot get credit for both MATH 1500 and MATH 1010.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 122",
+                        "name": "Calculus For Science And Engineering II",
+                        "credits": "4",
+                        "desc": "Continuation of MATH 121. Exponentials and logarithms, growth and decay, inverse trigonometric functions, related rates, basic techniques of integration, area and volume, polar coordinates, parametric equations. Taylor polynomials and Taylor's theorem. Credit for at most one of MATH 122, MATH 124, and MATH 126 can be applied to hours required for graduation.",
+                        "department": "Mathematics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    },
+                    {
+                        "id": "MATH 223",
+                        "name": "Calculus For Science And Engineering III",
+                        "credits": "3",
+                        "desc": "Introduction to vector algebra; lines and planes. Functions of several variables: partial derivatives, gradients, chain rule, directional derivative, maxima/minima. Multiple integrals, cylindrical and spherical coordinates. Derivatives of vector valued functions, velocity and acceleration. Vector fields, line integrals, Green's theorem. Credit for at most one of MATH 223 and MATH 227 can be applied to hours required for graduation.",
+                        "department": "Mathematics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 224",
+                        "name": "Elementary Differential Equations",
+                        "credits": "3",
+                        "desc": "A first course in ordinary differential equations. First order equations and applications, linear equations with constant coefficients, linear systems, Laplace transforms, numerical methods of solution. Credit for at most one of MATH 224 and MATH 228 can be applied to hours required for graduation.",
+                        "department": "Mathematics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MGMT 201",
+                        "name": "Contemporary Business And Communication",
+                        "credits": "3",
+                        "desc": "This course is designed to survey business topics, issues, and practices. Students will be introduced to each of the functional areas of business, including accounting, finance, marketing, operations, business intelligence, and human resources management. The course is designed to help students appreciate the interrelationship of these business functions and, more generally, the role and context of business in society. Other topics considered include: the economic and legal environment of business, the globalization of markets, workforce diversity, leadership and entrepreneurship. To convey course content, lectures, in-class discussions, exercises, simulations, and guest speakers are used. Weekly discussions and a high level of student interaction amplify on class materials and concepts by focusing on contemporary issues of actual businesses.",
+                        "department": "Management",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MKMR 312",
+                        "name": "Selling And Sales Management",
+                        "credits": "3",
+                        "desc": "Selling and sales management are keys to implementing an organization's marketing program and customer relationships. This course emphasizes developing an understanding of basic marketing concepts, selling principles, interrelationships among sales force management and other business functions, appropriate strategy for managing a sales force and measurement of sales force productivity. We will use theories of work motivation and explore how individual difference variables influence the choices of sales managers. This course uses a synthesis of sales research and leading practices to focuses on both a strategic and a tactical perspective. Strategic issues include: entrepreneurial strategy, the sales force's role in company strategy, customer relationship and strategic account management, sales force size and organization and career paths to sales management. Tactical issues include: effective approaches to selling, finding and retaining top sales talent, motivating and compensating the field force, evaluating performance, and aligning sales territories.",
+                        "department": "Marketing",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NTRN 201",
+                        "name": "Nutrition",
+                        "credits": "3",
+                        "desc": "The nutrients, their functions, food sources, and factors affecting human needs throughout life.",
+                        "department": "Nutrition",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ORBH 250",
+                        "name": "Leading People (lead I)",
+                        "credits": "3",
+                        "desc": "The principal goals of this course are to help students learn about the context in which managers and leaders function, gain self-awareness of their own leadership vision and values, understand the options they have for careers in management based on their own aptitudes, orientations and expertise, and develop the fundamental skills needed for success in a chosen career. Through a series of experiential activities, assessment exercises, group discussions, and peer coaching, based on a model of self-directed learning and life-long development, the course helps students understand and formulate their own career and life vision, assess their skills and abilities, and design a development plan to reach their objectives. The course enables students to see how the effective leadership of people contributes to organizational performance and the production of value, and how for many organizations, the effective leadership of people is the driver of competitive advantage. Credit for at most one of ORBH 250 and ORBH 396 can be applied to hours required for graduation.",
+                        "department": "Organizational Behavior",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    },
+                    {
+                        "id": "ORBH 251",
+                        "name": "Leading Organizations (lead II)",
+                        "credits": "3",
+                        "desc": "The principal goal of this course is to help students enhance their leadership skills by understanding how organizations function through the lenses of structure, culture, and power/politics. The course enables students to discern how leaders function effectively as they integrate goals, resources and people within these constraints. Students learn about these organizational lenses while developing their own leadership and professional skills.",
+                        "department": "Organizational Behavior",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4850",
+                        "name": "Organizational Behavior In High Performance Organizations",
+                        "note": "--",
+                        "desc": "This course provides an overview of basic processes in human behavior that influence the effectiveness of individuals, groups and organizations. Its focus is on understanding what happens during interpersonal interactions in work situations, and what can be done to make employees more effective. Topics covered include organizational socialization, motivation, decision-making, team dynamics, virtual teams, influence, and conflict management. Numerous exercises and case analyses are used in class to help provide students with insights into these processes.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ORBH 380",
+                        "name": "Managing Negotiations",
+                        "credits": "3",
+                        "desc": "Negotiation is the art and science of securing agreements between two or more interdependent parties. Negotiation skills are critical to influencing others and thus to effective leadership. The good news is that negotiation is a skill that can be developed. In this interactive course, you will learn how to be a more effective negotiator by learning about the theory and processes of negotiation, participating in negotiation simulations, reflecting on your own and others' negotiation experiences and completing assignments designed to help you hone your negotiation skills. This will be done through a variety of means, including: understanding the theory and processes of negotiation, participating in negotiation simulations, reflecting on your own and others' negotiation experiences and completing assignments designed to help you hone your negotiation skills.",
+                        "department": "Organizational Behavior",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 121",
+                        "name": "General Physics I - Mechanics",
+                        "credits": "4",
+                        "desc": "Particle dynamics, Newton's laws of motion, energy and momentum conservation, rotational motion, and angular momentum conservation. This course has a laboratory component. Students who do not have the appropriate background should not enroll in PHYS 121 without first consulting the instructor. Students may earn credit for only one of the following courses: PHYS 115, PHYS 121, PHYS 123.",
+                        "department": "Physics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 122",
+                        "name": "General Physics II - Electricity And Magnetism",
+                        "credits": "4",
+                        "desc": "Electricity and magnetism, emphasizing the basic electromagnetic laws of Gauss, Ampere, and Faraday. Maxwell's equations and electromagnetic waves, interference, and diffraction. This course has a laboratory component. Students may earn credit for only one of the following courses: PHYS 116, PHYS 122, PHYS 124.",
+                        "department": "Physics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 221",
+                        "name": "Introduction To Modern Physics",
+                        "credits": "3",
+                        "desc": "Concepts in special relativity, statistical mechanics and quantum mechanics. Applications to atomic structure, and selected topics in nuclear, condensed matter physics, particle physics, and cosmology.",
+                        "department": "Physics",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSCL 101",
+                        "name": "General Psychology I",
+                        "credits": "3",
+                        "desc": "Methods, research, and theories of psychology. Basic research from such areas as psychophysiology, sensation, perception, development, memory, learning, psychopathology, and social psychology.",
+                        "department": "Psychology",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSCL 315",
+                        "name": "Social Psychology",
+                        "credits": "3",
+                        "desc": "Empirical studies of typical human responses to situations. First impressions, attitude change, effects of cash incentives, behavior in emergencies, interpersonal attraction, impression management, crowding, stress, vices.",
+                        "department": "Psychology",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2520",
+                        "name": "Introduction To Game Design",
+                        "note": "--",
+                        "desc": "This course looks at the mathematics of game theory from a psychological perspective, and serves as a primer in video game design. The psychology of players and designers are discussed, as well as the cognitive processes that people use when solving game-related puzzles. Additional topics include logic, human frailty, role playing, artificial intelligence, kinesics, theater, and human-computer interaction.",
+                        "department": "Psychology (Hsss)",
+                        "catalog": "Rensselaer Polytechnic Institute 2007-2008"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "RLGN 209",
+                        "name": "Introduction To Biblical Literature",
+                        "credits": "3",
+                        "desc": "This course is an introduction to the academic study of biblical literature, including Hebrew Scriptures (\"Old Testament\") and the New Testament. The literature will be studied in light of both ancient and contemporary historical contexts, with a particular emphasis on the roles it plays in American culture and politics today. Class sessions will be discussion oriented and will involve close, careful analysis and interpretation of texts. No background in religion is necessary. Evaluation will be based on class preparation and participation, regular short writing assignments, two exams, and a major paper.",
+                        "department": "Religious Studies",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPAN 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "This course is for students who wish to establish a solid foundation in the language. Open to students who have little or no prior knowledge of Spanish. The course will introduce the learner to all regular, stemchanging and irregular verbs. In addition, the comparison of ser v estar, saber v conocer, tener with noun expressions, emotional and mental states and prepositions of location. Students will learn the mechanics of pronoun usage; reflexive, direct object, indirect object and double object pronouns. Lexical expressions, useful vocabulary, nouns, adverbs and adjectives will be acquired via themed chapters. Cultural topics are also explored, providing a glimpse into the daily life of Spanish-speaking countries. This course concludes with learning the past tense forms: preterit and imperfect. Upon completion of the course, the student will be able to master basic conversation, listening, reading comprehension and writing skills related to everyday life, including appreciation and awareness of Hispanic multiculturalism.",
+                        "department": "Spanish",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPAN 102",
+                        "name": "Elementary Spanish II",
+                        "credits": "4",
+                        "desc": "This is a course for students who have a solid foundation in the language and who wish to advance their grammar. This is a course open to students who have mastered the topics outlined in SPAN 101, or for students who successfully completed 101 at CWRU. This course is a continuation of 101, and begins with an in-depth comparison of preterit and imperfect during the first few weeks. SPAN 102 will go on to cover all other indicative verb forms such as the imperative, future, present perfect, conditional and pluperfect. The subjunctive mood is also explored in depth; both present and imperfect subjunctive. A variety of cultural topics will help the student develop a stronger appreciation of Hispanic society and multiculturalism. Lexical expressions and useful vocabulary will be acquired via themed chapters. Upon completion of this course, the student will be able to read, write, listen and speak Spanish with reasonable accuracy on a wider variety of everyday topics within the indicative and subjunctive moods.",
+                        "department": "Spanish",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPAN 201",
+                        "name": "Intermediate Spanish I",
+                        "credits": "4",
+                        "desc": "This course is an intermediate language course with a focus on advanced grammar and conversation. The student must be equipped with a fair amount of grammatical proficiency that includes knowing the simple verb tenses of the present, future, and past tenses of the indicative mood, along with the present and imperfect subjunctive. This course will introduce the learner to more advanced applications of these grammar topics. Along with other grammatical explorations, this course will help the student to critically think about real world topics such as familial, generational, and personal relationships, customs, traditions, and values, food and eating habits, leaders and politics, and contemporary society and technology. Students will develop better articulation of their opinions, perspectives and commentary in Spanish; both verbally and written. Students will acquire some knowledge and appreciation of Spanishspeaking authors and literature. This course will also explore the cultural traditions, customs and diversity shared by the people of countries in which Spanish is spoken. Students will also work on building confidence to deliver oral presentations in Spanish regarding different cultural topics. The course is taught completely in Spanish.",
+                        "department": "Spanish",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 2000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "USNA 287J",
+                        "name": "Transportation In American Life",
+                        "credits": "3",
+                        "desc": "We will explore the critical role of transportation in the development of our cities, regions, states, and nation. The course will consider the historic role of transportation, its current role, and what role it might play in the future. Transportation will be viewed in the context of national policies, overall political will, and our culture at large. Since colonial times, transportation, in its many forms, has been the subject of intense debate, governmental policies, as well as the subject of public and private investment. We will see how certain individuals and groups used ego, power, and wealth to use transportation for shaping the nation's commerce, travel patterns, and physical appearance. We'll also see the evolution of government and business in transportation decisions and funding. Finally, because of transportation's daily impact, we will look at current issues as part of every class. We will especially focus on the transportation issues of northeast Ohio, a microcosm of national transportation issues. Some of these issues include funding, decision-making, land use, \"suburban sprawl,\" and economic development. We'll also look at transportation issues specific to the University Circle area such as the Health Line and the proposed \"Opportunity Corridor.\" Requirements to enroll: 1) Passing letter grade in a First Seminar OR concurrent enrollment in FSTS 100 (if transfer student); AND 2) No previous/concurrent enrollment in FSNA/USNA; OR Requisites not met permission.",
+                        "department": "Usna",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "USSO 286Q",
+                        "name": "History Of Late 20th Century Popular Culture",
+                        "credits": "3",
+                        "desc": "This course focuses on American popular culture of the late twentieth century (c. 1970 to 2001). Students will analyze this period using a variety of historical texts and primary sources (everything from more \"traditional\" sources such as printed materials to films, television episodes and clips, music and sound lyrics, fanzines [\"zines\"], graphic novels, and music videos). Secondary sources include history essays and monographs, as well as articles by scholars employing critical theory. Students will explore whether \"products\" of popular culture perpetuate power structures and help to shape the discourse of late twentieth century American culture. Moreover, they will examine how individuals contribute to and challenge the discourses as consumers and creators of pop culture. Requirements to enroll: 1) Passing letter grade in a First Seminar OR concurrent enrollment in FSTS 100 (if transfer student); AND 2) No previous/concurrent enrollment in FSSO/USSO; OR Requisites not met permission.",
+                        "department": "Usso",
+                        "catalog": "Case Western Reserve University 2016-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "USSO 290V",
+                        "name": "Education And Inequality In America",
+                        "credits": "3",
+                        "desc": "Guided by the aspiration to provide equal opportunity to all and initiatives like No Child Left Behind, the US educational system has defined itself as a free and open system that rewards accomplishment and nourishes every student\u00b9s potential. It is based on a philosophy that stands in stark contrast to the foreclosed and explicitly stratified educational systems of many European countries. Why then is it the case that, compared to other advanced postindustrial societies, the US has extraordinary levels of inequality? This course will examine in detail the processes that regulate social inequality and the educational system. We will analyze how differences between students\u00b9 social, cultural, and economic capital create a stratified educational experience that shapes not only how students are educated, but also the value of that education in the labor market. We will also trace how the inequalities that exist in the US education system from primary school through college play an important role in the reproduction of class inequality, challenging the myth that education is a vehicle for socioeconomic mobility. This course also explores how these inequalities in education run along the axes of race, class, and gender. Requirements to enroll: 1) Passing letter grade in a First Seminar OR concurrent enrollment in FSTS 100 (if transfer student); AND 2) No previous/concurrent enrollment in FSSO/USSO; OR Requisites not met permission.",
+                        "department": "Usso",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "USSY 291F",
+                        "name": "Literary Arcadias: Idealized Landscapes And The Intrusion Of Reality",
+                        "credits": "3",
+                        "desc": "The literary genre of pastoral has long depicted the simplicity of life in a natural environment--a place situated at a time before environmental exploitation, colonization, and urbanization. These pastoral retreats are often given the generic name \"Arcadia.\" As many critics and authors have noted, however, literary depictions of Arcadia often expose the delicate balance of conflicting realities: peace and war, rich and poor, rural and urban. In this seminar, we will investigate what happens when external reality disrupts Arcadia's Edenic space. Is the creation of these idyllic settings a way of masking the disturbing realities of class inequality, political power, and environmental degradation? Or are authors attempting to articulate an alternative to them? As part of our investigation, we will consider how the pastoral genre has evolved over time, noting especially how depictions of Arcadia have responded to various cultural, commercial, and political changes. We will also examine how the idea of Arcadia shapes contemporary culture and our own understanding of the relationship between nature and society in the modern world. Requirements to enroll: 1) Passing letter grade in a First Seminar OR concurrent enrollment in FSTS 100 (if transfer student); AND 2) No previous/concurrent enrollment in FSSY/USSY; OR Requisites not met permission.",
+                        "department": "Ussy",
+                        "catalog": "Case Western Reserve University 2021-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Castleton University": {
+        "city": "Castleton",
+        "state": "VT",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 1020",
+                        "name": "Introduction To Studio Arts",
+                        "credits": "3",
+                        "desc": "A studio course designed to introduce the concepts, motivations and theory of making art. Experimentation with various media in the studio environment. Consideration of conceptual and linguistic processes that affect perception. This course fulfills an Arts and Aesthetic general education requirement. A studio fee may be required.",
+                        "department": "Art",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 2011",
+                        "name": "Visual Basic Programming",
+                        "credits": "3",
+                        "desc": "The course is an introduction to the Visual Basic programming language and the concepts involved in object oriented programming. The course will be a hands-on programming class that will expose students to the skills necessary to create and maintain visual programs. This course fulfills the Scientific and Mathematical Understanding Frame of Reference. Materials charge $20.",
+                        "department": "Computer Information Systems",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1010",
+                        "name": "Introduction To Computer Programming",
+                        "note": "--",
+                        "desc": "Computer programming is a way of thinking. A successful programmer needs to take a word problem, generate a pseudocode algorithm, and convert it to the syntax of a specific programming language. This course is an alternative to CSCI 1100 and is intended for students who want an introduction to this programming process but do not intend to do further course work in programming or computer science. Emphasis will be on the generation of the algorithms and problem solving. This course is offered in Python, an approachable language with relatively low syntax complexity, which allows students to concentrate on the fundamentals without becoming sidetracked by language specifics. It also affords students a tool for creating useful personal applications or prototypes in the future. Students cannot get credit for this course if they have already taken any other CSCI course. (Fall 2019 is the final offering of this course.)",
+                        "department": "Computer Science (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2019-2020"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIS 2031",
+                        "name": "C/c++ Programming I",
+                        "credits": "3",
+                        "desc": "This course introduces students to the concepts of programming with abstract data types and object-oriented programming. It uses C++ to cover classes, inheritance, and polymorphism. The course also builds on the prerequisites to provide students with more advanced exposure to software design, implementation, debugging, and documentation. This course fulfills a Digital and Computing Literacy general education requirement. Materials charge $20.",
+                        "department": "Computer Information Systems",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 1040",
+                        "name": "Media Writing",
+                        "credits": "3",
+                        "desc": "This course introduces students to the basics of writing for 21st century media, exploring both forms that have their origins in print, and emergent forms native to the digital landscape. Students will practice writing for news and entertainment outlets, film and video, podcasting and radio, advertising, public relations and social media.",
+                        "department": "Communications",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 1211",
+                        "name": "Introduction To Video And Filmmaking",
+                        "credits": "3",
+                        "desc": "This is a project-oriented course in which students develop their abilities to communicate in a wide range of video applications. It offers hands-on instruction, practice and guidance in writing, producing, directing, camerawork, audio recording, single and multi-camera production, and editing. Depending on their interests, students produce, direct and/or appear on camera in a number of in-and out-of class productions. This course fulfills an Arts and Aesthetics general education requirement. Studio fee $20.",
+                        "department": "Communications",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1010",
+                        "name": "Introduction To Music And Sound",
+                        "note": "--",
+                        "desc": "This course, which is the prerequisite for further courses in music theory and in computer music, is an introduction to the materials of music. Using a variety of examples from classical, popular, and non-western music, the class will introduce concepts of melody, harmony, rhythm, and musical form. Students will use their laptop computers for aural skills practice, notation, and basic recording exercises. Although no musical experience is required for this course, sight singing is one of the important skills to be developed.",
+                        "department": "Arts (Hssh)",
+                        "catalog": "Rensselaer Polytechnic Institute 2016-2017"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 1220",
+                        "name": "Introduction To Media And Communication",
+                        "credits": "3",
+                        "desc": "This course introduces students to the study of communication processes and media literacy practices. Students will explore print media, audio-visual media and mobile platforms. They will also examine historical and technological developments, and subsequent cultural, political and economic implications of these platforms. This course fulfills a Social Science general education requirement.",
+                        "department": "Communications",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1510",
+                        "name": "Communication Theory And Practice",
+                        "note": "--",
+                        "desc": "This course introduces students to basic topics in communication theory and research. It includes topics in interpersonal, group, organizational, mediated, and mass communication. Students will study and apply theories to real world situations and events and explore the social and cultural impact of new media technology. This is a communication-intensive course.",
+                        "department": "Communication (Hssh)",
+                        "catalog": "Rensselaer Polytechnic Institute 2017-2018"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 2140",
+                        "name": "Race, Gender And Sexuality In Media",
+                        "credits": "3",
+                        "desc": "Media are among our primary sources of images of people, places and things we do not encounter ourselves in our everyday lives. This course examines the images of women and racial and sexual minorities who have been on the fringes of policy development and yet at the center of narratives created by mainstream media. It takes a detailed look at the symbolic and social power of commercial media's role in constructing social and cultural differences around age, gender, race, class and sexuality. This course fulfills an Arts and Aesthetics general education requirement. Fee $20.",
+                        "department": "Communications",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 2160",
+                        "name": "International Communication",
+                        "credits": "3",
+                        "desc": "This course will provide a critical framework for understanding the social, political and ethical dimensions of the flow of information between nations. Central to the study will be an analysis of inter-governmental actors such as the UNESCO and the WTO in governing transborder data flows. Emphasis will be placed on examining language as an ideological tool, cultural imperialism, news imbalance, modernization and dependency, and globalization. This course fulfills a Humanistic Perspectives general education requirement.",
+                        "department": "Communications",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COM 2170",
+                        "name": "Podcasting And Audio Storytelling",
+                        "credits": "3",
+                        "desc": "This course examines the medium of podcasting and helps students to develop their audio storytelling skills. Students study the history and ethical issues of podcasting, develop skills in the areas of writing, researching, interviewing, editing, and on-air performance for the podcast, learn the basics of quality audio production, and examine the role of podcasting in society. This course will culminate with the creation and distribution of original podcasts by students. Fee $20.",
+                        "department": "Communications",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 2000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 1061",
+                        "name": "English Composition",
+                        "credits": "3",
+                        "desc": "Students study and practice the forms of writing most important to academic thought and expression, including those conventions that govern how to report and document the thoughts of others. Not only do they review grammar and usage, punctuation and mechanics, but they consider how the nuances of language and style affect the other elements of rhetoric. Students should complete this course their first year.",
+                        "department": "English",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 1070",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "Students prepare and deliver short speeches. They practice how to choose, limit, and arrange what they say according to their audience and purpose; how best to address an audience; how to use visual aids effectively; and how to report and document the thoughts of others. Students should complete this course their first year.",
+                        "department": "English",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 2260",
+                        "name": "Touchstones Of Western Literature",
+                        "credits": "3",
+                        "desc": "This course provides a representative sampling of biblical, classical, medieval, Renaissance, and modern modes of thought, feeling, and expression. Reading includes examples from the Bible, classical epic and tragedy, medieval allegory or romance, Shakespeare, satire, and the nineteenth century novel.",
+                        "department": "English",
+                        "catalog": "Castleton University Undergraduate 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INT 1051",
+                        "name": "First-year Soundings I: An Introduction To The Liberal Arts, Part I",
+                        "credits": "1",
+                        "desc": "The student experiences the richness and vitality of the liberal arts through lectures, plays, recitals, poetry readings, dance performances, and other campus-sponsored cultural and intellectual activities during the year. Students are required to attend a minimum of six events during the semester. Requires $60 course fee.",
+                        "department": "Interdisciplinary Liberal Arts",
+                        "catalog": "Castleton University Undergraduate 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INT 1052",
+                        "name": "First-year Soundings I: An Introduction To The Liberal Arts, Part I",
+                        "credits": "2",
+                        "desc": "The student experiences the richness and vitality of the liberal arts through lectures, plays, recitals, poetry readings, dance performances, and other campus-sponsored cultural and intellectual activities during the year. Requires $60 course fee.",
+                        "department": "Liberal Arts",
+                        "catalog": "Castleton State College 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAT 2021",
+                        "name": "Statistics I",
+                        "credits": "3",
+                        "desc": "This course prepares students for quantitative methods in their respective fields. Descriptive and inferential statistics, including estimation, hypothesis testing, linear regression and correlation are covered. Basic tools of descriptive statistics, discrete probability, binomial distribution, normal distribution, t-distribution, estimates and sample sizes, hypothesis testing, elementary correlation and regression, contingency tables are explored. Students utilize graphing calculators and spreadsheet software on a regular basis. This course fulfills a Mathematics general education requirement.",
+                        "department": "Mathematics",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHI 1010",
+                        "name": "Introduction To Philosophy",
+                        "credits": "3",
+                        "desc": "This course is a study of several major philosophical problems concerning reality, knowledge, and value, and the theories of some of the greatest thinkers on those problems. Topics to be studied include the nature of moral value, human happiness, social justice, the nature of mind, the problem of free will and determinism, our knowledge of the world, the existence of God, the problem of evil, and others. Readings are drawn from the works of such philosophers as Plato, Aristotle, Kant, Locke, and Descartes. This course fulfills a Humanistic Perspective general education requirement.",
+                        "department": "Philosophy",
+                        "catalog": "Castleton University Undergraduate 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1110",
+                        "name": "Introduction To Philosophy",
+                        "note": "--",
+                        "desc": "An introduction to the major areas of philosophy (ethics, theory of knowledge, philosophy of religion, etc.) and to some of the main problems treated within these fields. Selections from contemporary as well as classical authors are studied and discussed. Students are encouraged to develop a disciplined approach to intellectual problems. Emphasis varies with the instructor.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 1010",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "A survey of a wide variety of topics in psychology. The course objective is to introduce the student to psychological terms, concepts and methods. This course fulfills the Social and Behavioral Understanding Frame of Reference.",
+                        "department": "Psychology",
+                        "catalog": "Castleton State College 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Catholic University Of America": {
+        "city": "Washington",
+        "state": "DC",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BE 202",
+                        "name": "Biomechanics",
+                        "credits": "3",
+                        "desc": "Mechanics of deformable bodies. Mechanical properties of biomaterials, bone, ligaments, and muscle. Uniaxial tension, compression, bending, and torsion applied to orthopedic biomechanics. Rigid body planar kinematics and dynamics, finite element techniques with applications to the biomechanics of walking, running, cycling, and other athletic activities. Formerly offered as 265. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: ENGR 201.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BMED 2540",
+                        "name": "Biomechanics",
+                        "note": "--",
+                        "desc": "Application of mechanics to the study of normal, diseased, and traumatized musculo-skeletal system. Areas covered include determination of joint and muscle forces, mechanical properties of biological tissues, and structural analysis of bone-implant systems. Case studies are discussed to illustrate the role of biomechanics and biomaterials in the design of implants.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BE 398",
+                        "name": "Junior Biomechanical Design",
+                        "credits": "3",
+                        "desc": "Fundamentals of biomechanical design and design of mechanical elements for use in orthopedics and rehabilitation. Integration of static analysis, stress analysis, and failure theories with practical biomedical design constraints. Use of CAD, finite element techniques and interactive anthropometric computer graphics in ergonomics and rehabilitation. Group design homework projects in rehabilitation or other biomedical applications. Formerly offered as 298. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: ENGR 106 & ENGR 201 & BE 202.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BMED 4000",
+                        "name": "Biomedical Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 102",
+                        "name": "Principles Of Microeconomics",
+                        "credits": "3",
+                        "desc": "An introduction to microeconomic principles. Students will be introduced to the analytical tools of microeconomic analysis used to examine the behavior of consumers and producers, and how they interact in various types of market structures to determine prices and outputs. Students are also introduced to market failures and to alternative policies that may be implemented to deal with them. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: Score a 1 or 2 on Math Placement Test or earn a grade of C- or better in MATH 108 or 110.",
+                        "department": "Economics",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101",
+                        "name": "Writing And Rhetoric",
+                        "credits": "3",
+                        "desc": "ENG 101 offers students opportunities to improve as writers through critical reading and careful composition. Students will be introduced to methods of rhetorical and textual analysis as well as of invention, organization, and revision. The course is designed to help students develop their ability to think analytically and creatively, to articulate their ideas clearly, and to craft optimally persuasive communications. Emphasis will also be placed on information literacy and appropriate practices of scholarly writing and research. The purpose of this course is to help students develop as writers by practicing different forms of writing as well as revision, by learning and applying the rudiments of grammar and style, and by analyzing good writing. Course Components: Lecture Required. Enrollment Information: Consent: Department Consent Required.",
+                        "department": "English",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 101H",
+                        "name": "Writing And Rhetoric: Honors",
+                        "credits": "3",
+                        "desc": "ENG 101H offers students opportunities to improve as writers through critical reading and careful composition. Students will be introduced to methods of rhetorical and textual analysis as well as of invention, organization, and revision. The course is designed to help students develop their ability to think analytically and creatively, to articulate their ideas clearly, and to craft optimally persuasive communications. Emphasis will also be placed on information literacy and appropriate practices of scholarly writing and research. The purpose of this course is to help students develop as writers by practicing different forms of writing as well as revision, by learning and applying the rudiments of grammar and style, and by analyzing good writing. Course Components: Lecture Required. Enrollment Information: Consent: Department Consent Required.",
+                        "department": "English",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2110",
+                        "name": "Strategic Writing",
+                        "note": "--",
+                        "desc": "This course is designed to assist students in becoming more self-possessed and versatile writers. The course offers instruction in linguistic, rhetorical, and sociocultural concepts through its overarching focus on language: how it works, where it falls short, and how to harness it for specific purposes. Critical thinking and composing are conceptualized as processes, which includes the creation, development, organization, and revision of ideas and arguments. Students will complete a series of writing assignments in order to participate in contemporary debates occurring in both public and academic contexts.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 102",
+                        "name": "Introduction To Engineering Design And Professionalism",
+                        "credits": "3",
+                        "desc": "Lectures focus on the design process and professionalism. Implementation of the design process through interdisciplinary design projects with emphasis on teamwork, scheduling, analysis, decision making, and oral and written communication skills. Course Components: Laboratory Required. Lecture Required. Enrollment Information: Enrollment Requirement: open to first-year and sophomore students in the School of Engineering or joint degree BSArchitecture/BCE students.",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2050",
+                        "name": "Introduction To Engineering Design",
+                        "note": "--",
+                        "desc": "A first course in engineering design which emphasizes creativity, teamwork, communication, and work across engineering disciplines. Students are introduced to the design process through a semester-long project which provides a design-build-test experience. Oral and written communication are important elements of the course. The course meets with ENGR 1010. Contact, Lecture or Lab Hours: 6 contact hours.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 106",
+                        "name": "Computer Aided Engineering Tools",
+                        "credits": "3",
+                        "desc": "Introduction to Graphical Communications Tools. Two-dimensional engineering drawings using Computer Aided Design (CAD) software; three-view drawings; auxiliary views; isometric and oblique projections; sections. Introduction to 3-D and advanced modeling using CAD Tools. Course Components: Lecture Required.",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ENGR 1200",
+                        "name": "Engineering Graphics And Cad",
+                        "note": "--",
+                        "desc": "An introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic and isometric free-hand sketching, and computergenerated design documentation. Contact, Lecture or Lab Hours: 3 contact hours.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 201",
+                        "name": "Engineering Mechanics I",
+                        "credits": "3",
+                        "desc": "Topics covered include: Vector algebra, force vectors; concurrent force systems and equilibrium of particles; moment systems and equilibrium of rigid bodies. Structural applications and machines; internal forces; friction; moments of inertia. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: MATH 121 and concurrent enrollment in both MATH 122 and PHYS 215 (or 215H).",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1100",
+                        "name": "Introduction To Engineering Analysis",
+                        "note": "--",
+                        "desc": "An integrated development of linear algebra and statics emphasizing engineering applications and also incorporating computer exercises involving matrix techniques and calculations using available software packages.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 211",
+                        "name": "Thermodynamics",
+                        "credits": "3",
+                        "desc": "An introductory course in thermodynamics, intended to introduce sophomores to the fundamentals of thermal processes. It is one of three courses composing the fundamentals of the thermo-fluid sciences curriculum, the other two being fluid mechanics and heat transfer. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: MATH 122, PHYS 215 (or 215H), and ENGR 201.",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MANE 2710",
+                        "name": "Thermodynamics",
+                        "note": "--",
+                        "desc": "Introduction to the First and Second Laws of Thermodynamics for open and closed systems. Thermodynamic properties of solids, liquids, and gases. Elementary power and refrigeration cycles.",
+                        "department": "Mechanical Aerospace Nuclear Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 212",
+                        "name": "Electric Networks",
+                        "credits": "3",
+                        "desc": "The basic theory of electric circuits including the basic laws and techniques used in the analysis of electric circuits, transient and steady state response, and steady state sinusoidal analysis are studied. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: MATH 122, PHYS 215 (or 215H), and PHYS 216 (or 216H).",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BMED 2300",
+                        "name": "Bioimaging And Bioinstrumentation",
+                        "note": "--",
+                        "desc": "This course serves as an introduction to biomedical instrumentation and imaging with focus on the acquisition and monitoring of vital signals. Basic principles for the selection and appropriate use of instruments for solving bioengineering and medical problems such as microscopy, magnetic resonance imaging, and ultrasounds, among others are addressed.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 222",
+                        "name": "Engineering Mathematics I",
+                        "credits": "4",
+                        "desc": "Differential equations is the language of engineers and is an important tool for formulating mathematical models of physical problems encountered in everyday engineering practice. In this class, you will be taught various tools for formulating, solving, analyzing, and interpreting mathematical models of physical problems. Analysis of 1st & 2nd order differential equations using analytical, numerical, and graphical techniques will be taught. Lectures will be complemented by weekly computer laboratory sessions teaching and using Matlab for solving real-world problems in engineering. Course Components: Laboratory Required. Lecture Required. Enrollment Information: Enrollment Requirement: MATH 122.",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BMED 2000",
+                        "name": "Biomedical Engineering Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BMED 2050",
+                        "name": "Programming For Bme",
+                        "note": "--",
+                        "desc": "Introduction of number systems \u2013 decimal, binary and hexadecimal \u2013; variable types including Boolean, integer, float, character and string; general overview of computer architecture and software, programming in \u201cC/C++\u201d including input/output, control statements, operators, functions, arrays, strings, classes, objects, inheritance, pointers, references, file processing, exceptions and operator overloading; overview of other programming languages including Matlab, R and Python; design of algorithms for applications that are relevant for biomedical engineering applications.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 321",
+                        "name": "Electronic Circuits I",
+                        "credits": "3",
+                        "desc": "The course presents the fundamentals of electronic circuits. The course includes the study of semiconductor materials, junction diodes, bipolar junction transistors, field effect transistors, and operational amplifiers. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: ENGR 212 (or 212H) and MATH 122.",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    },
+                    {
+                        "id": "ENGR 355",
+                        "name": "Electrical Laboratory I",
+                        "credits": "1",
+                        "desc": "A correlated sequence of laboratory experiments to illustrate the fundamentals of electronic principles and components as a basis for engineering system design. Emphasis on analog filters, semiconductor devices, operational amplifiers, digital circuits, and transducers, followed by diodes, bipolar junction and field effect transistor applications. Course Components: Laboratory Required.",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2300",
+                        "name": "Electronic Instrumentation",
+                        "note": "--",
+                        "desc": "A survey, application-oriented course for engineering and science majors. Transducers and measurement devices. DC and AC analog circuits including impedance, power, frequency response, and resonance. Diodes, transistors, and operational amplifiers. Signal conditioning, noise, and shielding. Digital electronics, A/D and D/A conversation. Power supplies, rectifiers, and electromagnetic devices.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 331",
+                        "name": "Fluid Mechanics",
+                        "credits": "3",
+                        "desc": "This course covers the basic concepts, laws, processes, and problem-solving techniques of fluid flows. It discusses fluid properties, statics, kinematics, dynamics, conservation of mass & momentum, Bernoulli's equation, potential (inviscid) flows, viscous flows, boundary layers theory, dimensional analysis, and engineering applications of internal and external flows. Course Components: Lecture Required. Enrollment Information: Enrollment Requirement: ENGR 201, ENGR 222 (or 222H), MATH 122, PHYS 215 (or 215H).",
+                        "department": "Engineering",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BMED 4250",
+                        "name": "Biomedical Transport Phenomena",
+                        "note": "--",
+                        "desc": "Quantitative analysis of transport phenomena in physiological systems, including fluid mechanics, thermodynamics, and mass transfer. Fluid statics, mass and energy conservation, laminar and turbulent flow, microscale and macroscale analytical methods, mass transport with biochemical reactions, applications to transport in tissue and organs will be introduced.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 309",
+                        "name": "Probability And Statistics For Engineers",
+                        "credits": "3",
+                        "desc": "Course intended for engineering students and students working towards obtaining a minor in mathematics. Introduction to probability, random variables and probability distributions, mathematical expectations, discrete and continuous probability distributions, sampling distributions, point and interval estimation, hypothesis testing. Time permitting - simple linear regression and correlation will also be covered. Course: Components: Lecture Required. Enrollment Information: Enrollment Requirement: MATH 122 (C- or better).",
+                        "department": "Math",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2600",
+                        "name": "Modeling And Analysis Of Uncertainty",
+                        "note": "--",
+                        "desc": "Appreciation and understanding of uncertainties and the conditions under which they occur, within the context of the engineering problem-solving pedagogy of measurements, models, validation, and analysis. Problems and concerns in obtaining measurements; tabular and graphical organization of data to minimize misinformation and maximize information; and development and evaluation of models. Concepts will be supported with computer demonstration. Applications to problems in engineering are emphasized.",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 201",
+                        "name": "The Classical Mind: The Origin And Growth Of Western Philosophy",
+                        "credits": "3",
+                        "desc": "An introduction to philosophy, using the original writings of several philosophers from the ancient and medieval periods, with a more general consideration of the history of philosophy. Enduring Questions addressed: (1) What does it mean to be human? What is our place in nature and in the cosmos? (2) What makes a life good? How can we live a good life or best pursue it? What is opposed to it? Course Components: Lecture Required. Enrollment Information: Consent: Department Consent Required. Enrollment Requirement: Not open to students who have already taken PHIL 201, PHIL 211 or HSPH 101 without department consent.",
+                        "department": "Philosophy",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 202",
+                        "name": "The Modern Mind: Philosophy From Descartes To The Present",
+                        "credits": "3",
+                        "desc": "An introduction to modern philosophy focusing on texts from selected modern and recent thinkers; traces the development of Western philosophical thought from the seventeenth to the twentieth century. The intent of this course and its prerequisite is to utilize history and the texts of great philosophers to establish the structure and methodology of philosophical thinking. Enduring Questions addressed: (1) What does it mean to be human? What is our place in nature and in the cosmos? (2) What makes a life good? How can we live a good life or best pursue it? What is opposed to it? Course Components: Lecture Required. Enrollment Information: Consent: Department Consent Required. Enrollment Requirement: PHIL 201 or 211; Not open to students who have already taken PHIL 202, PHIL 212 or HSPH 102 without department consent.",
+                        "department": "Philosophy",
+                        "catalog": "Catholic University of America Course Descriptions 2022-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Cayuga Community College": {
+        "city": "Auburn",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ART 103",
+                        "name": "Essentials Of Art",
+                        "credits": "3",
+                        "desc": "Introduces the use of foundational art techniques employed by artists, and preschool and elementary teachers. Focuses on basic design, color theory and elements of composition as well as the application of various drawing and painting techniques. Directs students\u2019 interests and talents toward an individual form of self-expression. This course is not intended for Studio Art and Design majors. Studio Art and Design majors may not enroll in Art 103 if they have already completed a higher level course. (The Arts).",
+                        "department": "Art",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 100",
+                        "name": "Human Biology",
+                        "credits": "4",
+                        "desc": "Non-sequential course for non-science majors. Balanced introduction to human anatomy and physiology, cancer, genetics and inheritance, development and aging, evolution, ecosystems and populations, human impact on biodiversity and the environment. (Natural Sciences).",
+                        "department": "Biology",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 103",
+                        "name": "General Biology I",
+                        "credits": "4",
+                        "desc": "This is the first course in a two-semester sequence, and is intended for math/science or health science majors, or students interested in more rigorous scientific study. This course deals with the fundamental concepts and principles of biology, and explores the topics of scientific methodology and the nature of science, cell structure and function, basic biochemistry, molecular biology, biological energy transformation, evolution, and a survey of the classification of the three domains of organisms. (Natural Sciences).",
+                        "department": "Biology",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL 216",
+                        "name": "General Microbiology",
+                        "credits": "4",
+                        "desc": "Balanced introduction to basic microbiology (biochemistry, taxonomy, genetics, and cell biology), clinical microbiology (pathogenic bacteriology); and applied microbiology (food and industrial microbiology and ecological microbiology). (Natural Sciences).",
+                        "department": "Biology",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
     }
 }
