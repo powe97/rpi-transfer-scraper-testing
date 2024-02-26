@@ -50128,6 +50128,2401 @@
     "Bryant & Stratton College-Southtowns": {
         "city": "Orchard Park",
         "state": "NY",
-        "courses": []
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AG210",
+                        "name": "Accounting Systems",
+                        "credits": "3",
+                        "desc": "Students will explore concepts and applications of accounting through the use of integrated technology.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4220",
+                        "name": "Accounting Information Systems",
+                        "note": "--",
+                        "desc": "This course provides the background for understanding how the accounting system works and also how the accounting system fits into the overall information system of the firm.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG220",
+                        "name": "Financial Analysis",
+                        "credits": "3",
+                        "desc": "Fundamental concepts of financial analysis and planning are covered. Students will apply ratio analysis and techniques to determine strengths and weaknesses of an organization. Capital budgeting, debt and equity fund raising, and forecasting based on budgets and cash projections are included with more advanced focus upon financial statements, cash, and temporary investments.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4260",
+                        "name": "Financial Statement Analysis",
+                        "note": "--",
+                        "desc": "This course is designed to strengthen students\u2019 ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Throughout the semester the course will cover how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class. Cross Listed: MGMT 6430. Students cannot receive credit for both MGMT 4260 and MGMT 6430.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG230",
+                        "name": "Cost Accounting",
+                        "credits": "3",
+                        "desc": "A study of job order and process cost accounting systems is provided. Cost applications for manufacturing, materials, labor, factory overhead, departmental costs, direct and absorption costing methods, and a more in-depth study of break-even and cost-volumeprofit analysis are covered. An overview of activity based costing (ABC) is also included.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4100",
+                        "name": "Quantitative Methods For Business",
+                        "note": "--",
+                        "desc": "This course introduces the student to the business management of production and operations systems. The concepts are related to inventory control, forecasting, scheduling, man-powers, and facilities planning. Computer usage includes Excel and specialized packages.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG260",
+                        "name": "Internship",
+                        "credits": "3",
+                        "desc": "A field experience under the supervision and evaluation of a cooperating facility and the college is provided. Students utilize knowledge and skills gained in the career program for a minimum of 90 clock hours. Students also attend classroom seminars for coordination and evaluation of the Internship experience and the development of a personal marketing plan.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "An introductory course covering marketing terms and concepts. The marketing environment, the buyer decision making process, segmentation, targeting, positioning, the marketing mix, marketing in the non-profit sector, and the selling process are examined. Special emphasis is also given to the role of research/demographics.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management (Lsom)",
+                        "catalog": "Rensselaer Polytechnic Institute 2013-2014"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG110",
+                        "name": "Accounting Principles I",
+                        "credits": "3",
+                        "desc": "An introduction to accounting concepts, principles, and practices is provided. This course focuses on the accounting cycle, the recording process, financial statement preparation, merchandising, payroll and cash control.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    },
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI215",
+                        "name": "Management Principles",
+                        "credits": "3",
+                        "desc": "A survey of the functions of management: planning, organizing, directing, and controlling. Special emphasis is placed on strategic planning, forecasting, and business ethics. Students research management theories and applications. Management cases are analyzed and discussed.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS100",
+                        "name": "Business Principles",
+                        "credits": "3",
+                        "desc": "Business Principles provides an introduction to fundamental business operations. The course provides insight into the global economy as well as explores management, marketing, economics, human resources, ethics and financial principles.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "Marketing Principles is designed to teach students the fundamental marketing terms and concepts used in contemporary marketing. The marketing approach includes defining the market environment, market research, and the marketing mix (4 P's: product, price, promotion and place). At the conclusion of the course, students will develop and present their marketing plan.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON220",
+                        "name": "Macroeconomics",
+                        "credits": "3",
+                        "desc": "This course will introduce the students to issues in macro theory through the use of models, principles and econometric analysis. Topics will include: opportunity costs, supply and demand, market equilibrium, and the assessment of GNP/GDP. Discussions will focus on the impact of business cycles, the role of government in the economy, the financial system, the role of monetary policy and the major issues facing the U.S. economy. Social Sciences.",
+                        "department": "Economics",
+                        "catalog": "Bryant & Stratton College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL101",
+                        "name": "Research And Writing I",
+                        "credits": "3",
+                        "desc": "Students develop their expository and persuasive writing skills through varied writing experiences. Information literacy skills and research techniques are introduced and reinforced. Students apply their information literacy and writing skills to produce a paper which incorporates research in appropriate APA citation style. Humanities.",
+                        "department": "English",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NSCI280",
+                        "name": "Ecology",
+                        "credits": "3",
+                        "desc": "This course introduces students to environmental science, and examines the human/environmental relationship, fundamental ecological principles, energy resources, human impact on ecosystems, and industry's impact on ecosystems, natural disasters, and cutting-edge environmental issues. Natural Science.",
+                        "department": "Natural Science",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IENV 1000",
+                        "name": "Interdisciplinary Environmental Courses Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Environmental Courses",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC101",
+                        "name": "Principles Of Psychology",
+                        "credits": "3",
+                        "desc": "This course provides students with an introduction to psychology and the science of human behavior. Students are exposed to concepts, terminology, principles, and theories foundational to the discipline. Featured topics include research methods, reasoning and thinking practices, developmental and social psychology as they relate to the workplace. Social Science.",
+                        "department": "Psychology",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bryant & Stratton College-Syracuse": {
+        "city": "Syracuse",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AG210",
+                        "name": "Accounting Systems",
+                        "credits": "3",
+                        "desc": "Students will explore concepts and applications of accounting through the use of integrated technology.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4220",
+                        "name": "Accounting Information Systems",
+                        "note": "--",
+                        "desc": "This course provides the background for understanding how the accounting system works and also how the accounting system fits into the overall information system of the firm.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG220",
+                        "name": "Financial Analysis",
+                        "credits": "3",
+                        "desc": "Fundamental concepts of financial analysis and planning are covered. Students will apply ratio analysis and techniques to determine strengths and weaknesses of an organization. Capital budgeting, debt and equity fund raising, and forecasting based on budgets and cash projections are included with more advanced focus upon financial statements, cash, and temporary investments.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4260",
+                        "name": "Financial Statement Analysis",
+                        "note": "--",
+                        "desc": "This course is designed to strengthen students\u2019 ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Throughout the semester the course will cover how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class. Cross Listed: MGMT 6430. Students cannot receive credit for both MGMT 4260 and MGMT 6430.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG230",
+                        "name": "Cost Accounting",
+                        "credits": "3",
+                        "desc": "A study of job order and process cost accounting systems is provided. Cost applications for manufacturing, materials, labor, factory overhead, departmental costs, direct and absorption costing methods, and a more in-depth study of break-even and cost-volumeprofit analysis are covered. An overview of activity based costing (ABC) is also included.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4100",
+                        "name": "Quantitative Methods For Business",
+                        "note": "--",
+                        "desc": "This course introduces the student to the business management of production and operations systems. The concepts are related to inventory control, forecasting, scheduling, man-powers, and facilities planning. Computer usage includes Excel and specialized packages.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG260",
+                        "name": "Internship",
+                        "credits": "3",
+                        "desc": "A field experience under the supervision and evaluation of a cooperating facility and the college is provided. Students utilize knowledge and skills gained in the career program for a minimum of 90 clock hours. Students also attend classroom seminars for coordination and evaluation of the Internship experience and the development of a personal marketing plan.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "An introductory course covering marketing terms and concepts. The marketing environment, the buyer decision making process, segmentation, targeting, positioning, the marketing mix, marketing in the non-profit sector, and the selling process are examined. Special emphasis is also given to the role of research/demographics.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management (Lsom)",
+                        "catalog": "Rensselaer Polytechnic Institute 2013-2014"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG110",
+                        "name": "Accounting Principles I",
+                        "credits": "3",
+                        "desc": "An introduction to accounting concepts, principles, and practices is provided. This course focuses on the accounting cycle, the recording process, financial statement preparation, merchandising, payroll and cash control.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    },
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI215",
+                        "name": "Management Principles",
+                        "credits": "3",
+                        "desc": "A survey of the functions of management: planning, organizing, directing, and controlling. Special emphasis is placed on strategic planning, forecasting, and business ethics. Students research management theories and applications. Management cases are analyzed and discussed.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS100",
+                        "name": "Business Principles",
+                        "credits": "3",
+                        "desc": "Business Principles provides an introduction to fundamental business operations. The course provides insight into the global economy as well as explores management, marketing, economics, human resources, ethics and financial principles.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "Marketing Principles is designed to teach students the fundamental marketing terms and concepts used in contemporary marketing. The marketing approach includes defining the market environment, market research, and the marketing mix (4 P's: product, price, promotion and place). At the conclusion of the course, students will develop and present their marketing plan.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON220",
+                        "name": "Macroeconomics",
+                        "credits": "3",
+                        "desc": "This course will introduce the students to issues in macro theory through the use of models, principles and econometric analysis. Topics will include: opportunity costs, supply and demand, market equilibrium, and the assessment of GNP/GDP. Discussions will focus on the impact of business cycles, the role of government in the economy, the financial system, the role of monetary policy and the major issues facing the U.S. economy. Social Sciences.",
+                        "department": "Economics",
+                        "catalog": "Bryant & Stratton College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL101",
+                        "name": "Research And Writing I",
+                        "credits": "3",
+                        "desc": "Students develop their expository and persuasive writing skills through varied writing experiences. Information literacy skills and research techniques are introduced and reinforced. Students apply their information literacy and writing skills to produce a paper which incorporates research in appropriate APA citation style. Humanities.",
+                        "department": "English",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NSCI280",
+                        "name": "Ecology",
+                        "credits": "3",
+                        "desc": "This course introduces students to environmental science, and examines the human/environmental relationship, fundamental ecological principles, energy resources, human impact on ecosystems, and industry's impact on ecosystems, natural disasters, and cutting-edge environmental issues. Natural Science.",
+                        "department": "Natural Science",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IENV 1000",
+                        "name": "Interdisciplinary Environmental Courses Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Environmental Courses",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC101",
+                        "name": "Principles Of Psychology",
+                        "credits": "3",
+                        "desc": "This course provides students with an introduction to psychology and the science of human behavior. Students are exposed to concepts, terminology, principles, and theories foundational to the discipline. Featured topics include research methods, reasoning and thinking practices, developmental and social psychology as they relate to the workplace. Social Science.",
+                        "department": "Psychology",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bryant & Stratton College-Syracuse North": {
+        "city": "Liverpool",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AG210",
+                        "name": "Accounting Systems",
+                        "credits": "3",
+                        "desc": "Students will explore concepts and applications of accounting through the use of integrated technology.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4220",
+                        "name": "Accounting Information Systems",
+                        "note": "--",
+                        "desc": "This course provides the background for understanding how the accounting system works and also how the accounting system fits into the overall information system of the firm.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG220",
+                        "name": "Financial Analysis",
+                        "credits": "3",
+                        "desc": "Fundamental concepts of financial analysis and planning are covered. Students will apply ratio analysis and techniques to determine strengths and weaknesses of an organization. Capital budgeting, debt and equity fund raising, and forecasting based on budgets and cash projections are included with more advanced focus upon financial statements, cash, and temporary investments.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4260",
+                        "name": "Financial Statement Analysis",
+                        "note": "--",
+                        "desc": "This course is designed to strengthen students\u2019 ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Throughout the semester the course will cover how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class. Cross Listed: MGMT 6430. Students cannot receive credit for both MGMT 4260 and MGMT 6430.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG230",
+                        "name": "Cost Accounting",
+                        "credits": "3",
+                        "desc": "A study of job order and process cost accounting systems is provided. Cost applications for manufacturing, materials, labor, factory overhead, departmental costs, direct and absorption costing methods, and a more in-depth study of break-even and cost-volumeprofit analysis are covered. An overview of activity based costing (ABC) is also included.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4100",
+                        "name": "Quantitative Methods For Business",
+                        "note": "--",
+                        "desc": "This course introduces the student to the business management of production and operations systems. The concepts are related to inventory control, forecasting, scheduling, man-powers, and facilities planning. Computer usage includes Excel and specialized packages.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG260",
+                        "name": "Internship",
+                        "credits": "3",
+                        "desc": "A field experience under the supervision and evaluation of a cooperating facility and the college is provided. Students utilize knowledge and skills gained in the career program for a minimum of 90 clock hours. Students also attend classroom seminars for coordination and evaluation of the Internship experience and the development of a personal marketing plan.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "An introductory course covering marketing terms and concepts. The marketing environment, the buyer decision making process, segmentation, targeting, positioning, the marketing mix, marketing in the non-profit sector, and the selling process are examined. Special emphasis is also given to the role of research/demographics.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management (Lsom)",
+                        "catalog": "Rensselaer Polytechnic Institute 2013-2014"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG110",
+                        "name": "Accounting Principles I",
+                        "credits": "3",
+                        "desc": "An introduction to accounting concepts, principles, and practices is provided. This course focuses on the accounting cycle, the recording process, financial statement preparation, merchandising, payroll and cash control.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    },
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI215",
+                        "name": "Management Principles",
+                        "credits": "3",
+                        "desc": "A survey of the functions of management: planning, organizing, directing, and controlling. Special emphasis is placed on strategic planning, forecasting, and business ethics. Students research management theories and applications. Management cases are analyzed and discussed.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS100",
+                        "name": "Business Principles",
+                        "credits": "3",
+                        "desc": "Business Principles provides an introduction to fundamental business operations. The course provides insight into the global economy as well as explores management, marketing, economics, human resources, ethics and financial principles.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "Marketing Principles is designed to teach students the fundamental marketing terms and concepts used in contemporary marketing. The marketing approach includes defining the market environment, market research, and the marketing mix (4 P's: product, price, promotion and place). At the conclusion of the course, students will develop and present their marketing plan.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON220",
+                        "name": "Macroeconomics",
+                        "credits": "3",
+                        "desc": "This course will introduce the students to issues in macro theory through the use of models, principles and econometric analysis. Topics will include: opportunity costs, supply and demand, market equilibrium, and the assessment of GNP/GDP. Discussions will focus on the impact of business cycles, the role of government in the economy, the financial system, the role of monetary policy and the major issues facing the U.S. economy. Social Sciences.",
+                        "department": "Economics",
+                        "catalog": "Bryant & Stratton College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL101",
+                        "name": "Research And Writing I",
+                        "credits": "3",
+                        "desc": "Students develop their expository and persuasive writing skills through varied writing experiences. Information literacy skills and research techniques are introduced and reinforced. Students apply their information literacy and writing skills to produce a paper which incorporates research in appropriate APA citation style. Humanities.",
+                        "department": "English",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NSCI280",
+                        "name": "Ecology",
+                        "credits": "3",
+                        "desc": "This course introduces students to environmental science, and examines the human/environmental relationship, fundamental ecological principles, energy resources, human impact on ecosystems, and industry's impact on ecosystems, natural disasters, and cutting-edge environmental issues. Natural Science.",
+                        "department": "Natural Science",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IENV 1000",
+                        "name": "Interdisciplinary Environmental Courses Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Environmental Courses",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC101",
+                        "name": "Principles Of Psychology",
+                        "credits": "3",
+                        "desc": "This course provides students with an introduction to psychology and the science of human behavior. Students are exposed to concepts, terminology, principles, and theories foundational to the discipline. Featured topics include research methods, reasoning and thinking practices, developmental and social psychology as they relate to the workplace. Social Science.",
+                        "department": "Psychology",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bryant & Stratton College-Virginia Beach": {
+        "city": "Virginia Beach",
+        "state": "VA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AG210",
+                        "name": "Accounting Systems",
+                        "credits": "3",
+                        "desc": "Students will explore concepts and applications of accounting through the use of integrated technology.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4220",
+                        "name": "Accounting Information Systems",
+                        "note": "--",
+                        "desc": "This course provides the background for understanding how the accounting system works and also how the accounting system fits into the overall information system of the firm.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG220",
+                        "name": "Financial Analysis",
+                        "credits": "3",
+                        "desc": "Fundamental concepts of financial analysis and planning are covered. Students will apply ratio analysis and techniques to determine strengths and weaknesses of an organization. Capital budgeting, debt and equity fund raising, and forecasting based on budgets and cash projections are included with more advanced focus upon financial statements, cash, and temporary investments.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4260",
+                        "name": "Financial Statement Analysis",
+                        "note": "--",
+                        "desc": "This course is designed to strengthen students\u2019 ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Throughout the semester the course will cover how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class. Cross Listed: MGMT 6430. Students cannot receive credit for both MGMT 4260 and MGMT 6430.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG230",
+                        "name": "Cost Accounting",
+                        "credits": "3",
+                        "desc": "A study of job order and process cost accounting systems is provided. Cost applications for manufacturing, materials, labor, factory overhead, departmental costs, direct and absorption costing methods, and a more in-depth study of break-even and cost-volumeprofit analysis are covered. An overview of activity based costing (ABC) is also included.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4100",
+                        "name": "Quantitative Methods For Business",
+                        "note": "--",
+                        "desc": "This course introduces the student to the business management of production and operations systems. The concepts are related to inventory control, forecasting, scheduling, man-powers, and facilities planning. Computer usage includes Excel and specialized packages.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG260",
+                        "name": "Internship",
+                        "credits": "3",
+                        "desc": "A field experience under the supervision and evaluation of a cooperating facility and the college is provided. Students utilize knowledge and skills gained in the career program for a minimum of 90 clock hours. Students also attend classroom seminars for coordination and evaluation of the Internship experience and the development of a personal marketing plan.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "An introductory course covering marketing terms and concepts. The marketing environment, the buyer decision making process, segmentation, targeting, positioning, the marketing mix, marketing in the non-profit sector, and the selling process are examined. Special emphasis is also given to the role of research/demographics.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management (Lsom)",
+                        "catalog": "Rensselaer Polytechnic Institute 2013-2014"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG110",
+                        "name": "Accounting Principles I",
+                        "credits": "3",
+                        "desc": "An introduction to accounting concepts, principles, and practices is provided. This course focuses on the accounting cycle, the recording process, financial statement preparation, merchandising, payroll and cash control.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    },
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI215",
+                        "name": "Management Principles",
+                        "credits": "3",
+                        "desc": "A survey of the functions of management: planning, organizing, directing, and controlling. Special emphasis is placed on strategic planning, forecasting, and business ethics. Students research management theories and applications. Management cases are analyzed and discussed.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS100",
+                        "name": "Business Principles",
+                        "credits": "3",
+                        "desc": "Business Principles provides an introduction to fundamental business operations. The course provides insight into the global economy as well as explores management, marketing, economics, human resources, ethics and financial principles.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "Marketing Principles is designed to teach students the fundamental marketing terms and concepts used in contemporary marketing. The marketing approach includes defining the market environment, market research, and the marketing mix (4 P's: product, price, promotion and place). At the conclusion of the course, students will develop and present their marketing plan.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON220",
+                        "name": "Macroeconomics",
+                        "credits": "3",
+                        "desc": "This course will introduce the students to issues in macro theory through the use of models, principles and econometric analysis. Topics will include: opportunity costs, supply and demand, market equilibrium, and the assessment of GNP/GDP. Discussions will focus on the impact of business cycles, the role of government in the economy, the financial system, the role of monetary policy and the major issues facing the U.S. economy. Social Sciences.",
+                        "department": "Economics",
+                        "catalog": "Bryant & Stratton College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL101",
+                        "name": "Research And Writing I",
+                        "credits": "3",
+                        "desc": "Students develop their expository and persuasive writing skills through varied writing experiences. Information literacy skills and research techniques are introduced and reinforced. Students apply their information literacy and writing skills to produce a paper which incorporates research in appropriate APA citation style. Humanities.",
+                        "department": "English",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NSCI280",
+                        "name": "Ecology",
+                        "credits": "3",
+                        "desc": "This course introduces students to environmental science, and examines the human/environmental relationship, fundamental ecological principles, energy resources, human impact on ecosystems, and industry's impact on ecosystems, natural disasters, and cutting-edge environmental issues. Natural Science.",
+                        "department": "Natural Science",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IENV 1000",
+                        "name": "Interdisciplinary Environmental Courses Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Environmental Courses",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC101",
+                        "name": "Principles Of Psychology",
+                        "credits": "3",
+                        "desc": "This course provides students with an introduction to psychology and the science of human behavior. Students are exposed to concepts, terminology, principles, and theories foundational to the discipline. Featured topics include research methods, reasoning and thinking practices, developmental and social psychology as they relate to the workplace. Social Science.",
+                        "department": "Psychology",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bryant & Stratton College-Wauwatosa": {
+        "city": "Wauwatosa",
+        "state": "WI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AG210",
+                        "name": "Accounting Systems",
+                        "credits": "3",
+                        "desc": "Students will explore concepts and applications of accounting through the use of integrated technology.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4220",
+                        "name": "Accounting Information Systems",
+                        "note": "--",
+                        "desc": "This course provides the background for understanding how the accounting system works and also how the accounting system fits into the overall information system of the firm.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG220",
+                        "name": "Financial Analysis",
+                        "credits": "3",
+                        "desc": "Fundamental concepts of financial analysis and planning are covered. Students will apply ratio analysis and techniques to determine strengths and weaknesses of an organization. Capital budgeting, debt and equity fund raising, and forecasting based on budgets and cash projections are included with more advanced focus upon financial statements, cash, and temporary investments.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4260",
+                        "name": "Financial Statement Analysis",
+                        "note": "--",
+                        "desc": "This course is designed to strengthen students\u2019 ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Throughout the semester the course will cover how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class. Cross Listed: MGMT 6430. Students cannot receive credit for both MGMT 4260 and MGMT 6430.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG230",
+                        "name": "Cost Accounting",
+                        "credits": "3",
+                        "desc": "A study of job order and process cost accounting systems is provided. Cost applications for manufacturing, materials, labor, factory overhead, departmental costs, direct and absorption costing methods, and a more in-depth study of break-even and cost-volumeprofit analysis are covered. An overview of activity based costing (ABC) is also included.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4100",
+                        "name": "Quantitative Methods For Business",
+                        "note": "--",
+                        "desc": "This course introduces the student to the business management of production and operations systems. The concepts are related to inventory control, forecasting, scheduling, man-powers, and facilities planning. Computer usage includes Excel and specialized packages.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG260",
+                        "name": "Internship",
+                        "credits": "3",
+                        "desc": "A field experience under the supervision and evaluation of a cooperating facility and the college is provided. Students utilize knowledge and skills gained in the career program for a minimum of 90 clock hours. Students also attend classroom seminars for coordination and evaluation of the Internship experience and the development of a personal marketing plan.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "An introductory course covering marketing terms and concepts. The marketing environment, the buyer decision making process, segmentation, targeting, positioning, the marketing mix, marketing in the non-profit sector, and the selling process are examined. Special emphasis is also given to the role of research/demographics.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management (Lsom)",
+                        "catalog": "Rensselaer Polytechnic Institute 2013-2014"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AG110",
+                        "name": "Accounting Principles I",
+                        "credits": "3",
+                        "desc": "An introduction to accounting concepts, principles, and practices is provided. This course focuses on the accounting cycle, the recording process, financial statement preparation, merchandising, payroll and cash control.",
+                        "department": "Accounting",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    },
+                    {
+                        "id": "BI130",
+                        "name": "Business Law",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the study of law, courts, and court procedures. Emphasis is placed on contracts, sales, titles, and product warranties and liabilities from a consumer and business standpoint. Students explore legal principles through the use of exercises and cases.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BI215",
+                        "name": "Management Principles",
+                        "credits": "3",
+                        "desc": "A survey of the functions of management: planning, organizing, directing, and controlling. Special emphasis is placed on strategic planning, forecasting, and business ethics. Students research management theories and applications. Management cases are analyzed and discussed.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS100",
+                        "name": "Business Principles",
+                        "credits": "3",
+                        "desc": "Business Principles provides an introduction to fundamental business operations. The course provides insight into the global economy as well as explores management, marketing, economics, human resources, ethics and financial principles.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUSS110",
+                        "name": "Marketing Principles",
+                        "credits": "3",
+                        "desc": "Marketing Principles is designed to teach students the fundamental marketing terms and concepts used in contemporary marketing. The marketing approach includes defining the market environment, market research, and the marketing mix (4 P's: product, price, promotion and place). At the conclusion of the course, students will develop and present their marketing plan.",
+                        "department": "Business",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON220",
+                        "name": "Macroeconomics",
+                        "credits": "3",
+                        "desc": "This course will introduce the students to issues in macro theory through the use of models, principles and econometric analysis. Topics will include: opportunity costs, supply and demand, market equilibrium, and the assessment of GNP/GDP. Discussions will focus on the impact of business cycles, the role of government in the economy, the financial system, the role of monetary policy and the major issues facing the U.S. economy. Social Sciences.",
+                        "department": "Economics",
+                        "catalog": "Bryant & Stratton College 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL101",
+                        "name": "Research And Writing I",
+                        "credits": "3",
+                        "desc": "Students develop their expository and persuasive writing skills through varied writing experiences. Information literacy skills and research techniques are introduced and reinforced. Students apply their information literacy and writing skills to produce a paper which incorporates research in appropriate APA citation style. Humanities.",
+                        "department": "English",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NSCI280",
+                        "name": "Ecology",
+                        "credits": "3",
+                        "desc": "This course introduces students to environmental science, and examines the human/environmental relationship, fundamental ecological principles, energy resources, human impact on ecosystems, and industry's impact on ecosystems, natural disasters, and cutting-edge environmental issues. Natural Science.",
+                        "department": "Natural Science",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IENV 1000",
+                        "name": "Interdisciplinary Environmental Courses Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Environmental Courses",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC101",
+                        "name": "Principles Of Psychology",
+                        "credits": "3",
+                        "desc": "This course provides students with an introduction to psychology and the science of human behavior. Students are exposed to concepts, terminology, principles, and theories foundational to the discipline. Featured topics include research methods, reasoning and thinking practices, developmental and social psychology as they relate to the workplace. Social Science.",
+                        "department": "Psychology",
+                        "catalog": "Bryant & Stratton College January 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bryant University": {
+        "city": "Smithfield",
+        "state": "RI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CH105",
+                        "name": "Introduction To Chinese Language And Culture I",
+                        "credits": "4",
+                        "desc": "This is an introductory class is standard Chinese (Mandarin). The emphasis is on speaking, listening, comprehension, and basic conversational skills. This course includes a laboratory component.",
+                        "department": "Chinese",
+                        "catalog": "Bryant University Undergraduate 2006-2007"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CH106",
+                        "name": "Introduction To Chinese Language And Culture II",
+                        "credits": "4",
+                        "desc": "This is part two of an introductory class in Chinese (Mandarin). The emphasis continues to be on speaking, listening, comprehension, basic conversational skills and the Chinese writing system. This course includes a laboratory component.",
+                        "department": "Chinese",
+                        "catalog": "Bryant University Undergraduate 2006-2007"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO214",
+                        "name": "Intermediate Macroeconomics",
+                        "credits": "3",
+                        "desc": "This course examines macroeconomics concepts and problems. Students will develop the analytical capability to determine how aggregate demand and aggregate supply are influenced by the public and private sectors as measured by changes in employment, inflation, national output, and international trade. An analysis will also be made of the impact of selected macroeconomic policies that employ classical and Keynesian recommendations for increasing real national output while maintaining price stability.",
+                        "department": "Economics",
+                        "catalog": "Bryant University Undergraduate 2008-2009"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 2020",
+                        "name": "Intermediate Macroeconomic Theory",
+                        "note": "--",
+                        "desc": "Attention is directed primarily to variations in the aggregate volume of output, income, and employment. Cyclical fluctuations and long-term economic trends are examined and the interrelations of business and government policies are analyzed. The applicability of economic theory to the problems of business forecasting is discussed.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO301",
+                        "name": "Money And Banking",
+                        "credits": "3",
+                        "desc": "This course presents the nature and function of money and credit, the process of money creation, the monetary and banking institutions and system. It also introduces students to monetary theory and policy.",
+                        "department": "Economics",
+                        "catalog": "Bryant University Undergraduate 2008-2009"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 4130",
+                        "name": "Money And Banking",
+                        "note": "--",
+                        "desc": "Financial institutions, especially commercial banking and the Federal Reserve System, are considered from three perspectives: their monetary roles; trends in the economic, organizational, and technological aspects of their operations; and their other economic roles-a critical view. Also, the role of money in macroeconomic theory is considered along with the role of monetary policies in relation to the problems of inflation and unemployment.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FIN 201",
+                        "name": "Financial Management",
+                        "credits": "3",
+                        "desc": "This course deals with the financial management of the business enterprise and the role of the financial manager in value creation. Major topics include the time value of money, risk and return, security valuation, capital budgeting, cash and liquidity management, management of current liabilities, dividend policy, cost of capital, capital structure policy and the evaluation of alternative methods of financing.",
+                        "department": "Finance",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2320",
+                        "name": "Managerial Finance",
+                        "note": "--",
+                        "desc": "An introduction to corporate financial analysis and decision making. This course covers the following topics: financial statement analysis, valuation principles, risk and return analysis, working capital management, capital budgeting, cost of capital, capital structure, and dividend policy.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GFCL 100",
+                        "name": "Global Foundations Of Character And Leadership",
+                        "credits": "3",
+                        "desc": "This course explores how multiple disciplinary frameworks and cross cultural perspectives can contribute to students' understanding of the concepts of character and leadership. The course emphasizes the importance of change over time, cultural responses to challenges and crises, and the ways our most common assumptions about character and leadership are legacies of social, political, economic, and cultural realities. Students are challenged to reexamine their values and assumptions, with the ultimate aim of developing the character and leadership skills required to make complex ethical decisions.",
+                        "department": "Glob. Found. Of Char. And Lead",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ISA 201",
+                        "name": "Introduction To Information Technology And Analytics",
+                        "credits": "3",
+                        "desc": "Information technology has become deeply integrated with every business function. This course covers the role of Information Technology in supporting business process and major enterprise wide strategic initiatives, including Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), Supply Chain Management (SCM), and e-Business. It examines the competitive impact of evolving technologies such as Mobile Computing and Social Networking. The course also covers the social, ethical, and security issues that arise with the use of technology. Various business scenarios/problems are presented to teach students how to use IT to formulate, analyze, and solve problems and to enhance their analytical skills. Students apply what they have learned and compete \"team-to-team\" in a sponsored course-wide analytical case.",
+                        "department": "Information Systems And Analytics",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ITWS 1000",
+                        "name": "Information Technology And Web Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Information Technology And Web Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LCS 121",
+                        "name": "Introduction To Literary Studies",
+                        "credits": "3",
+                        "desc": "This course introduces students to reading and writing about texts. Through intensive reading and writing about the elements of imaginative literature and other creative practices, students develop the skills necessary for literary analysis and effective writing. The goal is to aid students in becoming discerning readers, critical thinkers, and thoughtful writers.",
+                        "department": "Literary And Cultural Studies",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LCS 280",
+                        "name": "Introduction To World Music",
+                        "credits": "3",
+                        "desc": "In this course, students learn about music as an expressive art form. Part of the course is dedicated to \"hearing\" music, where students build a vocabulary of terms for describing music and expanding their ability to appreciate a diverse body of sounds. Learning terms, such as timbre, melody, harmony, as well as indigenous vocabularies, and listening to musical examples are central components of this course. In addition to hearing music, students also study the cultures of music, which includes understanding different conceptions of aesthetics, traditions, values, politics, and other areas of society that inform the composition and performance of music. Through listening to and learning about music in many parts of the world, students will better appreciate diverse ways of hearing sound and expressing culture.",
+                        "department": "Literary And Cultural Studies",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2400",
+                        "name": "Music Theory I",
+                        "note": "--",
+                        "desc": "This is the second of the three-course sequence in music theory and aural skills. The course covers the fundamentals of diatonic harmony and two-part species counterpoint. Aural skills include interval, scale and chord identification, rhythmic and tonal solfege, and dictation. Learning activites include weekly assignments in analysis, composition, performance and improvisation, and self-paced use of software in acquisition of aural skills.",
+                        "department": "Arts (Hssh)",
+                        "catalog": "Rensselaer Polytechnic Institute 2015-2016"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LCS151",
+                        "name": "Liberal Arts Seminar",
+                        "credits": "3",
+                        "desc": "The Liberal Arts Seminar focuses upon liberal arts modes of inquiry and expression. Each year the liberal arts faculty select a major issue for analysis from the various perspectives of history, literature, the social and behavioral sciences, and the humanities. Past topics have included Culture, Travel, Crossing Borders and Diversity.",
+                        "department": "Literary And Cultural Studies",
+                        "catalog": "Bryant University Undergraduate 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 121",
+                        "name": "Calculus And Analytic Geometry I",
+                        "credits": "3",
+                        "desc": "This is the first course for Actuarial Mathematics, Applied Math and Statistics, Applied Economics, Biology and Environmental Science majors, and those concentrating in Applied Statistics. The course is also recommended for the math minors. Topics include limits, continuity, derivatives, and integrals, along with their application to the Mean Value Theorem, curve sketching and optimization, the calculus of transcendental functions, and area between curves.",
+                        "department": "Mathematics",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 122",
+                        "name": "Calculus And Analytic Geometry II",
+                        "credits": "3",
+                        "desc": "This course is a continuation of MATH 121, designed for Actuarial Mathematics, Applied Math and Statistics, Applied Economics, Biology and Environmental Science majors, and those concentrating in Applied Statistics. It is recommended for the math minors also. Topics include L'Hopital's Rule, the calculus involving inverse trigonometric functions, integration methods, modeling with differential equations, geometric series, MacLaurin and Taylor Polynomials and Series, introduction to partial derivatives and multiple integrals.",
+                        "department": "Mathematics",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 201",
+                        "name": "Statistics I",
+                        "credits": "3",
+                        "desc": "In this course students are taught the concepts necessary for statistical analysis and inference. Topics include descriptive statistics, classical probability, probability distributions, confidence intervals, and hypothesis testing, chi-square analysis, simple linear regression and correlation.",
+                        "department": "Mathematics",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "MATH 350",
+                        "name": "Statistics II",
+                        "credits": "3",
+                        "desc": "A continuation of MATH 201, this course provides students further concepts necessary for statistical analysis and inference. Topics include analysis of variance, multiple regression and correlation, model building, chi-square tests, and nonparametric statistics.",
+                        "department": "Mathematics",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MGT301",
+                        "name": "Operations Management",
+                        "credits": "3",
+                        "desc": "In an increasingly competitive global economy, firms must produce high quality, low cost products and services. These products and services must be delivered when, where, and how customers demand them. This course introduces the most important theories and tools used to manage world class firms to achieve competitive advantage. A balance in emphasis between managerial issues and analytical techniques strengthens both critical thinking and problem-solving skills. Topics covered include operations strategy, process design, quality, inventory theory, and project management.",
+                        "department": "Management",
+                        "catalog": "Bryant University Undergraduate 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4110",
+                        "name": "Operations Management",
+                        "note": "--",
+                        "desc": "This course introduces the student to the operations function in services and manufacturing-oriented firms. Students develop an appreciation of the concepts, principles, and techniques used for decision making in the operations function. The course takes a managerial perspective.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 260",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "This course will address the major principles, theories and research methods used to understand mental processing and behavior. An extensive survey of topics on human behavior across a variety of contexts will be made.",
+                        "department": "Psychology",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SCI 265",
+                        "name": "Chemistry I Introductory Chemistry",
+                        "credits": "3",
+                        "desc": "This course will provide a general knowledge of chemistry as foundational background for careers in the environmental and biological sciences, chemical, agricultural and pharmaceutical industries, energy and materials management, and community service sectors. This course provides an introductory study of the fundamental concepts of chemistry: atomic and electronic structure, chemical bonding, simple reactions in organic and organic chemistry, and chemical equilibria. This course may be taken with a laboratory to fulfill the laboratory requirement.",
+                        "department": "Science And Technology",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "SCI L265",
+                        "name": "Chemistry I Laboratory",
+                        "credits": "1",
+                        "desc": "Laboratory experimentation is the foundation of the science of chemistry. The \"hands-on\" experiments performed in this course will illustrate the principles, theories, and laws discussed in the lecture portion of the course.",
+                        "department": "Science And Technology",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "WRIT 106",
+                        "name": "Writing Workshop",
+                        "credits": "3",
+                        "desc": "In Writing Workshop students will engage with one another as a collaborative of writers. Focusing on the practice of writing as a process, the course will familiarize students with the conventions and challenges of specific rhetorical situations. Students will develop transferable strategies for effectively accessing, interpreting, evaluating and presenting information with an awareness of purpose and context. Along with fostering writing competencies and a capacity for inquiry and analysis, the course will require students to reflect upon their experiences as a writer and participants in various learning communities. Students will learn to recognize writing as a value-laden ethical enterprise, a means of self-exploration, self-definition and self-expression.",
+                        "department": "Writing",
+                        "catalog": "Bryant University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bryn Mawr College": {
+        "city": "Bryn Mawr",
+        "state": "PA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CSTS B108",
+                        "name": "Roman Africa",
+                        "credits": "",
+                        "desc": "In 146 BCE, Rome conquered and destroyed the North African city of Carthage, which had been its arch-enemy for generations, and occupied many of the Carthaginian settlements in North Africa. But by the second and third centuries CE, North Africa was one of the most prosperous and cultured areas of the Roman Empire, and Carthage (near modern Tunis) was one of the busiest ports in the Mediterranean. This course will trace the relations between Rome and Carthage, looking at the history of their mutual enmity, the extraordinary rise to prosperity of Roman North Africa, and the continued importance of the region even after the Vandal invasions of the fifth century. Cross-Cultural Analysis (CC). Counts Toward Africana Studies.",
+                        "department": "Classical Culture And Society",
+                        "catalog": "Bryn Mawr College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON B105",
+                        "name": "Introduction To Economics",
+                        "credits": "",
+                        "desc": "An introduction to micro- and macroeconomics: opportunity cost, supply and demand; consumer choice, the firm and output decisions; market structures; efficiency and market failure; the determination of national income, including government spending, money and interest rates; unemployment, inflation and public policy. Quantitative Readiness Required (QR).",
+                        "department": "Economics",
+                        "catalog": "Bryn Mawr College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FREN B001",
+                        "name": "Elementary French",
+                        "credits": "",
+                        "desc": "The speaking and understanding of French are emphasized particularly during the first semester, and written competence is stressed as well in semester II. The work includes intensive oral practice sessions. The course meets five hours a week in non-intensive sections. This is a year-long course and students must register for both semesters. Course does not meet an Approach.",
+                        "department": "French And Francophone Studies",
+                        "catalog": "Bryn Mawr College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FREN B002",
+                        "name": "Elementary French",
+                        "credits": "",
+                        "desc": "The speaking and understanding of French are emphasized particularly during the first semester, and written competence is stressed as well in semester II. The work includes intensive oral practice sessions. The course meets in non-intensive (five hours a week) sections. This is a year-long course. Course does not meet an Approach.",
+                        "department": "French And Francophone Studies",
+                        "catalog": "Bryn Mawr College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH B201",
+                        "name": "Multivariable Calculus",
+                        "credits": "",
+                        "desc": "This course extends calculus to functions of multiple variables. Topics include functions, limits, continuity, vectors, directional derivatives, optimization problems, multiple integrals, parametric curves, vector fields, line integrals, surface integrals, and the theorems of Gauss, Green and Stokes. Quantitative Methods (QM).",
+                        "department": "Mathematics",
+                        "catalog": "Bryn Mawr College Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "MATH B203",
+                        "name": "Linear Algebra",
+                        "credits": "",
+                        "desc": "This course considers systems of linear equations, matrix algebra, determinants, vector spaces, subspaces, linear independence, bases, dimension, linear transformations, eigenvalues, eigenvectors, orthogonality, and applications of linear algebra. Quantitative Methods (QM).",
+                        "department": "Mathematics",
+                        "catalog": "Bryn Mawr College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "MATH 2010 (4cr)",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH B210",
+                        "name": "Differential Equations With Applications",
+                        "credits": "",
+                        "desc": "Ordinary differential equations, including general first-order equations, linear equations of higher order and systems of equations, via numerical, geometrical, and analytic methods. Applications to physics, biology, and economics. Quantitative Methods (QM).",
+                        "department": "Mathematics",
+                        "catalog": "Bryn Mawr College Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Bucknell University": {
+        "city": "Lewisburg",
+        "state": "PA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ARBC 101",
+                        "name": "Beginning Arabic I",
+                        "credits": "1",
+                        "desc": "Beginning language skills. Practice in listening, speaking, reading and writing. Elementary grammar. Introduction to Arabic culture. Recitation:1.",
+                        "department": "Arabic",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ARBC 102",
+                        "name": "Beginning Arabic II",
+                        "credits": "1",
+                        "desc": "Continuation of Arabic language skills. Practice in listening, speaking, reading, and writing. Recitation:1.",
+                        "department": "Arabic",
+                        "catalog": "Bucknell University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
     }
 }
