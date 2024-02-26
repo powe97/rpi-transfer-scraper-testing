@@ -55124,6 +55124,2700 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 120",
+                        "name": "Human Sexuality",
+                        "credits": "3",
+                        "desc": "This course seeks to foster healthy attitudes toward sexuality by providing knowledge and having discussions about the formation of sexual attitudes and myths, the physiology of human sexual systems, psychological aspects of sex roles, love and human sexuality, sexual minorities, and the legal aspects of sexuality. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 200",
+                        "name": "Social Psychology",
+                        "credits": "3",
+                        "desc": "This course emphasizes those findings and theories of psychology, which aid in the understanding of socially significant behavior. Areas of psychology are emphasized to the extent that they contribute to an understanding of human behavior on a social level. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2730",
+                        "name": "Motivation And Performance",
+                        "note": "--",
+                        "desc": "This course encompasses a broad spectrum of theories concerned with the biological, psychological, and social components of motivation. Throughout the course, students relate theoretical issues to both recent research evidence and potential practical applications to enhance performance. Group projects, focus group discussions, and interactive guest speakers are used to establish links between theory and performance.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 215",
+                        "name": "Introductory Psychological Statistics",
+                        "credits": "4",
+                        "desc": "This course includes exercises within the following areas: scales, graphic representations, central tendency and variability, probability, the normal distribution, standard scores, correlation, hypothesis testing, basic nonparametric techniques, analysis of variance, and basic experimental design. This course includes a two-hour weekly computer lab. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2310",
+                        "name": "Research Methods And Statistics I",
+                        "note": "--",
+                        "desc": "This course, the first in a two-course sequence, provides an introduction to basic methods of behavioral and social science research, including experimental, quasi-experimental, and non-experimental research designs, psychometric considerations (e.g., reliability, validity, control, importance, levels of measurement), approaches to data collection and analysis, and communication of results. Students will demonstrate their understanding of the topics covered by writing a detailed research proposal formatted according to American Psychological Association (APA) guidelines. Students will also gain experience in using a selection of parametric (e.g., correlation, simple and multiple regression, ANOVA) and non-parametric (e.g., Chi-square, Mann- Whitney U, Wilcoxon T, Kruskal-Wallis, Friedman\u2019s ANOVA) statistical procedures. Data analysis will be carried out using R, an open-source programming language for statistical calculation and graphics, and R-Studio, an open-source integrated development environment for R.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 230",
+                        "name": "Neuroscience Of Psychology",
+                        "credits": "3",
+                        "desc": "This course focuses on biological contributions to behavior. Instruction encompasses teachings regarding introduction to the structure and function of the nervous systems, as well as psychological topics, including, but not limited to, emotions, stress, sleep, substance use and abuse, learning, memory, and psychological disorders. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 270",
+                        "name": "Experimental Psychology",
+                        "credits": "4",
+                        "desc": "This course introduces the student to the basic principles of experimental design through a description of experimental investigations in various subject areas such as perception, learning, memory, and social psychology. It also focuses on the skill of scientific report writing and includes scheduled laboratory experiences. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSYC 280",
+                        "name": "Psych Of Abnormal Behavior",
+                        "credits": "3",
+                        "desc": "This course presents a summary of the field of abnormal behavior. It analyzes current theories which attempt to explain the development of personality and the cause of mental illness. Also discussed are diagnostic and therapeutic procedures and the techniques currently used. Department Name: Department of Social & Behavioral Science: Psychology. Course Category: PSYC.",
+                        "department": "Psychology",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "VAFA 192",
+                        "name": "Art History After 1450 A.d",
+                        "credits": "3",
+                        "desc": "This survey course covers painting, sculpture, and/or architecture from the Renaissance through Impressionism. Students gain a formal understanding of Western art by major artists of the fifteenth through nineteenth centuries. They interpret selected examples of art using a variety of analytic methodologies, including cultural, religious, social, political, and/or economic context. Department Name: Department of Arts and Communication: Art History. Course Category: VAFA.",
+                        "department": "Visual Arts",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (3cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "VAFA 193",
+                        "name": "History Of Modern Art",
+                        "credits": "3",
+                        "desc": "This survey course covers painting, sculpture, and/or architecture from the late-nineteenth century up to the present. Students gain a formal understanding of major twentieth-century stylistic movements. They interpret selected examples of Modern art using a variety of analytic methodologies, including cultural, religious, social, political, and/or economic context. Department Name: Department of Arts and Communication: Art History. Course Category: VAFA.",
+                        "department": "Visual Arts",
+                        "catalog": "Bucks County Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "ARTS 1000 (3cr)",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Bunker Hill Community College": {
+        "city": "Boston",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-105",
+                        "name": "Introduction To Biology",
+                        "credits": "4",
+                        "desc": "This course will investigate the major biological concepts that connect all forms of life and is designed for students with little or no background in science. Topics will include the process of scientific inquiry, the cell as the basic unit of life, metabolism, cellular reproduction, genetics, evolutionary theory and principles of ecology. Laboratory work will introduce students to the basic investigative techniques used to study life's processes. There will be no animal dissection in this course. This course will satisfy the General Education requirement for Scientific Reasoning (previous area title: Science & Technology) for all programs and may be used to satisfy the biology prerequisite for Anatomy and Physiology I (BIO203). This course will not satisfy the general biology requirement of the Associate in Science: Biological Science program.",
+                        "department": "Biology",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-195",
+                        "name": "General Biology I & Lab",
+                        "credits": "4",
+                        "desc": "The course will examine the cell as the basic unit of life. Topics will include cell chemistry, cell structure and function, metabolism, cellular respiration, photosynthesis, and cell division. The course will conclude with an examination of the genetic and chromosomal basis of inheritance. Laboratory work will provide students with the basic skills necessary to work in advanced biology laboratory courses. This is the first required biology course in the AS Biological Science program. Students planning to enroll in a health science program should enroll in Introduction to Biology (BIO105) or Human Biology/Lab (BIO108).",
+                        "department": "Biology",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "BIOL 1010 (3cr) + BIOL 1015 (1cr)",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "BIOL 1010 (3cr) + BIOL 1015 (1cr)",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-196",
+                        "name": "General Biology II & Lab",
+                        "credits": "4",
+                        "desc": "As a continuation of General Biology I/Lab (BIO195), the course begins with a study of the chemical basis of inheritance and protein synthesis. The course then investigates the mechanisms of adaptive evolution, speciation, phylogeny, and the history of life on earth. The course concludes with a survey of the three domains of life and an introduction to the structure of populations and ecosystems. Laboratory work will continue to develop the student's critical thinking and problem solving skills.",
+                        "department": "Biology",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-207",
+                        "name": "Cell Biology & Lab",
+                        "credits": "4",
+                        "desc": "A study of cell structure and function including the following topics: organelles, membrane function, metabolism, gene action, communication, and regulation of growth. Some specialized cells will be discussed. The laboratory will include biotechnological, molecular, and cellular experiments.",
+                        "department": "Biology",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-208",
+                        "name": "Genetics And Lab",
+                        "credits": "4",
+                        "desc": "This course offers a broad understanding of classical, molecular and evolutionary genetics. Highlighted topics will include the molecular and chromosomal basis of inheritance, extranuclear inheritance, gene mapping and analysis, control of gene expression in pro- and eukaryotes, Chi square analysis, probability theory, DNA mutation and repair, genetics of cancer, and population and human genetics. Experimental work will focus on the theory and practice of current techniques in genetics.",
+                        "department": "Biology",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2500",
+                        "name": "Genetics And Evolution",
+                        "note": "--",
+                        "desc": "Mechanisms of inheritance in eukaryotes and prokaryotes; genetic mapping, gene expression, cloning and sequencing; quantitative and population genetics, and synthetic theory of evolution.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO-260",
+                        "name": "Molecular Biotechnology",
+                        "credits": "5",
+                        "desc": "This capstone course presents the major concepts of molecular biology and their relationship to the field of biotechnology. The course will focus on recombinant DNA technology, genetically engineered organisms, sequencing, gene expression in prokaryotes and eukaryotes, protein expression and analysis, and genomics. Advanced topics will include Bioinformatics, Protein engineering, RNA interference and biological products as therapeutic agents. Laboratory activities will emphasize proper laboratory protocol and documentation, inquiry based investigations, formal laboratory report writing, and standard laboratory skills used in biotechnology research. The course will also focus on career opportunities and hiring trends in the biotechnology industry and require that students work on their job readiness skills. Upon completion of this course, students will be qualified for entry level employment or internships in the biotechnology field.",
+                        "department": "Biology",
+                        "catalog": "Bunker Hill Community College 2015-2017"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BME-100",
+                        "name": "Biomedical Engineering I",
+                        "credits": "4",
+                        "desc": "A first course in Biomedical Engineering (BME), this course introduces students to preliminary Biomedical Engineering topics. Topics include: the BME profession, morals and ethics, anatomy and physiology, static biomechanics, rehabilitation engineering, static bioinstrumentation, biosensors, biosignal processing, and models of neurons. MATLAB is used for ease in problem solving. Laboratory involves using a virtual instrument (Biopac) to record and analyze signals from the body. Gen. Ed. Course No. Mass Transfer Course Yes.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Bunker Hill Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "4 credits general elective",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2024",
+                "end": "1/1/2029"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BME-200",
+                        "name": "Biomedical Engineering II",
+                        "credits": "3",
+                        "desc": "This course explores the techniques for analysis and modeling of biomedical systems with applications of advanced mathematics including Differential Equations, Difference Equations, State-Variables, and computeraided methods to study problems at the interface of engineering and biology. Other topics include elements of physiological modeling and the solution of the transient and forced response for a variety of biomechanical and bioelectrical systems. Gen. Ed. Course No. Mass Transfer Course Yes.",
+                        "department": "Biomedical Engineering",
+                        "catalog": "Bunker Hill Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 2000",
+                        "name": "Engineering Elective",
+                        "note": "3 credits general elective",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2024",
+                "end": "1/1/2029"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS-101",
+                        "name": "Introduction To Business",
+                        "credits": "3",
+                        "desc": "This course is a survey of the purpose, role, and responsibility of business in a capitalistic society, including an introduction to the major areas of business such as: Finance, Management, Economics, and Marketing. This course provides a basic foundation for the student who will specialize in some aspect of business in college, and it also provides the opportunity for non-business majors to learn about the business in which they will someday be both producers and consumers. This course will also enable students to explore career options in business, define a career path, and make connections between classroom learning and the larger business community. This course will fulfill the Learning Community Seminar requirement for first time, full-time students, to assist the student in making a successful transition from our unique urban community into an academic environment. The course will aid students in learning insights, skills, and attitudes necessary to develop academic success strategies for personal and career goals achievement.",
+                        "department": "Business",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1100",
+                        "name": "Management In The Digital Age",
+                        "note": "--",
+                        "desc": "This is a required first course for management majors and minors. In a casebased format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM-201",
+                        "name": "General Chemistry I & Lab",
+                        "credits": "4",
+                        "desc": "This course is a rigorous introductory course as part of a two-semester sequence that studies chemical principles. Topics include atomic structure, reaction types and equations, stoichiometry, gas laws, thermochemistry and bonding theory. Students are required to purchase approved safety goggles. Note: This course isintended for students planning to major ortransfer as science or engineering majors. Pre-allied health students or students requiring a one semester overview of chemistry should enroll in Principles of Inorganic Chemistry and Lab (CHM-120).",
+                        "department": "Chemistry",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM-202",
+                        "name": "General Chemistry II & Lab",
+                        "credits": "4",
+                        "desc": "This course is a continuation of General Chemistry I and Lab (CHM-201). Topics include solids, solutions, kinetics, equilibrium, acid-base and solubility equilibrium, thermodynamics and electrochemistry. Students are required to purchase approved safety goggles.",
+                        "department": "Chemistry",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM-251",
+                        "name": "Organic Chemistry I And Lab",
+                        "credits": "4",
+                        "desc": "This course studies the chemistry of carbon compounds including nomenclature, molecular structure and functional groups. Topics include the reactivity and properties of saturated and unsaturated hydrocarbons, stereochemical relationships and nucleophilic substitution and elimination reactions. Mechanisms are presented as a unifying principle for these reactions. Students are required to purchase approved safety goggles.",
+                        "department": "Chemistry",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2230",
+                        "name": "Organic Chemistry Laboratory I",
+                        "note": "--",
+                        "desc": "Laboratory experiments dealing with basic techniques used in the synthesis and characterization of organic compounds.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 2250",
+                        "name": "Organic Chemistry I",
+                        "note": "--",
+                        "desc": "Structure and chemical behavior of organic molecules with particular emphasis on reaction mechanisms as pathways for understanding their reactions. Stereochemistry, synthesis, and spectroscopic methods for the identification of organic functional groups are among the topics included.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHM-252",
+                        "name": "Organic Chemistry II And Lab",
+                        "credits": "4",
+                        "desc": "This course is a continuation of Organic Chemistry I and Lab (CHM251). Topics include aromatic substitution reactions, carbonyl addition reactions, acid derivatives, amines, and carbohydrates. Both the laboratory and lecture use instrumental methods for the structural analysis of organic compounds. Students are required to purchase approved safety goggles.",
+                        "department": "Chemistry",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2240",
+                        "name": "Organic Chemistry Laboratory II",
+                        "note": "--",
+                        "desc": "A continuation of CHEM 2230, which is a prerequisite.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 2260",
+                        "name": "Organic Chemistry II",
+                        "note": "--",
+                        "desc": "A continuation of CHEM 2250, which is a prerequisite.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIT-120",
+                        "name": "Introduction To Computer Science And Object Oriented Programming (oop)",
+                        "credits": "4",
+                        "desc": "This is a first course in Object Oriented Programming (OOP) theory, logic and design. Taught in the College's \"hands-on\" computer classrooms, this course emphasizes the program design and development process including concepts of variables and flow control, objects, classes, methods, and polymorphism. Students will use an Object Oriented Programming language as they design code, debug and implement several programs covering the topics presented. For additional information and/or course syllabus contact CITDepartment@bhcc.mass.edu.",
+                        "department": "Computer Information Technology",
+                        "catalog": "Bunker Hill Community College 2019-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIT-237",
+                        "name": "C++ Programming",
+                        "credits": "4",
+                        "desc": "In this course, students who already have been exposed to programming and Object Oriented thinking, develop the ability to correctly analyze a variety of problems and generate appropriate algorithmic solutions using the C++ Programming Language. The course emphasizes the principles of top-down structured design and Object Oriented thinking. Topics include but are not limited to branching and looping mechanisms; arrays, functions and function overloading, arguments by reference and by value as well as optional arguments; recursion; pointers, creating libraries and namespaces, structures and classes, constructors and other methods, overloading operators; file I/O; inheritance and polymorphism. Strong analytical skills are recommended for students enrolling in this course. For additional information and/or a course syllabus contact CITDepartment@bhcc.mass.edu. All prerequisites must be completed with a C or better.",
+                        "department": "Computer Information Technology",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIT-239",
+                        "name": "Java Programming",
+                        "credits": "4",
+                        "desc": "In this course, students who already have been exposed to programming and Object Oriented thinking, develop the ability to correctly analyze a variety of problems and generate appropriate algorithmic solutions using the Java Programming Language. The course emphasizes the principles of topdown structured design and Object Oriented thinking. Topics include but are not limited to branching and looping mechanisms; arrays, functions and function overloading, arguments by reference and by value as well as optional arguments; recursion; creating packages, structures and classes, constructors and other methods, file I/O; inheritance and polymorphism. Strong analytical skills are recommended for students enrolling in this course, plus familiarity and experience working with the Internet and basic HTML tags. The course covers creating both Java Applications and Java Applets including event handling, animation, and audio. For additional information and/or a course syllabus contact CITDepartment@bhcc.mass.edu.",
+                        "department": "Computer Information Technology",
+                        "catalog": "Bunker Hill Community College 2019-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CIT-242",
+                        "name": "Data Structures",
+                        "credits": "3",
+                        "desc": "This course prepares students to understand the fundamentals of data structures with an emphasis on software engineering. Topics include multidimensional arrays, records, dynamic memory allocation, stacks, queues, lists, trees, graphs, and others. The department strongly recommends that students achieve a grade of B- or better in Java Programming (CIT239). For additional information and/or a course syllabus contact CITDepartment@bhcc.mass.edu.",
+                        "department": "Computer Information Technology",
+                        "catalog": "Bunker Hill Community College 2019-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSC-120",
+                        "name": "Intro To Comp Sci & Object Oriented Prog",
+                        "credits": "4",
+                        "desc": "This is a first course in Object Oriented Programming (OOP) theory, logic and design. Taught in the College\u2019s hands-on computer classrooms, this course emphasizes the program design and development process including concepts of variables, flow control, objects, classes, methods, text/stream I/O, arrays, and vectors. and polymorphism. Students will use an Object Oriented Programming language as they design code, debug and implement several programs covering the topics presented. Programs will be created to run both using the IDE and from the command line. This course fulfills the Learning Community Seminar requirement for students in AA Computer Science, AS Computer Science, AS Computer Engineering areas of study. Other departments may allow this course to be used as a LC seminar for their students. Students in majors other than the ones listed above should obtain their advisor\u2019s or the leading faculty member\u2019s approval before registering in the course. For more information please email CS@bhcc.edu. Gen. Ed. Course No. Mass Transfer Course No.",
+                        "department": "Computer Science",
+                        "catalog": "Bunker Hill Community College 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "CSCI 1000 (4cr)",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO-201",
+                        "name": "Macroeconomics",
+                        "credits": "3",
+                        "desc": "This course covers an introduction to the American economy. Topics include: scarcity, opportunity cost and the production possibility curve, unemployment, inflation, GDP and related aggregates, economic growth, classical Keynesian models of income and employment determination, government policies for full employment and price stability, and money and the banking system. This course satisfies the College's General Education requirement for Community and Cultural Contexts.",
+                        "department": "Economics",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO-202",
+                        "name": "Microeconomics",
+                        "credits": "3",
+                        "desc": "This course covers an introduction to the market system. It covers basic demand and supply analysis, theory of consumer choice, demand and supply elasticity, long run and short run cost curves, and price and output determination under different market structures, such as perfect competition, monopoly and monopolistic competition. The course applies microeconomic principles for analyzing government regulations. The course satisfies the College's General Education for Community and Cultural Contexts.",
+                        "department": "Economics",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-111",
+                        "name": "College Writing I",
+                        "credits": "3",
+                        "desc": "This course emphasizes writing as a process, from planning and drafting through revising and editing. Using personal experience, readings, and other sources, students write unified, coherent, well-developed essays and practice paraphrasing, summarizing, and using sources responsibly. To be eligible to take College Writing II (ENG112), students must earn a grade of C or better for this course. The course meets General Education requirement \"Academic Discourse\".",
+                        "department": "English",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-112",
+                        "name": "College Writing II",
+                        "credits": "3",
+                        "desc": "This course focuses on the research paper, the longer essay, argumentation, critical writing, and reading. The course satisfies the College's General Education requirement for Research Writing.",
+                        "department": "English",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-115",
+                        "name": "Writing Tutor Seminar",
+                        "credits": "3",
+                        "desc": "The course prepares skilled writers to work as peer tutors in the college's Writing Place. It provides advanced instruction in writing theory, peer tutoring practice, grammar and composition, with special emphasis on the writing process. Along with class time, students will spend 3 hours tutoring in the Writing Place each week beginning in Week 4. Throughout the semester, students develop strategies, problemsolving skills and greater understanding of composition theory and practice.",
+                        "department": "English",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-171",
+                        "name": "Oral Communication",
+                        "credits": "3",
+                        "desc": "This course develops students' pose and self-confidence through oral expression. The course emphasizes presentation of individual talks and participation in class discussions.",
+                        "department": "English",
+                        "catalog": "Bunker Hill Community College 2017-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-241",
+                        "name": "Journalism I",
+                        "credits": "3",
+                        "desc": "This course combines class discussions of journalistic principles with practice in writing news stories. The course then shifts emphasis to field work for a newspaper. In this phase, students follow news leads, evaluate them, compose better ones, and check copy for accuracy and clarity. The course encourages students to proofread, edit, sell ads, and lay out final copy for the printer.",
+                        "department": "English",
+                        "catalog": "Bunker Hill Community College 2017-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENR-101",
+                        "name": "Introduction To Engineering/lab",
+                        "credits": "4",
+                        "desc": "This course provides an overview of the engineering profession. Topics to be discussed include fields of study within engineering; the engineering profession, including engineering ethics; and engineering design and problem-solving. Emphasis is on team-building and a teamwork approach to engineering projects.",
+                        "department": "Engineering",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "Transfers as 4 elective credits",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENV-105",
+                        "name": "Environmental Science/lab",
+                        "credits": "4",
+                        "desc": "This course is an introduction to the physical, chemical, and biological processes of the natural world. Emphasis is placed on the science of environmental processes, problems, and solutions. Case studies about land, air, and water pollution will be integrated throughout the course. The laboratory will introduce basic field techniques, internet research, laboratory skills, report writing, and data analyses. This course will lay the foundation for understanding the key concepts required for Environmental Science majors. This course satisfies the General Education requirement for Scientific Reasoning (previous area title Science and Technology) for all programs.",
+                        "department": "Environmental Science",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IENV 1000",
+                        "name": "Interdisciplinary Environmental Courses Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Environmental Courses",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FLM-101",
+                        "name": "Film As Art",
+                        "credits": "3",
+                        "desc": "This course covers film techniques, terminology, and criticism, using a variety of recent popular films on television and videotape as the subjects for discussion and analysis. This course meets General Education \"Humanities\" Requirement Area 6.",
+                        "department": "Film",
+                        "catalog": "Bunker Hill Community College 2017-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FLM-102",
+                        "name": "American Cinema",
+                        "credits": "3",
+                        "desc": "This course brings Hollywood film making into clear focus as an art form, as an economic force, and as a system of representation and communication. The course probes the deeper meaning of American movies through encounters with the works of famous directors such as John Ford, Howard Hawks, and Martin Scorsese. This course meets General Education Requirement \"Humanities\" Area 6.",
+                        "department": "Film",
+                        "catalog": "Bunker Hill Community College 2017-2019"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FRE-102",
+                        "name": "Elementary French II",
+                        "credits": "3",
+                        "desc": "This course covers a continuation of Elementary French I (FRE101) and places emphasis on speaking and reading skills. This course satisfies General Education requirement \"Creative Work\".",
+                        "department": "French",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GER-101",
+                        "name": "Elementary German I",
+                        "credits": "3",
+                        "desc": "This course teaches students to read, speak, and write elementary German including mastery of approximately five hundred basic vocabulary words. The course covers the basic structure of the language.",
+                        "department": "German",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1310",
+                        "name": "German I",
+                        "note": "--",
+                        "desc": "Introductory course in the basic elements of German language and aspects of contemporary culture. Equal stress on speaking, reading, writing, and listening. Cultural materials used as a basis for reading comprehension and elementary conversation.",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2016-2017"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GER-102",
+                        "name": "Elementary German II",
+                        "credits": "3",
+                        "desc": "This course builds upon the skills learned in Elementary German I (GER101) by advancing the language structures, word forms, and vocabulary. The course meets General Education requirement for Creative Work.",
+                        "department": "German",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1320",
+                        "name": "German II",
+                        "note": "--",
+                        "desc": "Continuation of German I, supplemented by authentic readings in literature and culture. Presupposes a basic knowledge of German grammar and vocabulary such as acquired in German I.",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2016-2017"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GOV-101",
+                        "name": "Government/politics In Us",
+                        "credits": "3",
+                        "desc": "This course provides an overview of the foundations, processes, and institutions of the United States federal government. Topics covered include the Constitution, federalism, civil liberties, civil rights, public opinion, the media, political participation, campaigns, elections, public policy, and the organization and functions of the three branches. Special emphasis is placed on the various channels of citizen influence. This course meets the General Education requirement for Community & Cultural Contexts.",
+                        "department": "Government",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS-101",
+                        "name": "Ancient, Classical & Medieval History",
+                        "credits": "3",
+                        "desc": "A multi-disciplinary survey of the historic evolution of the European continent from its roots in the ancient world through the Classical and Medieval periods. Artistic, ideological, economic, social and political questions are examined in order to understand the foundation of the ideas and institutions of the modern world. This course meets the General Education requirement for Community and Cultural Contexts.",
+                        "department": "History",
+                        "catalog": "Bunker Hill Community College 2019-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS-102",
+                        "name": "History Of Modern Europe In Global Cont Renaissance",
+                        "credits": "3",
+                        "desc": "This history course is a survey of the major intellectual, social, economic, artistic and political developments within the European continent, and beyond, since the 16th century. It will cover the processes of state-building, colonization and decolonization to better understand the roots of contemporary institutional and ideological problems. This course meets the General Education requirement for Community and Cultural Contexts.",
+                        "department": "History",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS-111",
+                        "name": "History Of Pre-modern World",
+                        "credits": "3",
+                        "desc": "This course examines similarities and differences among the major world civilizations before the modern era. Topics include traditions of governance, art, religion and philosophy, technology, family structure, and everyday life. The course satisfies General Education requirement \"Community and Cultural Contexts\".",
+                        "department": "History",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIS-152",
+                        "name": "Us History: Reconstruction To Present",
+                        "credits": "3",
+                        "desc": "This course covers the rise of the United States from the turmoil of the Civil War to superpower status. The course examines the cultural, economic, diplomatic, and political forces that have given the nation its shape. The course meets General Education requirement for Community and Cultural Contexts.",
+                        "department": "History",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2520",
+                        "name": "Sociology",
+                        "note": "--",
+                        "desc": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HON-200",
+                        "name": "Honors Seminar",
+                        "credits": "3",
+                        "desc": "This interdisciplinary seminar treats a selected theme through perspectives available from the humanities, social, and natural sciences. Presenters and topics differ each semester depending on current student interests and faculty availability. The course is required for all students enrolled in the honors program. Students who are not enrolled in the honors program may be admitted with permission of the instructor. The course meets General Education Requirement for General Education Elective.",
+                        "department": "Honors",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "INT-110",
+                        "name": "American Culture",
+                        "credits": "3",
+                        "desc": "This interdisciplinary course focuses on the historical evolution of American beliefs and values and is designed for students from other cultures. Students study the way these values have shaped U.S. contemporary institutions such as education, business, the government, and the family. The course examines extensive cross-cultural comparisons with the students' native cultures. Materials include film, music, and short works of literature. The course satisfies the College's General Education requirement for \"Creative Work.\"",
+                        "department": "Interdisciplinary Studies",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JPN-101",
+                        "name": "Elementary Japanese I",
+                        "credits": "3",
+                        "desc": "This course is an introduction to the sounds and structures of the Japanese language with emphasis on the acquisition of a limited but useful vocabulary. The course is designed for students who want to learn essential Japanese as quickly and as effectively as possible. Students read and write with Hiragana and look into the world of Kanji. This course is not intended for native speakers or students who have studies this language within the last three years.",
+                        "department": "Japanese",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1000",
+                        "name": "Foreign Languages Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LCS-101H",
+                        "name": "Connecting To Your Inner Orange Line Next Stop: Community College",
+                        "credits": "3",
+                        "desc": "Using Boston subway's \"Orange Line\" as a metaphor for life, this course explores the many critical issues faced by urban males. Drawing on the traditions of the Yoruba of Africa, the Buddhist of Asia, the Natives of America, and the Judeo-Christian foundations of American religious thought, students will engage in a variety of activities designed to create community and foster personal transformation. Open to first-year students. This course is designed for urban males.",
+                        "department": "Learning Community Seminar For First Year Students",
+                        "catalog": "Bunker Hill Community College 2019-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-201",
+                        "name": "Introduction To Literature",
+                        "credits": "3",
+                        "desc": "This course develops students' ability to interpret, analyze, evaluate, and respond to ideas about literature. Students explore the nature, structure, and form of poetry, short stories, and drama. This course meets the General Education requirement for Creative Work.",
+                        "department": "Literature",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-203",
+                        "name": "Literature In America I",
+                        "credits": "3",
+                        "desc": "This course traces the physical, moral, and psychological development of an emerging nation through its literature. The course examines themes of sin, guilt, justice, and equality in the historical movement of the nation from colonial settlement to westward expansion. The course includes works representative of the ethnic and racial diversity of American culture. This course meets the General Education requirement for Creative Work.",
+                        "department": "Literature",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-204",
+                        "name": "Literature In America II",
+                        "credits": "3",
+                        "desc": "This course analyzes the crises of the nation from the Civil War through the twentieth century, as shown through its literature. The course examines the themes of progress, materialism, alienation, and corruption against the yardstick of opportunity, heroism, and individualism, which represent the traditional American dream. The course includes works representative of the ethnic and racial diversity of American culture. This course meets the General Education requirement for Creative Work.",
+                        "department": "Literature",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-217",
+                        "name": "Children's Literature I",
+                        "credits": "3",
+                        "desc": "This course introduces students to children's literature in all its forms, from fables to fairy tales, from realistic fiction to fantasy, from nonsense to narrative poetry. The course covers works both classic and contemporary. The course satisfies General Education requirement \"Creative Work\".",
+                        "department": "Literature",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-221",
+                        "name": "Latin American Literature",
+                        "credits": "3",
+                        "desc": "This course examines the uniqueness of the Latin American experience as expressed in its literature. The course gives particular attention to those works that reflect the social, political, ethnic, or cultural values of Latin America. The course also examines the impact of Latin American themes and literary techniques on contemporary world literature. This course meets the General Education requirement for Creative Work.",
+                        "department": "Literature",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LIT-229",
+                        "name": "Sophocles & Shakespeare",
+                        "credits": "3",
+                        "desc": "Through an exploration of plays by Sophocles and Shakespeare and critical readings based on the plays, the course will focus on themes that include prophecy and free will; speaking the truth to power; defining evil; and, finally, confronting evil. This is an Honors course, which counts as an Honors requirement for students in the Commonwealth Honors Program.",
+                        "department": "Literature",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAN-105",
+                        "name": "Principles Of Marketing",
+                        "credits": "3",
+                        "desc": "This course is a study of the basic principles of marketing and the application of these principles in today's changing competitive environment. The focus of this course is on the behavior of the consumer market and the product, pricing, promotion and distribution decisions employed to create consumer satisfaction.",
+                        "department": "Management",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2430",
+                        "name": "Marketing Principles",
+                        "note": "--",
+                        "desc": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAN-112",
+                        "name": "Organizational Behavior/design",
+                        "credits": "3",
+                        "desc": "Organizational behavior and design, social systems and contemporary management issues are explored and experienced, with an emphasis on the interrelationship of culture, organizational structure and policies upon individual, group and organizational performance. Topics include: leadership styles, learning, motivation, group structure, decision-making, group dynamics, and problem solving. Concepts and issues of power, conflict, change and organizational processes that impact interpersonal or social settings, group interactions or the workplace environment are examined. This course satisfies the General Education Elective requirement.",
+                        "department": "Management",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MAN-207",
+                        "name": "Small Business Management",
+                        "credits": "3",
+                        "desc": "Starting and managing a small business requires strong leadership capabilities and unique business and management skills. The purpose of this course is to introduce students to the issues small business owners must understand to become a successful start-up or to manage an existing business successfully. This practitioner-oriented course focuses on helping students understand their leadership capabilities and to compare their capabilities with the necessary requirements. Students will prepare a business plan to help understand the importance of effective planning and conduct a field study that involves surveying successful small business owners to understand how these owners successfully manage their businesses.",
+                        "department": "Management",
+                        "catalog": "Bunker Hill Community College 2021-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Butte College": {
+        "city": "Oroville",
+        "state": "CA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "PSY-1",
+                        "name": "Principles Of Psychology",
+                        "credits": "3.00",
+                        "desc": "This course provides an introduction to the principles of psychology by surveying the basic theories, concepts and research in the science of human behavior and cognitive processes. Topics include the science of psychology, the biological bases of behavior, ethics, sensation and perception, learning and memory, development, cognition, motivation and emotion, sexuality and gender, stress and health, personality, social psychology, psychological disorders and therapies, and applied psychology. (C-ID PSY 110). Transfer Status: CSU/UC. Hours: 51.00 Lecture. Out of Class Hours: 102.00. Total Hours: 153.00.",
+                        "department": "Psychology",
+                        "catalog": "Butte College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 52",
+                        "name": "Alcohol, Drugs, And Society",
+                        "credits": "3",
+                        "desc": "This course examines the physiological and psychological effects of chemical dependency on the individual. Also included is an analysis of the effects of substance abuse on the family; the sociological, economic conditions contributing to substance abuse, and a description of community efforts at prevention and treatment. Transfer Status: CSU 51 hours Lecture.",
+                        "department": "Psychology",
+                        "catalog": "Butte College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Cabrillo College": {
+        "city": "Aptos",
+        "state": "CA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AH-10",
+                        "name": "Apprec/intro Art",
+                        "credits": "3",
+                        "desc": "Introduces the forms, processes and styles of the visual arts. CAB GE C, CSU GE C1, IGETC 3A. Requisites: None.",
+                        "department": "Art History",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANTHR-1",
+                        "name": "Intro Anthro: Biological",
+                        "credits": "3",
+                        "desc": "Surveys the basic principles of biological anthropology with an emphasis on the mechanisms of biological evolution, genetics and inheritance, comparative primate behavior, human evolution, adaptability and variation, and the meaning of race. May be offered in a distance-learning format. CAB GE B2, CSU GE B2, IGETC 5B. C-ID: ANTH 110. Requisites: None.",
+                        "department": "Anthropology",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART-2A",
+                        "name": "Draw/composition I",
+                        "credits": "3",
+                        "desc": "Teaches fundamentals of composition, and the development of drawing skills with various drawing media. Develops appreciation and perception by means of studio work, library references, slides, field trips and lectures. May be offered in a distance-learning format. Hybrid Requisite: Completion of or concurrent enrollment in ART 50L. CAB GE C. C-ID: ARTS 110. Requisites: None.",
+                        "department": "Art",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART-50L",
+                        "name": "Gallery Viewing Lab",
+                        "credits": "0.5",
+                        "desc": "Encourages students to develop skills in gallery art viewing and critical analysis, supplemented by video viewing, guest lectures, and Internet searches. May be offered in a distance-learning format. Requisites: None.",
+                        "department": "Art",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ASTRO-4",
+                        "name": "Stars, Galaxies & The Universe",
+                        "credits": "3",
+                        "desc": "Surveys the lives of stars and galaxies and the relationship of life to the origin of universes for non-science majors. Describes how astronomers use science to arrive at our current ideas on the evolution of stars and galaxies. Investigates how the nature of life relates to the origin of our universe and possible parallel universes. Includes optional star party at Cabrillo Observatory. May be offered in a distance-learning format. CAB GE B1, CSU GE B1, IGETC 5A. Requisites: None.",
+                        "department": "Astronomy",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ASTR 1000",
+                        "name": "Astronomy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Astronomy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM-1A",
+                        "name": "General Chemistry",
+                        "credits": "5",
+                        "desc": "Covers general chemical principles including structure of matter, chemical equations and bonding, gases, solutions, periodic law, acids and bases, and chemical equilibrium. May be offered in a distance-learning format. CAB GE B1, B3, CSU GE B1, B3, IGETC 5A, 5C. C-ID: CHEM 110. CHEM 1A + CHEM 1B = C-ID 120S.. Locations: Online Course.",
+                        "department": "Chemistry",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM-1B",
+                        "name": "General Chemistry II",
+                        "credits": "5",
+                        "desc": "Covers general chemical principles including organic chemistry, chemical kinetics, equilibrium, acid/base chemistry, thermochemistry, thermodynamics, electrochemistry, structure, properties of transition metals, and nuclear chemistry. CAB GE B1, B3, CSU GE B1, B3, IGETC 5A, 5C. C-ID: CHEM 1A + CHEM 1B = C-ID CHEM 120S. Locations: Online Course.",
+                        "department": "Chemistry",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM-2",
+                        "name": "Group Discussion",
+                        "credits": "3",
+                        "desc": "Emphasizes decision making and problem solving in small groups. Transfers to CSU; UC, with limits: COMM 2 & 10 combined-maximum credit-1 course. CAB GE A2, CSU GE A1, IGETC 1C. C-ID: COMM 140. Requisites: None.",
+                        "department": "Communication Studies",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "COMM-6",
+                        "name": "Listening",
+                        "credits": "1",
+                        "desc": "Introduces the role of the listener in communication with discussion and activities focusing on listening habits, perception, and types of listening (including empathic, comprehensive, and critical-thinking skills). Requisites: None.",
+                        "department": "Communication Studies",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS-11",
+                        "name": "Intro To Programming/c++",
+                        "credits": "4",
+                        "desc": "Presents an introduction to computer programming using the C++ programming language beginning with basic principles and progressing to object-oriented programs. Includes algorithms, data types, declarations, expressions, selection, repetition, functions, recursion, libraries, arrays, classes, objects, files, and streams. Prepares students for C++ Programming or Java Programming. May be offered in a distance-learning format. CAB GE A2. C-ID: COMP 112.",
+                        "department": "Computer Science",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS-23",
+                        "name": "Discrete Mathematics",
+                        "credits": "4",
+                        "desc": "Presents discrete mathematical systems including methods of proof that shape the foundations of computer science. Includes propositional logic, set and number theory, Boolean algebra, deductive and inductive proof, functions and relations, combinatorics, discrete probability, graph theory and network models, and efficiency of algorithms. Math majors should enroll in MATH 23 (identical to CS 23). May be offered in a distance-learning format. CAB GE A2, CSU GE B4, IGETC 2A. C-ID: COMP 152.",
+                        "department": "Computer Science",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2800",
+                        "name": "Introduction To Discrete Structures",
+                        "note": "--",
+                        "desc": "Introduction to the mathematical foundation of computer science. Topics include logic and set theory; methods of proof; mathematical induction and wellordering; principles of counting; relations and graphs; recurrences; discrete probability.",
+                        "department": "Mathematics (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2014-2015"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON-1A",
+                        "name": "Intro Macroeconomic",
+                        "credits": "3",
+                        "desc": "Introduces national income accounting, banking, and Federal Reserve System, determinants of the level of unemployment and inflation, examination of economic growth and business cycles, and government economic policy. May be offered in a distance-learning format. CAB GE D, CSU GE D, IGETC 4. C-ID: ECON 202. Requisites and Advisories: None.",
+                        "department": "Economics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL-1A",
+                        "name": "College Composition",
+                        "credits": "3",
+                        "desc": "Examines the goals, dynamics, and genres of academic writing; readings serve as models for student work and a catalyst for class discussions. Emphasis is on the writing process, research and inquiry, and writing for various audiences, purposes, and contexts. Students compose a minimum of 6,000 words. May be offered in a distance-learning format. Transfers to CSU; UC, with limits: ENGL 1A/1AH/1AMC/1AMCH and ESL 1A combined: maximum credit, 1 course. Not open to students who have completed ENGL 1AH/1AMC/1AMCH. CAB GE A1, CSU GE A2, IGETC 1A. C-ID: ENGL 100.",
+                        "department": "English",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL-1AMC",
+                        "name": "College Composition Mc",
+                        "credits": "3",
+                        "desc": "Examines the goals, dynamics, and genres of academic writing; readings serve as models for student work and a catalyst for class discussions. Emphasis is on the writing process, research and inquiry, and writing for various audiences, purposes, and contexts. Students compose a minimum of 6,000 words. May be offered in a distance-learning format. This course meets the Cabrillo College multicultural studies requirement. Transfers to CSU; UC, with limits: ENGL 1A/1AH/1AMC/1AMCH and ESL 1A combined: maximum credit, 1 course. Not open to students who have completed ENGL 1A/1AH/1AMCH. CAB GE A1, CSU GE A2, IGETC 1A. C-ID: ENGL 100.",
+                        "department": "English",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL-1B",
+                        "name": "Composition/literat",
+                        "credits": "3",
+                        "desc": "Introduces literature through reading, writing, and discussion to develop critical and analytical skills; satisfies Humanities and Fine Arts requirement for UC/CSU. Students write a minimum of 6,000 words, focusing on literary interpretation and research. May be offered in a distance-learning format. Not open to students who have completed ENGL 1BH/1BMC. CAB GE A2, C, CSU GE C2, IGETC 3B. C-ID: ENGL 120.",
+                        "department": "English",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL-2",
+                        "name": "Comp & Crit Thinking",
+                        "credits": "3",
+                        "desc": "Develops writing and reading skills for logical reasoning and argumentation; satisfies the IGETC & CSU critical thinking requirements. Students write a minimum of 6,000 words. May be offered in a distance-learning format. Not open to students who have completed ENGL 2H/2MC/2MCH. CAB GE A2, CSU GE A3, IGETC 1B. C-ID: ENGL 105.",
+                        "department": "English",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL-2",
+                        "name": "Comp & Crit Thinking",
+                        "credits": "3",
+                        "desc": "Develops writing and reading skills for logical reasoning and argumentation; satisfies the IGETC & CSU critical thinking requirements. Students write a minimum of 6,000 words. May be offered in a distance-learning format. Not open to students who have completed ENGL 2H/2MC/2MCH. CAB GE A2, CSU GE A3, IGETC 1B. C-ID: ENGL 105.",
+                        "department": "English",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    },
+                    {
+                        "id": "ENGL-100L",
+                        "name": "Writing Laboratory",
+                        "credits": "1",
+                        "desc": "Practice and study of grammar, sentence structure, punctuation, and style in student writing; students meet weekly in a small workshop. Requisites: Take ENGL-100 - Must be taken either prior to or at the same time as this course",
+                        "department": "English",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST-4A",
+                        "name": "Survey Western Civ",
+                        "credits": "3",
+                        "desc": "Focuses on the social, economic, political, and cultural history of Western civilization up to 1648: ancient Greek, Roman, Medieval, Renaissance, and Reformation topics are covered with special emphasis on the issues of religion and gender. Critical, analytical written work is the primary means of evaluation. May be offered in a distance-learning format. CAB GE C, D, CSU GE C2, D, IGETC 3B, 4. C-ID: HIST 170. Requisites and Advisories: None.",
+                        "department": "History",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST-4B",
+                        "name": "Survey Western Civ",
+                        "credits": "3",
+                        "desc": "Focuses on the social, economic, political, and cultural history of Western civilization since 1648: emphasizing nationalism, rationalism, gender, industrialization, imperialism, and the World Wars. May be offered in a distance-learning format. Critical, analytical written work is the primary means of evaluation. CAB GE C, D, CSU GE C2, D, IGETC 3B, 4. C-ID: HIST 180. Requisites and Advisories: None.",
+                        "department": "History",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST-17A",
+                        "name": "U.s. Hist To 1865",
+                        "credits": "3",
+                        "desc": "Surveys American history, tracing the development of American ideals and institutions from the precolonial and colonial periods through the American Revolution, the establishment of the Constitution, early national and antebellum eras, and the Civil War. May be offered in a distance-learning format. Critical, analytical written work is the primary means of evaluation. Satisfies U.S. History requirement. CAB GE D, CSU GE D, IGETC 4. C-ID: HIST 130. Requisites and Advisories: None.",
+                        "department": "History",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2510",
+                        "name": "Cultural Anthropology",
+                        "note": "--",
+                        "desc": "An introduction to human societies and cultures in comparative perspective, from tribal to complex societies. Topics include language and communication, technological adaptation, gender and sexuality, the global flows of people and commodities, and the rituals and beliefs through which people make meaning of the world.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2021-2022"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HS-15",
+                        "name": "Human Sexuality",
+                        "credits": "3",
+                        "desc": "Examines human sexuality topics and contemporary issues with a socio-psychological, biological, multicultural, and historical focus. Emphasizes sex positivity and inclusiveness in discussions of gender, sexual orientation, diverse sexual behaviors, and sexual health. Additional topics include sex research, structure and function of the sexual and reproductive systems, physiology of human sexual response, sexual violence prevention, communication, and healthy relationships. May be offered in a distance-learning format. CAB GE D, E, CSU GE D, E, IGETC 4. C-ID: PSY 130. Requisites and Advisories: None.",
+                        "department": "Health Science",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "JAPAN-1",
+                        "name": "Elementary Japanese I",
+                        "credits": "5",
+                        "desc": "Develops speaking, listening comprehension, reading, and writing skills, with Japanese as the primary language of instruction. Corresponds to two years of high school study. CAB GE C, CSU GE C2, IGETC 6A. Requisites and Advisories: None.",
+                        "department": "Japanese",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1210",
+                        "name": "Japanese I",
+                        "note": "--",
+                        "desc": "Introduction to basic aspects of Japanese grammar, conversation, reading, and writing. Practice with everyday situations with focus on various features of Japanese life and culture.",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2016-2017"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-5A",
+                        "name": "Anl Geom And Calc I",
+                        "credits": "5",
+                        "desc": "Presents plane analytic geometry of lines and graphing, differential calculus of algebraic and transcendental functions of one variable with applications, and introductory integral calculus. May not be taken Pass/No Pass. Transfer Credit: CSU; UC, WITH LIMITS: MATH 5A & 18 combined: maximum credit- 1 course. CAB GE A2, CSU GE B4, IGETC 2A. C-ID: MATH 210.",
+                        "department": "Mathematics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-5B",
+                        "name": "Calc II",
+                        "credits": "5",
+                        "desc": "Presents integral calculus of algebraic and transcendental functions of one variable with applications, techniques of integration, sequences and series. May not be taken Pass/No Pass. CAB GE A2, CSU GE B4, IGETC 2A. C-ID: MATH 220.",
+                        "department": "Mathematics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-5C",
+                        "name": "Calc III",
+                        "credits": "5",
+                        "desc": "Presents vector valued functions, calculus of functions of more than one variable, partial derivatives, multiple integration, Green's Theorem, Stokes' Theorem, divergence theorem. May not be taken Pass/No Pass. CAB GE A2, CSU GE B4, IGETC 2A. C-ID: MATH 230. Requisites: Take MATH-5B. - Must be completed prior to taking this course.",
+                        "department": "Mathematics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "--",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-6",
+                        "name": "Intro Linear Algebr",
+                        "credits": "3",
+                        "desc": "Introduces linear algebra, including vectors in n-dimensional R, matrices, row reductions, inverse matrices, determinants, vector spaces, basis, change of basis, linear independence, transformations, eigenvalues, eigenvectors, and the Gram-Schmidt process. Students enrolled in the Honors Transfer Program may count this course towards the \"Honors Scholar\" designation with an Honors Contract. May not be taken Pass/No Pass. CAB GE A2, CSU GE B4, IGETC 2A. C-ID: MATH 250.",
+                        "department": "Mathematics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-7",
+                        "name": "Intro Difftl Equat",
+                        "credits": "3",
+                        "desc": "Presents an introductory course in Differential Equations: first order, second order, homogeneous, nonhomogeneous, variation of parameters, applications, simple linear systems with constant coefficients, Laplace transforms, and power series solutions. Students enrolled in the Honors Transfer Program may count this course towards the \"Honors Scholar\" designation with an Honors Contract. May not be taken Pass/No Pass. CAB GE A2, CSU GE B4, IGETC 2A. C-ID: MATH 240.",
+                        "department": "Mathematics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-12",
+                        "name": "Elementary Statistics",
+                        "credits": "5",
+                        "desc": "Presents the use of probability techniques, hypothesis testing, and predictive techniques to facilitate decision-making. Transfer Credit: CSU; UC, WITH LIMITS: MATH 12/12H, BUS 9 and PSYCH 2A combined: maximum credit- 1 course. CAB GE A2, CSU GE B4, IGETC 2A. C-ID: MATH 110.",
+                        "department": "Mathematics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHILO-10",
+                        "name": "Ethics",
+                        "credits": "3",
+                        "desc": "Examines problems of good, evil, and various systems of ethics including human conduct in social, economic, and political activities using primary sources from works of Plato, Aristotle, Hume, Kant, and Mill. Topics include ideas of virtue, obligation, egoism, relativism, and foundations of morals. May be offered in a distance-learning format. CAB GE C, CSU GE C2, IGETC 3B. C-ID: PHIL 120. Requisites: None.",
+                        "department": "Philosophy",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 4240",
+                        "name": "Ethics",
+                        "note": "--",
+                        "desc": "A critical examination of traditional and contemporary works in ethical theory by considering what these theories have to say about how people should live, what rights and obligations they have, what things are intrinsically valuable. Typically, this includes such topics as ethical and cultural relativism, egoism, freedom, and responsibility. Often the focus will be on contemporary issues such as war, abortion, equality, or punishment.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHILO-14",
+                        "name": "Nonwest Philo Trad",
+                        "credits": "3",
+                        "desc": "Introduces non-western philosophical systems including those from India, China, Japan--and their relevance to contemporary western experience. This course meets the Cabrillo College multicultural studies requirement. CAB GE C, CSU GE C2, IGETC 3B. Requisites: None.",
+                        "department": "Philosophy",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS-4A",
+                        "name": "Phys Scients/engnrs I",
+                        "credits": "5",
+                        "desc": "Covers classical mechanics, fluids, and waves for scientists and engineers. Transfer Credit: CSU; UC, WITH LIMITS: PHYS 2A, 2B, and 4A, 4B, 4C combined: maximum credit- one series. Deduct credit for duplication of topics. CAB GE B1, B3, CSU GE B1, B3, IGETC 5A, 5C. PHYS 4A + PHYS 4B + PHYS 4C = C-ID PHYS 200S; C-ID: PHYS 205.",
+                        "department": "Physics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS-4B",
+                        "name": "Phys Scients/engnrs II",
+                        "credits": "5",
+                        "desc": "Covers electricity and magnetism for scientists and engineers. This is the second course in the calculus-based physics sequence. Students enrolled in the Honors Transfer Program may count this course towards the \"Honors Scholar\" designation with an Honors Contract. Fall semester and alternating summers. Transfer Credit: CSU; UC, WITH LIMITS: PHYS 2A, 2B, and 4A, 4B, 4C combined: maximum credit- one series. Deduct credit for duplication of topics. CAB GE B1, B3, CSU GE B1, B3, IGETC 5A, 5C. PHYS 4A + PHYS 4B + PHYS 4C = C-ID PHYS 200S; C-ID: PHYS 210 Requisites: Take PHYS-4A and MATH-5B.",
+                        "department": "Physics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS-4C",
+                        "name": "Phys Scients/engnrs III",
+                        "credits": "5",
+                        "desc": "Covers thermodynamics, optics, and introduction to modern physics for scientists and engineers. This is the third course in the calculus-based physics sequence. Students enrolled in the Honors Transfer Program may count this course towards the \"Honors Scholar\" designation with an Honors Contract. Transfer Credit: CSU; UC, WITH LIMITS: PHYS 2A, 2B, and 4A, 4B, 4C combined: maximum credit- one series. Deduct credit for duplication of topics. CAB GE B1, B3, CSU GE B1, B3, IGETC 5A, 5C. PHYS 4A + PHYS 4B + PHYS 4C = C-ID: PHYS 200S; C-ID: PHYS 215",
+                        "department": "Physics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS-4D",
+                        "name": "Mod Physics Sci/eng",
+                        "credits": "3",
+                        "desc": "Covers relativity, quantum mechanics and nuclear physics for scientists and engineers. CAB GE B1, CSU GE B1, IGETC 5A. Requisites: Take PHYS-4B or PHYS-4C. - Must be completed prior to taking this course.",
+                        "department": "Physics",
+                        "catalog": "Cabrillo College Course Descriptions 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Caldwell University": {
+        "city": "Caldwell",
+        "state": "NJ",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "PH 230",
+                        "name": "Ethics",
+                        "credits": "3",
+                        "desc": "This course considers different questions about the nature of moral \u201cright\u201d and \u201cwrong\u201d such as what ethics are, the importance of moral character, the nature of justice and virtue, and how the good of the individual compares to the good of society. Different conceptions of the human person in relation to certain ethical theories such as virtue ethics, Natural Law, utilitarianism, and relativism may be discussed. The connection of these ethical theories to historical thinkers such as Aristotle, St. Thomas Aquinas, Hobbes, Kant, and Mill may also be addressed. Finally, the class may consider the application of these theories to contemporary moral issues such as abortion, euthanasia, war, environmental concerns, capital punishment, and others.",
+                        "department": "Philosophy",
+                        "catalog": "Caldwell University Undergraduate 2020-2022"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 4240",
+                        "name": "Ethics",
+                        "note": "--",
+                        "desc": "A critical examination of traditional and contemporary works in ethical theory by considering what these theories have to say about how people should live, what rights and obligations they have, what things are intrinsically valuable. Typically, this includes such topics as ethical and cultural relativism, egoism, freedom, and responsibility. Often the focus will be on contemporary issues such as war, abortion, equality, or punishment.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "California Institute Of Technology": {
+        "city": "Pasadena",
+        "state": "CA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ACM 95a",
+                        "name": "Introductory Methods Of Applied Mathematics For The Physical Sciences",
+                        "credits": "12",
+                        "desc": "Complex analysis: analyticity, Laurent series, contour integration, residue calculus. Ordinary differential equations: linear initial value problems, linear boundary value problems, Sturm-Liouville theory, eigenfunction expansions, transform methods, Green's functions. Linear partial differential equations: heat equation, separation of variables, Laplace equation, transform methods, wave equation, method of characteristics, Green's functions. Instructors: Zuev, Meiron. 8 hours of outside preparation.",
+                        "department": "Applied And Computational Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "ACM 95b",
+                        "name": "Introductory Methods Of Applied Mathematics For The Physical Sciences",
+                        "credits": "12",
+                        "desc": "Complex analysis: analyticity, Laurent series, contour integration, residue calculus. Ordinary differential equations: linear initial value problems, linear boundary value problems, Sturm-Liouville theory, eigenfunction expansions, transform methods, Green's functions. Linear partial differential equations: heat equation, separation of variables, Laplace equation, transform methods, wave equation, method of characteristics, Green's functions. Instructors: Zuev, Meiron. 8 hours of outside preparation.",
+                        "department": "Applied And Computational Mathematics",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "ACM 95C",
+                        "name": "Introductory Methods Of Applied Mathematics",
+                        "credits": "12",
+                        "desc": "Linear partial differential equations: heat equation separation of variables, Fourier transforms, special functions, Green\u2019s functions, wave equation, Laplace equation, method of characteristics, numerical methods. Instructors: Pullin, Meiron, Staff. 8 hours of outside preparation.",
+                        "department": "Applied And Computational Mathematics",
+                        "catalog": "California Institute of Technology 2014-2015"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "--",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Bi 1",
+                        "name": "The Great Ideas Of Biology",
+                        "credits": "9",
+                        "desc": "Biological processes take place at length scales ranging from that of individual protein molecules all the way to the algal blooms or rainforests that can be seen from space and over a dizzying nearly 30 orders of magnitude in time scales. This course will start by examining the biology of processes such as how plants and animals colonize oceanic islands and the physics of how animals such as wildebeest form giant herds during their year-long migration. With these wonders of the living world revealed, we will then seek to understand biological phenomena by thinking about genes and cells. May be taken pass/fail if taken in a first-year student's first year. Instructor: Phillips. 5 hours of outside preparation.",
+                        "department": "Biology",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Bi 9",
+                        "name": "Cell Biology",
+                        "credits": "9",
+                        "desc": "Continues coverage of biology at the cellular level, begun in Bi 8. Topics: cytoplasmic structure, membrane structure and function, cell motility, and cell-cell recognition. Emphasis on both the ultrastructural and biochemical approaches to these topics. Instructors: Prober, Varshavsky. 6 hours of outside preparation.",
+                        "department": "Biology",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Bi 9",
+                        "name": "Cell Biology",
+                        "credits": "9",
+                        "desc": "Continues coverage of biology at the cellular level, begun in Bi 8. Topics: cytoplasmic structure, membrane structure and function, cell motility, and cell-cell recognition. Emphasis on both the ultrastructural and biochemical approaches to these topics. Instructors: Prober, Varshavsky. 6 hours of outside preparation.",
+                        "department": "Biology",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Bi 9",
+                        "name": "Cell Biology",
+                        "credits": "9",
+                        "desc": "Continues coverage of biology at the cellular level, begun in Bi 8. Topics: cytoplasmic structure, membrane structure and function, cell motility, and cell-cell recognition. Emphasis on both the ultrastructural and biochemical approaches to these topics. Instructors: Prober, Varshavsky. 6 hours of outside preparation.",
+                        "department": "Biology",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ch 3",
+                        "name": "a Fundamental Techniques Of Experimental Chemistry",
+                        "credits": "6",
+                        "desc": "Introduces the basic principles and techniques of synthesis and analysis and develops the laboratory skills and precision that are fundamental to experimental chemistry. Limited enrollment. Students entering in the academic year 2020 and before must take Ch 3 in their first nine terms of residence in order to be graded pass/fail. First-year undergraduate students entering in the academic year 2021 and thereafter must take Ch 3 in their first six terms of residence in order to be graded pass/fail. Ch 3 a and Ch 3 x both satisfy the institute's Core requirement for a Chemistry Laboratory. Instructor: Mendez. 2 hours of outside preparation.",
+                        "department": "Chemistry",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "Ch 3",
+                        "name": "a Fundamental Techniques Of Experimental Chemistry",
+                        "credits": "6",
+                        "desc": "Introduces the basic principles and techniques of synthesis and analysis and develops the laboratory skills and precision that are fundamental to experimental chemistry. Limited enrollment. Students entering in the academic year 2020 and before must take Ch 3 in their first nine terms of residence in order to be graded pass/fail. First-year undergraduate students entering in the academic year 2021 and thereafter must take Ch 3 in their first six terms of residence in order to be graded pass/fail. Ch 3 a and Ch 3 x both satisfy the institute's Core requirement for a Chemistry Laboratory. Instructor: Mendez. 2 hours of outside preparation.",
+                        "department": "Chemistry",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "Ch 3",
+                        "name": "a Fundamental Techniques Of Experimental Chemistry",
+                        "credits": "6",
+                        "desc": "Introduces the basic principles and techniques of synthesis and analysis and develops the laboratory skills and precision that are fundamental to experimental chemistry. Limited enrollment. Students entering in the academic year 2020 and before must take Ch 3 in their first nine terms of residence in order to be graded pass/fail. First-year undergraduate students entering in the academic year 2021 and thereafter must take Ch 3 in their first six terms of residence in order to be graded pass/fail. Ch 3 a and Ch 3 x both satisfy the institute's Core requirement for a Chemistry Laboratory. Instructor: Mendez. 2 hours of outside preparation.",
+                        "department": "Chemistry",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 1",
+                        "name": "Introduction To Computer Programming",
+                        "credits": "9",
+                        "desc": "A course on computer programming emphasizing the program design process and pragmatic programming skills. It will use the Python programming language and will not assume previous programming experience. Material covered will include data types, variables, assignment, control structures, functions, scoping, compound data, string processing, modules, basic input/output (terminal and file), as well as more advanced topics such as recursion, exception handling and object-oriented programming. Program development and maintenance skills including debugging, testing, and documentation will also be taught. Assignments will include problems drawn from fields such as graphics, numerics, networking, and games. At the end of the course, students will be ready to learn other programming languages in courses such as CS 11, and will also be ready to take more in-depth courses such as CS 2 and CS 4. Instructor: Hovik. 2 hours of outside preparation.",
+                        "department": "Computer Science",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 2",
+                        "name": "Introduction To Programming Methods",
+                        "credits": "9",
+                        "desc": "CS 2 is a demanding course in programming languages and computer science. Topics covered include data structures, including lists, trees, and graphs; implementation and performance analysis of fundamental algorithms; algorithm design principles, in particular recursion and dynamic programming; Heavy emphasis is placed on the use of compiled languages and development tools, including source control and debugging. The course includes weekly laboratory exercises and projects covering the lecture material and program design. The course is intended to establish a foundation for further work in many topics in the computer science option. Instructor: Blank. 1 hour of outside preparation.",
+                        "department": "Computer Science",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    },
+                    {
+                        "id": "CS 11",
+                        "name": "Computer Language Lab",
+                        "credits": "3",
+                        "desc": "A self-paced lab that provides students with extra practice and supervision in transferring their programming skills to a particular programming language. The course can be used for any language of the student's choosing, subject to approval by the instructor. A series of exercises guide students through the pragmatic use of the chosen language, building their familiarity, experience, and style. More advanced students may propose their own programming project as the target demonstration of their new language skills. This course is available for undergraduate students only. Graduate students should register for CS 111. CS 11 may be repeated for credit of up to a total of nine units. Instructor: Vanier.",
+                        "department": "Computer Science",
+                        "catalog": "California Institute of Technology 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
             }
         ]
     }
