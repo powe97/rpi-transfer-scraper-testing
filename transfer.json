@@ -36506,5 +36506,2433 @@
                 "end": "--"
             }
         ]
+    },
+    "Boston College": {
+        "city": "Chestnut Hill",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ADHS1141",
+                        "name": "Defining Moments",
+                        "credits": "4",
+                        "desc": "Course looks at decisions, events, and expectations that influenced the evolving direction of the United States. Course explores the framework, incentives, barriers, personalities, positions, and power brokers determining the emerging presence of the United States in the world. Topics include America\u2019s spreading influence before and after World War I; the Great Depression; U.S. and World War II; Vietnam; the Cold War. Some readings: Michael Adams, The Best War Ever; Tim O\u2019Brien, The Things They Carried; Emily Rosenberg, Spreading the American Dream; W.A. Williams, Tragedy of American Diplomacy; and M. Walker, Cold War. The Department.",
+                        "department": "History",
+                        "catalog": "Boston College Undergraduate 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ADHS1168",
+                        "name": "Anglo-american Relations In Twentieth And Twenty-first Centuries",
+                        "credits": "04",
+                        "desc": "Course examines the actions of Anglo-American relations in a global context during key events of the twentieth and twenty-first centuries, including World War I, World War II, the Cold War, and the recent wars in the Middle East, to discover whether or not the U.S. and Britain followed parallel policies on the world stage based on an idea of a \"special relationship.\" Schedule: S 9-12. Room: STOKES HALL 115N. Satisfies Core Requirement: None. Comments: None. Cross-listed with: None. PAUL, MICHAEL G.",
+                        "department": "History",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "APSY1031",
+                        "name": "Family, School, And Society",
+                        "credits": "03",
+                        "desc": "Second part of a two-course sequence (APSY1030-APSY1031) that introduces students to the multiple dimensions of child development, and the place of education in promoting healthy development for all children. This course considers the social and cultural contexts that shape developmental and educational processes. Focuses on understanding the nature of contemporary social problems including racism, sexism, ethnic prejudice, poverty, and violence, as they affect children, families, and schooling. Emphasizes special role of education in linking community resources for an integrated approach to serving children and families. Schedule: M W 1 30* Room: CAMPION HALL 010. Satisfies Core Requirement: Cultural Diversity, Social Science. Comments: None. Cross-listed with: EDUC1031. MACEVOY, JULIE P.",
+                        "department": "Counseling, Developmental, And Educational Psychology",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "APSY2032",
+                        "name": "Psychology Of Learning",
+                        "credits": "03",
+                        "desc": "Discusses classic and contemporary theories of learning and of cognitive development and theories of the relation between learning and cognitive development. Also looks at major studies with children. Compares and contrasts theories along key dimensions on which they vary. Addresses issues and questions that include the following: Is the environment or our biological endowment and innate knowledge responsible for our learning; are babies born with a lot of knowledge or must all cognition develop from scratch; does development precede learning (readiness to learn). Also looks at role of motivational factors, and discusses practical applications of theory and research. Schedule: T TH 3* Room: CAMPION HALL 010. Satisfies Core Requirement: None. Comments: None. Cross-listed with: None. CANNARELLA, AMANDA M.",
+                        "department": "Counseling, Developmental, And Educational Psychology",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 4450",
+                        "name": "Learning",
+                        "note": "--",
+                        "desc": "The first half of this course is devoted to presentation of traditional theories of learning. Classical and operant conditioning and single-subject methodology are studied in depth. During the second half of the course, students apply their knowledge of operant conditioning principles in the context of a group-based field study.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "APSY2041",
+                        "name": "Adolescent Psychology",
+                        "credits": "03",
+                        "desc": "Introduces the psychology and problems of the adolescent years. Discusses biological changes, cultural influences, the identity crisis, educational needs, and adult and peer relationships. Consideration will be given to the impact that rapid cultural change has on youth. Also discusses adolescence in other cultures to provide a better perspective on American youth. Schedule: M W 3* Room: CAMPION HALL 204. Satisfies Core Requirement: None. Comments: None. Cross-listed with: None. PORTILLO, NELSON.",
+                        "department": "Counseling, Developmental, And Educational Psychology",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIOL2100",
+                        "name": "Introductory Biology Laboratory I",
+                        "credits": "1",
+                        "desc": "The first semester of a two-semester introductory biology laboratory course designed for non-biology majors preparing for graduate programs in health professions. This course teaches basic laboratory skills, including microscopy, spectrophotometry, analytical electrophoresis and molecular cloning. Students are introduced to the principles of experimental design, data analysis, and data interpretation. Inquirybased activities include experiments in biochemistry, cell physiology, and molecular biology. The Department. This course does not satisfy departmental requirements for biology majors. Lab fee required.",
+                        "department": "Biology",
+                        "catalog": "Boston College Undergraduate 2017-2018"
+                    },
+                    {
+                        "id": "BIOL2201",
+                        "name": "Introductory Biology I",
+                        "credits": "3",
+                        "desc": "Foundational course required for Biology majors that introduces students to living systems at the molecular and cellular level of organization. Topics introduced in this course include basic cellular biochemistry, gene regulation, cellular organization and metabolism, and cell signaling and genetics. The Department. Satisfies Natural Science Core Requirement This course will be a two part series offered over the summer.",
+                        "department": "Biology",
+                        "catalog": "Boston College Undergraduate 2017-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CH 109",
+                        "name": "General Chemistry I",
+                        "credits": "3",
+                        "desc": "This course is intended for students whose major interest is science or medicine. Course offers a rigorous introduction to the principles of chemistry with special emphasis on quantitative relationships and chemical equilibrium and the structures of atoms, molecules, and crystals. The properties of the more common elements and compounds are considered against a background of these principles and the periodic table. David McFadden. Udayan Mohanty. Neil Wolfman. Satisfies Natural Science Core requirement.",
+                        "department": "Chemistry",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    },
+                    {
+                        "id": "CH 111",
+                        "name": "General Chemistry Laboratory I",
+                        "credits": "1",
+                        "desc": "Experiments reflect and apply the principles learned in the lecture course. Computers are used to both acquire and analyze data. The semester concludes with a group project where students are required to design their own experiments to solve a problem. The Department. Lab fee required. Laboratory required of all students enrolled in CH 109\u2013110. One three-hour period per week.",
+                        "department": "Chemistry",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 054",
+                        "name": "Web Application Development",
+                        "credits": "3",
+                        "desc": "In this course students will create interactive web-based applications. We will begin by learning basic web page creation, database design, and database access techniques. Then emphasis will shift to creating pages that use server-side scripting to provide secure dynamic access to databases over the web. The course is currently taught using PHP and MySQL. William Ames. Katherine Lowrie.",
+                        "department": "Computer Science",
+                        "catalog": "Boston College 2009-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCI110101",
+                        "name": "Computer Science I",
+                        "credits": "3",
+                        "desc": "Satisfies Core requirement for Mathematics for CSCI1101 and CSCI1103. This course is an introduction to the art and science of computer programming and to some of the fundamental concepts of computer science. Students will write programs in the Python programming language. Good program design methodology will be stressed throughout. There will also be a study of some of the basic notions of computer science, including computer systems organization, files and some algorithms of fundamental importance. Room and Schedule: On-line Asynchronous. Satisifies Core Requirement: Mathematics. Cross-listed with: None. Student Level: Undergraduate. Comments: None. Status: Offered. Kim, Minji;Marques Samary, Maira R.",
+                        "department": "Computer Science",
+                        "catalog": "Boston College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "--",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CSCI110201",
+                        "name": "Computer Science II",
+                        "credits": "3",
+                        "desc": "In this course, the student will write programs that employ more sophisticated and efficient means of representing and manipulating information. Part of the course is devoted to a continued study of programming. The principal emphasis, however, is on the study of the fundamental data structures of computer science (lists, stacks, queues, trees, etc.). Both their abstract properties and their implementations in computer programs and the study of the fundamental algorithms for manipulating these structures. Students will use Java for programming. Room and Schedule: On-line Asynchronous. Satisifies Core Requirement: None. Cross-listed with: None. Student Level: Undergraduate. Comments: None. Status: Offered. Kim, Minji;Marques Samary, Maira R.",
+                        "department": "Computer Science",
+                        "catalog": "Boston College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1200",
+                        "name": "Data Structures",
+                        "note": "--",
+                        "desc": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance. Contact, Lecture or Lab Hours: 6.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CT 060",
+                        "name": "Introduction To Theatre",
+                        "credits": "3",
+                        "desc": "This is a survey course for primarily non-majors. Its aim is to impart an appreciation of the theatre as an artistic and humanizing experience. There will be discussion of the various elements that contribute to the development of theatre as a specialized art form including historical and cultural influences, staging styles and techniques, and the multiple genres of dramatic writing. Several plays illustrating the above will be read and attendance at selected performances is required. The Department. Satisfies Arts Core requirement.",
+                        "department": "Theatre",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON1131",
+                        "name": "Principles Of Economics I\u2014micro",
+                        "credits": "03",
+                        "desc": "This course is an analysis of prices, output, and income distribution through the interaction of households and business firms in a modern Western economy. The appropriate role of government intervention is examined, and basic analytical tools are applied to current economic problems. Open to freshmen, sophomores, and juniors. Course is open to seniors by department permission. Schedule: T TH 6-9 15. Room: O'NEILL LIBRARY 253. Satisfies Core Requirement: Social Science. Comments: Not to be offered after spring 2020. Cross-listed with: None. SARDA, PRIYANKA.",
+                        "department": "Economics",
+                        "catalog": "Boston College 2019-2020"
+                    },
+                    {
+                        "id": "ECON1132",
+                        "name": "Principles Of Economics II\u2014macro",
+                        "credits": "03",
+                        "desc": "This course is an analysis of national income and employment, economic fluctuations, monetary and fiscal policy, inflation, growth, and international aspects of macroeconomic policy. This course is an analysis of prices, output, and income distribution through the interaction of households and business Arms in a modern Western economy. The appropriate role of government intervention is examined, and basic analytical tools are applied to current economic problems. Open to freshmen, sophomores, and juniors. Course is open to seniors by department permission. Schedule: M W 6-9 15. Room: O'NEILL LIBRARY 253. Satisfies Core Requirement: Social Science. Comments: Not to be offered after spring 2020. Cross-listed with: None. SARDA, PRIYANKA.",
+                        "department": "Economics",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN 010",
+                        "name": "First Year Writing Seminar",
+                        "credits": "3",
+                        "desc": "Designed as a workshop in which each student develops a portfolio of personal and academic writing, the seminar follows a semester long process. Students write and rewrite essays continuously, discuss their works-in-progress in class, and receive feedback during individual and small group conferences with the instructor. Students read a wide range of texts, including various forms of non-fiction prose. In addition to regular conferences, the class meets two hours per week to discuss the writing process, the relationship between reading and writing, conventional and innovative ways of doing research, and evolving drafts of class members. The Department. Satisfies Writing Core requirement. Limited to 15 students.",
+                        "department": "English",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN 081",
+                        "name": "Literary Themes",
+                        "credits": "3",
+                        "desc": "These courses follow a particular theme through several genres and historical periods or cultures, focusing especially on elements in the theme which persist and seem to address what is enduring in human experience, but addressing also elements of the theme which change with the literary genre or the historical period and culture. The Department. Satisfies Literature Core requirement.",
+                        "department": "English",
+                        "catalog": "Boston College Undergraduate 2012-2013"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN 082",
+                        "name": "Literature And Society",
+                        "credits": "3",
+                        "desc": "Courses listed under this title treat literature as an integral part of a larger cultural experience. They examine the relationship between literary works and specific social issues as the relationship develops in particular cultures across time. These courses may use several kinds of cultural and historical documents both to link literature to culture and to raise the question of how and whether to distinguish some of them as literature. The Department. Satisfies Literature Core requirement.",
+                        "department": "English",
+                        "catalog": "Boston College Undergraduate 2012-2013"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL1009",
+                        "name": "First Year Writing Seminar/english Language Learners",
+                        "credits": "03",
+                        "desc": "This course, offered in the fall, is part of a year-long sequence of English language support. It may be taken in place of ENGL1010 and fulfills BC's writing core requirement. Similar to ENGL1010, students will gain practice in the writing of academic essays, focusing on a range of English rhetorical styles from narrative to analytic, to research. The composition process from brainstorming, drafting, revision, and editing will be considered. Grammar support for students from linguistically diverse backgrounds is provided throughout the semester. Students in this course will continue with ENGL1079 Literature Core/ELL in the spring. Schedule: T TH 10 30* Room: STOKES HALL 476S. Satisfies Core Requirement: None. Comments: Department permission required Limited to 15. Students place into the course after taking a writing assessment. Cross-listed with: None. RAYEESA, UNTARA.",
+                        "department": "English",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL1010",
+                        "name": "First Year Writing Seminar",
+                        "credits": "03",
+                        "desc": "Designed as a workshop in which each student develops a portfolio of personal and academic writing, the seminar follows a semester-long process. Students write and rewrite essays continuously, discuss their works-in-progress in class, and receive feedback during individual and small group conferences with the instructor. Students read a wide range of texts, including various forms of non-fiction prose. In addition to regular conferences, the class meets two hours per week to discuss the writing process, the relationship between reading and writing, conventional and innovative ways of doing research, and evolving drafts of class members. Schedule: T TH 1-4 15. Room: STOKES HALL 476S. Satisfies Core Requirement: Writing. Comments: Limited to 15 students. Cross-listed with: None. NORWOOD, KELSEY E.",
+                        "department": "English",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "--",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL1080",
+                        "name": "Literature Core",
+                        "credits": "03",
+                        "desc": "In Literature Core, students explore the principal motives which prompt people to read literature: to assemble and assess the shape and values of one's own culture, to discover alternative ways of looking at the world, to gain insight into issues of permanent human importance as well as issues of contemporary urgency, and to enjoy the linguistic and formal satisfactions of literary art. Literature Core will strive to develop the student's capacity to read and write with clarity and engagement, to allow for that dialogue between the past and present we call history, and to provide an introduction to literary genres. Schedule: T TH 9-12 15. Room: STOKES HALL 209S. Satisfies Core Requirement: Literature. Comments: None. Cross-listed with: ADEN1080. SMITH, JAMES M.",
+                        "department": "English",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "FORS2201",
+                        "name": "Wounded Warriors In Transition",
+                        "credits": "03",
+                        "desc": "Over 65,000 U.S. troops have been wounded since 2001. Many have suffered \"the hidden injuries\"-traumatic brain injuries and post-traumatic stress disorder. The purpose of this course is for students to gain an understanding of military culture, catastrophic injuries, and the journey of Wounded Warriors and their family members. The course examines the history and culture of the Armed Services and the developing knowledge of the rehabilitation of Wounded Warriors. Schedule: T 4 30-7 30. Room: HIGGINS 300. Satisfies Core Requirement: None. Comments: Undergraduate Elective only. Cross-listed with: None. BURGESS, ANN W.",
+                        "department": "Forensics",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 2000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST1006",
+                        "name": "Asia In The World II",
+                        "credits": "03",
+                        "desc": "This course examines Asia in the shaping of the modern world, from competing definitions of empires circa 1800 to the rise of the notion of the twenty-first century as a \"Pacific Century.\" It investigates the definition(s) of Asia as a world region, explores transnational interactions, and emphasizes Asians as historical actors via written, visual, and aural sources. Events are placed in the context of key historical paradigms, including varying definitions of modernity, the rise of the nation-state, the birth of mass politics, new mechanisms of war, the language of selfdetermination, changing views of gender, shifting types of media/consumption, etc. Schedule: T TH 10 30. Room: MCGUINN 121. Satisfies Core Requirement: Cultural Diversity, History II. Comments: None. Cross-listed with: None. MO, YAJUN.",
+                        "department": "History",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HP 001",
+                        "name": "Western Cultural Tradition I",
+                        "credits": "3",
+                        "desc": "All students in the Honors Program are required to take Western Cultural Tradition I\u2013IV (HP 001\u2013HP 004) as freshmen and Western Cultural Tradition V\u2013VIII (HP 031\u2013HP 034) as sophomores. These are two 3-credit courses each semester (a total of 24 credits), and they substitute for the normal Core requirements in Theology, Philosophy, English and (for non-majors) Social Science. They are open only to students in A&S (about nine percent of the freshman class) who have been selected by the Director in collaboration with the Office of Undergraduate Admission. All have been contacted by letter during the summer with instructions on registration. The Department. Satisfies Philosophy Core requirement. Satisfies Writing Core requirement.",
+                        "department": "Honors Program",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HP 002",
+                        "name": "Western Cultural Tradition II",
+                        "credits": "3",
+                        "desc": "All students in the Honors Program are required to take Western Cultural Tradition I\u2013IV (HP 001\u2013HP 004) as freshmen and Western Cultural Tradition V\u2013VIII (HP 031\u2013HP 034) as sophomores. These are two 3-credit courses each semester (a total of 24 credits), and they substitute for the normal Core requirements in Theology, Philosophy, English and (for non-majors) Social Science. They are open only to students in A&S (about nine percent of the freshman class) who have been selected by the Director in collaboration with the Office of Undergraduate Admission. All have been contacted by letter during the summer with instructions on registration. The Department. Satisfies Philosophy Core requirement. Satisfies Writing Core requirement.",
+                        "department": "Honors Program",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HP 003",
+                        "name": "Western Cultural Tradition III",
+                        "credits": "3",
+                        "desc": "Students in the Honors Program are required to take Western Cultural Tradition I\u2013IV (HP 001\u2013HP 004) as freshmen and Western Cultural Tradition V\u2013VIII (HP 031\u2013HP 034) as sophomores. These are two 3-credit courses each semester (a total of 24 credits), and they substitute for the normal Core requirements in Theology, Philosophy, English and (for non-majors) Social Science. They are open only to students in A&S (about nine percent of the freshmen class) who have been selected by the Director in collaboration with the Office of Undergraduate Admission. All have been contacted by letter during the summer with instructions on registration. The Department. Satisfies Literature Core requirement. Satisfies Philosophy Core requirement. Satisfies Theology Core requirement.",
+                        "department": "Honors Program",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HP 004",
+                        "name": "Western Cultural Tradition Iv",
+                        "credits": "3",
+                        "desc": "Students in the Honors Program are required to take Western Cultural Tradition I\u2013IV (HP 001\u2013HP 004) as freshmen and Western Cultural Tradition V\u2013VIII (HP 031\u2013HP 034) as sophomores. These are two 3-credit courses each semester (a total of 24 credits), and they substitute for the normal Core requirements in Theology, Philosophy, English and (for non-majors) Social Science. They are open only to students in A&S (about nine percent of the freshmen class) who have been selected by the Director in collaboration with the Office of Undergraduate Admission. All have been contacted by letter during the summer with instructions on registration. The Department. Satisfies Literature Core requirement. Satisfies Philosophy Core requirement. Satisfies Theology Core requirement.",
+                        "department": "Honors Program",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HS 019",
+                        "name": "Democracy, Rights, And Empire I",
+                        "credits": "3",
+                        "desc": "This course is an inquiry into the origins of modernity (c. 1350\u20131800) by considering European capitalism, early colonialism, New World slavery, religious warfare, political revolutions (e.g., the French and Haitian revolutions), the Scientific Revolution, and the Enlightenment. Looked at another way, these courses are chiefly about the first global economy and European greed, racism, exploitation, and fanaticism, out of which, in the eighteenth century, emerged the struggle for toleration and human rights. The seemingly inherent contradictions in the development of Western society during these centuries are what the professor attempts to resolve. Devin Pendas. Alan Rogers. Satisfies History Core requirement.",
+                        "department": "History",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HS 020",
+                        "name": "Democracy, Rights, And Empire II",
+                        "credits": "3",
+                        "desc": "This course is an inquiry into the origins of modernity (c. 1350\u20131800) by considering European capitalism, early colonialism, New World slavery, religious warfare, political revolutions (e.g., the French and Haitian revolutions), the Scientific Revolution, and the Enlightenment. Looked at another way, these courses are chiefly about the first global economy and European greed, racism, exploitation, and fanaticism, out of which, in the eighteenth century, emerged the struggle for toleration and human rights. The seemingly inherent contradictions in the development of Western society during these centuries are what the professor attempts to resolve. Devin Pendas. Alan Rogers. Satisfies History Core requirement.",
+                        "department": "History",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HS 023",
+                        "name": "Eurasia In The World I",
+                        "credits": "3",
+                        "desc": "These classes will discuss the changing frontiers of Europe\u2019s religious, economic, cultural, technological, and the interactions that defined that liminal space. Europeans from the Middle Ages through the French Revolution created their identities, both individual and communal, through their interactions with other peoples, and they often used these relationships to declare their status within European society. We will explore geographic boundaries as Europeans became increasingly active outside of Europe proper, but we will also examine other frontiers that were crossed in this period, as technologies, economies, and religions expanded because of Europe\u2019s contact with other parts of the world. Benjamin Braude. Satisfies History Core requirement.",
+                        "department": "History",
+                        "catalog": "Boston College Undergraduate 2012-2013"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HS 094",
+                        "name": "Modern History II",
+                        "credits": "3",
+                        "desc": "This course covers several centuries of time and traces the political, social, economic, and cultural changes that created the modern world. Depending on the expertise of the instructor, different parts of the world may serve as focal points for examining the complex historical processes behind modern-day transnational relationships, values, and ideas. As part of the Core Curriculum, this course seeks to broaden students\u2019 intellectual horizons by exposing them to new places, periods, and perspectives. The Department. Satisfies History Core requirement.",
+                        "department": "History",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ISYS1021",
+                        "name": "Digital Technologies: Strategy And Use",
+                        "credits": "03",
+                        "desc": "This class was formerly known as Computers in Management. Digital technologies play a vital and varying role in management. In this course we approach the subject in two ways. In one module students learn to use technology as a tool for problem solving by developing increasingly sophisticated models in Excel. The other module provides an introduction to management viewed through the lens of technology. Students examine the role of technology in promoting innovation and organizational competitiveness across a variety of functional areas of the firm (e.g., marketing, finance, operations). Schedule: T TH 12*. Room: FULTON HALL 415. Satisfies Core Requirement: None. Comments: This course is required for all CSOM students and should be taken in their first year at BC. Cross-listed with: None. LI, ZHUOXIN.",
+                        "department": "Information Systems",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH1100",
+                        "name": "Calculus I",
+                        "credits": "03",
+                        "desc": "MATH1100 is a first course in the calculus of one variable intended for biology, computer science, economics, management, and premedical students. It is open to others who are qualified and desire a more rigorous mathematics course at the core level. Topics include a brief review of polynomials and trigonometric, exponential, and logarithmic functions, followed by discussion of limits, derivatives, and applications of differential calculus to real-world problem areas. The course concludes with an introduction to integration. Schedule: M W 9-12. Room: DEVLIN HALL 112. Satisfies Core Requirement: Mathematics. Comments: MATH1100 is not open to students who have completed a calculus course at the college level. Students contemplating majors in Chemistry, Computer Science/B.S., Environmental Geosciences, Geological Sciences, Mathematics, or Physics should enroll in MATH1102. ADMT1901 section for BCE students only. Cross-listed with: ADMT1901. GOLDSTEIN, ELLEN J.",
+                        "department": "Mathematics",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH2216",
+                        "name": "Introduction To Abstract Mathematics",
+                        "credits": "03",
+                        "desc": "This course is designed to develop the student's ability to do abstract mathematics through the presentation and development of the basic notions of logic and proof. Topics include elementary set theory, mappings, integers, rings, complex numbers, and polynomials. Schedule: M W F 9. Room: GASSON HALL 207. Satisfies Core Requirement: None. Comments: None. Cross-listed with: None. GROSS, ROBERT.",
+                        "department": "Mathematics",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH221001",
+                        "name": "Linear Algebra",
+                        "credits": "3",
+                        "desc": "This course is an introduction to the techniques of linear algebra in Euclidean space. Topics covered include matrices, determinants, systems of linear equations, vectors in n-dimensional space, complex numbers, and eigenvalues. The course is required of mathematics majors and is also suitable for students in the social sciences, natural sciences, and management. Room and Schedule: 245 Beacon Street Room 214 MWF 12:00 Noon-12:50PM. Satisifies Core Requirement: None. Cross-listed with: None. Student Level: Undergraduate. Comments: None. Status: Offered. Grigsby, Julia E, PHD.",
+                        "department": "Mathematics",
+                        "catalog": "Boston College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH2210",
+                        "name": "Linear Algebra",
+                        "credits": "03",
+                        "desc": "This course is an introduction to the techniques of linear algebra in Euclidean space. Topics covered include matrices, determinants, systems of linear equations, vectors in n-dimensional space, complex numbers, and eigenvalues. The course is required of mathematics majors and is also suitable for students in the social sciences, natural sciences, and management. Schedule: M W TH 4-6 15. Room: GASSON HALL 205. Satisfies Core Requirement: None. Comments: None. Cross-listed with: ADMT2210. WOLF, JAMISON B.",
+                        "department": "Mathematics",
+                        "catalog": "Boston College 2019-2020"
+                    },
+                    {
+                        "id": "MT 202",
+                        "name": "Multivariable Calculus",
+                        "credits": "4",
+                        "desc": "Topics in this course include vectors in two and three dimensions, analytic geometry of three dimensions, parametric curves, partial derivatives, the gradient, optimization in several variables, multiple integration with change of variables across different coordinate systems, line integrals, and Green\u2019s Theorem. Satisfies Mathematics Core requirement. This course is for students majoring in Chemistry, Computer Science/B.S., Geological Sciences, Environmental Geosciences, Mathematics, and Physics, as well as other students who have completed integral Calculus.",
+                        "department": "Mathematics",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2010",
+                        "name": "Multivariable Calculus And Matrix Algebra",
+                        "note": "--",
+                        "desc": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green\u2019s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science. Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MT 202",
+                        "name": "Multivariable Calculus",
+                        "credits": "4",
+                        "desc": "Topics in this course include vectors in two and three dimensions, analytic geometry of three dimensions, parametric curves, partial derivatives, the gradient, optimization in several variables, multiple integration with change of variables across different coordinate systems, line integrals, and Green\u2019s Theorem. Satisfies Mathematics Core requirement. This course is for students majoring in Chemistry, Computer Science/B.S., Geological Sciences, Environmental Geosciences, Mathematics, and Physics, as well as other students who have completed integral Calculus.",
+                        "department": "Mathematics",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MT 305",
+                        "name": "Advanced Calculus (science Majors)",
+                        "credits": "4",
+                        "desc": "MT 305 is required for Geology-Geophysics, Geophysics, and Physics majors. It is also recommended for Chemistry majors. Topics include linear second order differential equations, series solutions of differential equations including Bessel functions and Legendre polynomials, and solutions of the diffusion and wave equations in several dimensions. Cannot be used for major credit.",
+                        "department": "Mathematics",
+                        "catalog": "Boston College Undergraduate 2012-2013"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MU 066",
+                        "name": "Introduction To Music",
+                        "credits": "3",
+                        "desc": "This course will attempt to develop essential and critical listening faculties by employing a chronological survey of the elements, forms, and various types of music that the serious listener is exposed to today. The principal emphasis of the course will be on traditional Western art music from medieval Gregorian Chant to twentieth-century electronic music, but certain excursions into the world of non-Western musics, jazz, and American popular song will be included to diversify and enrich the experience of listening critically to music. The Department. Satisfies Arts Core requirement.",
+                        "department": "Music",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUSA1100",
+                        "name": "Fundamentals Of Music Theory",
+                        "credits": "03",
+                        "desc": "An introductory music theory course designed for students with a strong interest in music. As a Core course it includes speculations on how musical discourse informs our perception and understanding of the world around us. Students learn to acquire skills in music notation and transcription. The following theoretical concepts will be extensively covered: notation of pitch and rhythm, scales, intervals, chords, and harmonic progression. Students leave the course prepared for upper level study in music theory and will begin to question broader issues concerning the meaning and use of music. Schedule: T TH 1 15-4 45. Room: LYONS HALL 423. Satisfies Core Requirement: Arts. Comments: None. Cross-listed with: ADMU1100. GAWLICK, BARBARA S.",
+                        "department": "Music Academic",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1380",
+                        "name": "Fundamentals Of Music And Sound",
+                        "note": "--",
+                        "desc": "This course is a hands-on introduction to the primary building blocks of music and musicianship in a 21st Century context. No formal musical background is expected. The course will explore acoustics and psychoacoustics, rhythm, pitch, harmony, melody, timbre, improvisation, composition, and music notation through performance, listening, written exercises, and creative projects.",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "OPER1135",
+                        "name": "Business Statistics",
+                        "credits": "03",
+                        "desc": "This course focuses on the analytical tools of statistics that are applicable to management practice and decision making. Topics include descriptive statistics, probability, random variables, sampling distributions, estimation of parameters, hypothesis testing, and regression. Schedule: T TH 9*. Room: FULTON HALL 220. Satisfies Core Requirement: None. Comments: This course is not open to students who have completed BIOL2300. Cross-listed with: None. BOARDMAN LIU, LINDA.",
+                        "department": "Operations Management",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PH 301",
+                        "name": "Vibrations And Waves",
+                        "credits": "4",
+                        "desc": "This course is an introduction to the phenomena of vibrations and waves that span most of the areas in physics. The basic subject matter includes the following: mechanical vibrations and waves, free and forced vibrations and resonances, coupled oscillations and normal modes, vibration of continuous systems, propagation of mechanical and electromagnetic waves, phase and group velocity, interference and diffraction. The course also covers the basic concepts in first and second order differential equations, matrices, eigenvalues and eigenvectors and Fourier series. The Department.",
+                        "department": "Physics",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PH 303",
+                        "name": "Introduction To Modern Physics",
+                        "credits": "4",
+                        "desc": "This course is a transition between introductory and advanced physics courses for science majors. The basic subject matter includes the two principal physical theories of the twentieth century--relativity and quantum mechanics. Included are the following: the Lorentz transformation, kinematic consequences of relativity, origin of the quantum theory, one-dimensional quantum mechanics, quantum mechanics of a particle in three dimensions, applications to the hydrogen atom and to more complex atoms, molecules, crystals, metals, and semiconductors. The Department.",
+                        "department": "Physics",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL1071",
+                        "name": "Philosophy Of The Person II",
+                        "credits": "03",
+                        "desc": "This course introduces students to philosophical reflection and to its history through the presentation and discussion of the writings of major thinkers from ancient, medieval, modern, and contemporary periods. The course is designed to show how fundamental and enduring questions about the universe and about human beings recur in different historical contexts. Emphasis is given to ethical themes, such as the nature of the human person, the foundation of human rights and corresponding responsibilities, and the problems of social justice. Schedule: M W 6-9 15. Room: STOKES HALL 131N. Satisfies Core Requirement: Philosophy. Comments: Two-semester, six-credit course: Students must have successfully completed PHIL1070 before taking PHIL1071. Cross-listed with: None. DEHGHANI, HESSAM.",
+                        "department": "Philosophy",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS2051",
+                        "name": "Introductory Physics Laboratory II",
+                        "credits": "01",
+                        "desc": "A laboratory course that provides an opportunity to perform experiments on topics in electricity and magnetism and physical optics. This lab is intended for students in PHYS2200-2201 or PHYS2100-2101. Schedule: M T TH 4-5 50. Room: HIGGINS HALL 253. Satisfies Core Requirement: None. Comments: Lab fee required. Cross-listed with: None. HERCZYNSKI, ANDRZEJ.",
+                        "department": "Physics",
+                        "catalog": "Boston College 2019-2020"
+                    },
+                    {
+                        "id": "PHYS2201",
+                        "name": "Introductory Physics II (calculus)",
+                        "credits": "04",
+                        "desc": "Second semester of a calculus-based introduction to physics for those majoring in the physical sciences. Students utilize analytical reasoning combined with mathematical formalism to fully explore the development, consequences, and limitations of the classical principles of physics; similar to PHYS2101 in pace and content but at a greater depth appropriate for physical science majors. Class size is limited to promote classroom discussion. Topics include fundamentals of electrostatics, simple electrical circuits, magnetism, electromagnetism and electromagnetic oscillations and waves, and selected topics in physical optics. Schedule: M W F 9. Room: HIGGINS HALL 225. Satisfies Core Requirement: Natural Science. Comments: PHYS2051 is the laboratory course to supplement the lecture course material. Cross-listed with: None. GOCHAN, MATTHEW.",
+                        "department": "Physics",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS2200",
+                        "name": "Introductory Physics I (calculus)",
+                        "credits": "04",
+                        "desc": "First semester of a two-semester calculus-based introduction to physics for those majoring in the physical sciences. Students utilize analytical reasoning combined with mathematical formalism to fully explore the development, consequences and limitations of the classical principles of physics; similar to PHYS2100 in pace and content but at a greater depth appropriate for physical science majors. Class size is limited to promote classroom discussion. Topics cover classical mechanics, including Newton's laws, energy, rotational motion, oscillations, waves, and gravitation. Schedule: M W F 9. Room: HIGGINS HALL 225. Satisfies Core Requirement: None. Comments: PHYS2050 is the laboratory course to supplement the lecture course material. Cross-listed with: None. HERCZYNSKI, ANDRZEJ.",
+                        "department": "Physics",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PH 209",
+                        "name": "Introductory Physics I (calculus)",
+                        "credits": "4",
+                        "desc": "This course is a two-semester calculus-based introduction to physics for those majoring in the physical sciences. Students utilize analytical reasoning combined with mathematical formalism to fully explore the development, consequences and limitations of the classical principles of physics; similar to PH 211\u2013212 in pace and content but at a greater depth appropriate for physical science majors. Class size is limited to promote classroom discussion. Topics cover classical mechanics, including Newton\u2019s laws, energy, rotational motion, oscillations, waves, and gravitation. The Department. Satisfies Natural Science Core requirement.",
+                        "department": "Physics",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    },
+                    {
+                        "id": "PHYS2200",
+                        "name": "Introductory Physics I (calculus)",
+                        "credits": "04",
+                        "desc": "First semester of a two-semester calculus-based introduction to physics for those majoring in the physical sciences. Students utilize analytical reasoning combined with mathematical formalism to fully explore the development, consequences and limitations of the classical principles of physics; similar to PHYS2100 in pace and content but at a greater depth appropriate for physical science majors. Class size is limited to promote classroom discussion. Topics cover classical mechanics, including Newton's laws, energy, rotational motion, oscillations, waves, and gravitation. Schedule: M W F 9. Room: HIGGINS HALL 225. Satisfies Core Requirement: None. Comments: PHYS2050 is the laboratory course to supplement the lecture course material. Cross-listed with: None. HERCZYNSKI, ANDRZEJ.",
+                        "department": "Physics",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PL 005",
+                        "name": "Introduction To Basic Problems In Philosophy",
+                        "credits": "4",
+                        "desc": "David McMenamin",
+                        "department": "Pl",
+                        "catalog": "Boston College 2002-2003"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PL 088",
+                        "name": "Person And Social Responsibility I",
+                        "credits": "3",
+                        "desc": "The course requirements include ten to twelve hours per week of community service. In light of classic philosophical and theological texts, students in this course address the relationship of self and society, the nature of community, the mystery of suffering and the practical difficulties of developing a just society. PULSE students are challenged to investigate the insights offered by their readings in relationship to their service work. Places in these courses are very limited. The Department. Satisfies Theology Core requirement. Satisfies Philosophy Core requirement. Enrollment limited to freshmen, sophomores, and juniors.",
+                        "department": "Philosophy",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PL 264",
+                        "name": "Logic",
+                        "credits": "3",
+                        "desc": "This course will consider the principles of correct reasoning together with their application to concrete cases. The Department.",
+                        "department": "Philosophy",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2140",
+                        "name": "Introduction To Logic",
+                        "note": "--",
+                        "desc": "Introduction to first-order logic as a tool to be used in engineering, computer science, philosophy, etc., and as procedural knowledge helpful in puzzlesolving environments (e.g., standardized tests). A hands-on laboratory component is included.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PRTO1000",
+                        "name": "Portico",
+                        "credits": "03",
+                        "desc": "This is the introductory course for Carroll School of Management's first year students. Topics will include ethics, leadership, globalization, economic development, capitalism, innovation, entrepreneurship, vocational discernment, and the functional areas of business. This will be an interactive three-credit seminar, serving as one of the five courses in the fall semester and fulfilling the ethics requirement for the Carroll School. The instructor will serve as academic advisor during the student's first year. Schedule: T TH 9. Room: FULTON HALL 310. Satisfies Core Requirement: None. Comments: This course is required for all Carroll School students and must be taken in the fall semester of their first year at BC. Portico fulfills the Carroll School ethics requirement. Cross-listed with: None. GERMAN, LOURDES.",
+                        "department": "Portico",
+                        "catalog": "Boston College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PS 234",
+                        "name": "Abnormal Psychology",
+                        "credits": "3",
+                        "desc": "This course provides an introduction to the field of abnormal psychology. Major topics include theoretical and empirical approaches to the study of psychopathology; assessment and diagnosis of abnormality; and psychological, behavioral, biological, and sociocultural characteristics of the major syndromes of psychopathology. Legal and ethical issues and current approaches to the treatment and prevention of psychological disorders will also be discussed. Marilee Ogren.",
+                        "department": "Psychology",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PS 242",
+                        "name": "Personality Theories",
+                        "credits": "3",
+                        "desc": "This course introduces students to a variety of theoretical approaches to the understanding of character and personality. James Russell.",
+                        "department": "Psychology",
+                        "catalog": "Boston College Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Boston University": {
+        "city": "Boston",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CAS CH 101",
+                        "name": "General Chemistry 1",
+                        "credits": "4",
+                        "desc": "For science majors and minors who require a two-semester general chemistry course, but have little prior experience with chemistry. Topics include: atoms and molecules; quantum theory and atomic structure, chemical periodicity; bonding in diatomic and polyatomic molecules; stoichiometry and introduction to reactions in aqueous solutions; properties of gases; and thermochemistry and the first law of thermodynamics.Laboratory exercises include basic training in lab safety and handling of chemical and experiments complementing the lectures, such as investigations of the size of an atom, gas laws, thermochemistry, and quantum aspects. Students must register for the following four (4) course components: lecture, discussion, pre-lab lecture, and laboratory. Carries natural science divisional credit (with lab) in CAS. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry I, Quantitative Reasoning I.",
+                        "department": "Chemistry",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "CHEM 1100 (4 cr)",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CAS CS 111",
+                        "name": "Introduction To Computer Science 1",
+                        "credits": "4",
+                        "desc": "The first course for computer science majors and anyone seeking a rigorous introduction. Develops computational problem-solving skills by programming in the Python language, and exposes students to variety of other topics from computer science and its applications. Carries MCS divisional credit in CAS. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Creativity/Innovation, Critical Thinking.",
+                        "department": "Computer Science",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1100",
+                        "name": "Computer Science I",
+                        "note": "CSCI 1100 (4cr)",
+                        "desc": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CAS EC 202",
+                        "name": "Intermediate Macroeconomic Analysis",
+                        "credits": "4",
+                        "desc": "Determination of aggregate income and employment. Analysis of fiscal and monetary policy. Inflation and income policy. Problems of the open economy. Effective Fall 2019, this course fulfills a single unit in the following BU Hub areas: Social Inquiry II, Critical Thinking.",
+                        "department": "Economics",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 2020",
+                        "name": "Intermediate Macroeconomic Theory",
+                        "note": "ECON 2020 (4cr)",
+                        "desc": "Attention is directed primarily to variations in the aggregate volume of output, income, and employment. Cyclical fluctuations and long-term economic trends are examined and the interrelations of business and government policies are analyzed. The applicability of economic theory to the problems of business forecasting is discussed.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CAS MA 226",
+                        "name": "Differential Equations",
+                        "credits": "4",
+                        "desc": "First-order linear and separable equations. Second-order equations and first-order systems. Linear equations and linearization. Numerical and qualitative analysis. Laplace transforms. Applications and modeling of real phenomena throughout. (Cannot be taken for credit in addition to CAS MA 231.) Effective Fall 2020, this course fulfills a single unit in the following BU Hub area: Critical Thinking.",
+                        "department": "Mathematics",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "MATH 2400 (4cr)",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CAS MA 581",
+                        "name": "Probability",
+                        "credits": "4",
+                        "desc": "Basic probability, conditional probability, independence. Discrete and continuous random variables, mean and variance, functions of random variables, moment generating function. Jointly distributed random variables, conditional distributions, independent random variables. Methods of transformations, law of large numbers, central limit theorem. Cannot be taken for credit in addition to CAS MA 381.",
+                        "department": "Mathematics",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATP 4600",
+                        "name": "Probability Theory And Applications",
+                        "note": "MATP 4600 (4 cr)",
+                        "desc": "Axioms of probability, joint and conditional probability, random variables, probability density and distribution functions, expectation, functions of random variables, and limit theorems. Applications of probability to models in operations research, including queuing theory and Markov chains.",
+                        "department": "Mathematical Programming Probability",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CAS PY 212",
+                        "name": "General Physics 2",
+                        "credits": "4",
+                        "desc": "Calculus-based introduction to basic principles of physics, emphasizing electromagnetism, circuits, and optics. For science majors and engineers, and for premedical students who seek a more analytical course than CAS PY 105/106. Interactive, student-centered lectures, discussion, and laboratory. Carries natural science divisional credit in CAS. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Quantitative Reasoning II, Critical Thinking, Teamwork/Collaboration.",
+                        "department": "Physics",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "PHYS 1200 (4cr)",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG EC 410",
+                        "name": "Introduction To Electronics",
+                        "credits": "4",
+                        "desc": "Principles of diode, BJT, and MOSFET circuits. Graphical and analytical means of analysis. Piecewise linear modeling; amplifiers; digital inverters and logic gates. Biasing and small-signal analysis, microelectronic design techniques. Time-domain and frequency domain analysis and design. Includes lab.",
+                        "department": "Electrical & Computer Engineer",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECSE 2050",
+                        "name": "Introduction To Electronics",
+                        "note": "--",
+                        "desc": "The physics and operation of semiconductor diodes, bipolar junction transistors, and field-effect transistors in elementary analog circuits. Non-ideal operational amplifier characteristics. Amplifier biasing, small-signal analysis, and frequency response. Elementary bipolar and MOSFET digital circuits. Contact, Lecture or Lab Hours: 6 contact hours.",
+                        "department": "Electrical, Computer, Systems Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "1/1/2022",
+                "end": "1/1/2027"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MET CS 248",
+                        "name": "Discrete Mathematics",
+                        "credits": "4",
+                        "desc": "Fundamentals of logic (the laws of logic, rules of inferences, quantifiers, proofs of theorems), Fundamental principles of counting (permutations, combinations), set theory, relations and functions, graphs, trees and sorting.",
+                        "department": "Computer Science",
+                        "catalog": "Boston University Course Descriptions 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2200",
+                        "name": "Foundations Of Computer Science",
+                        "note": "CSCI 2200 (4cr)",
+                        "desc": "This course introduces important mathematical and theoretical tools for computer science, including topics from set theory, combinatorics, and probability theory, and then proceeds to automata theory, the Turing Machine model of computation, and notions of computational complexity. The course will emphasize formal reasoning and proof techniques. Contact, Lecture or Lab Hours: 5.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "5/1/2023",
+                "end": "5/1/2026"
+            }
+        ]
+    },
+    "Bowling Green State University-Firelands": {
+        "city": "Huron",
+        "state": "OH",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AFRS 2000",
+                        "name": "Introduction To Africana Studies",
+                        "credits": "3.00",
+                        "desc": "Regular and online course introducing students to the interdisciplinary methodology, crosscultural perspectives, literary genres, and criticalanalysis skills needed to study peoples of African descent. Focus is on the arts and humanities. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Africana Studies",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ESHP 2040",
+                        "name": "Entrepreneurship: The Introduction",
+                        "credits": "3.00",
+                        "desc": "Introduction to entrepreneurship and its importance to the economy. Study of the entrepreneurial process from conception to birth of a new venture. Concentration on attributes of successful entrepreneurs including opportunity recognition, innovation, venture screening, risk assessment, risk tolerance, identification of resources, and business planning to learn how to turn opportunities into a viable business. Approved for distance education. Min Units: 3.00.",
+                        "department": "Entrepreneurship",
+                        "catalog": "Bowling Green State University Undergraduate Fall Course Descriptions 2018-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4510",
+                        "name": "Invention, Innovation, And Entrepreneurship",
+                        "note": "--",
+                        "desc": "This course focuses on three key goals: providing increased insight into the cognitive foundations of entrepreneurship, offering practice in applying creative thinking to the task of formulating ideas for new products or services, and presenting basic information about the organizational process of commercializing such innovations. These goals will be achieved through a combination of assigned readings, in-class exercises, and individual and team projects. In addition, the course will include contributions from guest speakers who will share with the class their own experiences and expertise. Cross Listed: MGMT 6640. Students cannot receive credit for both MGMT 4510 and MGMT 6640.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GSW 1120",
+                        "name": "Academic Writing",
+                        "credits": "3.00",
+                        "desc": "Expository writing including research paper; emphasis on analytical writing based on critical reading. Placement through pretesting or successful completion of GSW 1100 or GSW 1110. Students must complete course and program portfolio assessment successfully to receive a passing grade. Min Units: 3.00.",
+                        "department": "Academic Writing",
+                        "catalog": "Bowling Green State University Undergraduate Fall Course Descriptions 2018-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "--",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUCT 1920Q",
+                        "name": "Inquiry In Humanities And Creative Arts",
+                        "credits": "3.00",
+                        "desc": "Investigates how music communicates and embodies social, historical, and personal ideas, beliefs, and values. Emphasis on how musical sounds create meaning in various contexts. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Music",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUCT 4310",
+                        "name": "Aesthetics Of Black Music",
+                        "credits": "3.00",
+                        "desc": "West African and African-American concepts of music; modifications and innovations in America from slavery to present. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Music",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 4000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 1010",
+                        "name": "Introduction To Philosophy",
+                        "credits": "3.00",
+                        "desc": "What makes you, you? Why do bad things happen to good people? Can you really trust what you see? Can we be certain that God exists? What makes us responsible for the things we do? What are the limits of what we can know? What makes life worth living? In this course, you will critically discuss and debate these kinds of questions that have puzzled us for thousands of years and enrich our understanding of ourselves and our place in the world. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Philosophy",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1110",
+                        "name": "Introduction To Philosophy",
+                        "note": "--",
+                        "desc": "An introduction to the major areas of philosophy (ethics, theory of knowledge, philosophy of religion, etc.) and to some of the main problems treated within these fields. Selections from contemporary as well as classical authors are studied and discussed. Students are encouraged to develop a disciplined approach to intellectual problems. Emphasis varies with the instructor.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bowling Green State University-Main Campus": {
+        "city": "Bowling Green",
+        "state": "OH",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AFRS 2000",
+                        "name": "Introduction To Africana Studies",
+                        "credits": "3.00",
+                        "desc": "Regular and online course introducing students to the interdisciplinary methodology, crosscultural perspectives, literary genres, and criticalanalysis skills needed to study peoples of African descent. Focus is on the arts and humanities. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Africana Studies",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ART 112",
+                        "name": "Three-dimensional Foundations",
+                        "credits": "3",
+                        "desc": "Creative principles of art in three-dimensional form emphasizing aesthetics, utilitarian concepts and tools in experimental studio experiences. Required of art majors and minors. Can be taken with ART 102 or ART 103. Extra fee.",
+                        "department": "Art",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 2000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 125",
+                        "name": "General Chemistry",
+                        "credits": "5",
+                        "desc": "Chemistry sequence for students majoring in sciences, the liberal arts or in premedical programs. Three lectures, one recitation, one three-hour laboratory. Applicable to the BG Perspective (general education) natural sciences requirement. Extra fee.",
+                        "department": "Chemistry",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 201",
+                        "name": "Introduction To Object-oriented Programming",
+                        "credits": "3",
+                        "desc": "Introduction to programming using the object-oriented paradigm. Fundamental data types and control structures; objects and classes; string, vectors and arrays. Introduction to data representation.",
+                        "department": "Computer Science",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1010",
+                        "name": "Introduction To Computer Programming",
+                        "note": "--",
+                        "desc": "Computer programming is a way of thinking. A successful programmer needs to take a word problem, generate a pseudocode algorithm, and convert it to the syntax of a specific programming language. This course is an alternative to CSCI 1100 and is intended for students who want an introduction to this programming process but do not intend to do further course work in programming or computer science. Emphasis will be on the generation of the algorithms and problem solving. This course is offered in Python, an approachable language with relatively low syntax complexity, which allows students to concentrate on the fundamentals without becoming sidetracked by language specifics. It also affords students a tool for creating useful personal applications or prototypes in the future. Students cannot get credit for this course if they have already taken any other CSCI course. (Fall 2019 is the final offering of this course.)",
+                        "department": "Computer Science (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2019-2020"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 111",
+                        "name": "Introductory Writing",
+                        "credits": "5",
+                        "desc": "Basic expository writing; emphasis on organizing and developing coherent essays of at least 800 words for college-educated audience. Placement through departmental pretesting or No Record of ENG 110. Students must complete course and departmental portfolio assessment successfully to receive S. No more than 6 hours from ENG 110, ENG 111 and ENG 112 may be applied toward graduation. Extra fee. Approved for Distance Ed.",
+                        "department": "English",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 112",
+                        "name": "Varieties Of Writing",
+                        "credits": "3",
+                        "desc": "Expository writing including research paper, emphasis on analytical writing based on critical reading. Placement through departmental pretesting or successful completion of ENG 110 or ENG 111. Student must complete course and departmental portfolio assessment successfully to receive a passing grade. Applicable to the BG Perspective (general education) writing proficiency requirement. Extra fee. Approved for Distance Ed.",
+                        "department": "English",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 201",
+                        "name": "Introduction To Literature",
+                        "credits": "3",
+                        "desc": "Various thematic topics. Introduction to literary and textual study with attention to various forms of fiction, nonfiction, drama, poetry, and to essential literary terminology and practice. Extensive expository writing. Prerequisite for most 300- and 400-level ENG courses. Applicable to the BG Perspective (general education) humanities and arts requirement. Approved for Distance Ed.",
+                        "department": "English",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 1000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 206",
+                        "name": "Craft Of Fiction",
+                        "credits": "3",
+                        "desc": "The way fiction works, analysis of fictional form, theory and technique in traditional and contemporary works, emphasis on story writing exercises and fiction terminology. Required for majors in BFA creative writing program.",
+                        "department": "English",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 209",
+                        "name": "Creative Writing Workshop",
+                        "credits": "3",
+                        "desc": "Principles of poetic composition and fiction writing; analysis of contemporary models and group discussion of student's work. May be repeated once. Extra fee.",
+                        "department": "English",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 261",
+                        "name": "World Literature From Ancient Times To 1700",
+                        "credits": "3",
+                        "desc": "Works in English and in translation of various world literatures from ancient times to 1700, including a balanced selection of texts from European and non- European cultures such as Greek, Celtic, Roman, Chinese, Indian, African, Japanese, Arabic, etc. Applicable to the BG Perspective (general education) humanities and arts and international perspective requirements. Approved for Distance Ed.",
+                        "department": "English",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 380",
+                        "name": "Linguistics For English Teachers",
+                        "credits": "3",
+                        "desc": "Structure of English through recent linguistic theories related to topics of interest to educators (dialects, register, style, etc.). Attention to syntax and morphology as well as to linguistics systems.",
+                        "department": "English",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 4000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ESHP 2040",
+                        "name": "Entrepreneurship: The Introduction",
+                        "credits": "3.00",
+                        "desc": "Introduction to entrepreneurship and its importance to the economy. Study of the entrepreneurial process from conception to birth of a new venture. Concentration on attributes of successful entrepreneurs including opportunity recognition, innovation, venture screening, risk assessment, risk tolerance, identification of resources, and business planning to learn how to turn opportunities into a viable business. Approved for distance education. Min Units: 3.00.",
+                        "department": "Entrepreneurship",
+                        "catalog": "Bowling Green State University Undergraduate Fall Course Descriptions 2018-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4510",
+                        "name": "Invention, Innovation, And Entrepreneurship",
+                        "note": "--",
+                        "desc": "This course focuses on three key goals: providing increased insight into the cognitive foundations of entrepreneurship, offering practice in applying creative thinking to the task of formulating ideas for new products or services, and presenting basic information about the organizational process of commercializing such innovations. These goals will be achieved through a combination of assigned readings, in-class exercises, and individual and team projects. In addition, the course will include contributions from guest speakers who will share with the class their own experiences and expertise. Cross Listed: MGMT 6640. Students cannot receive credit for both MGMT 4510 and MGMT 6640.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GSW 1120",
+                        "name": "Academic Writing",
+                        "credits": "3.00",
+                        "desc": "Expository writing including research paper; emphasis on analytical writing based on critical reading. Placement through pretesting or successful completion of GSW 1100 or GSW 1110. Students must complete course and program portfolio assessment successfully to receive a passing grade. Min Units: 3.00.",
+                        "department": "Academic Writing",
+                        "catalog": "Bowling Green State University Undergraduate Fall Course Descriptions 2018-2018"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1110",
+                        "name": "Writing In Context",
+                        "note": "--",
+                        "desc": "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively \u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HNRS 201",
+                        "name": "Introduction To Critical Thinking",
+                        "credits": "4",
+                        "desc": "Interdisciplinary inquiry in social sciences. Analysis of arguments through assumptions, ambiguity, data and fallacies; formulation of conclusions and alternative inferences; value assumptions and decision making. Applicable to the BG Perspective (general education) social sciences requirement.",
+                        "department": "Honors",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HNRS 240",
+                        "name": "Honors Seminar: Social Sciences",
+                        "credits": "3-5",
+                        "desc": "Interdisciplinary social sciences seminar that integrates at least two different social sciences. Content and skills relate to both specific disciplines and social sciences in general. Satisfies Arts and Sciences group requirement. May be repeated up to 8 hours. Applicable to the BG Perspective (general education) social sciences requirement.",
+                        "department": "Honors",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 2000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 332",
+                        "name": "Elementary Linear Algebra",
+                        "credits": "3",
+                        "desc": "Systems of linear equations, vectors, matrices, determinants, linear transformations, vector spaces and applications. Techniques and some proofs.",
+                        "department": "Mathematics And Statistics",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 337",
+                        "name": "Differential Equations",
+                        "credits": "3",
+                        "desc": "Introduction to ordinary differential equations: general equations of low order, higher order linear equations with constant coefficients, series solutions, qualitative theory and systems of differential equations.",
+                        "department": "Mathematics And Statistics",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUCT 1920Q",
+                        "name": "Inquiry In Humanities And Creative Arts",
+                        "credits": "3.00",
+                        "desc": "Investigates how music communicates and embodies social, historical, and personal ideas, beliefs, and values. Emphasis on how musical sounds create meaning in various contexts. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Music",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUCT 4310",
+                        "name": "Aesthetics Of Black Music",
+                        "credits": "3.00",
+                        "desc": "West African and African-American concepts of music; modifications and innovations in America from slavery to present. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Music",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 4000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 1010",
+                        "name": "Introduction To Philosophy",
+                        "credits": "3.00",
+                        "desc": "What makes you, you? Why do bad things happen to good people? Can you really trust what you see? Can we be certain that God exists? What makes us responsible for the things we do? What are the limits of what we can know? What makes life worth living? In this course, you will critically discuss and debate these kinds of questions that have puzzled us for thousands of years and enrich our understanding of ourselves and our place in the world. Min Units: 3.00. Max Units: 3.00.",
+                        "department": "Philosophy",
+                        "catalog": "Bowling Green State University Undergraduate Spring Course Descriptions 2023-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1110",
+                        "name": "Introduction To Philosophy",
+                        "note": "--",
+                        "desc": "An introduction to the major areas of philosophy (ethics, theory of knowledge, philosophy of religion, etc.) and to some of the main problems treated within these fields. Selections from contemporary as well as classical authors are studied and discussed. Students are encouraged to develop a disciplined approach to intellectual problems. Emphasis varies with the instructor.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 309",
+                        "name": "Atomic And Nuclear Physics",
+                        "credits": "3",
+                        "desc": "Phenomenological basis of our understanding of atomic phenomena, fundamental ideas of atomic structure, structure of nuclei and basic decay processes, elementary particles. Three lecture-recitations.",
+                        "department": "Physics",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 470",
+                        "name": "Independent Study",
+                        "credits": "1-3",
+                        "desc": "Introduction to research in physics and astronomy; projects chosen in consultation with adviser, may include library and laboratory work. May be repeated.",
+                        "department": "Physics",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 2000",
+                        "name": "Physics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "POPC 160",
+                        "name": "Introduction To Popular Culture",
+                        "credits": "3",
+                        "desc": "Basic theories and approaches to the scholarly study of popular culture, including various media, folklore, and everyday life. Applicable to the BG Perspective (general education) humanities and arts requirement. Approved for Distance Ed.",
+                        "department": "Popular Culture",
+                        "catalog": "Bowling Green State University Course Descriptions 2008-2008"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Bradley University": {
+        "city": "Peoria",
+        "state": "IL",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 223",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "Topics for this third course in calculus including vector analysis of three-dimensional Euclidean space, functions of several variables, partial differentiation, multiple integrals, line integrals and surface integrals, the integral theorems of vector calculus. Core Curriculum: Quantitative Reasoning.",
+                        "department": "Mathematics",
+                        "catalog": "Bradley University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Brandeis University": {
+        "city": "Waltham",
+        "state": "MA",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "AMST 35a",
+                        "name": "History Of Rock: Rock And Roll In American Culture",
+                        "credits": "1",
+                        "desc": "Examines the historical context, stylistic development, and cultural significance of rock and roll and other closely related genres, spanning the 1950s through the present. Close attention is paid to how political and social changes have interacted with technological innovations through commercial music to challenge, affirm and shape ideas of race, gender, class and sexuality in the United States. Staff. Formerly offered as MUS 35a. [ ca oc ].",
+                        "department": "American Studies",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "IHSS 1000",
+                        "name": "Interdisciplinary Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Interdisciplinary Humanities Social Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "AMST 166b",
+                        "name": "American Political Satire",
+                        "credits": "1",
+                        "desc": "Political satire has a rich history as a tool of dissent in America, and has taken many forms, from magazine cartoons to song parodies to television comedy. Today, satirists are part of a national debate over censorship, political correctness, and jokes that 'go too far,' and some critics wonder if satire has been weaponized by the altright. In this class, we will explore different types of political satire in the United States, including digital and newspaper cartoons, stand-up comedy, tweets and memes, podcasts, and television shows like Saturday Night Live, from the 19th to the 21st centuries. We will share examples of Presidential satire leading up to the November election. And we will discuss the following questions: Can political satire produce social change? Does it function as entertainment or activism? How has political satire evolved over time? Sascha Cohen. [ ss ].",
+                        "department": "American Studies",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ANTH 70a",
+                        "name": "Business, Culture And Society",
+                        "credits": "1",
+                        "desc": "In a diverse and rapidly changing global marketplace, it is crucial to understand local traditions, customs and cultural preferences. In this course, we adopt anthropological approaches to understand their impact on business practices, products, services, clients and ideas. Patricia Alvarez Astacio or Elizabeth Ferry. [ ss ].",
+                        "department": "Anthropology",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIPH 11a",
+                        "name": "Seminar In Biological Physics",
+                        "credits": "3",
+                        "desc": "Introduction to recent experimental and theoretical advances in biological physics at the first-year physics level. Examples of topics include the physics of DNA and proteins, molecular motors, principles of laser tweezers, and atomic force microscopy. Can be taken before or after BIPH 11b. Mr. Kondev. May yield half-course credit toward rate of work and graduation. Semester course.",
+                        "department": "Biological Physics",
+                        "catalog": "Brandeis University 2009-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BCBP 1000",
+                        "name": "Biochemistry And Biophysics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biochemistry And Biophysics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 25a",
+                        "name": "Organic Chemistry I",
+                        "credits": "1",
+                        "desc": "Structure, reactions, preparations, and uses of the compounds of carbon. Students in the honors section will receive a note on their transcript designating the class \"Honors Organic Chemistry.\" Three class hours and one ninetyminute recitation per week. Stephanie Murray. [ sn ].",
+                        "department": "Chemistry",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2250",
+                        "name": "Organic Chemistry I",
+                        "note": "--",
+                        "desc": "Structure and chemical behavior of organic molecules with particular emphasis on reaction mechanisms as pathways for understanding their reactions. Stereochemistry, synthesis, and spectroscopic methods for the identification of organic functional groups are among the topics included.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 25b",
+                        "name": "Organic Chemistry II",
+                        "credits": "1",
+                        "desc": "A continuation of CHEM 25a. Students in the honors section will receive a note on their transcript designating the class \"Honors Organic Chemistry.\" Three class hours and one ninetyminute recitation per week. Stephanie Murray. [ sn ].",
+                        "department": "Chemistry",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2260",
+                        "name": "Organic Chemistry II",
+                        "note": "--",
+                        "desc": "A continuation of CHEM 2250, which is a prerequisite.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 29a",
+                        "name": "Organic Chemistry Laboratory I",
+                        "credits": "1",
+                        "desc": "Gives experience in the important techniques of organic chemical laboratory practice of isolation and purification of organic compounds by crystallization, distillation, and chromatography, and their characterization using analytical and instrumental methods. One afternoon of laboratory per week. One ninety-minute laboratory lecture per week. May yield half-course credit toward rate of work and graduation. Two semester-hour credits. Bryan Ingoglia. [ dl ].",
+                        "department": "Chemistry",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2230",
+                        "name": "Organic Chemistry Laboratory I",
+                        "note": "--",
+                        "desc": "Laboratory experiments dealing with basic techniques used in the synthesis and characterization of organic compounds.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 29b",
+                        "name": "Organic Chemistry Laboratory II",
+                        "credits": "1",
+                        "desc": "A continuation of CHEM 29a with an emphasis on the synthesis of typical organic compounds. One afternoon of laboratory per week. One ninety-minute laboratory lecture per week. Dropping CHEM 25b necessitates written permission from lab instructor to continue with this course. May yield half-course credit toward rate of work and graduation. Two semester-hour credits. Bryan Ingoglia.",
+                        "department": "Chemistry",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2240",
+                        "name": "Organic Chemistry Laboratory II",
+                        "note": "--",
+                        "desc": "A continuation of CHEM 2230, which is a prerequisite.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHIN 10a",
+                        "name": "Beginning Chinese I",
+                        "credits": "1",
+                        "desc": "Mandarin is taught in this intensive course, intended for students with no previous knowledge of Chinese. Class meets four days per week plus one section of individual conversation. It offers training in basic Chinese grammar, speaking, aural comprehension, reading and writing. Chinese characters, and the \"pinyin\" phonetic system as a tool for learning Chinese. Yu Feng or Jian Wei.",
+                        "department": "Chinese",
+                        "catalog": "Brandeis University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1410",
+                        "name": "Chinese I",
+                        "note": "--",
+                        "desc": "This course assumes no previous knowledge of the subject. The course is designed to provide students with fundamental skills in listening, speaking, reading, and writing Mandarin Chinese. Oral and aural skills will be emphasized. Background on Chinese culture will be introduced as an element of the course. For entry level, non-native speakers only.",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
     }
 }
