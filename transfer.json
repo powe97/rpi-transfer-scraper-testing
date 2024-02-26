@@ -64114,6 +64114,2488 @@
                 ],
                 "begin": "--",
                 "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS 103",
+                        "name": "Principles Of Business",
+                        "credits": "3",
+                        "desc": "Overview includes foundations of American business, forms of enterprise, organizing for business, fundamentals of management, the production of goods and services, human relations, union-management relations, marketing, accounting, finance, money and banking, securities and investments, government relations and business law.",
+                        "department": "Business",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "C.S. 114",
+                        "name": "Introduction To Computer Science",
+                        "credits": "3",
+                        "desc": "For non\u2013computer science majors seeking a broad understanding of the field. Covers general computer capabilities of hardware, software, networks, and communications. Topics include the internet and World Wide Web, application software, the systems unit, input, output, storage devices, operating systems, networks and security, database management and information systems development. Includes lectures, demonstration, and hands-on experience. Three class hours weekly.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2010-2011"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "C.S. 245",
+                        "name": "Programming In Cobol",
+                        "credits": "3",
+                        "desc": "Covers COBOL programming language concepts. Students use an online time sharing system to write, compile, debug, test and document programs of varying degrees of difficulty. Programs involve business-oriented applications including sequential files, index files, control breaks, table load and look up, and on-line queries.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 103",
+                        "name": "General Chemistry I",
+                        "credits": "4",
+                        "desc": "Includes basic calculations, periodic trends of the elements, introduction to precipitation, acid-base and oxidation reduction reactions, ionic and covalent bonding, introduction to thermodynamics, and gas laws. (Natural Sciences).",
+                        "department": "Chemistry",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 104",
+                        "name": "General Chemistry II",
+                        "credits": "4",
+                        "desc": "Continuation of CHEM 103; includes the study of liquids, solids, phase changes, chemical kinetics, chemical and aqueous equilibria (acid-base, solubility), thermodynamics, electrochemistry, transition elements and coordination chemistry, and introduction to organic chemistry. (Natural Sciences).",
+                        "department": "Chemistry",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1200",
+                        "name": "Chemistry II",
+                        "note": "--",
+                        "desc": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. Students cannot get credit for this course and CHEM 1210.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 208",
+                        "name": "Organic Chemistry II",
+                        "credits": "4",
+                        "desc": "Course is a continuation of Organic Chemistry I. (Natural Sciences).",
+                        "department": "Chemistry",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2260",
+                        "name": "Organic Chemistry II",
+                        "note": "--",
+                        "desc": "A continuation of CHEM 2250, which is a prerequisite.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 120",
+                        "name": "Foundations Of Computer Science",
+                        "credits": "3",
+                        "desc": "Introduction to computer science, including data storage and manipulation, operating systems, networking, algorithm development, an overview of programming languages and concepts, and the concept of sofware engineering. This course is intended for students enrolled in a CS, C.I.S., GIS, or engineering related program.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    },
+                    {
+                        "id": "CS 222",
+                        "name": "Programming In C/c++",
+                        "credits": "3",
+                        "desc": "Foundation course in use of high-level language. To support assigned laboratory exercises, includes use of full-screen editor, compiler, linker, execution environment of a C compiler/ interpreter, top-down programming operators, arrays, loops, pointers, control statements, data structures, file processing, disk functions, sorting/searching, and recursion.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1010",
+                        "name": "Introduction To Computer Programming",
+                        "note": "--",
+                        "desc": "Computer programming is a way of thinking. A successful programmer needs to take a word problem, generate a pseudocode algorithm, and convert it to the syntax of a specific programming language. This course is an alternative to CSCI 1100 and is intended for students who want an introduction to this programming process but do not intend to do further course work in programming or computer science. Emphasis will be on the generation of the algorithms and problem solving. This course is offered in Python, an approachable language with relatively low syntax complexity, which allows students to concentrate on the fundamentals without becoming sidetracked by language specifics. It also affords students a tool for creating useful personal applications or prototypes in the future. Students cannot get credit for this course if they have already taken any other CSCI course. (Fall 2019 is the final offering of this course.)",
+                        "department": "Computer Science (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2019-2020"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 215",
+                        "name": "Systems Analysis And Design",
+                        "credits": "3",
+                        "desc": "Covers methods involved in analyzing and designing information systems. Focuses on investigation analysis techniques; data flow diagrams; general and detail systems design; layouts for reports, outputs, and files; system development implementation and documentation. Students work on simulated case studies as a team to present solutions that reinforce the life cycle phases of systems analysis and design.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 222",
+                        "name": "Programming In C/c++",
+                        "credits": "3",
+                        "desc": "Foundation course in use of high-level language. To support assigned laboratory exercises, includes use of full-screen editor, compiler, linker, execution environment of a C compiler/ interpreter, top-down programming operators, arrays, loops, pointers, control statements, data structures, file processing, disk functions, sorting/searching, and recursion.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1190",
+                        "name": "Beginning Programming For Engineers",
+                        "note": "--",
+                        "desc": "This course teaches elementary programming concepts using the MATLAB environment for engineering students with little or no prior programming experience. Concepts include variables, looping, and function calls. Students cannot get credit for CSCI 1190 after earning credit for CSCI 1100 or any higher-level CSCI course.",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 235",
+                        "name": "Web Page Design And Development",
+                        "credits": "3",
+                        "desc": "Course provides hands on experience in planning and developing a web page. Students work with the lates versions of HTML and CSS coding languages, a Web Browser, and a web page editor as tools to develop a functional and responsive Web application. Important topics include developing efective page layouts, fonts, colors, graphics, and other interactive Web Page elements. Accessibility and responsive mobile design are also implemented.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 1000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CS 238",
+                        "name": "Java",
+                        "credits": "3",
+                        "desc": "Programs, exercises and projects focus on principles of sofware design and program clarity to solve realworld problems. The language uses object-oriented programming and graphical interface design. Provides graphical, animated, multimedia-based, audiointensive, multi-threaded, network-based programs using extensive class libraries.",
+                        "department": "Computer Science",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2220",
+                        "name": "Programming In Java",
+                        "note": "--",
+                        "desc": "Introduction to programming in the Java language. Java is an object-oriented programming language widely used in developing World Wide Web applications. Topics include class declarations and definitions, graphics, threads, exceptions, and writing Web applets.",
+                        "department": "Computer Science (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2014-2015"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 201",
+                        "name": "Introduction To Economics I",
+                        "credits": "3",
+                        "desc": "Introduces macroeconomics and covers how societies choose to allocate scarce resources within the context of the whole economic system. Focuses on how markets function, various macroeconomic theories, the role of government in an economic system, the international economy, the role of money in an economic system, and the policy responses to the problems of inflation, unemployment and slow economic growth. (Social Sciences).",
+                        "department": "Economics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECON 202",
+                        "name": "Introduction To Economics II",
+                        "credits": "3",
+                        "desc": "Focuses on the microeconomic structure of our economy including supply and demand theory, individual firm and market theory, and factor market analysis. Topics may include international trade and finance, government regulation, labor-management relations, and the economics of energy and the environment. (Social Sciences).",
+                        "department": "Economics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 101",
+                        "name": "Freshman English I",
+                        "credits": "3",
+                        "desc": "English 101 is a writing course that introduces students both to the conventions of academic discourse and to prose readings from various disciplines, as well as short stories. Students will write essays about these readings, do research, and learn the conventions of documentation. NOTE: Following assessment of their academic preparation and placement test results, students may be required to complete ENGL 097 and/or 098 before enrolling in ENGL 101. (Basic Communication).",
+                        "department": "English",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 102",
+                        "name": "Freshman English II",
+                        "credits": "3",
+                        "desc": "A continuation of English 101, English 102 is a writing course whose subject is literature. The course includes an introduction to major literary genres (the novel, drama, and poetry) and the writing of critical essays based on readings. (Humanities).",
+                        "department": "English",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 205",
+                        "name": "English Literature To The 19th Century",
+                        "credits": "3",
+                        "desc": "Surveys literature of England from Beowulf, tracing major contributions and movements. Historical, philosophical and aesthetic influences of significant writers, and development of poetry and drama as genres through Beowulf, Chaucer, Spenser, Shakespeare, Milton, Dryden, Pope, Swif and Johnson. (Western Civilization).",
+                        "department": "English",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 206",
+                        "name": "English Literature 19th Century To Present",
+                        "credits": "3",
+                        "desc": "Survey of English literature analyzes development of poetry, drama and novel as genres. Presents significant philosophical, historical and aesthetic influences; emphasis on such figures as Wordsworth, Coleridge, Shelley, Byron, Keats, Browning, Tennyson, Arnold, Carlyle, Shaw, Conrad, Yeats and Eliot. (Western Civilization).",
+                        "department": "English",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 222",
+                        "name": "Effective Speech: Group Discussion",
+                        "credits": "3",
+                        "desc": "The theories and principles of group communication. Designed to enable students to develop problem-solving, decision-making, conflict management, and leadership skills in group situations. Students participate in group projects to set goals, plan strategies, and present results. Three class hours weekly. NOTE: Course is required in certain curricula and may be used as an English or Liberal Arts elective, but cannot be taken in lieu of a required literature course.",
+                        "department": "English",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGL 270",
+                        "name": "Technical Writing",
+                        "credits": "3",
+                        "desc": "Designed to help students understand the process of creating, shaping, and communicating technical information so that people can use it safely, efectively, and eficiently. Students will learn that technical documents are addressed to particular readers; technical documents help those readers solve problems, are part of an organizational context, are ofen created collaboratively, using design to increase readability, and involve graphics. Students will practice writing technical documents that are honest, clear, accurate, comprehensive, accessible, concise, professional in appearance, and correct. Such documents may include memos, email, and letters; instructions; definitions and descriptions; proposals and formal written reports; job application material including cover letters and resumes. NOTE: This course may be used as an English or Liberal Arts elective but cannot be taken in lieu of required English courses.",
+                        "department": "English",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 2000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "GEOL 110",
+                        "name": "Physical Geology",
+                        "credits": "4",
+                        "desc": "General survey course in the basic principles of physical geology with in-depth coverage of selected topics such as streams, glaciers, ground water, weathering, soils, mass wasting, structural deformation, earthquakes and volcanoes. Laboratory exercises focus on rock and mineral identification, topographic and aerial map interpretation. Six field trips and a field project are designed to emphasize local geology. (Natural Sciences).",
+                        "department": "Geology",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ERTH 1000",
+                        "name": "Earth And Environmental Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Earth And Environmental Sciences",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 105",
+                        "name": "America In The 20th And 21st Centuries",
+                        "credits": "3",
+                        "desc": "A survey of the basic narrative of the growth and development of modern America. With sensitivity to issues of unity and diversity, the course will examine the cultural, social, economic, and political developments of America in the 20th and 21st centuries. Special emphasis will be placed on the expanded role America has played on the international stage. While the major focus of the course is on the 20th and 21st centuries century history, the course will extend into the 19th century in order to provide insight into the root of themes examined in the course of the study (historical continuity). (American History).",
+                        "department": "History",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HIST 202",
+                        "name": "History Of The United States II",
+                        "credits": "3",
+                        "desc": "Surveys the growth and development of the U.S. from 1865 to the present with emphasis on economic growth after 1880 and emergence as a world power during World War I. Also: the Great Depression, U.S. role in World War II, the Cold War and America\u2019s role in today\u2019s world. Three class hours weekly.",
+                        "department": "History",
+                        "catalog": "Cayuga Community College 2012-2013"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2520",
+                        "name": "Sociology",
+                        "note": "--",
+                        "desc": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HON 101",
+                        "name": "Introduction To Critical Thinking",
+                        "credits": "1",
+                        "desc": "This course serves as an introduction to honors study, providing a basic orientation to critical thinking. It helps students in the honors option develop their critical thinking skills by challenging their assumptions and encouraging them to analyze their decisions. Course content includes reading and writing about contemporary issues, developing a foundation which the students build upon as they work towards their senior capstone project for honors study. (Pre-req or concurrent enrollment in ENGL 101).",
+                        "department": "Honors",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 108",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "Studies functions; properties of limits and continuity; derivatives with applications to related rates, maximum/minimum and curve sketching; the chain rule; diferentials; the mean value theorem; Newton\u2019s Method; integration with applications to plane areas, volumes of solids of revolution by disk, shell, and cross sections. Diferentiation and integration of exponential and logarithmic functions are applied to growth and decay. (Math).(See Math Flowchart, Page 136-137.)",
+                        "department": "Mathematics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    },
+                    {
+                        "id": "MATH 201",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "Continuation of Calculus I. Topics include applications of integration in arc length and surface area, work, fluid pressure and fluid force, moments and centroids, integration techniques, L\u2019Hopital\u2019s Rule and improper integrals. Also covers sequences, infinite series, Taylor Series, interval of convergence, conic sections, parametric equations, polar equations and their graphs. (Math). (See Math Flowchart, Page 136-137.)",
+                        "department": "Mathematics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 202",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "Multivariable calculus including vectors in planes and space; lines, planes and surfaces in space; rectangular, cylindrical and spherical coordinates; vector-valued functions, motion, arc length and curvature; functions of several variables, partial derivatives, chain rules, directional derivatives and gradients, tangent planes; Lagrange multipliers. Also multiple integration applied to volume center of mass and surface area; vector analysis including vector fields, line integrals, Green\u2019s Theorem, parametric surfaces, surface integrals, divergence, curl and Stokes\u2019 Theorem. (See Math Flowchart, Page 136-137.) (Math).",
+                        "department": "Mathematics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 203",
+                        "name": "Linear Algebra",
+                        "credits": "3",
+                        "desc": "Introduces linear algebra with emphasis on interpretation and the development of computational techniques. Topics include systems of equations; matrices are utilized for the interpretation of vector spaces, subspaces, independence bases, dimension, inner product, outerproduct, orthogonal and orthonormal sets. Also the transformation of matrices, matrix operations, inverses, conditions for invertibility, determinants and their properties. The characteristics equation and its eigenvalue are used for problem solving and the development of linear transformations. (Math). (See Math Flowchart, Page 136-137.)",
+                        "department": "Mathematics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2012",
+                        "name": "Matrix Algebra",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 204",
+                        "name": "Differential Equations And Series",
+                        "credits": "4",
+                        "desc": "Techniques for solving differential equations of first and higher order; focus on linear differential equations. Methods include separation of variables, undetermined coefficients, variation of parameters, D-operators, Laplace transforms and infinite series. Applications include formulation, solution and interpretation of initial and boundary value problems in physics, electricity and engineering. (Math). (See Math Flowchart, Page 136-137.)",
+                        "department": "Mathematics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 210",
+                        "name": "Data Structures",
+                        "credits": "3",
+                        "desc": "Introduces the student to most commonly used data structures and their implementation. Algorithms and operations show the use of major data structures in computer science. Includes stacks, symbol tables, queues, sets, search trees, strings and graphs. Study provides a basis for developing new algorithms. (Math).",
+                        "department": "Mathematics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CSCI 2000",
+                        "name": "Computer Science Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Computer Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 212",
+                        "name": "Discrete Mathematics",
+                        "credits": "3",
+                        "desc": "Introduction includes propositional and predicate logic, sets, functions, matrix algebra, number theory, algorithms, valid arguments, direct and indirect proofs, proof by contradiction, mathematical induction, permutations, combinations and other counting techniques, and discrete probability. (Math).",
+                        "department": "Mathematics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2800",
+                        "name": "Introduction To Discrete Structures",
+                        "note": "--",
+                        "desc": "Introduction to the mathematical foundation of computer science. Topics include logic and set theory; methods of proof; mathematical induction and wellordering; principles of counting; relations and graphs; recurrences; discrete probability.",
+                        "department": "Mathematics (Sos)",
+                        "catalog": "Rensselaer Polytechnic Institute 2014-2015"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 101",
+                        "name": "Logic",
+                        "credits": "3",
+                        "desc": "Introduces informal and formal logic, emphasizing methods of interpreting and evaluating arguments to develop critical thinking and reasoning skills. Prerequisite or concurrent enrollment in ENGL 101.",
+                        "department": "Philosophy",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2140",
+                        "name": "Introduction To Logic",
+                        "note": "--",
+                        "desc": "Introduction to first-order logic as a tool to be used in engineering, computer science, philosophy, etc., and as procedural knowledge helpful in puzzlesolving environments (e.g., standardized tests). A hands-on laboratory component is included.",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHIL 203",
+                        "name": "World Religions",
+                        "credits": "3",
+                        "desc": "Studies the beliefs and religious philosophies of major Eastern and Western religions including Hinduism, Buddhism, Judaism, Christianity and Islam. (Other World Civilizations). Prerequisite or concurrent enrollment in ENGL 101.",
+                        "department": "Philosophy",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 2000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 103",
+                        "name": "General Physics I",
+                        "credits": "4",
+                        "desc": "For students with satisfactory experience in physics. Includes kinematics in one and two dimensions, Newton\u2019s Laws of motion, free body diagrams, work-energy theorem, conservation of energy and linear momentum, center of mass, centripetal acceleration, translations and rotations of rigid bodies, torque and equilibrium. (Natural Sciences).",
+                        "department": "Physics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 104",
+                        "name": "General Physics II",
+                        "credits": "4",
+                        "desc": "Continuation of PHYS 103. Course content includes Kirchhof\u2019s voltage and current rules; reactance and resonance; electromagnetism, Faraday\u2019s Law, standing waves, the Doppler effect, reflection and refraction, mirror and lens ray diagrams, interference, diffraction and polarization. (Natural Sciences).",
+                        "department": "Physics",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 101",
+                        "name": "Introductory Psychology",
+                        "credits": "3",
+                        "desc": "Basic orientation to the psychology of human behavior. Studies the aims and methods of psychological investigation and measurement, and biological and social influences on behavior. Also focuses on learning, motivation, emotion, perception, and personality development. (Social Sciences).",
+                        "department": "Psychology",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 215",
+                        "name": "Child Psychology",
+                        "credits": "3",
+                        "desc": "Examines human growth and development from conception to puberty. Students are exposed to a scientific perspective regarding theory and research in the areas of physical, cognitive and psychosocial development. Topics include childbirth, language development, child abuse and parenting styles. (Social Sciences).",
+                        "department": "Psychology",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 2000",
+                        "name": "Psychology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SPAN 101",
+                        "name": "Elementary Spanish I",
+                        "credits": "4",
+                        "desc": "This course introduces the student to the fundamentals of Spanish, developing the four language skills: listening, speaking, reading, and writing. Audio-lingual practice is emphasized. This is the recommended course for beginning students who need to meet a foreign language requirement for degree or career goals. (Foreign Language).",
+                        "department": "Spanish",
+                        "catalog": "Cayuga Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LANG 1510",
+                        "name": "Spanish I",
+                        "note": "--",
+                        "desc": "This course is specially designed to provide beginners with fundamental skills in listening, speaking, reading, and writing Spanish. The primary stress will be on Spanish phonetics and basic grammar drills. After taking this course, students will be able to function in everyday situations in an environment in which Spanish is spoken.",
+                        "department": "Foreign Languages",
+                        "catalog": "Rensselaer Polytechnic Institute 2016-2017"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Cazenovia College": {
+        "city": "Cazenovia",
+        "state": "NY",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CM 121",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "Students will learn the fundamentals of effective speaking through the preparation and in-class presentation of numerous short speeches. Consideration is given to general communication patterns, particularly persuasion. This course is an All-College graduation requirement. Arts and Sciences.",
+                        "department": "Communication Studies",
+                        "catalog": "Cazenovia College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN 101",
+                        "name": "Academic Writing I",
+                        "credits": "3",
+                        "desc": "A required component of the College General Education Program, Academic Writing I focuses on analysis and argument. Students will practice critical thinking and critical reading while developing essays to analyze texts and create an academic argument. Students must earn a C (74%) or higher in order to qualify for EN 201 Academic Writing II. Arts and Sciences.",
+                        "department": "English",
+                        "catalog": "Cazenovia College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN 121",
+                        "name": "Effective Speaking",
+                        "credits": "3",
+                        "desc": "Students learn the fundamentals of effective speaking through the preparation and in-class presentation of numerous short speeches. Consideration is given to general communication patterns, particularly persuasion. All-College graduation requirement.",
+                        "department": "English",
+                        "catalog": "Cazenovia College 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN 201",
+                        "name": "Academic Writing II",
+                        "credits": "3",
+                        "desc": "A required component of the College General Education Program, Academic Writing II emphasizes writing from research. Students will create analytical and short argument essays, research and analyze texts, and craft a variety of focused writings in order to enter an academic conversation through a sustained argument essay. Arts and Sciences.",
+                        "department": "English",
+                        "catalog": "Cazenovia College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HG 132",
+                        "name": "Microeconomics",
+                        "credits": "3",
+                        "desc": "This course examines the behavior of consumers and firms in markets. Topics include supply and demand, elasticities, competition, product markets, resource markets, labor markets, income distribution and government policy. Emphasis will be placed on developing the student\u2019s ability to analyze the economy and economic policies. Arts and Sciences.",
+                        "department": "History And Government",
+                        "catalog": "Cazenovia College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HG 223",
+                        "name": "Women In American History",
+                        "credits": "3",
+                        "desc": "This course examines the economic, social, political and cultural experiences of women in American history. Students study historical themes central to explaining our country\u2019s history from the perspective of women. Arts and Sciences.",
+                        "department": "History And Government",
+                        "catalog": "Cazenovia College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "IM 120",
+                        "name": "Introduction To Computers",
+                        "credits": "3",
+                        "desc": "This course is a comprehensive overview of the field including a survey of topics in data processing, an introduction to the applications of computers in business, and the impact of computers on all aspects of society. In addition to acquainting the students with computer hardware and computer systems, the course requires proficiency with a variety of software packages in the microcomputer lab. The software packages include word processing, databases, and spreadsheets. Career Studies.",
+                        "department": "Information Management",
+                        "catalog": "Cazenovia College 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2510",
+                        "name": "Introduction To Data Management And Analytics",
+                        "note": "--",
+                        "desc": "An introduction to the fundamentals of data management and analysis with applications in business and information systems. Through hands-on exercises students will develop competencies in working with data through spreadsheets applications and relational databases. Topics include foundational concepts in information systems, spreadsheets, and basic data modeling and database design. Contact, Lecture or Lab Hours: 5 contact hours.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SA 132",
+                        "name": "Structuring Human Space",
+                        "credits": "3",
+                        "desc": "This course undertakes a study of three-dimensional form to develop students\u2019 ability to visualize, design and construct in three dimensions. Students work with space, objects, materials and scale through projects that address the body as a site and source for design. Students also undertake projects that investigate the relationship of the body to the built environment. Through this work they encounter the idea that art and design and the context or environment in which they function are inextricably linked. Students acquire a basic skill set of fabrication techniques, including an introduction to the wood shop. Assignments utilize time-honored techniques and materials as well as investigate new materials, with particular consideration for the wide range of art and design disciplines. Career Studies.",
+                        "department": "Studio Art",
+                        "catalog": "Cazenovia College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SB 120",
+                        "name": "Introduction To Psychology",
+                        "credits": "3",
+                        "desc": "The focus of this course is on the scientific study of human behavior and mental processes, and how they are affected by environment, experience and physiology. Students are introduced to a variety of psychological terms, concepts and approaches. Arts and Sciences.",
+                        "department": "Social And Behavioral Sciences",
+                        "catalog": "Cazenovia College 2019-2020"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SM 112",
+                        "name": "Cellular And Organismal Biology",
+                        "credits": "4",
+                        "desc": "Cellular biology, energy transformations, animal behavior, and the physiological systems of animals and plants are studied. Systems include digestion and nutrition, circulation, respiration, defense, nervous and endocrine. The laboratory is integrated with class material, and incorporates experimental design, student demonstrations, observations, and computer simulations. Fulfills the lab science requirement. Arts and Sciences.",
+                        "department": "Science And Mathematics",
+                        "catalog": "Cazenovia College 2011-2012"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SM 266",
+                        "name": "Calculus II",
+                        "credits": "3",
+                        "desc": "This course is a continuation of SM 265 Calculus I. Students will explore the indefinite and definite integral techniques of integration, applications of the integral, infinite sequences and series, power series and Taylor and Maclaurin series. Arts and Sciences.",
+                        "department": "Science And Mathematics",
+                        "catalog": "Cazenovia College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Cedarville University": {
+        "city": "Cedarville",
+        "state": "OH",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM-1050",
+                        "name": "Chemistry For Engineers",
+                        "credits": "3.5",
+                        "desc": "Fundamental concepts of chemistry are developed with applications of chemistry to engineering disciplines. Students learn measurement, number handling, the Periodic Table, descriptive properties of atoms, elements, molecules, and ions, chemical reactions, stoichiometry, chemical bonding, equilibrium, thermodynamics, gas laws, and the nature of solids and liquids. Three lectures per week, and one bi-weekly two-hour laboratory. (Fee: $50).",
+                        "department": "Chemistry: General Education",
+                        "catalog": "Cedarville University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM-1300",
+                        "name": "Chemical Principles For Engineers",
+                        "note": "--",
+                        "desc": "An introduction into the basic principles of chemistry with an emphasis on applications in everyday scientific and engineering practice. Topics covered include atomic and molecular structure, particle and wave behavior of light and matter, periodic properties of elements, oxidation-reduction, stoichiometry, molecular bonding, introduction to organic and biochemistry, thermodynamics, phases of matter including gas laws, intermolecular forces, chemical chemical equilibrium, simple one and two component phase diagrams, acids-bases-buffers, and chemical kinetics. Laboratory is integrated into the course. Students cannot obtain credit for both this course and CHEM-1100.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2005-2006"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG-1400",
+                        "name": "Composition",
+                        "credits": "3",
+                        "desc": "Designed to assist the student in developing the skills necessary to meet the demands of typical writing situations, both academic and professional. The course will introduce the student to the common expository writing methods of description, narration, analysis, persuasion, and research presentation. (Fee: $25).",
+                        "department": "English",
+                        "catalog": "Cedarville University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH-1710",
+                        "name": "Calculus I",
+                        "credits": "5",
+                        "desc": "First course of a two-course sequence covering basic concepts of analytic geometry and single variable calculus. Includes limits and single variable calculus. Includes limits and derivatives of algebraic and transcendental functions, applications of the derivative, single variable integration, including the Fundamental Theorem of Calculus and integration by substitution, and applications of integration, including solving differential equations and finding volumes of revolution.",
+                        "department": "Mathematics",
+                        "catalog": "Cedarville University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Central Christian College Of Kansas": {
+        "city": "Mcpherson",
+        "state": "KS",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "CO-CO 211",
+                        "name": "Principles Of Speech",
+                        "credits": "3",
+                        "desc": "A study of the principles of the major types of speeches. Includes a variety of practical experience ranging from impromptu to formal. Ministry students will be asked to deliver a sermon. Emphasis is placed on speech preparation for delivery.",
+                        "department": "Communications",
+                        "catalog": "Central Christian College of Kansas 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COMM 1000",
+                        "name": "Communication Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Communication",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN-CP 103-G",
+                        "name": "English Composition I",
+                        "credits": "3,4",
+                        "desc": "Instruction and practice in personal expository essays and paragraphs, with emphasis on correct writing. Students needing additional writing practice are expected to sign up for 4 hours. Required for graduation and prerequisite for E 104-G. Course will count toward the general education requirements of the College.",
+                        "department": "En-Cp",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "EN-CP 104-G",
+                        "name": "English Composition II",
+                        "credits": "3,4",
+                        "desc": "Instruction in writing with emphasis on research and analytical exposition. Required for graduation. Course will count toward the general education requirements of the College.",
+                        "department": "En-Cp",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "HU-AR 103-G",
+                        "name": "Drawing I",
+                        "credits": "2",
+                        "desc": "This is a beginning drawing course emphasizing basic drawing principles and skills. Drawing media include pencil, pen & ink, charcoal, colored pencil and pastel. Course will count toward the general education requirements of the College.",
+                        "department": "Hu-Ar",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MT-BI 100",
+                        "name": "Introduction To Biblical Literature",
+                        "credits": "3",
+                        "desc": "The purpose of this course is to provide the student an opportunity to gain an awareness of the contents of the Bible, the societies in which it was produced, and the contribution that it has made to history, culture, and the personal spiritual lives of individuals.",
+                        "department": "Ministry And Theology (Bible)",
+                        "catalog": "Central Christian College of Kansas 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHIL 1000",
+                        "name": "Philosophy Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Philosophy",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NS-MA 111-G",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "A brief review of the real number system, differentiation and integration of polynomial functions with application, analytic geometry. Course will count toward the general education requirements of the College.",
+                        "department": "Mathematics",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "NS-MA 112-G",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "A continuation of Calculus I. The course includes a study of integration, applications of integration, and infinite series. Lab required. Course will count toward the general education requirements of the College.",
+                        "department": "Mathematics",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    },
+                    {
+                        "id": "NS-MA 311",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "This is the third of three courses in the basic calculus sequence. This course includes the study of vector functions, functions of two or more variables, partial derivatives, quadratic surfaces, multiple integration, and vector calculus including Green\u2019s Theorem, Curl and Divergence, surface integrals, and Stoke\u2019s Theorem.",
+                        "department": "Natural Science (Mathematics)",
+                        "catalog": "Central Christian College of Kansas 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SS-HI 106-G",
+                        "name": "United States History II",
+                        "credits": "3",
+                        "desc": "In the first semester the beginnings of our national history are surveyed, and carried through into the Civil War reconstruction. The second semester carries through to the present. Cause and effect as well as factual, social and political developments are given prime consideration, to provide a fuller understanding as to why our history has taken the course it has. Courses may be taken independently of each other.",
+                        "department": "Ss-Hi",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2520",
+                        "name": "Sociology",
+                        "note": "--",
+                        "desc": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SS-PO 203",
+                        "name": "American Government",
+                        "credits": "3",
+                        "desc": "A critical examination of the formal and informal institutions of American government\u2014congress, the presidency, bureaucracy, judiciary, political parties, media and interest groups\u2014in order to understand the political policy and action of our nation.",
+                        "department": "Social Sciences (Political Science)",
+                        "catalog": "Central Christian College of Kansas 2020-2021"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 2000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SS-PY 110-G",
+                        "name": "General Psychology",
+                        "credits": "3",
+                        "desc": "A general introduction to psychology with special emphasis upon psychology as a basic science dealing with human behavior. The student is introduced to sensation, perception, learning, personality disorders, psychotherapy, and social psychology. Designed for both majors and non-majors. Course will count toward the general education requirements of the College.",
+                        "department": "Ss-Py",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 1200",
+                        "name": "Introduction To Psychological Science",
+                        "note": "--",
+                        "desc": "This course embraces the science of psychology. The aim is for students to learn how using the scientific method provides important insights about mind, brain, and behavior. This course integrates research on neuroscience throughout all the standard topics in an introductory course in psychology. The course presents advances across all subfields of psychology. In addition to standard exams, there are online assignments for each chapter and online laboratory experiences.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "SS-SO 381-G",
+                        "name": "Marriage And Family",
+                        "credits": "3-4",
+                        "desc": "Areas considered include the background of marriage and the family, marriage preparation and partner selection, marital adjustments, and family living. Sociological, spiritual and practical perspectives are all addressed. Course will count toward the general education requirements of the College.",
+                        "department": "Ss-So",
+                        "catalog": "Central Christian College of Kansas 2008-2010"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 4000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Central Connecticut State University": {
+        "city": "New Britain",
+        "state": "CT",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 121",
+                        "name": "General Biology I",
+                        "credits": "4",
+                        "desc": "Structural and physiological organization of cells involved in growth and inheritance of living organisms is discussed. Consideration of growth of flowering plants and comparisons of levels of specialization reached among major groups within the plant kingdom. Lecture topics are paralleled in laboratory, where living, prepared and preserved materials are used for study and dissection. One three-hour laboratory per week. Required for major, minor, or specialization in biology, but open to anyone interested in the subject. CSUS Common Course.",
+                        "department": "Biology",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1015",
+                        "name": "Introduction To Biology Laboratory",
+                        "note": "--",
+                        "desc": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 161",
+                        "name": "General Chemistry",
+                        "credits": "3",
+                        "desc": "Emphasizes relationships of basic chemical principles and theories to properties of substances, their reactivity and uses. Contributions to the quality of life are introduced. CSUS Common Course.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 162",
+                        "name": "General Chemistry Laboratory",
+                        "credits": "1",
+                        "desc": "Basic techniques of chemical synthesis and analysis. One three-hour laboratory per week. CSUS Common Course.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 1100",
+                        "name": "Chemistry I",
+                        "note": "--",
+                        "desc": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acidbase chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 201",
+                        "name": "Foundations Of Analytical Chemistry Laboratory",
+                        "credits": "1",
+                        "desc": "Practice of gravimetric and volumetric quantitative analysis, introduction to colorimetric analysis, equilibrium, acid-base chemistry, and methods of separation.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 2000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 201",
+                        "name": "Foundations Of Analytical Chemistry Laboratory",
+                        "credits": "1",
+                        "desc": "Practice of gravimetric and volumetric quantitative analysis, introduction to colorimetric analysis, equilibrium, acid-base chemistry, and methods of separation.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 201",
+                        "name": "Foundations Of Analytical Chemistry Laboratory",
+                        "credits": "1",
+                        "desc": "Practice of gravimetric and volumetric quantitative analysis, introduction to colorimetric analysis, equilibrium, acid-base chemistry, and methods of separation.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "CHEM 2000",
+                        "name": "Chemistry Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 210",
+                        "name": "Organic Chemistry I - Foundations",
+                        "credits": "3",
+                        "desc": "Structure, nomenclature, and general reactivity of the principal classes of carbon compounds will be introduced. Spectroscopy and biologically relevant molecules are also considered.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2250",
+                        "name": "Organic Chemistry I",
+                        "note": "--",
+                        "desc": "Structure and chemical behavior of organic molecules with particular emphasis on reaction mechanisms as pathways for understanding their reactions. Stereochemistry, synthesis, and spectroscopic methods for the identification of organic functional groups are among the topics included.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 211",
+                        "name": "Organic Chemistry I Laboratory - Foundations",
+                        "credits": "1",
+                        "desc": "Basic techniques used in organic synthesis. Determination of physical constants, separation techniques, and spectroscopy will be introduced.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2230",
+                        "name": "Organic Chemistry Laboratory I",
+                        "note": "--",
+                        "desc": "Laboratory experiments dealing with basic techniques used in the synthesis and characterization of organic compounds.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 212",
+                        "name": "Organic Synthesis",
+                        "credits": "3",
+                        "desc": "Principles of organic synthesis emphasizing retrosynthetic analysis and the role of synthons, synthetic equivalents, and functional group interconversions in multistep syntheses.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2260",
+                        "name": "Organic Chemistry II",
+                        "note": "--",
+                        "desc": "A continuation of CHEM 2250, which is a prerequisite.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "CHEM 260",
+                        "name": "Foundations Of Inorganic Chemistry",
+                        "credits": "3",
+                        "desc": "Survey of the periodic table with special emphasis on bonding modes and mechanisms, reactivity, and properties of inorganic compounds. Topics from CHEM 161 as applied to inorganic reactions will be explored.",
+                        "department": "Chemistry",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "CHEM 2030",
+                        "name": "Inorganic Chemistry I",
+                        "note": "--",
+                        "desc": "Descriptive chemistry of the elements. Properties, structures, and typical reactions of the elements of the periodic table and their compounds; basic principles of inorganic chemistry.",
+                        "department": "Chemistry",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 262",
+                        "name": "Introduction To Drama",
+                        "credits": "3",
+                        "desc": "A close analysis of plays, representing major and minor genres of drama (tragedy, comedy, tragi-comedy, melodrama, farce, etc.), relationship of genre, structure, and statement. Does not count toward the English major. CSUS Common Course.",
+                        "department": "English",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "LITR 2000",
+                        "name": "Literature Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Literature",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENGR 150",
+                        "name": "Introduction To Engineering",
+                        "credits": "3",
+                        "desc": "Introduction to Engineering Introduction to engineering problem-solving techniques unique to areas of the technical world, including chemical, civil, construction, nuclear, manufacturing, mechanical, and electrical disciplines. Problem solving is presented in both English and International (SI) Units.",
+                        "department": "Engineering",
+                        "catalog": "Central Connecticut State University 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ENGR 1000",
+                        "name": "Engineering Elective",
+                        "note": "ENGR 1000 (3cr)",
+                        "desc": "",
+                        "department": "Core Engineering",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "LING 200",
+                        "name": "Introduction To Linguistics",
+                        "credits": "3",
+                        "desc": "The structure and system of language, primarily focused on English: history, phonology, morphology, syntax, semantics, usage. No credit for those who have already completed LING 400.",
+                        "department": "Linguistics",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "COGS 2340",
+                        "name": "Introduction To Linguistics",
+                        "note": "--",
+                        "desc": "This course offers a survey of scientific and applied approaches to the study of human language, highlighting the endlessly surprising nature of this sophisticated mode of communication. A sampling of the topics to be covered: phonology, morphology, syntax, semantics, lexicography, psycholinguistics, and historical linguistics. Lecture course.",
+                        "department": "Cognitive Science",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 152",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "Limits and continuity, derivatives, applications of derivatives including transcendental functions. Antiderivatives, definite integrals with applications.CSUS Common Course.",
+                        "department": "Mathematics",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 221",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "Further application of integration and techniques of integration. Improper integrals and L'Hopital's. Infinite series including Taylor series and representation of functions.",
+                        "department": "Mathematics",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    },
+                    {
+                        "id": "MATH 222",
+                        "name": "Calculus III",
+                        "credits": "4",
+                        "desc": "Continuation of MATH 221. Parametric equations, polar coordinates, two- and three-dimensional vectors, threedimensional analytic geometry, functions of several variables, partial differentiation, double and triple integrals.",
+                        "department": "Mathematics",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "MATH 2011",
+                        "name": "Multivariable Calculus",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MATH 355",
+                        "name": "Introduction To Differential Equations With Applications",
+                        "credits": "4",
+                        "desc": "Qualitative, analytical, and numerical methods for first and second order ordinary differential equations and first order linear systems. Laplace transforms and the application to differential equations. Introduction to software used to analyze and solve differential equations. Additional topics if time permits.",
+                        "department": "Mathematics",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 2400",
+                        "name": "Introduction To Differential Equations",
+                        "note": "--",
+                        "desc": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MIS 201",
+                        "name": "Introduction To Management Information Systems",
+                        "credits": "3",
+                        "desc": "The course provides the background necessary for understanding the role of information systems in organizations and for using computer tools and technology in solving business problems. Topics include organizational foundations of information systems, technical foundations of information systems, building information systems, and the management of information.",
+                        "department": "Management Information Systems",
+                        "catalog": "Central Connecticut State University 2023-2024"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2000",
+                        "name": "Management Elective",
+                        "note": "MGMT 2000 (3cr)",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2023-2024"
+                    }
+                ],
+                "begin": "9/1/2023",
+                "end": "9/1/2026"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MUS 110",
+                        "name": "Listening To Classical Music",
+                        "credits": "3",
+                        "desc": "Introduction to masterpieces of Western art music and to skills required for critical listening. CSUS Common Course.",
+                        "department": "Music",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ARTS 1000",
+                        "name": "Arts Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Arts",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 125",
+                        "name": "University Physics I",
+                        "credits": "4",
+                        "desc": "Introductory course for science/engineering students which uses calculus. Fundamental principles of mechanics, heat, and sound. One recitation, and one three-hour laboratory per week. Credit not given to students who have had PHYS 121. CSUS Common Course.",
+                        "department": "Physics",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1100",
+                        "name": "Physics I",
+                        "note": "--",
+                        "desc": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PHYS 126",
+                        "name": "University Physics II",
+                        "credits": "4",
+                        "desc": "Continuation of PHYS 125. Study of electricity, magnetism, and optics. One recitation and one threehour laboratory per week. CSUS Common Course.",
+                        "department": "Physics",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PHYS 1200",
+                        "name": "Physics II",
+                        "note": "--",
+                        "desc": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics.",
+                        "department": "Physics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PS 110",
+                        "name": "American Government & Politics",
+                        "credits": "3",
+                        "desc": "Structure, functions, services, and problems of government and politics at the national level. PS 110 or PS 104 is required of all political science majors. CSUS Common Course.",
+                        "department": "Political Science",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "STSO 1000",
+                        "name": "Science And Technology Studies Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Science Technology \u2013 Society",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "PSY 330",
+                        "name": "Abnormal Psychology",
+                        "credits": "3",
+                        "desc": "Symptoms, causes and treatment of deviant behavior, anxiety disorders, psychoses, personality disorders, substance abuse disorders.",
+                        "department": "Psychological Science",
+                        "catalog": "Central Connecticut State University 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "PSYC 4720",
+                        "name": "Abnormal Psychology",
+                        "note": "--",
+                        "desc": "The definition, history, major schools of thought, and models of the normal and abnormal personality are presented. Disorders are examined within the framework of D.S.M. and competing schools of thought. The description, etiology, treatment, including pharmacologic, and prevention of each of the disorders are considered. Illustrative cases are presented. Students write a paper on a topic, approved by the instructor, that focuses upon the impact of public policies on psychopathology.",
+                        "department": "Psychology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Central Maine Community College": {
+        "city": "Auburn",
+        "state": "ME",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 131",
+                        "name": "Biology I Lecture",
+                        "credits": "3",
+                        "desc": "BIO 131 is the first course in a sequence intended for students that plan to major in biological science. BIO 131/132 focuses on cell and molecular biology inprokaryotes, plants, and animals. Changes through time and modern biology will be presented in this course. Topics will include structure and function of cells, proteins, and DNA. Biological chemistry of metabolism and photosynthesis as well as Mendelian genetics with an evolutionary perspective will be discussed. (0 Clinical) 3 Hrs./Wk. (3 Hrs. Lecture) *15 wks.",
+                        "department": "Biology",
+                        "catalog": "Central Maine Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 131",
+                        "name": "Biology I Lecture",
+                        "credits": "3",
+                        "desc": "BIO 131 is the first course in a sequence intended for students that plan to major in biological science. BIO 131/132 focuses on cell and molecular biology inprokaryotes, plants, and animals. Changes through time and modern biology will be presented in this course. Topics will include structure and function of cells, proteins, and DNA. Biological chemistry of metabolism and photosynthesis as well as Mendelian genetics with an evolutionary perspective will be discussed. (0 Clinical) 3 Hrs./Wk. (3 Hrs. Lecture) *15 wks.",
+                        "department": "Biology",
+                        "catalog": "Central Maine Community College 2022-2023"
+                    },
+                    {
+                        "id": "BIO 132",
+                        "name": "Biology I Lab",
+                        "credits": "1",
+                        "desc": "This laboratory course is the first laboratory course in a sequence intended for students that plan to major in the biological sciences. In this course students will ask questions regarding: basic biochemistry, molecular activity, cellular metabolism, Mendelian genetics and gene expression. Students will develop skills in basic statistics and scientific writing to report their experimental results. They will use the scientific method to problem solve in a biological lab setting. Laboratory safety and procedures will be introduced along with microscopy, spectrophotometry and DNA skills. (0 Clinical) 2 Hrs./Wk. (2 Hrs. Lab) *15 wks.",
+                        "department": "Biology",
+                        "catalog": "Central Maine Community College 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "BIOL 1010",
+                        "name": "Introduction To Biology",
+                        "note": "--",
+                        "desc": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Central Michigan University": {
+        "city": "Mount Pleasant",
+        "state": "MI",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "ACC 250",
+                        "name": "Introduction To Financial Accounting",
+                        "credits": "3",
+                        "desc": "Overview of how a business functions through the generation and interpretation of accounting data. This course may be offered in an online format.",
+                        "department": "Accounting",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 1000",
+                        "name": "Management Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ACC 255",
+                        "name": "Managerial Accounting And Decision Making",
+                        "credits": "3",
+                        "desc": "Managerial decision-making methods using accounting and financial information and includes application of concepts to integrated study of business problems. This course may be offered in an online format.",
+                        "department": "Accounting",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2300",
+                        "name": "Financial Accounting In The Digital Age",
+                        "note": "--",
+                        "desc": "An introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, long term liabilities, and equity. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIS 255",
+                        "name": "Information Systems",
+                        "credits": "3",
+                        "desc": "An introduction to the development and use of Information Systems (IS) in business, including the use of software applications to solve business problems. This course may be offered in an online format.",
+                        "department": "Business Information Systems",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4140",
+                        "name": "Computer Information Systems",
+                        "note": "--",
+                        "desc": "This course provides the undergraduate management student with an introduction to the concept and components of computer-based \u201cmanagement information systems\u201d (MIS) and their integration into organizational processes to gain competitive advantage. This course will examine approaches for developing and using information systems in support of business processes. Topics include: the impact of computer-based information systems on organizations; the basic technology components of modern information systems; the process by which information systems are created and changed; and selected management and technology issues.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BUS 300",
+                        "name": "Applied Business Statistics",
+                        "credits": "3",
+                        "desc": "Applications of statistical analysis to support business decision making. Covers collection of business data, analysis of business datasets, and presentation of results.",
+                        "department": "Business",
+                        "catalog": "Central Michigan University Undergraduate 2013-2014"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 2100",
+                        "name": "Statistical Methods",
+                        "note": "--",
+                        "desc": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 110",
+                        "name": "Economics And Society",
+                        "credits": "3",
+                        "desc": "An examination of the development of economic thought and institutions with emphasis on the application of this knowledge to the understanding of today\u2019s world. Credit on the economics major will not be given if this course is taken after ECO 201 or ECO 202 or ECO 203.",
+                        "department": "Economics",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ECO 203",
+                        "name": "Microeconomic Principles For Business",
+                        "credits": "3",
+                        "desc": "Introduction to economic decision-making by consumers and managers within a market system. Topics include supply, demand, elasticity, production, costs, price, market structure, and resource markets. Credit may not be earned in more than one of ECO 203 and ECO 202.",
+                        "department": "Economics",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    },
+                    {
+                        "id": "ECO 204",
+                        "name": "Principles Of Macro- And Global Economics",
+                        "credits": "3",
+                        "desc": "Introduction to GDP, inflation, unemployment, business cycles, interest rates, money and banking, monetary and fiscal policy, economic growth, international trade for business students. Credit may not be earned in more than one of ECO 201 and ECO 204. This course may be offered in an online format.",
+                        "department": "Economics",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "ECON 1000",
+                        "name": "Economics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    },
+                    {
+                        "id": "ECON 1200",
+                        "name": "Introductory Economics",
+                        "note": "--",
+                        "desc": "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people\u2019s choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200.",
+                        "department": "Economics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "ENG 201",
+                        "name": "Intermediate Composition",
+                        "credits": "3",
+                        "desc": "An intensive writing course intended to prepare students for writing in their upper-level major courses and beyond. Satisfies Intermediate Composition Competency. May be offered in an online format.",
+                        "department": "English Language And Literature",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "WRIT 1000",
+                        "name": "Writing Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Writing",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MGT 258",
+                        "name": "Effective Management Of Human Resources In Organizations",
+                        "credits": "3",
+                        "desc": "Applying the underlying principles of employee behavior to the effective design, use, and management of human resource systems in organizations. May be offered as Writing Intensive. This course may be offered in an online format.",
+                        "department": "Management",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MGMT 4860",
+                        "name": "Human Resources In High Performance Organizations",
+                        "note": "--",
+                        "desc": "This course provides an overview of human resources principles and practices in business organizations. Students are given tools for understanding how people are managed on a day-to-day basis. Topics include: the recruiting and hiring process; self, peer, and managerial evaluations; training and development; and legal issues related to the work setting and the job-search process. Students come away with an understanding of the difficulties and challenges associated with workforce management. This course utilizes a combination of lecture, discussion, and experiential exercises.",
+                        "department": "Management",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 132",
+                        "name": "Calculus I",
+                        "credits": "4",
+                        "desc": "Limits, continuity, interpretations of the derivative, differentiation of elementary functions, applications of derivatives, antiderivatives, Riemann sums, definite integrals, fundamental theorem of calculus. Satisfies Mathematics Competency. This course may be offered in an online or hybrid format. (University Program Group II-B: Quantitative and Mathematical Sciences).",
+                        "department": "Mathematics",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1010",
+                        "name": "Calculus I",
+                        "note": "--",
+                        "desc": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution. Students cannot get credit for both MATH 1010 and MATH 1500.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 133",
+                        "name": "Calculus II",
+                        "credits": "4",
+                        "desc": "Techniques of integration, applications of definite integrals, improper integrals, elementary differential equations, infinite series, Taylor series, and polar coordinates. Satisfies Mathematics Competency.",
+                        "department": "Mathematics",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1020",
+                        "name": "Calculus II",
+                        "note": "--",
+                        "desc": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "MTH 223",
+                        "name": "Linear Algebra And Matrix Theory",
+                        "credits": "3",
+                        "desc": "Systems of linear equations, matrices, determinants, vectors, vector spaces, eigenvalues, linear transformations, applications and numerical methods.",
+                        "department": "Mathematics",
+                        "catalog": "Central Michigan University Undergraduate 2022-2023"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "MATH 1000",
+                        "name": "Mathematics Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Mathematics",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            }
+        ]
+    },
+    "Central New Mexico Community College": {
+        "city": "Albuquerque",
+        "state": "NM",
+        "courses": [
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 121",
+                        "name": "Principles Of Biology I",
+                        "credits": "4",
+                        "desc": "Presents basic principles of biology for students wishing to pursue majors in the sciences. Emphasizes cellular level processes including biological chemistry, cell metabolism, photosynthesis, control and transmission of hereditary materials, and nucleic acid structure and function, as well as critical thinking skills and scientific methodology. Required enrollment in 3-hour lecture and 3-hour lab. Course fee: $25.",
+                        "department": "Biology",
+                        "catalog": "Albuquerque Technical Vocational Institute 2004-2005"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 2120",
+                        "name": "Introduction To Cell And Molecular Biology",
+                        "note": "--",
+                        "desc": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity.",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
+            },
+            {
+                "transfer": [
+                    {
+                        "id": "BIO 237",
+                        "name": "Human Anatomy And Physiology I",
+                        "credits": "3",
+                        "desc": "Presents integrated study of human structure and function covering the integumentary, skeletal, muscular and nervous systems.",
+                        "department": "Biology",
+                        "catalog": "Central New Mexico Community College 2006-2007"
+                    },
+                    {
+                        "id": "BIO 247L",
+                        "name": "Human Anatomy And Physiology I Laboratory",
+                        "credits": "1",
+                        "desc": "Introduces lab exercises in anatomy and physiology, which complement topics covered in BIO 237, including specimen dissection and cadaver study.",
+                        "department": "Biology",
+                        "catalog": "Central New Mexico Community College 2006-2007"
+                    }
+                ],
+                "rpi": [
+                    {
+                        "id": "BIOL 1000",
+                        "name": "Biology Elective",
+                        "note": "--",
+                        "desc": "",
+                        "department": "Biology",
+                        "catalog": "Rensselaer Polytechnic Institute 2022-2023"
+                    }
+                ],
+                "begin": "--",
+                "end": "--"
             }
         ]
     }
