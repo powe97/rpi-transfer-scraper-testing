@@ -29,6 +29,7 @@ jobs:
 
       - name: Commit data
         run: |
+          git config user.name "Transfer Scraper" && git config user.email "<>"
           git add *.json
           git commit -m "$(date)"
           git push
