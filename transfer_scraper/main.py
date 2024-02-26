@@ -219,7 +219,7 @@ try:
                         ]
 
                         print(
-                            f"Scraped {inst_name} ({state['inst_pg']}/{num_pages}): {transfer[0]['id']} {transfer[0]['name']} ({state['course_pg']}/{course_pages_len})",
+                            f"Scraped {inst_name} ({state['inst_pg']}/{num_pages}): {transfer[0]['id']} {transfer[0]['name']} -> {rpi[0]['id']} {rpi[0]['name']} ({state['course_pg']}/{course_pages_len})",
                             file=sys.stderr,
                         )
 
