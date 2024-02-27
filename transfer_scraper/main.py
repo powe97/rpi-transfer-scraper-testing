@@ -98,7 +98,8 @@ def scrape_course_card(html_id, i, note):
 options = webdriver.FirefoxOptions()
 user_agent = UserAgent().random
 print(f"Using randomized user agent {user_agent}", file=sys.stderr)
-options.add_argument("--headless")
+if sys.argv[-1] != "gui":
+    options.add_argument("--headless")
 options.set_preference("general.useragent.override", user_agent)
 driver = webdriver.Firefox(options=options)
 driver.get(
@@ -124,19 +125,38 @@ json.dump(state, sys.stderr, indent=4)
 print("", file=sys.stderr)
 
 try:
+    curr_page = 1
     while state["inst_pg"] <= num_pages:
         page = driver.find_element("id", f"gdvInstWithEQ")
 
         if state["inst_pg"] != 1:
-            driver.find_element(
-                By.CSS_SELECTOR,
-                """a[href="javascript:__doPostBack('gdvInstWithEQ','Page$"""
-                + str(state["inst_pg"])
-                + """')"]""",
-            ).click()
-            wait(EC.staleness_of(page))
-            sleep(random.uniform(16, 25))
-            page = driver.find_element("id", f"gdvInstWithEQ")
+            while curr_page != state["inst_pg"]:
+                print(f"Jumping to institution page {curr_page}")
+                jumpable_pages = {
+                    int(x.get_attribute("href").split("'")[3][5:]): x
+                    for x in driver.find_elements(
+                        By.CSS_SELECTOR,
+                        """a[href^="javascript:__doPostBack('gdvInstWithEQ','Page$"]""",
+                    )
+                }
+                curr_page = int(
+                    driver.find_element(
+                        "id", "lblInstWithEQPaginationInfo"
+                    ).text.split()[-3]
+                )
+                if state["inst_pg"] in jumpable_pages:
+                    jumpable_pages[state["inst_pg"]].click()
+                    curr_page = state["inst_pg"]
+                elif state["inst_pg"] < min(jumpable_pages):
+                    jumpable_pages[min(jumpable_pages)].click()
+                    curr_page = min(jumpable_pages)
+                else:
+                    jumpable_pages[max(jumpable_pages)].click()
+                    curr_page = max(jumpable_pages)
+
+                wait(EC.staleness_of(page))
+                sleep(random.uniform(3, 6))
+                page = driver.find_element("id", f"gdvInstWithEQ")
 
         inst_list_len = len(
             page.find_elements(
@@ -267,7 +287,7 @@ try:
                 )
             )
         state["inst_idx"] = 0
-        state["inst_pg"] += 1
+        state["inst_pg"] = (state["inst_pg"] % num_pages) + 1
 
 except Exception as e:
     print("Program hits exception and will terminate", file=sys.stderr)
