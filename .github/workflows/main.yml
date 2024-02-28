@@ -26,8 +26,7 @@ jobs:
 
       - name: IP info
         run: |
-          curl 'https://ipinfo.io/ip'
-          ip a
+          echo "Public IP: $(curl 'https://ipinfo.io/ip')"
 
       - name: Scrape transfer
         run: python3 transfer_scraper/main.py
