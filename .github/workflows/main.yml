@@ -24,6 +24,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: IP info
+        run: |
+          curl 'https://ipinfo.io/ip'
+          ip a
+
       - name: Scrape transfer
         run: python3 transfer_scraper/main.py
 
