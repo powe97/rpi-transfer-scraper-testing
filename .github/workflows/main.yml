@@ -31,7 +31,7 @@ jobs:
           echo "Public IP: $(curl -s 'https://ipinfo.io/ip')"
 
       - name: Scrape transfer
-        run: python3 transfer_scraper/main.py
+        run: python3 transfer_scraper/main.py transfer.json state.json
 
       - name: Commit data
         run: |

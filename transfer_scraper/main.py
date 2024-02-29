@@ -6,6 +6,7 @@ import os.path
 import traceback
 from time import sleep
 import random
+from signal import alarm, SIGALRM, signal
 from fake_useragent import UserAgent
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -14,6 +15,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
+
+
+def raise_(ex):
+    raise ex
 
 
 def normalize_class_name(input):
@@ -95,6 +100,13 @@ def scrape_course_card(html_id, i, note):
         }
 
 
+if len(sys.argv) != 3:
+    print(f"USAGE: python {sys.argv[0]} <transfer file> <state file>")
+    exit(1)
+
+transfer_json_path = sys.argv[1]
+state_json_path = sys.argv[2]
+
 options = webdriver.FirefoxOptions()
 user_agent = UserAgent().random
 print(f"Using randomized user agent {user_agent}", file=sys.stderr)
@@ -113,16 +125,22 @@ print(f"{num_pages} pages detected", file=sys.stderr)
 
 state = {"inst_pg": 1, "inst_idx": 0, "course_pg": 1, "course_idx": 0}
 institutions = {}
-if os.path.isfile("state.json"):
-    with open("state.json", "r") as statejson:
+if os.path.isfile(state_json_path):
+    with open(state_json_path, "r") as statejson:
         state = json.load(statejson)
-if os.path.isfile("transfer.json"):
-    with open("transfer.json", "r") as transferjson:
+if os.path.isfile(transfer_json_path):
+    with open(transfer_json_path, "r") as transferjson:
         institutions = json.load(transferjson)
 
 print("Loaded state: ", end="", file=sys.stderr)
 json.dump(state, sys.stderr, indent=4)
 print("", file=sys.stderr)
+
+
+# Set up 2hr timeout so that the GH action does not run forever, pretend it's ^C
+signal(SIGALRM, lambda a, b: raise_(KeyboardInterrupt))
+alarm(4)
+
 
 try:
     curr_page = 1
@@ -296,8 +314,8 @@ except Exception as e:
 print("Program will terminate with state: ", end="", file=sys.stderr)
 json.dump(state, sys.stderr, indent=4)
 print("", file=sys.stderr)
-with open(f"transfer.json", "w") as transferjson:
+with open(transfer_json_path, "w") as transferjson:
     json.dump(institutions, transferjson, indent=4)
-with open(f"state.json", "w") as statejson:
+with open(state_json_path, "w") as statejson:
     json.dump(state, statejson, indent=4)
 driver.quit()
