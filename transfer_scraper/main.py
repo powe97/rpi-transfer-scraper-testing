@@ -139,7 +139,7 @@ print("", file=sys.stderr)
 
 # Set up 2hr timeout so that the GH action does not run forever, pretend it's ^C
 signal(SIGALRM, lambda a, b: raise_(KeyboardInterrupt))
-alarm(4)
+alarm(60 * 60 * 2)
 
 
 try:
