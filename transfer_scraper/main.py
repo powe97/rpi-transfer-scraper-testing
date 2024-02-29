@@ -307,8 +307,8 @@ try:
         state["inst_idx"] = 0
         state["inst_pg"] = (state["inst_pg"] % num_pages) + 1
 
-except Exception as e:
-    print("Program hits exception and will terminate", file=sys.stderr)
+except (Exception, KeyboardInterrupt) as e:
+    print("Program hits exception and will save and terminate", file=sys.stderr)
     print(traceback.format_exc(), file=sys.stderr)
 
 print("Program will terminate with state: ", end="", file=sys.stderr)
