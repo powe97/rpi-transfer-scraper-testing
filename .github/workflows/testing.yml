@@ -21,8 +21,8 @@ jobs:
       id: matrix-params
       run: |
         MATRIX_PARAMS="$(seq -s "," "${{ github.event.inputs.min }}" "${{ github.event.inputs.max }}")"
-        MATRIX_PARAMS="{\"page\": $(sed -e 's/,/}, {"page": /g' <<< "$MATRIX_PARAMS")"
-        echo "matrix-params={[{\"include\": "$MATRIX_PARAMS" }]}" | tee $GITHUB_OUTPUT
+        MATRIX_PARAMS="\"page\": $(sed -e 's/,/}, {"page": /g' <<< "$MATRIX_PARAMS")"
+        echo "matrix-params={\"include\": [{ "$MATRIX_PARAMS" }]}" | tee $GITHUB_OUTPUT
     outputs:
       matrix-params: ${{ steps.matrix-params.outputs.matrix-params }}
   matrix-job:
