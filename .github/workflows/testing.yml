@@ -32,4 +32,4 @@ jobs:
       matrix: ${{ fromJson(needs.starter.outputs.matrix-params) }}
     steps:
       - run: |
-          echo ${{ matrix }}
+          echo ${{ matrix.page }}
