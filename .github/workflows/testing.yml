@@ -1,0 +1,35 @@
+name: Matrix test
+on:
+  workflow_dispatch:
+    inputs:
+      min:
+        description: Min
+        type: number
+        required: true
+        default: 1
+      max:
+        description: Max
+        type: number
+        required: true
+        default: 27
+
+jobs:
+  starter:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Create matrix parameters
+      id: matrix-params
+      run: |
+        MATRIX_PARAMS="$(seq "${{ github.event.inputs.min }}" "${{ github.event.inputs.max }}")"
+        MATRIX_PARAMS="{\"page\": $(sed -e 's/,/, "page": /' <<< "$MATRIX_PARAMS")}"
+        echo ::set-output name=matrix-params::[{\"include\": "$MATRIX_PARAMS" }]}
+    outputs:
+      matrix-params: ${{ steps.matrix-params.outputs.matrix-params }}
+  matrix-job:
+    runs-on: ubuntu-latest
+    needs: starter
+    strategy:
+      matrix: ${{ fromJson(needs.starter.outputs.matrix-params) }}
+    steps:
+      - run: |
+          echo ${{ matrix }}
