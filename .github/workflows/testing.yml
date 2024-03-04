@@ -20,9 +20,9 @@ jobs:
     - name: Create matrix parameters
       id: matrix-params
       run: |
-        MATRIX_PARAMS="$(seq "${{ github.event.inputs.min }}" "${{ github.event.inputs.max }}")"
+        MATRIX_PARAMS="$(seq -s "," "${{ github.event.inputs.min }}" "${{ github.event.inputs.max }}")"
         MATRIX_PARAMS="{\"page\": $(sed -e 's/,/, "page": /' <<< "$MATRIX_PARAMS")}"
-        echo ::set-output name=matrix-params::[{\"include\": "$MATRIX_PARAMS" }]}
+        echo "matrix-params={[{\"include\": "$MATRIX_PARAMS" }]}" > $GITHUB_OUTPUT
     outputs:
       matrix-params: ${{ steps.matrix-params.outputs.matrix-params }}
   matrix-job:
