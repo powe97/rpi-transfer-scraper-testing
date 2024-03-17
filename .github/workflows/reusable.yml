@@ -1,0 +1,15 @@
+name: Reusable workflow test
+on:
+  workflow_call:
+    inputs:
+      page:
+        required: true
+        type: number
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Create matrix parameters
+      run: |
+        echo "Param = ${{ inputs.page }}"
