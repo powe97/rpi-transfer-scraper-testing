@@ -29,6 +29,6 @@ jobs:
     needs: starter
     strategy:
       matrix: ${{ fromJson(needs.starter.outputs.matrix-params) }}
-    uses: ./.github/workflows/reusable.yml@main
+    uses: ./.github/workflows/reusable.yml
     with:
       page: ${{ matrix.page }}
